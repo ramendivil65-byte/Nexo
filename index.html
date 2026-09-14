@@ -147,6 +147,7 @@ nav a:hover { color: var(--azul-acento); }
   padding-bottom: 8px;
   margin-bottom: 12px;
 }
+
 .col .noticia {
   display: flex;
   gap: 10px;
@@ -167,33 +168,6 @@ nav a:hover { color: var(--azul-acento); }
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-  .col .noticia {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  font-size: 12px;
-  line-height: 1.35;
-  font-weight: 600;
-  color: #1F2937;
-  padding: 8px 0;
-  border-bottom: 1px solid #E5E7EB;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.col .noticia span {
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-  .col .noticia .thumb {
-  width: 110px;
-  height: 110px;
-  border-radius: 6px;
-  background: linear-gradient(135deg, var(--azul-principal), var(--azul-acento));
-  flex-shrink: 0;
-}
 
 .col .noticia:hover {
   color: var(--azul-acento);
@@ -203,6 +177,13 @@ nav a:hover { color: var(--azul-acento); }
   opacity: 0.8;
 }
 
+.col .noticia .thumb {
+  width: 110px;
+  height: 110px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, var(--azul-principal), var(--azul-acento));
+  flex-shrink: 0;
+}
 
 .col .noticia:last-child { border-bottom: none; }
 
@@ -442,20 +423,11 @@ footer p { color: #9CA3AF; font-size: 12px; }
   <div class="widget">
     <h3>Video destacado</h3>
     <div class="dato">▶ En vivo</div>
-    const canalesVideo = [
-  { nombre: "C5N", url: "https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" },
-  { nombre: "TN", url: "https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live" },
-  { nombre: "LN+", url: "https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live" },
-  { nombre: "A24", url: "https://www.youtube.com/c/A24com/live" },
-  { nombre: "Crónica TV", url: "https://www.cronica.com.ar/cronica-en-vivo" }
-];
-
-function actualizarVideo() {
-  const canal = canalesVideo[Math.floor(Math.random() * canalesVideo.length)];
-  const el = document.getElementById("video-canal");
-  el.textContent = canal.nombre;
-  el.href = canal.url;
-}
+    <div class="sub" style="display:flex; justify-content:flex-end;">
+      <a id="video-canal" href="https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; text-decoration:none;">
+        <span id="video-badge" style="display:inline-flex; align-items:center; justify-content:center; width:70px; height:70px; border-radius:50%; background:#E30613; color:white; font-size:20px; font-weight:800;">C5N</span>
+      </a>
+    </div>
   </div>
 </section>
 
@@ -522,18 +494,20 @@ function actualizarCotizacion() {
 }
 
 const canalesVideo = [
-  { nombre: "C5N", url: "https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" },
-  { nombre: "TN", url: "https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live" },
-  { nombre: "LN+", url: "https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live" },
-  { nombre: "A24", url: "https://www.youtube.com/c/A24com/live" },
-  { nombre: "Crónica TV", url: "https://www.cronica.com.ar/cronica-en-vivo" }
+  { nombre: "C5N", sigla: "C5N", color: "#E30613", url: "https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" },
+  { nombre: "TN", sigla: "TN", color: "#0057B8", url: "https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live" },
+  { nombre: "LN+", sigla: "LN+", color: "#111827", url: "https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live" },
+  { nombre: "A24", sigla: "A24", color: "#F59E0B", url: "https://www.youtube.com/c/A24com/live" },
+  { nombre: "Crónica TV", sigla: "CR", color: "#DC2626", url: "https://www.cronica.com.ar/cronica-en-vivo" }
 ];
 
 function actualizarVideo() {
   const canal = canalesVideo[Math.floor(Math.random() * canalesVideo.length)];
   const el = document.getElementById("video-canal");
-  el.textContent = canal.nombre;
+  const badge = document.getElementById("video-badge");
   el.href = canal.url;
+  badge.textContent = canal.sigla;
+  badge.style.background = canal.color;
 }
 
 // ---- Noticias reales desde news.json (generado por scripts/fetch_news.py) ----
@@ -641,8 +615,8 @@ function actualizarTicker() {
 
 cargarNoticias();
 
-// ---- Contador público de visitas (CountAPI, gratis, sin necesitar cuenta) ----
-// "nexo-ia" es el namespace: si tu usuario ya está tomado, cambialo por algo único (ej: "nexo-ia-tuusuario")
+// ---- Contador público de visitas (CountAPI alternativo, gratis, sin necesitar cuenta) ----
+// Clave única para que no se mezcle con la de otro sitio
 fetch("https://countapi.mileshilliard.com/api/v1/hit/nexo-ia-ramendivil65byte-visitas")
   .then(r => r.json())
   .then(data => {
