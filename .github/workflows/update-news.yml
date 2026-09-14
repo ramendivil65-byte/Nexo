@@ -3,7 +3,7 @@ name: Actualizar noticias
 on:
   schedule:
     # Corre cada 30 minutos. La sintaxis es de cron, en horario UTC.
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     # Permite tocar el botón "Run workflow" en GitHub para probarlo a mano.
 
