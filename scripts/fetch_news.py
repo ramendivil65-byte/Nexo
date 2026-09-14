@@ -34,7 +34,6 @@ FEEDS = {
         ("Ámbito", "https://www.ambito.com/rss/pages/economia.xml"),
         ("Página 12", "https://www.pagina12.com.ar/rss/secciones/economia/notas"),
         ("Clarín", "https://www.clarin.com/rss/economia/"),
-        ("Ámbito Mundo", "https://www.ambito.com/rss/pages/mundo.xml"),
         ("C5N", "https://www.c5n.com/economia/feed/"),  # sin confirmar, revisar si no trae nada
         ("El Destape", "https://www.eldestapeweb.com/economia/feed/"),  # sin confirmar, revisar si no trae nada
     ],
