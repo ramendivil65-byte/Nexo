@@ -29,6 +29,7 @@ FEEDS = {
         ("Ámbito Mundo", "https://www.ambito.com/rss/pages/mundo.xml"),
         ("C5N", "https://www.c5n.com/politica/feed/"),  # sin confirmar, revisar si no trae nada
         ("El Destape", "https://www.eldestapeweb.com/politica/feed/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/politica/?outputType=xml"),  # sin confirmar, revisar si no trae nada
     ],
     "economia": [
         ("Ámbito", "https://www.ambito.com/rss/pages/economia.xml"),
@@ -36,18 +37,22 @@ FEEDS = {
         ("Clarín", "https://www.clarin.com/rss/economia/"),
         ("C5N", "https://www.c5n.com/economia/feed/"),  # sin confirmar, revisar si no trae nada
         ("El Destape", "https://www.eldestapeweb.com/economia/feed/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/?outputType=xml"),  # sin confirmar, revisar si no trae nada
     ],
     "deportes": [
         ("Ámbito", "https://www.ambito.com/rss/pages/deportes.xml"),
         ("Página 12", "https://www.pagina12.com.ar/rss/secciones/deportes/notas"),
         ("Clarín", "https://www.clarin.com/rss/deportes/"),
         ("C5N", "https://www.c5n.com/deportes/feed/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+        ("Olé", "https://www.ole.com.ar/rss/futbol-primera/"),  # sin confirmar, revisar si no trae nada
     ],
     "policiales_actualidad": [
         ("Ámbito", "https://www.ambito.com/rss/pages/policiales.xml"),  # sin confirmar, revisar si no trae nada
         ("Página 12", "https://www.pagina12.com.ar/rss/secciones/sociedad/notas"),
         ("Clarín", "https://www.clarin.com/rss/policiales/"),  # sin confirmar, revisar si no trae nada
         ("C5N", "https://www.c5n.com/policiales/feed/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/sociedad/policiales/?outputType=xml"),  # sin confirmar, revisar si no trae nada
     ],
 }
 
@@ -105,9 +110,10 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
         try:
             feed = feedparser.parse(url, request_headers=REQUEST_HEADERS)
         except Exception as exc:  # noqa: BLE001 - queremos seguir con las otras fuentes
-            print(f"  ! No se pudo leer {nombre_fuente} ({url}): {exc}", file=sys.stderr)
+            print(f"  ! No se pudo leer {nombre_fuente} ({url}): {exc}")
             continue
 
+        cantidad_antes = len(items)
         for entry in feed.entries[:6]:
             titulo = limpiar_texto(entry.get("title", ""))
             if not titulo:
@@ -121,6 +127,7 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
                     "fecha": entry.get("published", "") or entry.get("updated", ""),
                 }
             )
+        print(f"  · {nombre_fuente}: {len(items) - cantidad_antes} noticias (entries en el feed: {len(feed.entries)})")
 
     # Diversificar: alternar fuentes en vez de mostrar 5 seguidas del mismo medio
     items_por_fuente = {}
