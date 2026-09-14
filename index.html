@@ -442,7 +442,20 @@ footer p { color: #9CA3AF; font-size: 12px; }
   <div class="widget">
     <h3>Video destacado</h3>
     <div class="dato">▶ En vivo</div>
-    <div class="sub"><a id="video-canal" href="https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" target="_blank" rel="noopener" style="color:#9CA3AF;text-decoration:underline;">C5N</a></div>
+    const canalesVideo = [
+  { nombre: "C5N", url: "https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" },
+  { nombre: "TN", url: "https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live" },
+  { nombre: "LN+", url: "https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live" },
+  { nombre: "A24", url: "https://www.youtube.com/c/A24com/live" },
+  { nombre: "Crónica TV", url: "https://www.cronica.com.ar/cronica-en-vivo" }
+];
+
+function actualizarVideo() {
+  const canal = canalesVideo[Math.floor(Math.random() * canalesVideo.length)];
+  const el = document.getElementById("video-canal");
+  el.textContent = canal.nombre;
+  el.href = canal.url;
+}
   </div>
 </section>
 
