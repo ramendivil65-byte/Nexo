@@ -42,7 +42,6 @@ FEEDS = {
         ("Ámbito", "https://www.ambito.com/rss/pages/deportes.xml"),
         ("Página 12", "https://www.pagina12.com.ar/rss/secciones/deportes/notas"),
         ("Clarín", "https://www.clarin.com/rss/deportes/"),
-        ("Ámbito Mundo", "https://www.ambito.com/rss/pages/mundo.xml"),
         ("C5N", "https://www.c5n.com/deportes/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "policiales_actualidad": [
