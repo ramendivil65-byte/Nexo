@@ -603,7 +603,7 @@ cargarNoticias();
 
 // ---- Contador público de visitas (CountAPI, gratis, sin necesitar cuenta) ----
 // "nexo-ia" es el namespace: si tu usuario ya está tomado, cambialo por algo único (ej: "nexo-ia-tuusuario")
-fetch("https://api.countapi.xyz/hit/nexo-ia/visitas")
+fetch("https://countapi.mileshilliard.com/api/v1/hit/nexo-ia-ramendivil65byte-visitas")
   .then(r => r.json())
   .then(data => {
     document.getElementById("contador-visitas").textContent = data.value.toLocaleString("es-AR");
