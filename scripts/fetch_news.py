@@ -77,6 +77,13 @@ FEEDS = {
         ("Clarín", "https://www.clarin.com/rss/viajes/"),  # sin confirmar, revisar si no trae nada
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/viajes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
     ],
+    "local": [
+        ("0221", "https://www.0221.com.ar/rss/pages/la-plata.xml"),
+        ("0221 Policiales", "https://www.0221.com.ar/rss/pages/policiales.xml"),
+        ("0221 Universidad", "https://www.0221.com.ar/rss/pages/universidad.xml"),
+        ("0221 ¿Qué Hago?", "https://www.0221.com.ar/rss/pages/que-hago.xml"),
+        ("El Día", "https://www.eldia.com/.rss"),
+    ],
 }
 
 # Se traen más noticias que las que se muestran de una: el sitio va rotando
