@@ -323,6 +323,73 @@ footer {
 }
 
 footer p { color: #9CA3AF; font-size: 12px; }
+
+/* ============ RESPONSIVE: tablets y celulares ============ */
+@media (max-width: 900px) {
+  .columnas { grid-template-columns: repeat(2, 1fr); }
+  .widgets { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .logo-banner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px 14px;
+  }
+
+  .logo-banner img { width: 220px !important; }
+
+  .header-widgets {
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  nav {
+    padding: 10px 14px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  nav .links {
+    width: 100%;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    gap: 14px;
+    padding-bottom: 4px;
+  }
+
+  nav .links a { white-space: nowrap; }
+
+  .columnas { grid-template-columns: 1fr; }
+  .widgets { grid-template-columns: 1fr; }
+
+  .col { padding: 12px; }
+
+  .col .noticia .thumb {
+    width: 72px;
+    height: 72px;
+  }
+
+  .suscripcion .contenido {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .form-suscripcion { width: 100%; justify-content: center; }
+  .form-suscripcion input { width: 60%; }
+
+  footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  footer > div { margin-left: 0 !important; text-align: left !important; }
+}
 </style>
 </head>
 <body>
