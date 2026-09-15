@@ -468,17 +468,22 @@ const ciudadesClima = [
 ];
 
 function iconoPorCondicion(cond) {
-  if (cond === "Despejado" || cond === "Templado") return "☀️";
-  if (cond === "Lluvioso") return "🌧️";
-  if (cond === "Ventoso") return "💨";
-  return "☁️";
+  const sol = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="#FFD166" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M2 12h2M20 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4" stroke-linecap="round"/></svg>';
+  const nube = '<svg viewBox="0 0 24 24" width="18" height="18" fill="#E5E7EB"><path d="M6.5 19a4.5 4.5 0 0 1-.4-8.98A5.5 5.5 0 0 1 16.9 8.05 4 4 0 0 1 16.5 16H6.5z"/></svg>';
+  const lluvia = '<svg viewBox="0 0 24 24" width="18" height="18"><path d="M6.5 14a4.5 4.5 0 0 1-.4-8.98A5.5 5.5 0 0 1 16.9 3.05 4 4 0 0 1 16.5 11H6.5z" fill="#9CA3AF"/><g stroke="#60A5FA" stroke-width="2" stroke-linecap="round"><path d="M8 16l-1 3M13 16l-1 3M18 16l-1 3"/></g></svg>';
+  const viento = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="#9CA3AF" stroke-width="2" stroke-linecap="round"><path d="M3 8h11a2.5 2.5 0 1 0-2.5-2.5M3 12h15a2.5 2.5 0 1 1-2.5 2.5M3 16h9"/></svg>';
+
+  if (cond === "Despejado" || cond === "Templado") return sol;
+  if (cond === "Lluvioso") return lluvia;
+  if (cond === "Ventoso") return viento;
+  return nube;
 }
 
 function actualizarClima() {
   const el = ciudadesClima[Math.floor(Math.random() * ciudadesClima.length)];
   document.getElementById("clima-ciudad").textContent = "Clima " + el.ciudad;
   document.getElementById("clima-valor").textContent = el.temp + "°C";
-  document.getElementById("clima-icono").textContent = iconoPorCondicion(el.cond);
+  document.getElementById("clima-icono").innerHTML = iconoPorCondicion(el.cond);
 }
 
 const cotizaciones = [
