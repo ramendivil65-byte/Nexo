@@ -25,4 +25,4 @@ jobs:
       - name: Mandar el newsletter
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
-        run: python scripts/send_newsletter.py
+        run: python -u scripts/send_newsletter.py
