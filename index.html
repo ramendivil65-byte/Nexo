@@ -205,7 +205,7 @@ nav a:hover { color: var(--azul-acento); }
 .widgets {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 1px;
   background: #D1D5DB;
   margin-top: 2px;
@@ -435,12 +435,17 @@ footer p { color: #9CA3AF; font-size: 12px; }
       <text x="211" y="54" class="bar-label">KO</text>
     </svg>
   </div>
-  <div class="widget">
+  <div class="widget" style="display:flex; flex-direction:column; justify-content:center; text-align:left;">
+    <h3>Plazo fijo — 30 días</h3>
+    <div class="dato" id="pf-entidad">Cargando...</div>
+    <div class="sub" id="pf-tna">···</div>
+  </div>
+  <div class="widget" style="display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;">
     <h3>Video destacado</h3>
     <div class="dato">▶ Miralo en vivo</div>
-    <div class="sub" style="display:flex; justify-content:center; align-items:center; padding-top:6px;">
+    <div class="sub" style="display:flex; justify-content:center; align-items:center; padding-top:8px;">
       <a id="video-canal" href="https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live" target="_blank" rel="noopener" style="display:inline-flex; align-items:center; text-decoration:none;">
-        <span id="video-badge" style="display:inline-flex; align-items:center; justify-content:center; width:90px; height:90px; border-radius:50%; background:#E30613; color:white; font-size:24px; font-weight:800;">C5N</span>
+        <span id="video-badge" style="display:inline-flex; align-items:center; justify-content:center; width:80px; height:80px; border-radius:50%; background:#E30613; color:white; font-size:22px; font-weight:800;">C5N</span>
       </a>
     </div>
   </div>
@@ -684,6 +689,38 @@ fetch("https://countapi.mileshilliard.com/api/v1/hit/nexo-ia-ramendivil65byte-vi
 actualizarClima();
 actualizarCotizacion();
 cargarCotizacionesReales();
+
+// ---- Plazo fijo real (ArgentinaDatos, gratis, sin necesitar cuenta) ----
+let bancosPlazoFijo = [];
+let indicePlazoFijo = 0;
+
+async function cargarPlazoFijo() {
+  try {
+    const bancos = await fetch("https://api.argentinadatos.com/v1/finanzas/tasas/plazoFijo").then(r => r.json());
+    bancosPlazoFijo = bancos
+      .filter(b => b.tnaClientes)
+      .sort((a, b) => b.tnaClientes - a.tnaClientes)
+      .slice(0, 8);
+    if (bancosPlazoFijo.length) {
+      actualizarPlazoFijo();
+    }
+  } catch (e) {
+    document.getElementById("pf-entidad").textContent = "No disponible";
+    console.log("No se pudo traer plazo fijo:", e.message);
+  }
+}
+
+function actualizarPlazoFijo() {
+  if (!bancosPlazoFijo.length) return;
+  const banco = bancosPlazoFijo[indicePlazoFijo % bancosPlazoFijo.length];
+  indicePlazoFijo++;
+  document.getElementById("pf-entidad").textContent = banco.entidad;
+  document.getElementById("pf-tna").textContent = "TNA " + banco.tnaClientes.toFixed(1).replace(".", ",") + "%";
+}
+
+cargarPlazoFijo();
+setInterval(actualizarPlazoFijo, 5000);
+setInterval(cargarPlazoFijo, 15 * 60 * 1000);
 actualizarVideo();
 setInterval(actualizarClima, 4000);
 setInterval(actualizarCotizacion, 4500);
