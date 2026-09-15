@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T21:15:55.666923+00:00",
+  "actualizado": "2026-09-15T21:29:59.042401+00:00",
   "categorias": {
     "politica": [
       {
@@ -24,11 +24,11 @@
         "fecha": "Tue, 15 Sep 2026 17:57:00 -0300"
       },
       {
-        "titulo": "El Gobierno reunió a la mesa política con el eje puesto en el Presupuesto 2027 y la Reforma Electoral",
-        "link": "https://www.c5n.com/politica/reunion-gobierno-mesa-politica-casa-rosada-15-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/26f3928c8ca45bec6c4d152166534648/adjuntos/326/imagenes/000/395/0000395087/1200x675/smart/mesa-politica-agosto.jpg",
+        "titulo": "Forzado por la oposición, Diputados comenzó el debate para frenar el endeudamiento de las familias argentinas",
+        "link": "https://www.c5n.com/poitica/comisiones-diputados-sobreendeudamiento-morosidad-creditos-proyectos-15-septiembre-2026",
+        "imagen": "https://media.c5n.com/p/54f7ce16d4d9bfbafb6ab61a845c20ce/adjuntos/326/videos/000/398/0000398990/1200x675/smart/comision-vivo-conjunta-15-09-26-emplazamiento-sobreendeudamiento-sistema-credito-hcdn.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 16:47:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:24:00 -0300"
       },
       {
         "titulo": "La eliminación de las PASO no suma adeptos y el oficialismo pidió un nuevo cuarto intermedio",
@@ -66,11 +66,11 @@
         "fecha": "Tue, 15 Sep 2026 13:54:54 -0300"
       },
       {
-        "titulo": "Causa Vialidad: con una nueva prueba, los abogados de Cristina Kirchner ratificaron que \"la sentencia es injusta\"",
-        "link": "https://www.c5n.com/politica/cristina-kirchner-abogados-anuncios-reclamo-onu-causa-vialidad-15-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/ed6e523ca0a73daba4d362784b8f4627/adjuntos/326/imagenes/000/373/0000373038/1200x675/smart/cristina-kirchner-declaracion-comodoro-py-martes-17-marzo-2026.jpg",
+        "titulo": "El Gobierno reunió a la mesa política con el eje puesto en el Presupuesto 2027 y la Reforma Electoral",
+        "link": "https://www.c5n.com/politica/reunion-gobierno-mesa-politica-casa-rosada-15-septiembre-2026",
+        "imagen": "https://media.c5n.com/p/26f3928c8ca45bec6c4d152166534648/adjuntos/326/imagenes/000/395/0000395087/1200x675/smart/mesa-politica-agosto.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 16:36:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 16:47:00 -0300"
       },
       {
         "titulo": "La mesa política se reunió para ultimar detalles del Presupuesto y pulir la redacción del proyecto por Malvinas",
@@ -89,11 +89,11 @@
     ],
     "economia": [
       {
-        "titulo": "Presupuesto 2027: dólar, inflación, PBI, y superávit, las claves económicas del Gobierno para el próximo año",
-        "link": "https://www.ambito.com/presupuesto-2027-dolar-inflacion-pbi-y-superavit-las-claves-economicas-del-gobierno-el-proximo-ano-n6322727",
-        "imagen": "",
+        "titulo": "Presupuesto 2027: el Gobierno proyecta que los salarios le ganarán a la inflación",
+        "link": "https://www.ambito.com/economia/presupuesto-2027-el-gobierno-proyecta-que-los-salarios-le-ganaran-la-inflacion-n6322737",
+        "imagen": "https://media.ambito.com/p/9dc0909eb97e847d7bce24c8fc55cb90/adjuntos/239/imagenes/043/564/0043564652/caputo.png",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 18:08:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:15:00 -0300"
       },
       {
         "titulo": "Santa Cruz levantó las clausuras a su principal mina de oro, pero mantiene la presión por el empleo local",
@@ -101,6 +101,41 @@
         "imagen": "https://www.clarin.com/img/2026/09/15/n5-pY4YiX_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Tue, 15 Sep 2026 19:58:29 +0000"
+      },
+      {
+        "titulo": "El Gobierno presentó el Presupuesto 2027: inflación anual del 18% y crecimiento del PBI del 4%",
+        "link": "https://www.c5n.com/economia/javier-milei-presupuesto-2027-congreso-gobierno-presentacion-15-septiembre-2026",
+        "imagen": "https://media.c5n.com/p/4a3abb4803c370ad5fc7d43c8bd77efb/adjuntos/326/imagenes/000/349/0000349540/1200x675/smart/javier-milei-luis-caputo-asamblea-la-onu-septiembre-2025.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 15 Sep 2026 18:24:00 -0300"
+      },
+      {
+        "titulo": "Jornada financiera: la suba del petróleo impulsó a las acciones energéticas y el riesgo país volvió a superar los 500 puntos",
+        "link": "https://www.infobae.com/economia/2026/09/15/jornada-financiera-la-suba-del-petroleo-impulso-a-las-acciones-energeticas-y-el-riesgo-pais-volvio-a-superar-los-500-puntos/",
+        "imagen": "https://www.infobae.com/resizer/v2/JCSU4ZIDJNCSXCROW45AIBJOCY.JPG?auth=0ec2f79a7931edc25ff77f66cd44a1a17fb08ae140ca6b5eda456144abe2ac96&smart=true&width=6000&height=4000",
+        "fuente": "Infobae",
+        "fecha": "Tue, 15 Sep 2026 21:22:38 +0000"
+      },
+      {
+        "titulo": "El consumo de carne vacuna cayó casi 10% en un año",
+        "link": "https://www.tiempoar.com.ar/ta_article/el-consumo-de-carne-vacuna-cayo-casi-10-en-un-ano/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 15 Sep 2026 20:32:01 +0000"
+      },
+      {
+        "titulo": "Presupuesto 2027: dólar, inflación, PBI, y superávits gemelos, las claves económicas del Gobierno para el próximo año",
+        "link": "https://www.ambito.com/presupuesto-2027-dolar-inflacion-pbi-y-superavit-las-claves-economicas-del-gobierno-el-proximo-ano-n6322727",
+        "imagen": "https://media.ambito.com/p/f6a0d3c042c0e5a0a70a0806af56f40a/adjuntos/239/imagenes/043/532/0043532258/1200x675/smart/ministerio-economia.png",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 15 Sep 2026 18:08:00 -0300"
+      },
+      {
+        "titulo": "Presupuesto 2027: estiman un crecimiento del 4%, inflación del 18% y un dólar a $1.847 para el año próximo",
+        "link": "https://www.clarin.com/economia/presupuesto-2027-estiman-crecimiento-4-inflacion-211-dolar-1728-2027_0_ClsxQRPEq5.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/Cn8_dQld__1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 15 Sep 2026 19:23:45 +0000"
       },
       {
         "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 15 de septiembre",
@@ -117,41 +152,6 @@
         "fecha": "Tue, 15 Sep 2026 21:03:33 +0000"
       },
       {
-        "titulo": "El consumo de carne vacuna cayó casi 10% en un año",
-        "link": "https://www.tiempoar.com.ar/ta_article/el-consumo-de-carne-vacuna-cayo-casi-10-en-un-ano/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Tue, 15 Sep 2026 20:32:01 +0000"
-      },
-      {
-        "titulo": "Scott Bessent aseguró que EEUU ganó decenas de millones de dólares gracias al salvataje de Argentina",
-        "link": "https://www.ambito.com/economia/scott-bessent-aseguro-que-eeuu-gano-decenas-millones-dolares-gracias-al-salvataje-argentina-n6322664",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 17:03:00 -0300"
-      },
-      {
-        "titulo": "Presupuesto 2027: estiman un crecimiento del 4%, inflación del 21,1% y un dólar a $ 1.728 promedio para el año próximo",
-        "link": "https://www.clarin.com/economia/presupuesto-2027-estiman-crecimiento-4-inflacion-211-dolar-1728-2027_0_ClsxQRPEq5.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/Cn8_dQld__1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 19:23:45 +0000"
-      },
-      {
-        "titulo": "Presupuesto 2027: a cuánto llegará el dólar según el cálculo del Gobierno",
-        "link": "https://www.c5n.com/economia/presupuesto-2027-cuanto-llegara-el-dolar-segun-el-calculo-del-gobierno-n248992",
-        "imagen": "https://media.c5n.com/p/e8d3d2e23fc5888480c54c02f8696207/adjuntos/326/imagenes/000/394/0000394760/1200x675/smart/dolar-1.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 17:12:00 -0300"
-      },
-      {
-        "titulo": "Privatización de Aysa: qué pasará con los aumentos en las tarifas, las obras y los empleados tras su venta",
-        "link": "https://www.infobae.com/economia/2026/09/15/privatizacion-de-aysa-que-pasara-con-los-aumentos-en-las-tarifas-las-obras-y-los-empleados-tras-su-venta/",
-        "imagen": "https://www.infobae.com/resizer/v2/6JH3R6MVJNFA7ETAZCKQZMAQOE.jpg?auth=17ec52648e1f4c3c9ab06c418df49f390916e5b970233557cc9891aea40b11c8&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 21:01:54 +0000"
-      },
-      {
         "titulo": "«Esperaban que me aplaudan… pero nadie lo hizo»: Caputo pidió ante exportadores que celebren el superávit fiscal",
         "link": "https://www.tiempoar.com.ar/ta_article/esperaban-que-me-aplaudan-pero-nadie-lo-hizo-caputo-pidio-ante-exportadores-que-celebren-el-superavit-fiscal/",
         "imagen": "",
@@ -159,11 +159,11 @@
         "fecha": "Tue, 15 Sep 2026 17:53:23 +0000"
       },
       {
-        "titulo": "La industria redujo el uso de capacidad instalada en julio: por noveno mes seguido se ubicó debajo del 60%",
-        "link": "https://www.ambito.com/economia/la-industria-redujo-el-uso-capacidad-instalada-julio-noveno-mes-seguido-se-ubico-debajo-del-60-n6322673",
-        "imagen": "",
+        "titulo": "Scott Bessent aseguró que EEUU ganó decenas de millones de dólares gracias al salvataje de Argentina",
+        "link": "https://www.ambito.com/economia/scott-bessent-aseguro-que-eeuu-gano-decenas-millones-dolares-gracias-al-salvataje-argentina-n6322664",
+        "imagen": "https://media.ambito.com/p/be4860bc4f93cfd2969c2dad7ee5a7cd/adjuntos/239/imagenes/042/880/0042880150/1200x675/smart/luis-caputo-scott-bessent.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 16:26:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 17:03:00 -0300"
       },
       {
         "titulo": "El riesgo país vuelve a trepar por encima de los 500 puntos básicos en medio de la turbulencia global",
@@ -182,11 +182,11 @@
         "fecha": "Tue, 15 Sep 2026 17:49:00 -0300"
       },
       {
-        "titulo": "Juegos Suramericanos Santa Fe 2026: Fer Russo y Julián Gutiérrez pasaron del sufrimiento a la euforia por la medalla dorada en tiro",
-        "link": "https://www.clarin.com/deportes/juegos-suramericanos-santa-fe-2026-fer-russo-julian-gutierrez-pasaron-sufrimiento-euforia-medalla-dorada-tiro_0_ZlJ3JA2Fwi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/GnSaWapbm_1200x630__1.jpg",
+        "titulo": "Scaloni confirmó los convocados para los amistosos de la Selección: Lionel Messi jugará su último partido con Argentina",
+        "link": "https://www.clarin.com/deportes/scaloni-confirmo-convocados-amistosos-seleccion-juega-lionel-messi-ultimo-partido-argentina_0_b7DJWl1Ua4.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/sVHhGUKTJ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 20:04:21 +0000"
+        "fecha": "Tue, 15 Sep 2026 20:20:54 +0000"
       },
       {
         "titulo": "Lionel Messi fue convocado para uno de los amistosos de la Selección: cuándo será",
@@ -196,18 +196,18 @@
         "fecha": "Tue, 15 Sep 2026 17:37:00 -0300"
       },
       {
-        "titulo": "Boca Juniors y San Pablo definirán en Brasil el pase a las semifinales de la Copa Sudamericana: hora, TV y formaciones",
-        "link": "https://www.infobae.com/deportes/2026/09/15/boca-juniors-y-san-pablo-definiran-en-brasil-el-pase-a-las-semifinales-de-la-copa-sudamericana-hora-tv-y-formaciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/67TO2PCDN5CBFFGKJWR4O2T274.JPG?auth=6222ec66f26ee1d88e67e2f52860a23a443a876ef20d9d03db39265e862e50e8&smart=true&width=3373&height=2312",
+        "titulo": "Franco Colapinto sorprendió al revelar la regla sexual que debe cumplir los fines de semana de carrera en la Fórmula 1",
+        "link": "https://www.infobae.com/deportes/2026/09/15/franco-colapinto-sorprendio-al-revelar-la-regla-sexual-que-debe-cumplir-los-fines-de-semana-de-carrera-en-la-formula-1/",
+        "imagen": "https://www.infobae.com/resizer/v2/63C5RMDXGVEILAEIWISVE7RKMM.jfif?auth=80531ece99396b2ecf63e79d479052740a8700cd8a1d860f4a7c18a69619d0bc&smart=true&width=3503&height=2102",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 21:12:07 +0000"
+        "fecha": "Tue, 15 Sep 2026 21:27:38 +0000"
       },
       {
-        "titulo": "Las buenas noticias que recibió Ponzio en la práctica de River",
-        "link": "https://www.ole.com.ar/river-plate/river-plate-practica-tobias-andrada-tomas-galvan-normalidad-moreno-lesionado_0_3U15eITmGA.html",
-        "imagen": "https://www.ole.com.ar/images/2026/08/05/pvzq5IKPh_1200x630__1.jpg",
+        "titulo": "El problema que le surgió a Independiente en la previa a Unión",
+        "link": "https://www.ole.com.ar/independiente/independiente-union-ligaprofesional-torneoclausura_0_wxoexGvm4C.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/15/8O9P0Lh8S_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Tue, 15 Sep 2026 14:08:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:03:23 -0300"
       },
       {
         "titulo": "Jugó en San Lorenzo y el Ascenso, se retiró joven y hoy viste a Katy Perry y Duki",
@@ -217,11 +217,11 @@
         "fecha": "Tue, 15 Sep 2026 16:00:00 -0300"
       },
       {
-        "titulo": "Argentina vs Corea de Sur, por el Mundial Sub-20 femenino Polonia 2026: a qué hora juega los octavos de final y cómo verlo por TV",
-        "link": "https://www.clarin.com/deportes/argentina-vs-corea-sur-mundial-sub-20-femenino-polonia-2026-hora-juega-octavos-final-verlo-tv_0_1e5Fhts6U8.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/oKVuHAY0i_1200x630__1.jpg",
+        "titulo": "Juegos Suramericanos Santa Fe 2026: Fer Russo y Julián Gutiérrez pasaron del sufrimiento a la euforia por la medalla dorada en tiro",
+        "link": "https://www.clarin.com/deportes/juegos-suramericanos-santa-fe-2026-fer-russo-julian-gutierrez-pasaron-sufrimiento-euforia-medalla-dorada-tiro_0_ZlJ3JA2Fwi.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/GnSaWapbm_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 18:56:45 +0000"
+        "fecha": "Tue, 15 Sep 2026 20:04:21 +0000"
       },
       {
         "titulo": "Lionel Messi tendrá su despedida de la Selección en el Monumental: cuándo será",
@@ -231,18 +231,18 @@
         "fecha": "Tue, 15 Sep 2026 17:35:00 -0300"
       },
       {
-        "titulo": "Impacto en la selección argentina: Lionel Messi fue citado y tendrá su despedida el 6 de octubre en el Monumental",
-        "link": "https://www.infobae.com/deportes/2026/09/15/impacto-en-la-seleccion-argentina-lionel-messi-fue-citado-y-tendra-su-despedida-el-6-de-octubre-en-el-monumental/",
-        "imagen": "https://www.infobae.com/resizer/v2/NDJVC3RBUJE6THZQ5NBCIKIRYY?auth=cf6593b1ba51c4e20a5ec6871782479781394ebccc2a99dd863d0494e9622ddd&smart=true&width=4247&height=2389",
+        "titulo": "Platense va por la hazaña contra Fluminense en busca del pase a las semifinales de la Copa Libertadores",
+        "link": "https://www.infobae.com/deportes/2026/09/15/platense-buscara-la-hazana-contra-fluminense-por-la-vuelta-de-los-cuartos-de-final-de-la-libertadores-hora-tv-y-formaciones/",
+        "imagen": "https://www.infobae.com/resizer/v2/2NRMLTL6PZCVJPHGPRHDWSTZXI.JPG?auth=c50d81035a9ef86906e6c4cfddfa3915a48421553183205f705221458c321c71&smart=true&width=2628&height=1478",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 21:11:52 +0000"
+        "fecha": "Tue, 15 Sep 2026 21:27:20 +0000"
       },
       {
-        "titulo": "¿Por qué se llama Pedro Bidegain la cancha de San Lorenzo?",
-        "link": "https://www.ole.com.ar/san-lorenzo/llama-pedro-bidegain-cancha-san-lorenzo-nuevo-gasometro_0_IWjU19netE.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/15/sase-n3mE_1200x630__1.jpg",
+        "titulo": "Independiente Rivadavia buscará igualar un récord histórico de River en la Copa Argentina: el próximo paso, Atlético Tucumán",
+        "link": "https://www.ole.com.ar/atletico-tucuman/atletico-tucuman-independiente-rivadavia-copa-argentina-octavos_0_JvVjGV0UES.html",
+        "imagen": "https://www.ole.com.ar/images/2026/08/31/XWTA1Lq9p_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Tue, 15 Sep 2026 13:53:48 -0300"
+        "fecha": "Tue, 15 Sep 2026 17:57:05 -0300"
       },
       {
         "titulo": "Ni Federer, ni Nadal: cuál es el tenista más rico del mundo",
@@ -252,11 +252,11 @@
         "fecha": "Tue, 15 Sep 2026 15:30:00 -0300"
       },
       {
-        "titulo": "Lo echó McLaren y ahora es campeón: la historia de Ugo Ugochukwu, el gigante de 1,93 metro que quiere llegar a la Fórmula 1",
-        "link": "https://www.clarin.com/deportes/echo-mclaren-ahora-campeon-historia-ugo-ugochukwu-gigante-193-metro-quiere-llegar-formula-1_0_Ax1OQZKJFr.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/TCgqXPHGG_1200x630__1.jpg",
+        "titulo": "Argentina vs Corea de Sur, por el Mundial Sub-20 femenino Polonia 2026: a qué hora juega los octavos de final y cómo verlo por TV",
+        "link": "https://www.clarin.com/deportes/argentina-vs-corea-sur-mundial-sub-20-femenino-polonia-2026-hora-juega-octavos-final-verlo-tv_0_1e5Fhts6U8.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/oKVuHAY0i_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 18:37:35 +0000"
+        "fecha": "Tue, 15 Sep 2026 18:56:45 +0000"
       }
     ],
     "policiales_actualidad": [
@@ -354,11 +354,11 @@
         "fecha": "Tue, 15 Sep 2026 17:57:00 -0300"
       },
       {
-        "titulo": "Rusia advirtió que \"Polonia dejaría de existir en dos o tres días\" si se suma al conflicto con Ucrania",
-        "link": "https://www.c5n.com/mundo/rusia-advirtio-que-polonia-dejaria-existir-dos-o-tres-dias-si-se-suma-al-conflicto-ucrania-n248995",
-        "imagen": "https://media.c5n.com/p/e74158a09c89cef032c75ae7302a1f9a/adjuntos/326/imagenes/000/399/0000399024/1200x675/smart/nikolai-patrushev.jpg",
+        "titulo": "Scott Bessent afirmó que EE.UU. ganó decenas de millones de dólares con el salvataje a la Argentina",
+        "link": "https://www.c5n.com/mundo/scott-bessent-afirmo-que-eeuu-gano-decenas-millones-dolares-el-salvataje-la-argentina-n249002",
+        "imagen": "https://media.c5n.com/p/e2309295b2c6517824f01969a35674b5/adjuntos/326/imagenes/000/351/0000351241/1200x675/smart/scott-bessent-y-luis-caputo.jpeg",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 17:43:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:20:00 -0300"
       },
       {
         "titulo": "La corona británica: los hijos de Harry y Meghan cambian de escuela por razones de seguridad",
@@ -368,11 +368,11 @@
         "fecha": "Tue, 15 Sep 2026 19:31:36 +0000"
       },
       {
-        "titulo": "Intensa búsqueda en alta mar: cinco pescadores se encuentran desaparecidos en Masachapa, Nicaragua",
-        "link": "https://www.infobae.com/nicaragua/2026/09/15/intensa-busqueda-en-alta-mar-cinco-pescadores-se-encuentran-desaparecidos-en-masachapa-nicaragua/",
-        "imagen": "https://www.infobae.com/resizer/v2/7LF34HSH7JFOJD7NPXF7WY34KM.png?auth=5ce6ccd5e4e0356f111b55ca419286bfd011d4015475388c6f46ac9d110d1f75&smart=true&width=2752&height=1536",
+        "titulo": "De los libros a las redes: el historiador que cuenta las curiosidades de El Salvador en un minuto",
+        "link": "https://www.infobae.com/el-salvador/2026/09/15/de-los-libros-a-las-redes-el-historiador-que-cuenta-las-curiosidades-de-el-salvador-en-un-minuto/",
+        "imagen": "https://www.infobae.com/resizer/v2/LFCRFVJAZ5HULMIHEQILXCH46Q.png?auth=a44cd9059b744f162e3ea89ee5d3e792da5ba4442121d672ca6ab13a3d817f47&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 20:57:44 +0000"
+        "fecha": "Tue, 15 Sep 2026 21:24:17 +0000"
       },
       {
         "titulo": "Tensión en Países Bajos por las protestas de agricultores y los bloqueos de rutas",
@@ -382,11 +382,11 @@
         "fecha": "Tue, 15 Sep 2026 13:54:54 -0300"
       },
       {
-        "titulo": "Estados Unidos reconoció que puso en órbita un arma espacial: qué se sabe del misterioso artefacto",
-        "link": "https://www.c5n.com/mundo/estados-unidos-reconocio-que-puso-orbita-un-arma-espacial-que-se-sabe-del-misterioso-artefacto-n248941",
-        "imagen": "https://media.c5n.com/p/f34903918ea7935b1aec822871facb13/adjuntos/326/imagenes/000/398/0000398948/1200x675/smart/arma-espacial.jpg",
+        "titulo": "Rusia advirtió que \"Polonia dejaría de existir en dos o tres días\" si se suma al conflicto con Ucrania",
+        "link": "https://www.c5n.com/mundo/rusia-advirtio-que-polonia-dejaria-existir-dos-o-tres-dias-si-se-suma-al-conflicto-ucrania-n248995",
+        "imagen": "https://media.c5n.com/p/e74158a09c89cef032c75ae7302a1f9a/adjuntos/326/imagenes/000/399/0000399024/1200x675/smart/nikolai-patrushev.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 10:54:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 17:43:00 -0300"
       },
       {
         "titulo": "Europa prohibirá las redes sociales hasta los 14 años y las controlará hasta los 16",
@@ -396,11 +396,11 @@
         "fecha": "Tue, 15 Sep 2026 18:01:35 +0000"
       },
       {
-        "titulo": "Panamá crea un fondo especial para financiar la seguridad del Canal",
-        "link": "https://www.infobae.com/panama/2026/09/15/panama-crea-un-fondo-especial-para-financiar-la-seguridad-del-canal/",
-        "imagen": "https://www.infobae.com/resizer/v2/HZ7D2CTU2ZEMFA2YIIEP3G3SKU.jpg?auth=fd03f5cdc5ddf7c6af2ace40ba5e499f781e2f159f5e98f6d5b4f17826d7d1f6&smart=true&width=5392&height=3375",
+        "titulo": "El movimiento de contenedores creció en Panamá 2.8% hasta agosto pese al retroceso de los puertos de Balboa y Cristóbal",
+        "link": "https://www.infobae.com/panama/2026/09/15/el-movimiento-de-contenedores-crecio-en-panama-28-hasta-agosto-pese-al-retroceso-de-los-puertos-de-balboa-y-cristobal/",
+        "imagen": "https://www.infobae.com/resizer/v2/LRLLHIHQTBEOVFRT6W7DNBN6UA.jpg?auth=aaf5bcfed57b8a25da1768e05181e9fb0e6fd7a634905f906b6ded57c36d6872&smart=true&width=6000&height=4000",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 20:53:55 +0000"
+        "fecha": "Tue, 15 Sep 2026 21:20:53 +0000"
       },
       {
         "titulo": "Un fallo de España suspendió el derecho a voto de los latinos que cuentan con ciudadanía por la ley de Nietos",
@@ -410,11 +410,11 @@
         "fecha": "Tue, 15 Sep 2026 13:22:00 -0300"
       },
       {
-        "titulo": "Una grúa se desplomó sobre un auto y se prendió fuego: al menos cuatro heridos",
-        "link": "https://www.c5n.com/mundo/una-grua-se-desplomo-un-auto-y-se-prendio-fuego-al-menos-cuatro-heridos-n248940",
-        "imagen": "https://media.c5n.com/adjuntos/326/imagenes/000/398/0000398949.gif",
+        "titulo": "Estados Unidos reconoció que puso en órbita un arma espacial: qué se sabe del misterioso artefacto",
+        "link": "https://www.c5n.com/mundo/estados-unidos-reconocio-que-puso-orbita-un-arma-espacial-que-se-sabe-del-misterioso-artefacto-n248941",
+        "imagen": "https://media.c5n.com/p/f34903918ea7935b1aec822871facb13/adjuntos/326/imagenes/000/398/0000398948/1200x675/smart/arma-espacial.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 10:18:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 10:54:00 -0300"
       },
       {
         "titulo": "El testaferro de Nicolás Maduro, Alex Saab, se declaró culpable por corrupción y acordó \"dar información\" sobre altos funcionarios venezolanos",
@@ -424,11 +424,11 @@
         "fecha": "Tue, 15 Sep 2026 16:33:00 +0000"
       },
       {
-        "titulo": "La Patrulla Fronteriza rescata a migrantes de Nicaragua, Honduras y México encerrados en un vagón de carga en Texas",
-        "link": "https://www.infobae.com/nicaragua/2026/09/15/la-patrulla-fronteriza-rescata-a-migrantes-de-nicaragua-honduras-y-mexico-encerrados-en-un-vagon-de-carga-en-texas/",
-        "imagen": "https://www.infobae.com/resizer/v2/YFFBZP6YUZGE3CNIQ5JWZLDORQ.jpg?auth=d34725eb7becbd99bbd7d472346ae98d043a6224ded6ffad8cd28bfc903a6387&smart=true&width=1080&height=800",
+        "titulo": "La ONU alerta que los apagones en Cuba ponen en riesgo la vacunación de 70,000 niños",
+        "link": "https://www.infobae.com/cuba/2026/09/15/la-onu-alerta-que-los-apagones-en-cuba-ponen-en-riesgo-la-vacunacion-de-70000-ninos/",
+        "imagen": "https://www.infobae.com/resizer/v2/W5GPZMOTFRDMFOK5SBYYSIFGCE.jpg?auth=d0395459bec2c1d5ef31066264e26468de19da71e3701231189071249be1f28b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 20:52:28 +0000"
+        "fecha": "Tue, 15 Sep 2026 21:19:02 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Tue, 15 Sep 2026 17:50:00 -0300"
       },
       {
-        "titulo": "Se casaron Julieta Prandi y Emanuel Ortega: \"Es un día de mucha felicidad\"",
-        "link": "https://www.c5n.com/ratingcero/se-casaron-julieta-prandi-y-emanuel-ortega-es-un-dia-mucha-felicidad-n248993",
-        "imagen": "https://media.c5n.com/p/7e1224aa7a4da14991830102e9c6c958/adjuntos/326/imagenes/000/399/0000399031/1200x675/smart/julieta-prandi-y-emanuel-ortega-dieron-el-si-un-registro-civil-san-isidro.jpg",
+        "titulo": "Wanda Nara tendrá su propia docuserie: todos los detalles de la producción que mostrará su vida",
+        "link": "https://www.c5n.com/ratingcero/wanda-nara-tendra-su-propia-docuserie-todos-los-detalles-la-produccion-que-mostrara-su-vida-n248999",
+        "imagen": "https://media.c5n.com/p/67ad0f1db5cf621cff61a9b4f56e56ae/adjuntos/326/imagenes/000/399/0000399041/1200x675/smart/wanda-nara.png",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 18:07:34 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:18:00 -0300"
       },
       {
         "titulo": "Slow Horses: tras ganar un Emmy y a un día de estrenar su sexta temporada, Apple TV confirmó la octava",
@@ -454,11 +454,11 @@
         "fecha": "Tue, 15 Sep 2026 20:18:32 +0000"
       },
       {
-        "titulo": "De un mensaje en Instagram al Registro Civil: la historia de amor de Julieta Prandi y Emanuel Ortega",
-        "link": "https://www.infobae.com/teleshow/2026/09/15/de-un-mensaje-en-instagram-al-registro-civil-la-historia-de-amor-de-julieta-prandi-y-emanuel-ortega/",
-        "imagen": "https://www.infobae.com/resizer/v2/LQ7H323IBJCWTFP4DRQTDVAYYI.png?auth=72261aeb07021824d67adfaacc38c41828020113f97c8a8256d5141f98db33c7&smart=true&width=2752&height=1536",
+        "titulo": "Mauro Icardi compartió sus días en Argentina: mates, piscina y besos",
+        "link": "https://www.infobae.com/teleshow/2026/09/15/mauro-icardi-compartio-sus-dias-en-argentina-mates-piscina-y-besos/",
+        "imagen": "https://www.infobae.com/resizer/v2/NEDP6WYLBRAJDOOVNWG3XFNRAY.png?auth=e34081909e1778cf6bd964602957997cd72fbdf795d449e4607f2e7f319abae1&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 20:53:41 +0000"
+        "fecha": "Tue, 15 Sep 2026 21:16:36 +0000"
       },
       {
         "titulo": "\"Harry Potter\": la serie de HBO confirmó el nombre de tres actores que se suman para la segunda temporada",
@@ -468,11 +468,11 @@
         "fecha": "Tue, 15 Sep 2026 16:19:00 -0300"
       },
       {
-        "titulo": "Luana de Gran Hermano reveló con cuántos famosos estuvo y contó la propuesta que recibió de Franco Colapinto: \"Me invitó a...\"",
-        "link": "https://www.c5n.com/ratingcero/luana-gran-hermano-revelo-cuantos-famosos-estuvo-y-conto-la-propuesta-que-recibio-franco-colapinto-me-invito-a-n248988",
-        "imagen": "https://media.c5n.com/p/2fa246540c22ea6741fbd496ca9feae0/adjuntos/326/imagenes/000/399/0000399020/1200x675/smart/luana-fernandez-y-colapinto.png",
+        "titulo": "Se casaron Julieta Prandi y Emanuel Ortega: \"Es un día de mucha felicidad\"",
+        "link": "https://www.c5n.com/ratingcero/se-casaron-julieta-prandi-y-emanuel-ortega-es-un-dia-mucha-felicidad-n248993",
+        "imagen": "https://media.c5n.com/p/7e1224aa7a4da14991830102e9c6c958/adjuntos/326/imagenes/000/399/0000399031/1200x675/smart/julieta-prandi-y-emanuel-ortega-dieron-el-si-un-registro-civil-san-isidro.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 17:16:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:07:34 -0300"
       },
       {
         "titulo": "Sir András Schiff en el Teatro Colón: más que un concierto, una verdadera lección de música de un artista descomunal",
@@ -482,11 +482,11 @@
         "fecha": "Tue, 15 Sep 2026 16:58:39 +0000"
       },
       {
-        "titulo": "Julieta Prandi y Emanuel Ortega se casaron en una ceremonia íntima: “Es un momento esperado, querido y elegido”",
-        "link": "https://www.infobae.com/teleshow/2026/09/15/julieta-prandi-y-emanuel-ortega-se-casaron-con-una-ceremonia-intima-es-un-momento-esperado-querido-y-elegido/",
-        "imagen": "https://www.infobae.com/resizer/v2/6UE4M6I4EZFC5KRIROGRSRT6NU.png?auth=2466621d4396488ee83c9b7bc4a57627b02bccac62959ec7eefffb6cebdb442f&smart=true&width=1920&height=1080",
+        "titulo": "De un mensaje en Instagram al Registro Civil: la historia de amor de Julieta Prandi y Emanuel Ortega",
+        "link": "https://www.infobae.com/teleshow/2026/09/15/de-un-mensaje-en-instagram-al-registro-civil-la-historia-de-amor-de-julieta-prandi-y-emanuel-ortega/",
+        "imagen": "https://www.infobae.com/resizer/v2/LQ7H323IBJCWTFP4DRQTDVAYYI.png?auth=72261aeb07021824d67adfaacc38c41828020113f97c8a8256d5141f98db33c7&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 20:21:45 +0000"
+        "fecha": "Tue, 15 Sep 2026 20:53:41 +0000"
       },
       {
         "titulo": "Stray Kids: una joven murió en la previa del primer show de la banda de k-pop en Argentina",
@@ -496,11 +496,11 @@
         "fecha": "Tue, 15 Sep 2026 15:52:00 -0300"
       },
       {
-        "titulo": "Relación abierta y acuerdo económico: el pacto entre Leandro Paredes y Cami Galante que enfureció al padre del futbolista",
-        "link": "https://www.c5n.com/ratingcero/relacion-abierta-y-acuerdo-economico-el-pacto-leandro-paredes-y-cami-galante-que-enfurecio-al-padre-del-futbolista-n248984",
-        "imagen": "https://media.c5n.com/p/6b036c696a90a3ea50334f9f57d8c28f/adjuntos/326/imagenes/000/399/0000399003/1200x675/smart/leandro-paredes-cami-galante-y-daniel-paredes.png",
+        "titulo": "Luana de Gran Hermano reveló con cuántos famosos estuvo y contó la propuesta que recibió de Franco Colapinto: \"Me invitó a...\"",
+        "link": "https://www.c5n.com/ratingcero/luana-gran-hermano-revelo-cuantos-famosos-estuvo-y-conto-la-propuesta-que-recibio-franco-colapinto-me-invito-a-n248988",
+        "imagen": "https://media.c5n.com/p/2fa246540c22ea6741fbd496ca9feae0/adjuntos/326/imagenes/000/399/0000399020/1200x675/smart/luana-fernandez-y-colapinto.png",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 17:15:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 17:16:00 -0300"
       },
       {
         "titulo": "De Lali, Ángela Torres y la Joaqui a Karol G y Mon Laferte: las confesiones más osadas que las famosas le hicieron a Rosalía en el Lux Tour",
@@ -510,11 +510,11 @@
         "fecha": "Tue, 15 Sep 2026 15:28:15 +0000"
       },
       {
-        "titulo": "Así fue el día de playa de Antonela Roccuzzo en Miami: delfines, snorkel y un atardecer de película",
-        "link": "https://www.infobae.com/teleshow/2026/09/15/asi-fue-el-dia-de-playa-de-antonela-roccuzzo-en-miami-delfines-snorkel-y-un-atardecer-de-pelicula/",
-        "imagen": "https://www.infobae.com/resizer/v2/MSHF725X7VEHXBNS77HYSKIT2M.png?auth=5d9339dda61612351dc8416d5bf0c1c067c6b75a95ff2bdbb6ae1899db6d7b86&smart=true&width=1920&height=1080",
+        "titulo": "Julieta Prandi y Emanuel Ortega se casaron en una ceremonia íntima: “Es un momento esperado, querido y elegido”",
+        "link": "https://www.infobae.com/teleshow/2026/09/15/julieta-prandi-y-emanuel-ortega-se-casaron-con-una-ceremonia-intima-es-un-momento-esperado-querido-y-elegido/",
+        "imagen": "https://www.infobae.com/resizer/v2/6UE4M6I4EZFC5KRIROGRSRT6NU.png?auth=2466621d4396488ee83c9b7bc4a57627b02bccac62959ec7eefffb6cebdb442f&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 20:20:01 +0000"
+        "fecha": "Tue, 15 Sep 2026 20:21:45 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Tue, 15 Sep 2026 14:29:00 -0300"
       },
       {
-        "titulo": "Probamos un aire acondicionado con inteligencia artificial: qué hace realmente y cuánto cambia la experiencia",
-        "link": "https://www.clarin.com/informacion-general/probamos-aire-acondicionado-inteligencia-artificial-hace-realmente-cambia-experiencia_0_fW1x1MLKwO.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/zNmniJMMF_1200x630__1.jpg",
+        "titulo": "Nerdearla 2026: llegan a la Argentina referentes de Google DeepMind, Tor y Hugging Face, protagonista de un polémico incidente con OpenAI",
+        "link": "https://www.clarin.com/tecnologia/nerdearla-2026-llegan-argentina-referentes-google-deepmind-tor-hugging-face-protagonista-polemico-incidente-openai_0_O01MpM97p0.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/U52CWHOvo_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 17:32:20 +0000"
+        "fecha": "Tue, 15 Sep 2026 20:28:05 +0000"
       },
       {
         "titulo": "La Unión Europea busca restringir el acceso a redes sociales a menores de 15 años",
@@ -561,11 +561,11 @@
         "fecha": "Mon, 14 Sep 2026 11:58:00 -0300"
       },
       {
-        "titulo": "\"Puede hacer mucho daño\": dos técnicos de Google DeepMind renuncian y se suman a los pedidos de regular la Inteligencia Artificial",
-        "link": "https://www.clarin.com/tecnologia/puede-hacer-dano-tecnicos-google-deepmind-renuncian-suman-pedidos-regular-inteligencia-artificial_0_BG5h5EwQZx.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/YIuDH3j5n_1200x630__1.jpg",
+        "titulo": "Probamos un aire acondicionado con inteligencia artificial: qué hace realmente y cuánto cambia la experiencia",
+        "link": "https://www.clarin.com/informacion-general/probamos-aire-acondicionado-inteligencia-artificial-hace-realmente-cambia-experiencia_0_fW1x1MLKwO.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/zNmniJMMF_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 16:03:01 +0000"
+        "fecha": "Tue, 15 Sep 2026 17:32:20 +0000"
       },
       {
         "titulo": "Esta es la lista completa de iPhone compatibles con iOS 27",
@@ -589,11 +589,11 @@
         "fecha": "Sun, 13 Sep 2026 13:18:00 -0300"
       },
       {
-        "titulo": "El CEO de Nvidia dijo que las predicciones apocalípticas sobre la IA “son inventadas” y Trump lo llamó en vivo",
-        "link": "https://www.clarin.com/tecnologia/jensen-huang-ceo-nvidia-rechazo-pronosticos-apocalipticos-ia-inventados_0_kRIX0n36AY.html",
-        "imagen": "https://www.clarin.com/img/2026/09/03/zMQcISJMj_1200x630__1.jpg",
+        "titulo": "\"Puede hacer mucho daño\": dos técnicos de Google DeepMind renuncian y se suman a los pedidos de regular la Inteligencia Artificial",
+        "link": "https://www.clarin.com/tecnologia/puede-hacer-dano-tecnicos-google-deepmind-renuncian-suman-pedidos-regular-inteligencia-artificial_0_BG5h5EwQZx.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/YIuDH3j5n_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 15:10:19 +0000"
+        "fecha": "Tue, 15 Sep 2026 16:03:01 +0000"
       },
       {
         "titulo": "Bill Gates donará USD 1.000 millones para ampliar acceso a la IA en países en desarrollo",
@@ -735,11 +735,11 @@
     ],
     "local": [
       {
-        "titulo": "Un comerciante de La Plata necesita vender 4.500 sánguches para saldar una deuda millonaria",
-        "link": "https://www.0221.com.ar/la-plata/un-comerciante-la-plata-necesita-vender-4500-sanguches-saldar-una-deuda-millonaria-n134248",
-        "imagen": "https://media.0221.com.ar/p/04a1ecc0fbeed8422cd78eea55f7d2e6/adjuntos/357/imagenes/100/295/0100295951/1200x630/877x721:897x741/sanguche.png",
+        "titulo": "Un comedor de La Plata denunció que la Municipalidad levantó un puesto para recaudar fondos",
+        "link": "https://www.0221.com.ar/la-plata/un-comedor-la-plata-denuncio-que-la-municipalidad-levanto-un-puesto-recaudar-fondos-n134252",
+        "imagen": "https://media.0221.com.ar/p/55df6b83d66c65147015dde5a6f275ec/adjuntos/357/imagenes/100/295/0100295950/1200x630/smart/portada-1-1.png",
         "fuente": "0221",
-        "fecha": "Tue, 15 Sep 2026 17:47:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 18:12:00 -0300"
       },
       {
         "titulo": "Video: pasaron a los tiros frente a un club de barrio de La Plata y sembraron terror",
@@ -763,18 +763,18 @@
         "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "Murió Griselda Gambaro, una figura central del teatro argentino",
-        "link": "https://www.eldia.com/espectaculos/murio-griselda-gambaro-una-figura-central-del-teatro-argentino-espectaculos_1789505700",
+        "titulo": "El polo de la región se unió por Estancia Iponá: un emotivo torneo solidario congregó a la comunidad en La Victoria Polo Country Club",
+        "link": "https://www.eldia.com/marcasytendencias/el-polo-de-la-region-se-unio-por-estancia-ipona-un-emotivo-torneo-solidario-congrego-a-la-comunidad-en-la-victoria-polo-country-club-marcasytendencias_1789507080",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 15 Sep 2026 20:58:37 GMT"
+        "fecha": "Tue, 15 Sep 2026 21:26:18 GMT"
       },
       {
-        "titulo": "La Plata y el país conmemoran los 50 años de la Noche de los Lápices",
-        "link": "https://www.0221.com.ar/la-plata/la-plata-y-el-pais-conmemoran-los-50-anos-la-noche-los-lapices-n134234",
-        "imagen": "https://media.0221.com.ar/p/2944628f075287568337f7f0d6c55d9b/adjuntos/357/imagenes/100/185/0100185033/1200x630/1736x1988:1756x2008/marcha-noche-los-lapices-2024-8jpeg.jpeg",
+        "titulo": "Un comerciante de La Plata necesita vender 4.500 sánguches para saldar una deuda millonaria",
+        "link": "https://www.0221.com.ar/la-plata/un-comerciante-la-plata-necesita-vender-4500-sanguches-saldar-una-deuda-millonaria-n134248",
+        "imagen": "https://media.0221.com.ar/p/04a1ecc0fbeed8422cd78eea55f7d2e6/adjuntos/357/imagenes/100/295/0100295951/1200x630/877x721:897x741/sanguche.png",
         "fuente": "0221",
-        "fecha": "Tue, 15 Sep 2026 17:18:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 17:47:00 -0300"
       },
       {
         "titulo": "Video: robó un cajón de morrones en una verdulería de Los Hornos y escapó en moto",
@@ -798,16 +798,16 @@
         "fecha": "Tue, 15 Sep 2026 16:31:00 -0300"
       },
       {
-        "titulo": "Estudiantes emprendió su viaje a Brasil en busca de la clasificación a la semifinal",
-        "link": "https://www.eldia.com/deportes/estudiantes-emprendio-su-viaje-a-brasil-en-busca-de-la-clasificacion-a-la-semifinal-deportes_1789502460",
+        "titulo": "Murió Griselda Gambaro, una figura central del teatro argentino",
+        "link": "https://www.eldia.com/espectaculos/murio-griselda-gambaro-una-figura-central-del-teatro-argentino-espectaculos_1789505700",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 15 Sep 2026 20:50:08 GMT"
+        "fecha": "Tue, 15 Sep 2026 20:58:37 GMT"
       },
       {
-        "titulo": "Un depósito de reciclado se incendió en La Plata y dos vecinos resultaron heridos tras apagar las llamas",
-        "link": "https://www.0221.com.ar/la-plata/un-deposito-reciclado-se-incendio-la-plata-y-dos-vecinos-resultaron-heridos-apagar-las-llamas-n134250",
-        "imagen": "https://media.0221.com.ar/p/1cfd01fb562a4918892b43ae4a372917/adjuntos/357/imagenes/100/295/0100295943/1200x630/smart/portada-7.png",
+        "titulo": "La Plata y el país conmemoran los 50 años de la Noche de los Lápices",
+        "link": "https://www.0221.com.ar/la-plata/la-plata-y-el-pais-conmemoran-los-50-anos-la-noche-los-lapices-n134234",
+        "imagen": "https://media.0221.com.ar/p/2944628f075287568337f7f0d6c55d9b/adjuntos/357/imagenes/100/185/0100185033/1200x630/1736x1988:1756x2008/marcha-noche-los-lapices-2024-8jpeg.jpeg",
         "fuente": "0221",
         "fecha": "Tue, 15 Sep 2026 17:18:00 -0300"
       },
