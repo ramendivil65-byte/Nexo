@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T22:12:36.493269+00:00",
+  "actualizado": "2026-09-15T22:33:53.946877+00:00",
   "merval": {
     "subas": [
       {
@@ -17,12 +17,12 @@
     ],
     "bajas": [
       {
-        "simbolo": "CRESY",
-        "porcentaje": -2.062705
-      },
-      {
         "simbolo": "GGAL",
         "porcentaje": -2.025138
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": -1.81518
       },
       {
         "simbolo": "BBAR",
@@ -68,7 +68,7 @@
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": -0.52389672
+        "porcentaje": -0.52239411
       }
     ]
   }
