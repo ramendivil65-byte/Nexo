@@ -827,6 +827,17 @@ setInterval(cargarClimaReal, 15 * 60 * 1000);
 setInterval(actualizarCotizacion, 4500);
 setInterval(cargarCotizacionesReales, 15 * 60 * 1000);
 setInterval(actualizarVideo, 5000);
+
+// ---- Música de fondo: arranca sola con el primer clic en cualquier parte de la página ----
+// (los navegadores no dejan que suene sin que haya una interacción primero, es una regla de seguridad)
+const musicaFondo = document.getElementById("musica-fondo");
+function arrancarMusica() {
+  musicaFondo.volume = 0.35;
+  musicaFondo.play().catch(() => {});
+  document.removeEventListener("click", arrancarMusica);
+}
+document.addEventListener("click", arrancarMusica);
 </script>
+<audio id="musica-fondo" src="musica-fondo.mp3" loop></audio>
 </body>
 </html>
