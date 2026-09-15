@@ -27,36 +27,32 @@ FEEDS = {
         ("Página 12", "https://www.pagina12.com.ar/rss/portada"),
         ("Clarín", "https://www.clarin.com/rss/politica/"),
         ("Ámbito Mundo", "https://www.ambito.com/rss/pages/mundo.xml"),
-        ("C5N", "https://www.c5n.com/politica/feed/"),  # sin confirmar, revisar si no trae nada
-        ("El Destape", "https://www.eldestapeweb.com/politica/feed/"),  # sin confirmar, revisar si no trae nada
+        ("C5N", "https://www.c5n.com/feed/"),  # sin confirmar, revisar si no trae nada
+        ("El Destape", "https://www.eldestapeweb.com/feed/"),  # sin confirmar, revisar si no trae nada
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/politica/?outputType=xml"),  # sin confirmar, revisar si no trae nada
         ("Tiempo Argentino", "https://www.tiempoar.com.ar/politica/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "economia": [
         ("Ámbito", "https://www.ambito.com/rss/pages/economia.xml"),
-        ("Página 12", "https://www.pagina12.com.ar/rss/portada"),
         ("Clarín", "https://www.clarin.com/rss/economia/"),
-        ("C5N", "https://www.c5n.com/economia/feed/"),  # sin confirmar, revisar si no trae nada
-        ("El Destape", "https://www.eldestapeweb.com/economia/feed/"),  # sin confirmar, revisar si no trae nada
+        ("C5N", "https://www.c5n.com/feed/"),  # sin confirmar, revisar si no trae nada
+        ("El Destape", "https://www.eldestapeweb.com/feed/"),  # sin confirmar, revisar si no trae nada
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/?outputType=xml"),  # sin confirmar, revisar si no trae nada
         ("Tiempo Argentino", "https://www.tiempoar.com.ar/economia/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "deportes": [
         ("Ámbito", "https://www.ambito.com/rss/pages/deportes.xml"),
-        ("Página 12", "https://www.pagina12.com.ar/rss/portada"),
         ("Clarín", "https://www.clarin.com/rss/deportes/"),
-        ("C5N", "https://www.c5n.com/deportes/feed/"),  # sin confirmar, revisar si no trae nada
+        ("C5N", "https://www.c5n.com/feed/"),  # sin confirmar, revisar si no trae nada
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
         ("Olé", "https://www.ole.com.ar/rss/futbol-primera/"),  # sin confirmar, revisar si no trae nada
-        ("Tiempo Argentino", "https://www.tiempoar.com.ar/deportes/feed/"),  # sin confirmar, revisar si no trae nada
+        ("Tiempo Argentino", "https://www.tiempoar.com.ar/deporte/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "policiales_actualidad": [
         ("Ámbito", "https://www.ambito.com/rss/pages/policiales.xml"),  # sin confirmar, revisar si no trae nada
-        ("Página 12", "https://www.pagina12.com.ar/rss/portada"),
         ("Clarín", "https://www.clarin.com/rss/policiales/"),  # sin confirmar, revisar si no trae nada
-        ("C5N", "https://www.c5n.com/policiales/feed/"),  # sin confirmar, revisar si no trae nada
+        ("C5N", "https://www.c5n.com/feed/"),  # sin confirmar, revisar si no trae nada
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/sociedad/policiales/?outputType=xml"),  # sin confirmar, revisar si no trae nada
-        ("News Digitales", "https://www.newsdigitales.com/feed/"),  # sin confirmar, revisar si no trae nada
     ],
 }
 
