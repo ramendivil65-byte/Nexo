@@ -465,46 +465,14 @@ footer p { color: #9CA3AF; font-size: 12px; }
 
 <section class="widgets">
   <div class="widget">
-    <h3>Merval — Top 5 subas</h3>
-    <div class="sub">1.842.350 pts · <span class="up">▲ 1,8%</span></div>
-    <svg viewBox="0 0 240 68" class="bar-chart">
-      <rect x="16" y="8" width="16" height="38" fill="#34D399"/>
-      <rect x="64" y="14" width="16" height="32" fill="#34D399"/>
-      <rect x="112" y="18" width="16" height="28" fill="#34D399"/>
-      <rect x="160" y="24" width="16" height="22" fill="#34D399"/>
-      <rect x="208" y="30" width="16" height="16" fill="#34D399"/>
-      <text x="24" y="6" class="bar-pct">+6,2%</text>
-      <text x="72" y="12" class="bar-pct">+4,8%</text>
-      <text x="120" y="16" class="bar-pct">+3,9%</text>
-      <text x="168" y="22" class="bar-pct">+2,7%</text>
-      <text x="216" y="28" class="bar-pct">+1,5%</text>
-      <text x="24" y="64" class="bar-label">TXAR</text>
-      <text x="72" y="64" class="bar-label">YPF</text>
-      <text x="120" y="64" class="bar-label">GGAL</text>
-      <text x="168" y="64" class="bar-label">PAMP</text>
-      <text x="216" y="64" class="bar-label">BMA</text>
-    </svg>
+    <h3 id="merval-titulo">Merval — Top 5</h3>
+    <div class="sub" id="merval-sub">Cargando...</div>
+    <svg viewBox="0 0 240 68" class="bar-chart" id="merval-chart"></svg>
   </div>
   <div class="widget">
-    <h3>Dow Jones — Top 5 subas</h3>
-    <div class="sub">42.680 pts · <span class="up">▲ 0,6%</span></div>
-    <svg viewBox="0 0 240 68" class="bar-chart">
-      <rect x="16" y="8" width="16" height="38" fill="#34D399"/>
-      <rect x="64" y="16" width="16" height="30" fill="#34D399"/>
-      <rect x="112" y="20" width="16" height="26" fill="#34D399"/>
-      <rect x="160" y="26" width="16" height="20" fill="#34D399"/>
-      <rect x="208" y="32" width="16" height="14" fill="#34D399"/>
-      <text x="24" y="6" class="bar-pct">+3,4%</text>
-      <text x="72" y="14" class="bar-pct">+2,6%</text>
-      <text x="120" y="18" class="bar-pct">+2,1%</text>
-      <text x="168" y="24" class="bar-pct">+1,4%</text>
-      <text x="216" y="30" class="bar-pct">+0,9%</text>
-      <text x="24" y="64" class="bar-label">NVDA</text>
-      <text x="72" y="64" class="bar-label">AAPL</text>
-      <text x="120" y="64" class="bar-label">MSFT</text>
-      <text x="168" y="64" class="bar-label">JPM</text>
-      <text x="216" y="64" class="bar-label">KO</text>
-    </svg>
+    <h3 id="dow-titulo">Dow Jones — Top 5</h3>
+    <div class="sub" id="dow-sub">Cargando...</div>
+    <svg viewBox="0 0 240 68" class="bar-chart" id="dow-chart"></svg>
   </div>
   <div class="widget">
     <h3>Plazo fijo — 30 días</h3>
@@ -826,6 +794,81 @@ function actualizarPlazoFijo() {
 
 actualizarPlazoFijo();
 setInterval(actualizarPlazoFijo, 5000);
+
+// ---- Acciones reales (Twelve Data, vía Actions) ----
+let datosAcciones = null;
+let mostrandoSubasMerval = true;
+let mostrandoSubasDow = true;
+
+function dibujarBarras(svgId, items, mostrandoSubas) {
+  const svg = document.getElementById(svgId);
+  if (!items || !items.length) {
+    svg.innerHTML = '<text x="120" y="34" text-anchor="middle" fill="#6B7280" font-size="11">Sin datos</text>';
+    return;
+  }
+
+  const color = mostrandoSubas ? "#34D399" : "#F87171";
+  const maxAbs = Math.max(...items.map(i => Math.abs(i.porcentaje)), 1);
+  const anchoBarra = 16;
+  const posiciones = [24, 72, 120, 168, 216];
+
+  let svgHtml = "";
+  items.forEach((item, i) => {
+    const alturaMax = 38;
+    const altura = Math.max(6, (Math.abs(item.porcentaje) / maxAbs) * alturaMax);
+    const x = posiciones[i] - anchoBarra / 2;
+    const y = 8 + (alturaMax - altura);
+    const signo = item.porcentaje >= 0 ? "+" : "";
+    const pct = signo + item.porcentaje.toFixed(1).replace(".", ",") + "%";
+
+    svgHtml += `<rect x="${x}" y="${y}" width="${anchoBarra}" height="${altura}" fill="${color}"/>`;
+    svgHtml += `<text x="${posiciones[i]}" y="${y - 2 < 6 ? 6 : y - 2}" class="bar-pct" fill="${color}">${pct}</text>`;
+    svgHtml += `<text x="${posiciones[i]}" y="64" class="bar-label">${item.simbolo}</text>`;
+  });
+
+  svg.innerHTML = svgHtml;
+}
+
+function actualizarVistaAcciones() {
+  if (!datosAcciones) return;
+
+  const merval = datosAcciones.merval || {};
+  const dow = datosAcciones.dowjones || {};
+
+  const itemsMerval = mostrandoSubasMerval ? merval.subas : merval.bajas;
+  const itemsDow = mostrandoSubasDow ? dow.subas : dow.bajas;
+
+  document.getElementById("merval-titulo").textContent = "Merval — Top 5 " + (mostrandoSubasMerval ? "subas" : "bajas");
+  document.getElementById("dow-titulo").textContent = "Dow Jones — Top 5 " + (mostrandoSubasDow ? "subas" : "bajas");
+
+  const subMerval = mostrandoSubasMerval ? "▲ Mayores subas (ADRs)" : "▼ Mayores bajas (ADRs)";
+  const subDow = mostrandoSubasDow ? "▲ Mayores subas" : "▼ Mayores bajas";
+  document.getElementById("merval-sub").innerHTML = `<span class="${mostrandoSubasMerval ? 'up' : 'down'}">${subMerval}</span>`;
+  document.getElementById("dow-sub").innerHTML = `<span class="${mostrandoSubasDow ? 'up' : 'down'}">${subDow}</span>`;
+
+  dibujarBarras("merval-chart", itemsMerval, mostrandoSubasMerval);
+  dibujarBarras("dow-chart", itemsDow, mostrandoSubasDow);
+}
+
+async function cargarAcciones() {
+  try {
+    const resp = await fetch("stocks.json", { cache: "no-store" });
+    if (!resp.ok) return;
+    datosAcciones = await resp.json();
+    actualizarVistaAcciones();
+  } catch (e) {
+    console.log("No se pudo traer acciones:", e.message);
+  }
+}
+
+cargarAcciones();
+setInterval(cargarAcciones, 15 * 60 * 1000);
+setInterval(() => {
+  mostrandoSubasMerval = !mostrandoSubasMerval;
+  mostrandoSubasDow = !mostrandoSubasDow;
+  actualizarVistaAcciones();
+}, 8000);
+
 actualizarVideo();
 setInterval(actualizarClima, 4000);
 setInterval(cargarClimaReal, 15 * 60 * 1000);
