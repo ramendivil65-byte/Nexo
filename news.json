@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T12:21:34.529706+00:00",
+  "actualizado": "2026-09-15T12:47:59.273058+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,16 +10,44 @@
         "fecha": "Tue, 15 Sep 2026 08:37:00 -0300"
       },
       {
-        "titulo": "El Gobierno retoma el debate por las PASO en el Senado, mientras presiona a los aliados y contempla un plan B",
-        "link": "https://www.clarin.com/politica/gobierno-retoma-debate-paso-senado-presiona-aliados-contempla-plan-b_0_Bn7RFZzDLz.html",
-        "imagen": "https://www.clarin.com/img/2026/04/29/vokkSmAolg_1200x630__1.jpg",
+        "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno reúne a la mesa política para avanzar con el Presupuesto 2027 y Malvinas",
+        "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-reune-mesa-politica-avanzar-presupuesto-2027-malvinas_0_oxDH0bA0QV.html",
+        "imagen": "https://www.clarin.com/img/2026/09/08/5Mfmu5uyg_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 09:03:30 +0000"
+        "fecha": "Tue, 15 Sep 2026 11:56:24 +0000"
+      },
+      {
+        "titulo": "Elecciones en EEUU: funcionarios se preparan ante una posible intervención de Donald Trump en los comicios legislativos",
+        "link": "https://www.ambito.com/mundo/elecciones-eeuu-funcionarios-se-preparan-una-posible-intervencion-donald-trump-los-comicios-legislativos-n6322381",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Tue, 15 Sep 2026 09:25:00 -0300"
+      },
+      {
+        "titulo": "\"Esa mancha no se borra más\": Mayra Mendoza arremetió contra Kicillof por negar su pertenencia al kirchnerismo, lo acusó de desleal y de dividir al PJ",
+        "link": "https://www.infobae.com/politica/2026/09/15/esa-mancha-no-se-borra-mas-mayra-mendoza-arremetio-contra-kicillof-por-negar-su-pertenencia-al-kirchnerismo-lo-acuso-de-desleal-y-de-dividir-al-pj/",
+        "imagen": "https://www.infobae.com/resizer/v2/JLXCXPJNHRHLFNCV4YKZYZLNWE.jpg?auth=eaf07c5bb58f264e885cf0829bab22c0732e0586e2f2eee2648341afb26ac393&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Tue, 15 Sep 2026 12:37:35 +0000"
+      },
+      {
+        "titulo": "San Miguel de Tucumán será capital simbólica del país cada 9 de julio",
+        "link": "https://www.ambito.com/politica/san-miguel-tucuman-sera-capital-simbolica-del-pais-cada-9-julio-n6322355",
+        "imagen": "https://media.ambito.com/p/32ca16f38f72ddc1af089f7adba6c9f0/adjuntos/239/imagenes/041/645/0041645250/casa-historica-tucumanjpg.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 15 Sep 2026 08:15:00 -0300"
+      },
+      {
+        "titulo": "San Miguel de Tucumán fue declarada capital simbólica de la Argentina cada 9 de julio",
+        "link": "https://www.clarin.com/politica/san-miguel-tucuman-declarada-capital-simbolica-argentina-9-julio_0_lqAi2RBzZJ.html",
+        "imagen": "https://www.clarin.com/img/2025/01/14/hrGFsUXcK_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 15 Sep 2026 11:47:25 +0000"
       },
       {
         "titulo": "Escándalo: hackearon la cuenta del Ministerio de Economía de Perú y la usaron para promocionar una criptomoneda",
         "link": "https://www.ambito.com/mundo/escandalo-hackearon-la-cuenta-del-ministerio-economia-peru-y-la-usaron-promocionar-una-criptomoneda-n6322369",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/c86ce5890482d421106f8fa26094cceb/adjuntos/239/imagenes/043/642/0043642729/1200x675/803x467:823x487/ministerio-economia-peru.jpg",
         "fuente": "Ámbito Mundo",
         "fecha": "Tue, 15 Sep 2026 07:33:00 -0300"
       },
@@ -31,23 +59,23 @@
         "fecha": "Tue, 15 Sep 2026 11:42:58 +0000"
       },
       {
-        "titulo": "San Miguel de Tucumán será capital simbólica del país cada 9 de julio",
-        "link": "https://www.ambito.com/politica/san-miguel-tucuman-sera-capital-simbolica-del-pais-cada-9-julio-n6322355",
-        "imagen": "https://media.ambito.com/p/32ca16f38f72ddc1af089f7adba6c9f0/adjuntos/239/imagenes/041/645/0041645250/casa-historica-tucumanjpg.jpg",
+        "titulo": "El Gobierno aceptó la renuncia de Santiago Muzio como director de la Casa Argentina en París y designó a Alfredo Soto como su reemplazante",
+        "link": "https://www.ambito.com/politica/el-gobierno-acepto-la-renuncia-santiago-muzio-como-director-la-casa-argentina-paris-y-designo-alfredo-soto-como-su-reemplazante-n6322359",
+        "imagen": "https://media.ambito.com/p/a9256af8862e30fb1c7ba0e2f16e13d3/adjuntos/239/imagenes/043/642/0043642671/1200x675/smart/casa-argentina-paris.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 08:15:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 07:42:00 -0300"
       },
       {
-        "titulo": "Nueva encuesta en un municipio clave del Conurbano: quiénes son los candidatos que mejor miden",
-        "link": "https://www.clarin.com/politica/nueva-encuesta-municipio-clave-conurbano-candidatos-mejor-miden_0_APG8Qgsrjs.html",
-        "imagen": "https://www.clarin.com/img/2026/09/14/__Vf0dt9m_1200x630__1.jpg",
+        "titulo": "ATE anunció que pedirá un examen médico sobre la salud de Javier Milei: \"Los desequilibrios del Presidente son muy evidentes\"",
+        "link": "https://www.clarin.com/politica/ate-anuncio-pedira-examen-medico-salud-javier-milei-desequilibrios-presidente-evidentes_0_qIiSZxPKbE.html",
+        "imagen": "https://www.clarin.com/img/2026/02/27/vBNeB9W_3_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 09:01:30 +0000"
+        "fecha": "Tue, 15 Sep 2026 11:42:59 +0000"
       },
       {
         "titulo": "El problema de los nombres",
         "link": "https://www.ambito.com/opiniones/el-problema-los-nombres-n6322098",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/858d33866d338110c3bd333652b8d233/adjuntos/239/imagenes/043/625/0043625567/1200x675/628x398:648x418/afd-alemania-partido-ultraderecha.jpg",
         "fuente": "Ámbito Mundo",
         "fecha": "Tue, 15 Sep 2026 00:00:00 -0300"
       },
@@ -57,41 +85,13 @@
         "imagen": "https://www.infobae.com/resizer/v2/H74ITA6TDNG4NAU4MONJAA35S4.jpg?auth=fda677875c135aeaeebcc24fe975f8aa0a3cd108454dade6911273dc51726253&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
         "fecha": "Tue, 15 Sep 2026 11:09:56 +0000"
-      },
-      {
-        "titulo": "El Gobierno aceptó la renuncia de Santiago Muzio como director de la Casa Argentina en París y designó a Alfredo Soto como su reemplazante",
-        "link": "https://www.ambito.com/politica/el-gobierno-acepto-la-renuncia-santiago-muzio-como-director-la-casa-argentina-paris-y-designo-alfredo-soto-como-su-reemplazante-n6322359",
-        "imagen": "https://media.ambito.com/p/a9256af8862e30fb1c7ba0e2f16e13d3/adjuntos/239/imagenes/043/642/0043642671/1200x675/smart/casa-argentina-paris.jpeg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 07:42:00 -0300"
-      },
-      {
-        "titulo": "Mercosur-Singapur: el Gobierno promulgó la ley que aprueba el acuerdo de libre comercio",
-        "link": "https://www.clarin.com/politica/mercosur-singapur-gobierno-promulgo-ley-aprueba-acuerdo-libre-comercio_0_DLXszApu5K.html",
-        "imagen": "https://www.clarin.com/img/2026/05/15/A7GSoWtvW_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 06:07:04 +0000"
-      },
-      {
-        "titulo": "Netanyahu celebró el avance contra Hezbollah en Líbano y advirtió por nuevas represalias",
-        "link": "https://www.ambito.com/mundo/netanyahu-celebro-el-avance-contra-hezbollah-libano-y-advirtio-nuevas-represalias-n6322310",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Mon, 14 Sep 2026 21:53:00 -0300"
-      },
-      {
-        "titulo": "Jalil no competirá por su reelección en Catamarca y pone en suspenso su apoyo a la eliminación de las PASO",
-        "link": "https://www.infobae.com/politica/2026/09/15/jalil-no-competira-por-su-reeleccion-en-catamarca-y-pone-en-suspenso-su-apoyo-a-la-eliminacion-de-las-paso/",
-        "imagen": "https://www.infobae.com/resizer/v2/LZ66IXDZSJHDLFF5QG24LA5VCA.jpeg?auth=48cebb69ba44f25d2b898504694a785aaf3f3ffe1d474f14532d66951cdfbdc3&smart=true&width=3008&height=1692",
-        "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 10:50:26 +0000"
       }
     ],
     "economia": [
       {
         "titulo": "La economía de China, a dos velocidades: se aceleró el crecimiento de la industria, pero aflojó el consumo",
         "link": "https://www.ambito.com/economia/la-china-dos-velocidades-se-acelero-el-crecimiento-la-industria-pero-aflojo-el-consumo-n6322374",
-        "imagen": "https://media.ambito.com/p/0b242932445c0e0afcd28c52f1eb6e13/adjuntos/239/imagenes/043/431/0043431682/1200x675/smart/inflacion-china.png",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Tue, 15 Sep 2026 08:33:00 -0300"
       },
@@ -103,16 +103,16 @@
         "fecha": "Tue, 15 Sep 2026 11:10:58 +0000"
       },
       {
-        "titulo": "Cambio de estrategia: el BCRA recalibra una de sus metas para evitar tensiones sobre el dólar y las tasas",
-        "link": "https://www.infobae.com/economia/2026/09/15/cambio-de-estrategia-el-bcra-recalibra-una-de-sus-metas-para-evitar-tensiones-sobre-el-dolar-y-las-tasas/",
-        "imagen": "https://www.infobae.com/resizer/v2/S6WRMDBBNJBA5CUYQEKXTWO4WA.jpg?auth=689157d77e7ced6e449d17db78a8d2100bfe31998162c81668f78b1f5514651b&smart=true&width=1920&height=1080",
+        "titulo": "Así es el auto eléctrico del futuro que busca revolucionar los viajes de larga distancia",
+        "link": "https://www.infobae.com/economia/2026/09/15/asi-es-el-auto-electrico-del-futuro-que-busca-revolucionar-los-viajes-de-larga-distancia/",
+        "imagen": "https://www.infobae.com/resizer/v2/WODRVFDCFFH4TIUICVOS3QKLMU.jpg?auth=b2292734ccdbec813b09d7165eeece8690855966aff316b45418f158b5aa9759&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 12:16:41 +0000"
+        "fecha": "Tue, 15 Sep 2026 12:21:48 +0000"
       },
       {
         "titulo": "Entró en vigor el acuerdo de libre comercio entre el Mercosur y Singapur",
         "link": "https://www.ambito.com/economia/entro-vigor-el-acuerdo-libre-comercio-el-mercosur-y-singapur-n6322356",
-        "imagen": "https://media.ambito.com/p/d18938df27167a6267a393f5fbb32806/adjuntos/239/imagenes/043/605/0043605964/1200x675/581x348:601x368/argentina-singapur.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Tue, 15 Sep 2026 08:30:00 -0300"
       },
@@ -124,18 +124,18 @@
         "fecha": "Tue, 15 Sep 2026 10:45:13 +0000"
       },
       {
-        "titulo": "Cuánto cuesta criar un hijo en la Argentina según su edad y cuál fue el aumento en el último año",
-        "link": "https://www.infobae.com/economia/2026/09/15/cuanto-cuesta-criar-un-hijo-en-la-argentina-segun-su-edad-y-cual-fue-el-aumento-en-el-ultimo-ano/",
-        "imagen": "https://www.infobae.com/resizer/v2/QVDILQT3SVDZXA2UYC22VZL4KU.png?auth=7f37827988e8ec785ec9a8075dfe6e6c8786b3049ff9d933f12709fe627937b7&smart=true&width=2752&height=1536",
+        "titulo": "Cambio de estrategia: el BCRA recalibra una de sus metas para evitar tensiones sobre el dólar y las tasas",
+        "link": "https://www.infobae.com/economia/2026/09/15/cambio-de-estrategia-el-bcra-recalibra-una-de-sus-metas-para-evitar-tensiones-sobre-el-dolar-y-las-tasas/",
+        "imagen": "https://www.infobae.com/resizer/v2/S6WRMDBBNJBA5CUYQEKXTWO4WA.jpg?auth=689157d77e7ced6e449d17db78a8d2100bfe31998162c81668f78b1f5514651b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 11:49:12 +0000"
+        "fecha": "Tue, 15 Sep 2026 12:16:41 +0000"
       },
       {
-        "titulo": "Presupuesto 2027: los tres números clave que más preocupan a los mercados",
-        "link": "https://www.ambito.com/economia/presupuesto-2027-los-tres-numeros-clave-que-mas-preocupan-los-mercados-n6322261",
-        "imagen": "https://media.ambito.com/p/54bcb525b3049e4b5d1e92c0af1cb61f/adjuntos/239/imagenes/043/401/0043401158/1200x675/987x270:1007x290/luis-caputo-latam-forum-2026.jpeg",
+        "titulo": "Plazo fijo: cuánto tengo que invertir para generar $150.000 en un mes",
+        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-tengo-que-invertir-generar-150000-un-mes-n6322194",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 00:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 08:30:00 -0300"
       },
       {
         "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este martes 15 de septiembre de 2026",
@@ -145,18 +145,18 @@
         "fecha": "Tue, 15 Sep 2026 10:45:12 +0000"
       },
       {
-        "titulo": "ANSES: quiénes cobran hoy, martes 15 de septiembre de 2026",
-        "link": "https://www.infobae.com/economia/2026/09/15/anses-quienes-cobran-hoy-martes-15-de-septiembre-de-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/37UVKM5P45GN5GJ7BV3234ZV44.jpg?auth=bd970a608ae1000c5c143eeb63f5bc6349e6404d7bd4a87a77e46172a4f4d388&smart=true&width=1920&height=1080",
+        "titulo": "Cuánto cuesta criar un hijo en la Argentina según su edad y cuál fue el aumento en el último año",
+        "link": "https://www.infobae.com/economia/2026/09/15/cuanto-cuesta-criar-un-hijo-en-la-argentina-segun-su-edad-y-cual-fue-el-aumento-en-el-ultimo-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/QVDILQT3SVDZXA2UYC22VZL4KU.png?auth=7f37827988e8ec785ec9a8075dfe6e6c8786b3049ff9d933f12709fe627937b7&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 09:37:52 +0000"
+        "fecha": "Tue, 15 Sep 2026 11:49:12 +0000"
       },
       {
-        "titulo": "Work and Travel: Pros, contras y todo lo que necesitás saber antes de viajar",
-        "link": "https://www.ambito.com/economia/work-and-travel-pros-contras-y-todo-lo-que-necesitas-saber-antes-viajar-n6322153",
-        "imagen": "https://media.ambito.com/p/9382e99260d25aa831758e7a50a307d1/adjuntos/239/imagenes/043/511/0043511877/mujer-ahorro-dolares.jpg",
+        "titulo": "Presupuesto 2027: los tres números clave que más preocupan a los mercados",
+        "link": "https://www.ambito.com/economia/presupuesto-2027-los-tres-numeros-clave-que-mas-preocupan-los-mercados-n6322261",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 14 Sep 2026 22:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 00:00:00 -0300"
       },
       {
         "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este martes 15 de septiembre de 2026",
@@ -166,11 +166,11 @@
         "fecha": "Tue, 15 Sep 2026 10:45:11 +0000"
       },
       {
-        "titulo": "Promulgaron el tratado de libre comercio entre el Mercosur y Singapur",
-        "link": "https://www.infobae.com/economia/2026/09/15/promulgaron-el-tratado-de-libre-comercio-entre-el-mercosur-y-singapur/",
-        "imagen": "https://www.infobae.com/resizer/v2/U5MEWUVFRFD4JAKL43GG2U4D7Q.png?auth=fba97b96726aee5ebc621509588fbdd571340acc1b6a4310a77332f8255d462d&smart=true&width=2752&height=1536",
+        "titulo": "ANSES: quiénes cobran hoy, martes 15 de septiembre de 2026",
+        "link": "https://www.infobae.com/economia/2026/09/15/anses-quienes-cobran-hoy-martes-15-de-septiembre-de-2026/",
+        "imagen": "https://www.infobae.com/resizer/v2/37UVKM5P45GN5GJ7BV3234ZV44.jpg?auth=bd970a608ae1000c5c143eeb63f5bc6349e6404d7bd4a87a77e46172a4f4d388&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 07:56:25 +0000"
+        "fecha": "Tue, 15 Sep 2026 09:37:52 +0000"
       }
     ],
     "deportes": [
@@ -268,11 +268,11 @@
         "fecha": "Tue, 15 Sep 2026 09:01:29 +0000"
       },
       {
-        "titulo": "Conmoción en Mendoza: un nene de 8 años fue asesinado durante un tiroteo entre bandas narco",
+        "titulo": "Conmoción en Mendoza: un nene de 7 años fue asesinado durante un tiroteo entre bandas narco",
         "link": "https://www.infobae.com/sociedad/policiales/2026/09/15/conmocion-en-mendoza-un-nene-de-8-anos-fue-asesinado-durante-un-tiroteo-entre-bandas-narco/",
         "imagen": "https://www.infobae.com/resizer/v2/JWXLYJOCKZHVFM3UVKHSTVELFY.png?auth=5701093e55721864c026ca9bdce08bb1aaf75febd5b86fcae930f705cb5d66ee&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 12:17:23 +0000"
+        "fecha": "Tue, 15 Sep 2026 12:40:43 +0000"
       },
       {
         "titulo": "Un nene de 7 años murió tras un ataque armado contra una vivienda en Mendoza",
