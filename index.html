@@ -74,9 +74,10 @@ body {
 }
 
 .header-widgets .hw-value {
-  font-size: 16px;
+  font-size: 13px;
   font-weight: 800;
   color: #FFFFFF;
+  white-space: nowrap;
 }
 
 nav {
@@ -321,6 +322,7 @@ footer p { color: #9CA3AF; font-size: 12px; }
     <div class="hw-item">
       <div class="hw-label" id="cotiz-nombre">Dólar oficial</div>
       <div class="hw-value">💱 <span id="cotiz-valor">$1.245</span></div>
+      <div style="font-size:8px; color:#C7D8F5; text-transform:uppercase; letter-spacing:1px; margin-top:2px;">Compra / Venta</div>
     </div>
   </div></div>
 
@@ -486,12 +488,42 @@ function actualizarClima() {
   document.getElementById("clima-icono").innerHTML = iconoPorCondicion(el.cond);
 }
 
-const cotizaciones = [
-  { nombre: "Dólar oficial", valor: "$1.245" },
-  { nombre: "Dólar blue", valor: "$1.310" },
-  { nombre: "Real brasileño", valor: "$248" },
-  { nombre: "Euro", valor: "$1.360" }
+let cotizaciones = [
+  { nombre: "Dólar oficial", valor: "..." },
+  { nombre: "Real brasileño", valor: "..." },
+  { nombre: "Euro", valor: "..." }
 ];
+
+// ---- Cotizaciones reales (DolarAPI, gratis, sin necesitar cuenta) ----
+function formatearPesos(numero) {
+  return "$" + Math.round(numero).toLocaleString("es-AR");
+}
+
+async function cargarCotizacionesReales() {
+  try {
+    const [dolares, otras] = await Promise.all([
+      fetch("https://dolarapi.com/v1/dolares").then(r => r.json()),
+      fetch("https://dolarapi.com/v1/cotizaciones").then(r => r.json())
+    ]);
+
+    const oficial = dolares.find(d => d.casa === "oficial");
+    const blue = dolares.find(d => d.casa === "blue");
+    const euro = otras.find(c => c.moneda === "EUR");
+    const real = otras.find(c => c.moneda === "BRL");
+
+    const nuevas = [];
+    if (oficial) nuevas.push({ nombre: "Dólar oficial", valor: formatearPesos(oficial.compra) + " / " + formatearPesos(oficial.venta) });
+    if (real) nuevas.push({ nombre: "Real brasileño", valor: formatearPesos(real.compra) + " / " + formatearPesos(real.venta) });
+    if (euro) nuevas.push({ nombre: "Euro", valor: formatearPesos(euro.compra) + " / " + formatearPesos(euro.venta) });
+
+    if (nuevas.length) {
+      cotizaciones = nuevas;
+      actualizarCotizacion();
+    }
+  } catch (e) {
+    console.log("No se pudo traer cotizaciones reales, quedan de ejemplo:", e.message);
+  }
+}
 
 function actualizarCotizacion() {
   const el = cotizaciones[Math.floor(Math.random() * cotizaciones.length)];
@@ -639,9 +671,11 @@ fetch("https://countapi.mileshilliard.com/api/v1/hit/nexo-ia-ramendivil65byte-vi
 
 actualizarClima();
 actualizarCotizacion();
+cargarCotizacionesReales();
 actualizarVideo();
 setInterval(actualizarClima, 4000);
 setInterval(actualizarCotizacion, 4500);
+setInterval(cargarCotizacionesReales, 15 * 60 * 1000);
 setInterval(actualizarVideo, 5000);
 </script>
 </body>
