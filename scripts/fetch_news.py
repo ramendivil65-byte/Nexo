@@ -69,9 +69,8 @@ FEEDS = {
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/tecno/?outputType=xml"),  # sin confirmar, revisar si no trae nada
     ],
     "autos": [
-        ("Ámbito", "https://www.ambito.com/rss/pages/autos.xml"),
         ("C5N", "https://www.c5n.com/rss/pages/autos.xml"),
-        ("Clarín", "https://www.clarin.com/rss/autos/"),  # sin confirmar, revisar si no trae nada
+        ("Parabrisas", "https://parabrisas.perfil.com/feed"),  # sin confirmar, revisar si no trae nada
     ],
     "turismo": [
         ("Clarín", "https://www.clarin.com/rss/viajes/"),  # sin confirmar, revisar si no trae nada
