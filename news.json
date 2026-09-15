@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-09-15T11:19:07.976885+00:00",
+  "actualizado": "2026-09-15T11:42:42.527342+00:00",
   "categorias": {
     "politica": [
       {
-        "titulo": "El Gobierno aceptó la renuncia de Santiago Muzio como director de la Casa Argentina en París y designó a Alfredo Soto como su reemplazante",
-        "link": "https://www.ambito.com/politica/el-gobierno-acepto-la-renuncia-santiago-muzio-como-director-la-casa-argentina-paris-y-designo-alfredo-soto-como-su-reemplazante-n6322359",
-        "imagen": "",
+        "titulo": "San Miguel de Tucumán será capital simbólica del país cada 9 de julio",
+        "link": "https://www.ambito.com/politica/san-miguel-tucuman-sera-capital-simbolica-del-pais-cada-9-julio-n6322355",
+        "imagen": "https://media.ambito.com/p/32ca16f38f72ddc1af089f7adba6c9f0/adjuntos/239/imagenes/041/645/0041645250/casa-historica-tucumanjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 07:42:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 08:15:00 -0300"
       },
       {
         "titulo": "El Gobierno retoma el debate por las PASO en el Senado, mientras presiona a los aliados y contempla un plan B",
@@ -31,11 +31,11 @@
         "fecha": "Tue, 15 Sep 2026 11:09:56 +0000"
       },
       {
-        "titulo": "Axel Kicillof y Sergio Massa, en un \"súper sábado\" del peronismo a la espera de la definición de las PASO",
-        "link": "https://www.ambito.com/politica/axel-kicillof-y-sergio-massa-un-super-sabado-del-peronismo-la-espera-la-definicion-las-paso-n6322065",
-        "imagen": "",
+        "titulo": "El Gobierno aceptó la renuncia de Santiago Muzio como director de la Casa Argentina en París y designó a Alfredo Soto como su reemplazante",
+        "link": "https://www.ambito.com/politica/el-gobierno-acepto-la-renuncia-santiago-muzio-como-director-la-casa-argentina-paris-y-designo-alfredo-soto-como-su-reemplazante-n6322359",
+        "imagen": "https://media.ambito.com/p/a9256af8862e30fb1c7ba0e2f16e13d3/adjuntos/239/imagenes/043/642/0043642671/1200x675/smart/casa-argentina-paris.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 07:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 07:42:00 -0300"
       },
       {
         "titulo": "Nueva encuesta en un municipio clave del Conurbano: quiénes son los candidatos que mejor miden",
@@ -59,11 +59,11 @@
         "fecha": "Tue, 15 Sep 2026 10:50:26 +0000"
       },
       {
-        "titulo": "Malvinas, petróleo y rearme: Argentina entra en la ofensiva conservadora por el gasto militar británico",
-        "link": "https://www.ambito.com/politica/malvinas-petroleo-y-rearme-argentina-entra-la-ofensiva-conservadora-el-gasto-militar-britanico-n6322328",
-        "imagen": "",
+        "titulo": "Axel Kicillof y Sergio Massa, en un \"súper sábado\" del peronismo a la espera de la definición de las PASO",
+        "link": "https://www.ambito.com/politica/axel-kicillof-y-sergio-massa-un-super-sabado-del-peronismo-la-espera-la-definicion-las-paso-n6322065",
+        "imagen": "https://media.ambito.com/p/1c256cfedc5eb46371471121283734f6/adjuntos/239/imagenes/041/071/0041071507/1200x675/smart/massa-kicillofjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 00:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 07:00:00 -0300"
       },
       {
         "titulo": "Mercosur-Singapur: el Gobierno promulgó la ley que aprueba el acuerdo de libre comercio",
@@ -89,18 +89,39 @@
     ],
     "economia": [
       {
-        "titulo": "Presupuesto 2027: los tres números clave que más preocupan a los mercados",
-        "link": "https://www.ambito.com/economia/presupuesto-2027-los-tres-numeros-clave-que-mas-preocupan-los-mercados-n6322261",
-        "imagen": "https://media.ambito.com/p/54bcb525b3049e4b5d1e92c0af1cb61f/adjuntos/239/imagenes/043/401/0043401158/1200x675/987x270:1007x290/luis-caputo-latam-forum-2026.jpeg",
+        "titulo": "La economía de China, a dos velocidades: se aceleró el crecimiento de la industria, pero aflojó el consumo",
+        "link": "https://www.ambito.com/economia/la-china-dos-velocidades-se-acelero-el-crecimiento-la-industria-pero-aflojo-el-consumo-n6322374",
+        "imagen": "https://media.ambito.com/p/0b242932445c0e0afcd28c52f1eb6e13/adjuntos/239/imagenes/043/431/0043431682/1200x675/smart/inflacion-china.png",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 00:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 08:33:00 -0300"
       },
       {
-        "titulo": "Cuáles son los tres factores que predicen el aumento de la morosidad, según el Banco Nación",
-        "link": "https://www.clarin.com/economia/factores-predicen-aumento-morosidad-banco-nacion_0_Z8W95lJfDw.html",
-        "imagen": "https://www.clarin.com/img/2026/05/08/9m7YYSxOC_1200x630__1.jpg",
+        "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este martes 15 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-martes-15-de-septiembre-de-2026_0_tgE4hJ0djW.html",
+        "imagen": "https://www.clarin.com/img/2021/11/23/DMEZ4i0la_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 09:01:32 +0000"
+        "fecha": "Tue, 15 Sep 2026 10:45:13 +0000"
+      },
+      {
+        "titulo": "Cuánto cuesta criar un hijo en la Argentina según su edad y cuál fue el aumento en el último año",
+        "link": "https://www.infobae.com/economia/2026/09/15/cuanto-cuesta-criar-un-hijo-en-la-argentina-segun-su-edad-y-cual-fue-el-aumento-en-el-ultimo-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/QVDILQT3SVDZXA2UYC22VZL4KU.png?auth=7f37827988e8ec785ec9a8075dfe6e6c8786b3049ff9d933f12709fe627937b7&smart=true&width=2752&height=1536",
+        "fuente": "Infobae",
+        "fecha": "Tue, 15 Sep 2026 11:38:14 +0000"
+      },
+      {
+        "titulo": "Entró en vigor el acuerdo de libre comercio entre el Mercosur y Singapur",
+        "link": "https://www.ambito.com/economia/entro-vigor-el-acuerdo-libre-comercio-el-mercosur-y-singapur-n6322356",
+        "imagen": "https://media.ambito.com/p/d18938df27167a6267a393f5fbb32806/adjuntos/239/imagenes/043/605/0043605964/1200x675/581x348:601x368/argentina-singapur.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 15 Sep 2026 08:30:00 -0300"
+      },
+      {
+        "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este martes 15 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-martes-15-de-septiembre-de-2026_0_QNutSAbEZd.html",
+        "imagen": "https://www.clarin.com/img/2011/04/11/BklX7NkNe_1200x630.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 15 Sep 2026 10:45:12 +0000"
       },
       {
         "titulo": "ANSES: quiénes cobran hoy, martes 15 de septiembre de 2026",
@@ -110,18 +131,18 @@
         "fecha": "Tue, 15 Sep 2026 09:37:52 +0000"
       },
       {
-        "titulo": "Work and Travel: Pros, contras y todo lo que necesitás saber antes de viajar",
-        "link": "https://www.ambito.com/economia/work-and-travel-pros-contras-y-todo-lo-que-necesitas-saber-antes-viajar-n6322153",
-        "imagen": "https://media.ambito.com/p/9382e99260d25aa831758e7a50a307d1/adjuntos/239/imagenes/043/511/0043511877/mujer-ahorro-dolares.jpg",
+        "titulo": "Presupuesto 2027: los tres números clave que más preocupan a los mercados",
+        "link": "https://www.ambito.com/economia/presupuesto-2027-los-tres-numeros-clave-que-mas-preocupan-los-mercados-n6322261",
+        "imagen": "https://media.ambito.com/p/54bcb525b3049e4b5d1e92c0af1cb61f/adjuntos/239/imagenes/043/401/0043401158/1200x675/987x270:1007x290/luis-caputo-latam-forum-2026.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 14 Sep 2026 22:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 00:00:00 -0300"
       },
       {
-        "titulo": "Por qué el Banco Central no puede quedarse al margen del problema del aumento de la mora",
-        "link": "https://www.clarin.com/economia/banco-central-puede-quedarse-margen-problema-aumento-mora_0_2zakQPvd5n.html",
-        "imagen": "https://www.clarin.com/img/2026/08/14/lkLw9EIlG_1200x630__1.jpg",
+        "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este martes 15 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-martes-15-de-septiembre-de-2026_0_DLilwnQQlR.html",
+        "imagen": "https://www.clarin.com/img/2022/01/19/P2ZVV0DA5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 09:01:31 +0000"
+        "fecha": "Tue, 15 Sep 2026 10:45:11 +0000"
       },
       {
         "titulo": "Promulgaron el tratado de libre comercio entre el Mercosur y Singapur",
@@ -131,18 +152,18 @@
         "fecha": "Tue, 15 Sep 2026 07:56:25 +0000"
       },
       {
-        "titulo": "Repunta la pobreza: afecta a 1,7 millones de personas más que en 2025 y el deterioro es similar al inicio de la crisis macrista",
-        "link": "https://www.ambito.com/economia/repunta-la-pobreza-afecta-17-millones-personas-mas-que-2025-y-el-deterioro-es-similar-al-inicio-la-crisis-macrista-n6322254",
-        "imagen": "https://media.ambito.com/p/44269415d00ce60c925c93f2baaa9502/adjuntos/239/imagenes/043/429/0043429753/pobreza-argentina.jpeg",
+        "titulo": "Work and Travel: Pros, contras y todo lo que necesitás saber antes de viajar",
+        "link": "https://www.ambito.com/economia/work-and-travel-pros-contras-y-todo-lo-que-necesitas-saber-antes-viajar-n6322153",
+        "imagen": "https://media.ambito.com/p/9382e99260d25aa831758e7a50a307d1/adjuntos/239/imagenes/043/511/0043511877/mujer-ahorro-dolares.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 14 Sep 2026 21:21:00 -0300"
+        "fecha": "Mon, 14 Sep 2026 22:00:00 -0300"
       },
       {
-        "titulo": "Una láctea que estuvo paralizada por seis meses llegó a su objetivo de procesar 100.000 litros diarios y comenzó a vender queso en el mercado interno",
-        "link": "https://www.clarin.com/rural/lactea-paralizada-meses-llego-objetivo-procesar-100000-litros-diarios-comenzo-vender-queso-mercado-interno_0_bBsfA1L2vV.html",
-        "imagen": "https://www.clarin.com/img/2026/08/11/G2-wqgIyb_1200x630__1.jpg",
+        "titulo": "Euro hoy en Panamá: precio y cotización de la divisa este martes 15 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-martes-15-de-septiembre-de-2026_0_xbxEwmtCir.html",
+        "imagen": "https://www.clarin.com/img/2013/01/23/rJ4kl9llW_1200x630.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 09:01:30 +0000"
+        "fecha": "Tue, 15 Sep 2026 10:45:10 +0000"
       },
       {
         "titulo": "Milei presenta hoy el proyecto de Presupuesto 2027: cuáles son las expectativas de los especialistas",
@@ -150,27 +171,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/VDLYKRHZTNFHDLCK64KIQ4QV7U.jpg?auth=22230d1252f35f4bc7c1647048a7a420f04f84f51df2ed627af7a95311dbd5a0&smart=true&width=2200&height=1467",
         "fuente": "Infobae",
         "fecha": "Tue, 15 Sep 2026 05:40:47 +0000"
-      },
-      {
-        "titulo": "Las canastas de crianza subieron entre 2,1% y 2,4% en agosto: cuánto cuesta mantener a un hijo",
-        "link": "https://www.ambito.com/economia/las-canastas-crianza-subieron-21-y-24-agosto-cuanto-cuesta-mantener-un-hijo-n6322199",
-        "imagen": "https://media.ambito.com/p/f6842c71a02e766ec460b7862cb4a005/adjuntos/239/imagenes/042/942/0042942391/teletrabajo-hijos-justicia.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Mon, 14 Sep 2026 16:57:00 -0300"
-      },
-      {
-        "titulo": "Mina clausurada: conflicto en Santa Cruz con la principal operadora de oro del mundo",
-        "link": "https://www.clarin.com/energia-y-mineria/mina-oro-clausurada-conflicto-santa-cruz-principal-operadora-oro-mundo_0_s7hLaGTbYQ.html",
-        "imagen": "https://www.clarin.com/img/2026/09/14/5HInRl-Kg_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 14 Sep 2026 22:10:23 +0000"
-      },
-      {
-        "titulo": "Por una baja en la recaudación, el Gobierno dio marcha atrás con una medida clave que beneficiaba a las pymes",
-        "link": "https://www.infobae.com/economia/2026/09/15/por-una-baja-en-la-recaudacion-el-gobierno-dio-marcha-atras-con-una-medida-clave-que-beneficiaba-a-las-pymes/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZBNZT2X4OJFPTII5NQBNP6XGPI.png?auth=c65baac84fa1dcf989e39b457aeffae408c9af4bf0f473624d82af744fcb57d9&smart=true&width=1408&height=768",
-        "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 05:40:37 +0000"
       }
     ],
     "deportes": [
@@ -182,18 +182,18 @@
         "fecha": "Mon, 14 Sep 2026 23:02:00 -0300"
       },
       {
-        "titulo": "Lionel Messi va por un nuevo título en el Inter Miami: qué es la Campeones Cup contra Cruz Azul y el debut de Kily González como DT",
-        "link": "https://www.clarin.com/deportes/lionel-messi-va-nuevo-titulo-inter-miami-campeones-cup-cruz-azul-debut-kily-gonzalez-dt_0_Zr686f3519.html",
+        "titulo": "Lionel Messi pursues another title with Inter Miami: Campeones Cup clash against Cruz Azul and Kily González's head coaching debut",
+        "link": "https://www.clarin.com/deportes/lionel-messi-pursues-another-title-with-inter-miami-campeones-cup-clash-against-cruz-azul-and-kily-gonzalezs-head-coaching-debut_0_TRpiqaU6A0.html",
         "imagen": "https://www.clarin.com/img/2025/12/06/X3ouVG1yc_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 09:01:33 +0000"
+        "fecha": "Tue, 15 Sep 2026 10:39:28 +0000"
       },
       {
-        "titulo": "Boca Juniors y San Pablo definirán en Brasil el pase a las semifinales de la Copa Sudamericana: hora, TV y formaciones",
-        "link": "https://www.infobae.com/deportes/2026/09/15/boca-juniors-y-san-pablo-definiran-en-brasil-el-pase-a-las-semifinales-de-la-copa-sudamericana-hora-tv-y-formaciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/67TO2PCDN5CBFFGKJWR4O2T274.JPG?auth=6222ec66f26ee1d88e67e2f52860a23a443a876ef20d9d03db39265e862e50e8&smart=true&width=3373&height=2312",
+        "titulo": "Un ex jugador de Boca Juniors que brilla en Europa podría ser convocado para la selección de Italia",
+        "link": "https://www.infobae.com/deportes/2026/09/15/un-ex-jugador-de-boca-juniors-que-brilla-en-europa-podria-ser-convocado-para-la-seleccion-de-italia/",
+        "imagen": "https://www.infobae.com/resizer/v2/F6VA5PJFEJGHZCQEL5TVPPNS2I.jpg?auth=2863e38213149885a8ed02372eed66629bc9d6f44cf56665f842197188cd4a7b&smart=true&width=3072&height=2016",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 11:05:35 +0000"
+        "fecha": "Tue, 15 Sep 2026 11:27:28 +0000"
       },
       {
         "titulo": "Finalizada la fecha 9 del Clausura, ¿quiénes entrarían a playoffs y cómo serían los cruces de octavos?",
@@ -210,18 +210,18 @@
         "fecha": "Mon, 14 Sep 2026 23:00:00 -0300"
       },
       {
-        "titulo": "El mundo de los esports por dentro: así es el sorprendente debut en los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.clarin.com/deportes/juegos-suramericanos-esports_0_nqWeZ5V2uN.html",
-        "imagen": "https://www.clarin.com/img/2026/09/14/QOomn9w18_1200x630__1.jpg",
+        "titulo": "Lionel Messi va por un nuevo título en el Inter Miami: qué es la Campeones Cup contra Cruz Azul y el debut de Kily González como DT",
+        "link": "https://www.clarin.com/deportes/lionel-messi-va-nuevo-titulo-inter-miami-campeones-cup-cruz-azul-debut-kily-gonzalez-dt_0_Zr686f3519.html",
+        "imagen": "https://www.clarin.com/img/2025/12/06/X3ouVG1yc_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 08:37:28 +0000"
+        "fecha": "Tue, 15 Sep 2026 09:01:33 +0000"
       },
       {
-        "titulo": "La agenda de los Juegos Suramericanos Santa Fe 2026, día 3: Argentina buscará más medallas en natación, esgrima y gimnasia artística",
-        "link": "https://www.infobae.com/deportes/2026/09/15/la-agenda-de-los-juegos-suramericanos-santa-fe-2026-dia-3-argentina-buscara-mas-medallas-en-natacion-esgrima-y-gimnasia-artistica/",
-        "imagen": "https://www.infobae.com/resizer/v2/E6YJ2N3VL5DHDEAES5PF7P6E6E.jpg?auth=b6a71e721b283586f805d82bcd0233b8334ec4bbfd832cff6b1b9f07b23d35bb&smart=true&width=1285&height=859",
+        "titulo": "Boca Juniors y San Pablo definirán en Brasil el pase a las semifinales de la Copa Sudamericana: hora, TV y formaciones",
+        "link": "https://www.infobae.com/deportes/2026/09/15/boca-juniors-y-san-pablo-definiran-en-brasil-el-pase-a-las-semifinales-de-la-copa-sudamericana-hora-tv-y-formaciones/",
+        "imagen": "https://www.infobae.com/resizer/v2/67TO2PCDN5CBFFGKJWR4O2T274.JPG?auth=6222ec66f26ee1d88e67e2f52860a23a443a876ef20d9d03db39265e862e50e8&smart=true&width=3373&height=2312",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 10:49:33 +0000"
+        "fecha": "Tue, 15 Sep 2026 11:05:35 +0000"
       },
       {
         "titulo": "Video: el tremendo blooper del arquero de Estudiantes de Río Cuarto",
@@ -238,18 +238,18 @@
         "fecha": "Mon, 14 Sep 2026 20:13:00 -0300"
       },
       {
-        "titulo": "Boca vs. San Pablo: Arruabarrena vuelve a un Morumbí que le trae grandes recuerdos por el pase a semifinales de la Copa Sudamericana",
-        "link": "https://www.clarin.com/deportes/boca-vs-san-pablo-arruabarrena-vuelve-morumbi-trae-grandes-recuerdos-pase-semifinales-copa-sudamericana_0_N1IFG34OKB.html",
-        "imagen": "https://www.clarin.com/img/2026/09/14/BaSCFdx9Y_1200x630__1.jpg",
+        "titulo": "El mundo de los esports por dentro: así es el sorprendente debut en los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.clarin.com/deportes/juegos-suramericanos-esports_0_nqWeZ5V2uN.html",
+        "imagen": "https://www.clarin.com/img/2026/09/14/QOomn9w18_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 08:01:28 +0000"
+        "fecha": "Tue, 15 Sep 2026 08:37:28 +0000"
       },
       {
-        "titulo": "Las 21 medallas que consiguió Argentina en el segundo día de los Juegos Suramericanos Santa Fe 2026: cómo está en el ranking",
-        "link": "https://www.infobae.com/deportes/2026/09/15/las-21-medallas-que-consiguio-argentina-en-el-segundo-dia-de-los-juegos-suramericanos-como-esta-en-el-ranking/",
-        "imagen": "https://www.infobae.com/resizer/v2/QLXNNG6MOZFOJB4JQVCXUMEQKM.jpg?auth=3df146ca33c5cfb94a7c1ccec6c97af952d530e99c877e8851912e11210f4331&smart=true&width=1920&height=1080",
+        "titulo": "La agenda de los Juegos Suramericanos Santa Fe 2026, día 3: Argentina buscará más medallas en natación, esgrima y gimnasia artística",
+        "link": "https://www.infobae.com/deportes/2026/09/15/la-agenda-de-los-juegos-suramericanos-santa-fe-2026-dia-3-argentina-buscara-mas-medallas-en-natacion-esgrima-y-gimnasia-artistica/",
+        "imagen": "https://www.infobae.com/resizer/v2/E6YJ2N3VL5DHDEAES5PF7P6E6E.jpg?auth=b6a71e721b283586f805d82bcd0233b8334ec4bbfd832cff6b1b9f07b23d35bb&smart=true&width=1285&height=859",
         "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 09:29:23 +0000"
+        "fecha": "Tue, 15 Sep 2026 10:49:33 +0000"
       },
       {
         "titulo": "Troglio luego del empate: \"Les gusta más ver al Manchester City\"",
