@@ -58,6 +58,7 @@ def traer_cotizaciones(simbolos: list) -> list:
 
     for simbolo, info in data.items():
         if not isinstance(info, dict) or "percent_change" not in info:
+            print(f"  ! {simbolo} sin percent_change, respuesta: {info}", file=sys.stderr)
             continue
         try:
             resultados.append(
@@ -108,4 +109,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
