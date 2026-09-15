@@ -714,12 +714,23 @@ function esBancoTradicional(nombre) {
 async function cargarPlazoFijo() {
   try {
     const bancos = await fetch("https://api.argentinadatos.com/v1/finanzas/tasas/plazoFijo").then(r => r.json());
-    bancosPlazoFijo = bancos
-      .filter(b => b.tnaClientes && b.tnaClientes > 5 && esBancoTradicional(b.entidad))
+    const conTasaValida = bancos.filter(b => b.tnaClientes && b.tnaClientes > 5);
+
+    // Primero intenta solo bancos tradicionales; si eso da vacío, usa cualquiera con tasa válida
+    // (para que nunca se quede sin mostrar nada).
+    let filtrados = conTasaValida.filter(b => esBancoTradicional(b.entidad));
+    if (!filtrados.length) filtrados = conTasaValida;
+
+    bancosPlazoFijo = filtrados
       .sort((a, b) => b.tnaClientes - a.tnaClientes)
       .slice(0, 8);
+
     if (bancosPlazoFijo.length) {
       actualizarPlazoFijo();
+    } else {
+      document.getElementById("pf-entidad").textContent = "No disponible";
+      document.getElementById("pf-tna").textContent = "";
+      document.getElementById("pf-30dias").textContent = "";
     }
   } catch (e) {
     document.getElementById("pf-entidad").textContent = "No disponible";
