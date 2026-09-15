@@ -50,6 +50,33 @@ FEEDS = {
         ("C5N", "https://www.c5n.com/rss/pages/sociedad.xml"),
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/sociedad/policiales/?outputType=xml"),  # sin confirmar, revisar si no trae nada
     ],
+    "internacional": [
+        ("Ámbito", "https://www.ambito.com/rss/pages/mundo.xml"),
+        ("C5N", "https://www.c5n.com/rss/pages/mundo.xml"),
+        ("Clarín", "https://www.clarin.com/rss/mundo/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/america/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+    ],
+    "espectaculos": [
+        ("Ámbito", "https://www.ambito.com/rss/pages/espectaculos.xml"),
+        ("C5N", "https://www.c5n.com/rss/pages/ratingcero.xml"),
+        ("Clarín", "https://www.clarin.com/rss/espectaculos/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/teleshow/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+    ],
+    "tecnologia": [
+        ("Ámbito", "https://www.ambito.com/rss/pages/tecnologia.xml"),
+        ("C5N", "https://www.c5n.com/rss/pages/tecnologia.xml"),
+        ("Clarín", "https://www.clarin.com/rss/tecnologia/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/tecno/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+    ],
+    "autos": [
+        ("Ámbito", "https://www.ambito.com/rss/pages/autos.xml"),
+        ("C5N", "https://www.c5n.com/rss/pages/autos.xml"),
+        ("Clarín", "https://www.clarin.com/rss/autos/"),  # sin confirmar, revisar si no trae nada
+    ],
+    "turismo": [
+        ("Clarín", "https://www.clarin.com/rss/viajes/"),  # sin confirmar, revisar si no trae nada
+        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/viajes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+    ],
 }
 
 # Se traen más noticias que las que se muestran de una: el sitio va rotando
