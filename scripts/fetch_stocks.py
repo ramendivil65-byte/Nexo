@@ -11,6 +11,7 @@ que el sitio lee para mostrar los gráficos de barras.
 import json
 import os
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -21,14 +22,13 @@ API_KEY = os.environ.get("TWELVE_DATA_API_KEY")
 # ADRs argentinos que cotizan en Nueva York (no hay una API gratis confiable
 # para las acciones directamente en pesos de la Bolsa de Buenos Aires).
 ACCIONES_ARGENTINAS = [
-    "YPF", "GGAL", "PAM", "BMA", "TX", "BBAR", "SUPV", "CRESY", "TEO", "LOMA",
+    "YPF", "GGAL", "PAM", "BMA", "TX", "BBAR", "SUPV", "CRESY",
 ]
 
 # Una selección amplia de componentes del Dow Jones, para elegir el top 5
 # de subas y bajas entre ellos (no son solo 5 fijas).
 ACCIONES_DOW_JONES = [
-    "AAPL", "MSFT", "JPM", "KO", "NVDA", "CAT", "HD", "MCD", "V", "DIS",
-    "GS", "IBM", "CVX", "WMT", "PG", "UNH", "AXP", "HON", "AMGN", "CSCO",
+    "AAPL", "MSFT", "JPM", "KO", "NVDA", "CAT", "HD", "MCD",
 ]
 
 REQUEST_TIMEOUT = 20
@@ -91,6 +91,9 @@ def main():
     print("Trayendo acciones argentinas (ADRs)...")
     cotiz_argentinas = traer_cotizaciones(ACCIONES_ARGENTINAS)
     print(f"  {len(cotiz_argentinas)} cotizaciones recibidas")
+
+    print("Esperando 60 segundos para no pasarme del límite por minuto...")
+    time.sleep(60)
 
     print("Trayendo acciones del Dow Jones...")
     cotiz_dow = traer_cotizaciones(ACCIONES_DOW_JONES)
