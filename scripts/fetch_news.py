@@ -44,7 +44,8 @@ FEEDS = {
         ("C5N", "https://www.c5n.com/rss/pages/deportes.xml"),
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
         ("Olé", "https://www.ole.com.ar/rss/futbol-primera/"),  # sin confirmar, revisar si no trae nada
-        ("Cielosports", "https://infocielo.com/deportes/noticias_rss.php"),
+        ("El Día Deportes", "https://www.eldia.com/deportes/.rss"),
+        ("0221 Deportes", "https://www.0221.com.ar/rss/pages/deportes.xml"),
     ],
     "policiales_actualidad": [
         ("Clarín", "https://www.clarin.com/rss/policiales/"),  # sin confirmar, revisar si no trae nada
@@ -145,7 +146,7 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
     # Cielosports (deportes de La Plata) tiene más peso a propósito: la mayoría
     # de los primeros lectores del sitio son de La Plata, así que Gimnasia y
     # Estudiantes se ven más seguido que en un medio genérico.
-    FUENTES_CON_MAS_PESO = {"Cielosports": 12}
+    FUENTES_CON_MAS_PESO = {"El Día Deportes": 12, "0221 Deportes": 12}
 
     items = []
     for nombre_fuente, url in fuentes:
