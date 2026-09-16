@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-16T14:44:18.460947+00:00",
+  "actualizado": "2026-09-16T14:59:13.342636+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "CABA avanza con la limpieza del arroyo Cildañez",
+        "link": "https://www.ambito.com/politica/caba-avanza-la-limpieza-del-arroyo-cildanez-n6322995",
+        "imagen": "https://media.ambito.com/p/080287de1831f8699aade587f051fab9/adjuntos/239/imagenes/043/646/0043646127/limpieza-arroyo-cildanez.jpeg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 11:38:00 -0300"
+      },
+      {
+        "titulo": "Dura carta de estudiantes secundarios contra Kicillof: lo acusan de sacar los traslados para el acto de la Noche de los Lápices por su interna con Cristina",
+        "link": "https://www.clarin.com/politica/dura-carta-estudiantes-secundarios-kicillof-acusan-sacar-traslados-acto-noche-lapices-interna-cristina_0_5xBsTPKte8.html",
+        "imagen": "https://www.clarin.com/img/2026/08/25/qVL_l_VxB_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 16 Sep 2026 14:00:33 +0000"
+      },
+      {
+        "titulo": "Derrumbe de un edificio en Gaza: 20 muertos y decenas de desaparecidos",
+        "link": "https://www.ambito.com/mundo/derrumbe-un-edificio-gaza-20-muertos-y-decenas-desaparecidos-n6323009",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Wed, 16 Sep 2026 11:45:00 -0300"
+      },
+      {
+        "titulo": "Después de las bombas: la historia de la destrucción de hospitales, escuelas y hogares de la Fundación Eva Perón",
+        "link": "https://www.c5n.com/politica/despues-las-bombas-la-historia-la-destruccion-hospitales-escuelas-y-hogares-la-fundacion-eva-peron-n248963",
+        "imagen": "https://media.c5n.com/p/545e9fae7f939a4cee10618cd58f4a8a/adjuntos/326/imagenes/000/399/0000399095/1200x675/smart/bombardeo.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 09:42:00 -0300"
+      },
+      {
+        "titulo": "Los 1000 días de Milei: el Gobierno llega con su peor valoración y malestar económico, pero conserva su piso electoral",
+        "link": "https://www.infobae.com/politica/2026/09/16/los-1000-dias-de-milei-el-gobierno-llega-con-su-peor-valoracion-malestar-economico-pero-conserva-su-piso-electoral/",
+        "imagen": "https://www.infobae.com/resizer/v2/R46JFBKHTBEELPGYKHWE3OIHAI.png?auth=7a266fdfaef0bac9d4c6db8f87a416f4c647ad72e6bc50dceeee0ae338e09a66&smart=true&width=2752&height=1536",
+        "fuente": "Infobae",
+        "fecha": "Wed, 16 Sep 2026 14:47:15 +0000"
+      },
+      {
+        "titulo": "Tres fotos que alientan las especulaciones acerca del peronismo cordobés",
+        "link": "https://www.tiempoar.com.ar/ta_article/tres-fotos-que-alientan-las-especulaciones-acerca-del-peronismo-cordobes/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 16 Sep 2026 14:04:33 +0000"
+      },
       {
         "titulo": "\"Deberían poder ingresar sin visa\": la promesa del embajador Peter Lamelas para los argentinos que viajen a EEUU",
         "link": "https://www.ambito.com/politica/deberian-poder-ingresar-visa-la-promesa-del-embajador-peter-lamelas-los-argentinos-que-viajen-eeuu-n6322976",
@@ -19,51 +61,9 @@
       {
         "titulo": "Malvinas: qué países respaldan el reclamo argentino y cuál es la postura internacional",
         "link": "https://www.ambito.com/mundo/malvinas-que-paises-respaldan-el-reclamo-argentino-y-cual-es-la-postura-internacional-n6322982",
-        "imagen": "https://media.ambito.com/p/c6b44fd924b39f6b5c0ca4597d964093/adjuntos/239/imagenes/043/646/0043646116/1200x675/smart/islas-malvinas.jpg",
+        "imagen": "",
         "fuente": "Ámbito Mundo",
         "fecha": "Wed, 16 Sep 2026 11:25:00 -0300"
-      },
-      {
-        "titulo": "Después de las bombas: la historia de la destrucción de hospitales, escuelas y hogares de la Fundación Eva Perón",
-        "link": "https://www.c5n.com/politica/despues-las-bombas-la-historia-la-destruccion-hospitales-escuelas-y-hogares-la-fundacion-eva-peron-n248963",
-        "imagen": "https://media.c5n.com/p/545e9fae7f939a4cee10618cd58f4a8a/adjuntos/326/imagenes/000/399/0000399095/1200x675/smart/bombardeo.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 09:42:50 -0300"
-      },
-      {
-        "titulo": "Los 1000 días de Milei: el Gobierno llega con su peor valoración y malestar económico, pero conserva su piso electoral",
-        "link": "https://www.infobae.com/politica/2026/09/16/los-1000-dias-de-milei-el-gobierno-llega-con-su-peor-valoracion-malestar-economico-pero-conserva-su-piso-electoral/",
-        "imagen": "https://www.infobae.com/resizer/v2/UYCJPTZ4YJG77HHHCS2JO4STRI.png?auth=93353ae97b6a3e6634811206411893fb739c2484614b7dc4e01bd687d48eedd8&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:42:18 +0000"
-      },
-      {
-        "titulo": "Tres fotos que alientan las especulaciones acerca del peronismo cordobés",
-        "link": "https://www.tiempoar.com.ar/ta_article/tres-fotos-que-alientan-las-especulaciones-acerca-del-peronismo-cordobes/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 14:04:33 +0000"
-      },
-      {
-        "titulo": "El Presupuesto 2027 propone cambios en discapacidad y las universidades recibirán menos de lo que piden",
-        "link": "https://www.ambito.com/politica/presupuesto-2027-propone-cambios-discapacidad-y-las-universidades-recibiran-menos-lo-que-piden-n6322840",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 09:38:00 -0300"
-      },
-      {
-        "titulo": "Peter Lamelas ratificó que impulsa el regreso de la Argentina al Visa Waiver Program: \"Los que cumplen las reglas deberían ingresar a Estados Unidos sin visa\"",
-        "link": "https://www.clarin.com/politica/peter-lamelas-dijo-impulsa-regreso-argentina-visa-waiver-program-cumplen-reglas-deberian-ingresar-estados-unidos-visa_0_2u701XiPGJ.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/N_hVSDOTr_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 12:36:49 +0000"
-      },
-      {
-        "titulo": "China ratificó su apoyo a Argentina por el reclamo de soberanía sobre las Islas Malvinas con Reino Unido",
-        "link": "https://www.ambito.com/mundo/china-ratifico-su-apoyo-argentina-el-reclamo-soberania-las-islas-malvinas-reino-unido-n6322957",
-        "imagen": "https://media.ambito.com/p/55cc4bdeb46446e88baee3e8793bcd2f/adjuntos/239/imagenes/043/551/0043551795/1200x675/705x238:725x258/milei-xi-jinping.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 16 Sep 2026 10:57:00 -0300"
       },
       {
         "titulo": "El Gobierno aprobó un nuevo estatuto para el personal de la SIDE: qué dice sobre contrataciones y despidos",
@@ -103,18 +103,18 @@
         "fecha": "Wed, 16 Sep 2026 13:46:16 +0000"
       },
       {
-        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 16 de septiembre",
-        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-16-septiembre-n249039",
-        "imagen": "https://media.c5n.com/p/86d07741be92aca1525bf763d2ddb81d/adjuntos/326/imagenes/000/262/0000262393/1200x675/smart/dolar-blue-dolares-billetes-divisas.png",
+        "titulo": "Presupuesto 2027: las dudas de los economistas sobre las metas de inflación, dólar y crecimiento",
+        "link": "https://www.c5n.com/economia/presupuesto-2027-las-dudas-los-economistas-las-metas-inflacion-dolar-y-crecimiento-n249050",
+        "imagen": "https://media.c5n.com/p/3258c074c794526488ecac92839a5c44/adjuntos/326/imagenes/000/399/0000399121/1200x675/smart/javier-milei-luis-caputo.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 08:18:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:44:00 -0300"
       },
       {
-        "titulo": "Quiénes son los empresarios que se disputan el control de AySA, la distribuidora de agua",
-        "link": "https://www.infobae.com/economia/2026/09/16/quienes-son-los-empresarios-que-se-disputan-el-control-de-aysa-la-distribuidora-de-agua/",
-        "imagen": "https://www.infobae.com/resizer/v2/7APLIPPWBVEADLTEO2CBBPV3SI.jpg?auth=ba639064264c1768335b4ac651a7d0a862733e6bc120a6c27faedc393ca463f4&smart=true&width=1920&height=1080",
+        "titulo": "Planes de ahorro: las suscripciones bajaron en agosto y crece la competencia de los créditos a tasa subsidiada",
+        "link": "https://www.infobae.com/economia/2026/09/16/planes-de-ahorro-las-suscripciones-bajaron-en-agosto-y-crece-la-competencia-de-los-creditos-a-tasa-0/",
+        "imagen": "https://www.infobae.com/resizer/v2/EVF7ETZDO5HETIA4RDI6VCHXB4.jpg?auth=34bf2f23148456e48d8cc255febf8f163ebf1b22e8b9eba28538df5eca33cb14&smart=true&width=5243&height=2949",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:27:28 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:48:09 +0000"
       },
       {
         "titulo": "«Optimista pero no realista», la opinión de economistas sobre el Presupuesto 2027",
@@ -138,18 +138,18 @@
         "fecha": "Wed, 16 Sep 2026 13:14:49 +0000"
       },
       {
-        "titulo": "El Presupuesto 2027 ingresó al Congreso: prevé una inflación anual del 18% y un crecimiento del PBI del 4%",
-        "link": "https://www.c5n.com/economia/javier-milei-presupuesto-2027-congreso-gobierno-presentacion-15-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/4a3abb4803c370ad5fc7d43c8bd77efb/adjuntos/326/imagenes/000/349/0000349540/1200x675/smart/javier-milei-luis-caputo-asamblea-la-onu-septiembre-2025.jpg",
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 16 de septiembre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-16-septiembre-n249039",
+        "imagen": "https://media.c5n.com/p/86d07741be92aca1525bf763d2ddb81d/adjuntos/326/imagenes/000/262/0000262393/1200x675/smart/dolar-blue-dolares-billetes-divisas.png",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 23:26:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 08:18:00 -0300"
       },
       {
-        "titulo": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este miércoles 16 de septiembre",
-        "link": "https://www.infobae.com/economia/2026/09/16/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-16-de-septiembre/",
-        "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
+        "titulo": "Mercados: bajan las acciones y los bonos argentinos, mientras retrocede el precio del crudo",
+        "link": "https://www.infobae.com/economia/2026/09/16/mercados-bajan-las-acciones-y-los-bonos-argentinos-mientras-retrocede-el-precio-del-crudo/",
+        "imagen": "https://www.infobae.com/resizer/v2/WAO4SWZCRRFPHIUCIWUABXBHJA.JPG?auth=dc7a7dcd2da6589f6f706b118bc2f64f738ce3b3b07fbc65092944af6b228a0e&smart=true&width=5707&height=3805",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 13:35:13 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:44:35 +0000"
       },
       {
         "titulo": "Presupuesto 2027: el gobierno repite el optimismo de 2026 y calcula una inflación del 18% y un crecimiento del 4%",
@@ -182,11 +182,11 @@
         "fecha": "Wed, 16 Sep 2026 11:36:00 -0300"
       },
       {
-        "titulo": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país",
-        "link": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/p_tzPoaJr_1200x630__1.jpg",
+        "titulo": "Polémica en España: Mbappé y Vinícius Jr. se negaron a mostrar sus camisetas por Ceuta y ahora piden silbarlos en todas las canchas",
+        "link": "https://www.clarin.com/deportes/polemica-espana-mbappe-vinicius-jr-negaron-mostrar-camisetas-ceuta-ahora-piden-silbarlos-todas-canchas_0_pKT1AIqIHo.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/CqVoemyM23_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 13:24:00 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:29:18 +0000"
       },
       {
         "titulo": "A qué hora se estrena el desafío de Max Verstappen vs.100 pilotos amateurs: dónde ver en vivo la carrera de kartings",
@@ -196,11 +196,11 @@
         "fecha": "Wed, 16 Sep 2026 10:55:00 -0300"
       },
       {
-        "titulo": "Argentina merece más, pero pierde 1-0 con Corea del Sur por los octavos de final del Mundial Sub 20 femenino",
+        "titulo": "Argentina peleó hasta el final y mereció más, pero quedó eliminada del Mundial Sub 20 femenino ante Corea del Sur",
         "link": "https://www.infobae.com/deportes/2026/09/16/argentina-jugara-ante-corea-del-sur-por-el-pase-a-los-cuartos-de-final-del-mundial-sub-20-femenino-hora-tv-y-todo-lo-que-hay-que-saber/",
         "imagen": "https://www.infobae.com/resizer/v2/F25647SQZNF7PLOIC7HIX3LNSI.jpg?auth=9557c8e128220dd7b270ddc5bf33d28fc4544acf05e06b6dc134b2dfe5db0a9a&smart=true&width=3000&height=1688",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:36:10 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:54:42 +0000"
       },
       {
         "titulo": "La marca que tienen solo seis técnicos de River y Ponzio buscará igualar",
@@ -217,11 +217,11 @@
         "fecha": "Wed, 16 Sep 2026 11:27:00 -0300"
       },
       {
-        "titulo": "Zigzag en la autopista, accidente y una extraña droga a bordo de un Lamborghini: un ex Manchester City complicado con la Justicia",
-        "link": "https://www.clarin.com/deportes/zigzag-autopista-accidente-extrana-droga-abordo-lamborghini-ex-manchester-city-complicado-justicia_0_RRMgC2yFwI.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/xOVmKhGa3_1200x630__1.jpg",
+        "titulo": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país",
+        "link": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/p_tzPoaJr_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 13:19:15 +0000"
+        "fecha": "Wed, 16 Sep 2026 13:24:00 +0000"
       },
       {
         "titulo": "La despedida de Lionel Messi de la Selección argentina: cuándo salen las entradas, dónde comprarlas y cuánto costarían",
@@ -231,11 +231,11 @@
         "fecha": "Wed, 16 Sep 2026 10:14:00 -0300"
       },
       {
-        "titulo": "Desgarradora carta de la familia de la atleta que desapareció hace dos semanas en una montaña: “Todo indica que cayó mientras descendía”",
-        "link": "https://www.infobae.com/deportes/2026/09/16/desgarradora-carta-de-la-familia-de-la-atleta-que-desaparecio-hace-dos-semanas-en-una-montana-todo-indica-que-cayo-mientras-descendia/",
-        "imagen": "https://www.infobae.com/resizer/v2/CADCB4226JFBDI5CRGWOKQTAUI.png?auth=a517653748391050c88e00d8b7525010bbeed67473959b29ae9d4c85fe48f359&smart=true&width=2752&height=1536",
+        "titulo": "El Inter Miami de Messi buscará el título de la Campeones Cup frente a Cruz Azul: hora, TV y todo lo que hay que saber",
+        "link": "https://www.infobae.com/deportes/2026/09/16/el-inter-miami-de-messi-buscara-el-titulo-de-la-campeones-cup-frente-a-cruz-azul-hora-tv-y-todo-lo-que-hay-que-saber/",
+        "imagen": "https://www.infobae.com/resizer/v2/3K2UEK3I2FH4VINVG6MGJ5G4KE.jpg?auth=af7e09f798f08654ec9b1a3c9ec338ea208af0c4fd67f76bc3e2e7d5b79907c4&smart=true&width=4931&height=2774",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:29:32 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:45:04 +0000"
       },
       {
         "titulo": "¿Con una sorpresa?: los convocados que tendría River a la Selección y Ponzio perderá por dos semanas",
@@ -252,11 +252,11 @@
         "fecha": "Wed, 16 Sep 2026 11:12:00 -0300"
       },
       {
-        "titulo": "Selección Argentina vs Corea del Sur, EN VIVO, por el Mundial Sub-20 femenino: cómo va, resultado y minuto a minuto",
-        "link": "https://www.clarin.com/deportes/seleccion-argentina-vs-corea-sur-vivo-mundial-sub-20-femenino-va-resultado-minuto-minuto_0_n38z8WdWMl.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/Ht5gllelR_1200x630__1.jpg",
+        "titulo": "Zigzag en la autopista, accidente y una extraña droga a bordo de un Lamborghini: un ex Manchester City complicado con la Justicia",
+        "link": "https://www.clarin.com/deportes/zigzag-autopista-accidente-extrana-droga-abordo-lamborghini-ex-manchester-city-complicado-justicia_0_RRMgC2yFwI.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/xOVmKhGa3_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 13:05:13 +0000"
+        "fecha": "Wed, 16 Sep 2026 13:19:15 +0000"
       }
     ],
     "policiales_actualidad": [
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Malvinas: qué países respaldan el reclamo argentino y cuál es la postura internacional",
-        "link": "https://www.ambito.com/mundo/malvinas-que-paises-respaldan-el-reclamo-argentino-y-cual-es-la-postura-internacional-n6322982",
-        "imagen": "https://media.ambito.com/p/c6b44fd924b39f6b5c0ca4597d964093/adjuntos/239/imagenes/043/646/0043646116/1200x675/smart/islas-malvinas.jpg",
+        "titulo": "Derrumbe de un edificio en Gaza: 20 muertos y decenas de desaparecidos",
+        "link": "https://www.ambito.com/mundo/derrumbe-un-edificio-gaza-20-muertos-y-decenas-desaparecidos-n6323009",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 11:25:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:45:00 -0300"
       },
       {
         "titulo": "Video: el momento exacto en el que el helicóptero de un canal de noticias se estrella contra el suelo en Los Ángeles",
@@ -361,25 +361,25 @@
         "fecha": "Wed, 16 Sep 2026 09:04:00 -0300"
       },
       {
-        "titulo": "Represión, detenciones ilegales y desapariciones forzadas: advierten que Venezuela tuvo solo \"mejoras limitadas\" tras la salida de Maduro",
-        "link": "https://www.clarin.com/mundo/represion-detenciones-ilegales-desapariciones-forzadas-advierten-venezuela-solo-mejoras-limitadas-salida-maduro_0_iHAcCLeoPs.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/w1-aTjIuP_1200x630__1.jpg",
+        "titulo": "Trump aprueba la venta de armas a Israel por valor de 2.800 millones de dólares, incluyendo 40.000 bombas de una tonelada",
+        "link": "https://www.clarin.com/new-york-times-international-weekly/trump-aprueba-venta-armas-israel-valor-2800-millones-dolares-incluyendo-40000-bombas-tonelada_0_9B5FZJJQA5.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/ZxZLyNGIu_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 13:15:26 +0000"
+        "fecha": "Wed, 16 Sep 2026 12:55:35 +0000"
       },
       {
-        "titulo": "Fiestas Patrias 2026 cierran con 829 atenciones prehospitalarias y cero fallecidos",
-        "link": "https://www.infobae.com/honduras/2026/09/16/fiestas-patrias-2026-cierran-con-829-atenciones-prehospitalarias-y-cero-fallecidos/",
-        "imagen": "https://www.infobae.com/resizer/v2/PN4P24QTOZEK5FAAKBO7P7XL6E.jpg?auth=61650d9c47e2434c9a96f25af577289a48aa110fa9fb76e3edcd9089deeced8c&smart=true&width=1200&height=900",
+        "titulo": "Las autoridades indígenas de Guatemala lanzan la campaña Pasos firmes para frenar la criminalización",
+        "link": "https://www.infobae.com/america/america-latina/2026/09/16/las-autoridades-indigenas-de-guatemala-lanzan-la-campana-pasos-firmes-para-frenar-la-criminalizacion/",
+        "imagen": "https://www.infobae.com/resizer/v2/GLAITBN72JHBXERKKI2GZUBYTQ.jpg?auth=1a7bb98c6183dd06e4c01e8da51da6fb30aadb78f3fb079b0d47bfb60542571e&smart=true&width=4272&height=2848",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:40:37 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:54:20 +0000"
       },
       {
-        "titulo": "China ratificó su apoyo a Argentina por el reclamo de soberanía sobre las Islas Malvinas con Reino Unido",
-        "link": "https://www.ambito.com/mundo/china-ratifico-su-apoyo-argentina-el-reclamo-soberania-las-islas-malvinas-reino-unido-n6322957",
-        "imagen": "https://media.ambito.com/p/55cc4bdeb46446e88baee3e8793bcd2f/adjuntos/239/imagenes/043/551/0043551795/1200x675/705x238:725x258/milei-xi-jinping.jpg",
+        "titulo": "Malvinas: qué países respaldan el reclamo argentino y cuál es la postura internacional",
+        "link": "https://www.ambito.com/mundo/malvinas-que-paises-respaldan-el-reclamo-argentino-y-cual-es-la-postura-internacional-n6322982",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 10:57:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:25:00 -0300"
       },
       {
         "titulo": "Horror en Gaza: al menos 20 muertos y 60 desaparecidos por el derrumbe de un edificio bombardeado",
@@ -389,25 +389,25 @@
         "fecha": "Wed, 16 Sep 2026 08:56:00 -0300"
       },
       {
-        "titulo": "Trump aprueba la venta de armas a Israel por valor de 2.800 millones de dólares, incluyendo 40.000 bombas de una tonelada",
-        "link": "https://www.clarin.com/new-york-times-international-weekly/trump-aprueba-venta-armas-israel-valor-2800-millones-dolares-incluyendo-40000-bombas-tonelada_0_9B5FZJJQA5.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/ZxZLyNGIu_1200x630__1.jpg",
+        "titulo": "¿Lula o Flávio Bolsonaro?: Una nueva encuesta revela quién es más deshonesto para los votantes",
+        "link": "https://www.clarin.com/mundo/lula-flavio-bolsonaro-nueva-encuesta-revela-deshonesto-votantes_0_QmhI4BdkOV.html",
+        "imagen": "https://www.clarin.com/img/2026/09/08/N01k8KCRS_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 12:55:35 +0000"
+        "fecha": "Wed, 16 Sep 2026 12:48:45 +0000"
       },
       {
-        "titulo": "El Interamerican Institute for Democracy presenta la conferencia “Bolivia: Constitución del Estado Plurinacional es nula”",
-        "link": "https://www.infobae.com/america/america-latina/2026/09/16/el-interamerican-institute-for-democracy-presenta-la-conferencia-bolivia-constitucion-del-estado-plurinacional-es-nula/",
-        "imagen": "https://www.infobae.com/resizer/v2/D7QPEEVFTRA7JPEVEDDQIWYZM4.jpg?auth=2c90604558ef17778b2f06ce5d76ad7e4f1f8693ca93c6721fb66f65a5646684&smart=true&width=1920&height=1080",
+        "titulo": "“Miren con lo que nos están matando”: cubanos explotan ante la llegada de agua fétida y contaminada a sus casas",
+        "link": "https://www.infobae.com/cuba/2026/09/16/miren-con-lo-que-nos-estan-matando-cubanos-explotan-ante-la-llegada-de-agua-fetida-y-contaminada-a-sus-casas/",
+        "imagen": "https://www.infobae.com/resizer/v2/VQDG6IYXKFHOJHID6QWSZD2MYU.png?auth=b7339a1c2a8596a1a767cf2b5389208cfc23f98a4bfdcd87ba71bfb43bc5c8dd&smart=true&width=446&height=325",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:40:32 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:51:48 +0000"
       },
       {
-        "titulo": "El efecto dominó que preocupa a Reino Unido: después de Escocia, Gales e Irlanda del Norte, un pueblo inglés votó independizarse",
-        "link": "https://www.ambito.com/mundo/el-efecto-domino-que-preocupa-reino-unido-despues-escocia-gales-e-irlanda-del-norte-un-pueblo-ingles-voto-independizarse-n6322971",
-        "imagen": "https://media.ambito.com/p/8b64f7cf56adf06413401583432ba6a4/adjuntos/239/imagenes/043/645/0043645891/piddington-reino-unido.jpg",
+        "titulo": "China ratificó su apoyo a Argentina por el reclamo de soberanía sobre las Islas Malvinas con Reino Unido",
+        "link": "https://www.ambito.com/mundo/china-ratifico-su-apoyo-argentina-el-reclamo-soberania-las-islas-malvinas-reino-unido-n6322957",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 10:47:05 -0300"
+        "fecha": "Wed, 16 Sep 2026 10:57:00 -0300"
       },
       {
         "titulo": "Un helicóptero de un canal de noticias se estrelló mientras cubría un choque en Los Ángeles: al menos tres muertos",
@@ -417,18 +417,18 @@
         "fecha": "Wed, 16 Sep 2026 07:47:00 -0300"
       },
       {
-        "titulo": "¿Lula o Flávio Bolsonaro?: Una nueva encuesta revela quién es más deshonesto para los votantes",
-        "link": "https://www.clarin.com/mundo/lula-flavio-bolsonaro-nueva-encuesta-revela-deshonesto-votantes_0_QmhI4BdkOV.html",
-        "imagen": "https://www.clarin.com/img/2026/09/08/N01k8KCRS_1200x630__1.jpg",
+        "titulo": "En la era de la IA, algunos en China se preguntan si vale la pena aprender inglés",
+        "link": "https://www.clarin.com/new-york-times-international-weekly/ia-china-preguntan-vale-pena-aprender-ingles_0_elzp4aACzI.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/Yf6xqUgfy_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 12:48:45 +0000"
+        "fecha": "Wed, 16 Sep 2026 12:39:17 +0000"
       },
       {
-        "titulo": "CAMPO prevé alzas en los precios de los granos básicos en 2027 si la sequía frena la siembra postrera en El Salvador",
-        "link": "https://www.infobae.com/el-salvador/2026/09/16/campo-preve-alzas-en-los-precios-de-los-granos-basicos-en-2027-si-la-sequia-frena-la-siembra-postrera-en-el-salvador/",
-        "imagen": "https://www.infobae.com/resizer/v2/WVGTUFGRQRHQHNKI3AAXOL5EJI.jpeg?auth=aaedb44c111c93ba2a30219f5436712a46d394187791252a0fc6a2ecc3f89304&smart=true&width=1600&height=720",
+        "titulo": "Próspera ZEDE juramenta nuevo fiscal civil en medio de la disputa jurídica",
+        "link": "https://www.infobae.com/honduras/2026/09/16/prospera-zede-juramenta-nuevo-fiscal-civil-en-medio-de-la-disputa-juridica/",
+        "imagen": "https://www.infobae.com/resizer/v2/WIAUOQCTXZG7HOFGBZMBABMRPI.jpg?auth=6bdc7dabdc59ea77ebf0759536744865df08f6f771eac7577ce5110be9511a6a&smart=true&width=696&height=459",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:35:19 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:50:08 +0000"
       }
     ],
     "espectaculos": [
@@ -447,11 +447,11 @@
         "fecha": "Wed, 16 Sep 2026 11:30:00 -0300"
       },
       {
-        "titulo": "Por qué \"The Pitt\" ganó el Premio Emmy a mejor serie dramática por segundo año seguido",
-        "link": "https://www.clarin.com/espectaculos/the-pitt-gano-premio-emmy-mejor-serie-dramatica-segundo-ano-seguido_0_13BuHaEkG9.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/ilTtIvFBZ_1200x630__1.jpg",
+        "titulo": "Crisis en la gira de Ed Sheeran: por qué renunciaron todos sus teloneros y qué pasará con su show en Argentina",
+        "link": "https://www.clarin.com/espectaculos/crisis-gira-ed-sheeran-renunciaron-teloneros-pasara-show-argentina_0_yJHjdes26D.html",
+        "imagen": "https://www.clarin.com/img/2025/02/10/VO1dNv6Eh_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 21:27:17 +0000"
+        "fecha": "Wed, 16 Sep 2026 13:53:15 +0000"
       },
       {
         "titulo": "Lizy Tagliani mostró su particular plato “gourmet” antes de competir en MasterChef Celebrity: ” Mi preferido”",
@@ -475,11 +475,11 @@
         "fecha": "Wed, 16 Sep 2026 11:14:00 -0300"
       },
       {
-        "titulo": "Slow Horses: tras ganar un Emmy y a un día de estrenar su sexta temporada, Apple TV confirmó la octava",
-        "link": "https://www.clarin.com/espectaculos/slow-horses-ganar-emmy-dia-estrenar-sexta-temporada-apple-tv-confirmo-octava_0_Ev1xOwpCw3.html",
-        "imagen": "https://www.clarin.com/img/2022/04/21/p__lQhDlv_1200x630__1.jpg",
+        "titulo": "Taylor Swift y su estrategia maestra de marketing: cómo convirtió a sus fans en detectives... que le hacen campaña",
+        "link": "https://www.clarin.com/espectaculos/taylor-swift-estrategia-maestra-marketing-convirtio-fans-detectives-hacen-campana_0_diLkocMunA.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/ftPYleDPS_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 20:18:32 +0000"
+        "fecha": "Wed, 16 Sep 2026 13:22:21 +0000"
       },
       {
         "titulo": "La pregunta al aire de Julián Weich su hijo hippie: “¿De qué vivís? Porque yo no te paso un mango\"",
@@ -503,11 +503,11 @@
         "fecha": "Wed, 16 Sep 2026 10:05:00 -0300"
       },
       {
-        "titulo": "Sir András Schiff en el Teatro Colón: más que un concierto, una verdadera lección de música de un artista descomunal",
-        "link": "https://www.clarin.com/espectaculos/sir-andras-schiff-teatro-colon-concierto-verdadera-leccion-musica-artista-descomunal_0_O4ozMB5cXJ.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/xakRcsMp8_1200x630__1.jpg",
+        "titulo": "No son inglesas: de U2 a Franz Ferdinand, las bandas de Escocia, Gales e Irlanda que conquistaron el mundo",
+        "link": "https://www.clarin.com/espectaculos/inglesas-u2-franz-ferdinand-bandas-escocia-gales-irlanda-conquistaron-mundo_0_sSHVE0Q1GY.html",
+        "imagen": "https://www.clarin.com/img/2017/05/13/BJXRpOZX-_1200x630.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 16:58:39 +0000"
+        "fecha": "Wed, 16 Sep 2026 12:44:47 +0000"
       },
       {
         "titulo": "El guiño de Julieta Ortega a su hermano Emanuel y a Julieta Prandi tras ausentarse a la sorpresiva boda en San Isidro",
@@ -626,9 +626,9 @@
         "fecha": "Wed, 16 Sep 2026 13:07:58 GMT"
       },
       {
-        "titulo": "La regla de oro de la sillita de auto que salva vidas y muchos ignoran",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/la-regla-de-oro-de-la-sillita-de-auto-que-salva-vidas-y-muchos-ignoran/",
-        "imagen": "https://tn.com.ar/resizer/v2/I6XMRXR3HBB5DNZTPBFEWPVOXM.JPG?auth=5f215446fda32060bd50921f40acd64467384a947d37e2dbe3f588e1f0cbcf4c",
+        "titulo": "Los precios de Dongfeng en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/los-precios-de-dongfeng-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/HLX5TB57PBD6BMUH2MMJWER2XE.jpg?auth=cc9a7683e8e2dd6c82b9ed7d9d6d74e16395facb7ef414301e1eea665c70cd07",
         "fuente": "TN Autos",
         "fecha": "2026-09-16T06:00:00-03:00"
       },
@@ -640,9 +640,9 @@
         "fecha": "Wed, 16 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Los precios de Dongfeng en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/los-precios-de-dongfeng-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/HLX5TB57PBD6BMUH2MMJWER2XE.jpg?auth=cc9a7683e8e2dd6c82b9ed7d9d6d74e16395facb7ef414301e1eea665c70cd07",
+        "titulo": "La regla de oro de la sillita de auto que salva vidas y muchos ignoran",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/la-regla-de-oro-de-la-sillita-de-auto-que-salva-vidas-y-muchos-ignoran/",
+        "imagen": "https://tn.com.ar/resizer/v2/I6XMRXR3HBB5DNZTPBFEWPVOXM.JPG?auth=5f215446fda32060bd50921f40acd64467384a947d37e2dbe3f588e1f0cbcf4c",
         "fuente": "TN Autos",
         "fecha": "2026-09-16T06:00:00-03:00"
       },
@@ -714,6 +714,13 @@
     ],
     "vida_sana": [
       {
+        "titulo": "Ejercicio y cáncer: un estudio identificó qué tipo de actividad física se asocia con mayor supervivencia",
+        "link": "https://www.infobae.com/salud/ciencia/2026/09/16/ejercicio-y-cancer-un-estudio-identifico-que-tipo-de-actividad-fisica-se-asocia-con-mayor-supervivencia/",
+        "imagen": "https://www.infobae.com/resizer/v2/K5KOYY7AFJBABH2MKYLPY7HVJQ.png?auth=2e40075aaa5a566f8871ed09b71405f3edbc195b9c0d390c713a8f66d3c61872&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 16 Sep 2026 14:49:37 +0000"
+      },
+      {
         "titulo": "Louise Brown, la primera persona nacida mediante fertilización in vitro, llegó a la Argentina: “Soy mi propia normalidad”",
         "link": "https://www.infobae.com/salud/2026/09/16/louise-brown-la-primera-persona-nacida-mediante-fertilizacion-in-vitro-soy-mi-propia-normalidad/",
         "imagen": "https://www.infobae.com/resizer/v2/SUI6NORQJVHQVDMWB2F7L5GUWU.jpg?auth=3cfb026ba34dd588b98b650fcf2939259a538dafbf4db3e2d40798d5b4e0d512&smart=true&width=2752&height=1536",
@@ -742,16 +749,9 @@
         "fecha": "Wed, 16 Sep 2026 11:59:57 +0000"
       },
       {
-        "titulo": "Del contagio al ciclo real de reproducción: mitos y verdades sobre los piojos reveladas por expertos",
-        "link": "https://www.infobae.com/salud/2026/09/16/del-contagio-al-ciclo-real-de-reproduccion-mitos-y-verdades-sobre-los-piojos-reveladas-por-expertos/",
-        "imagen": "https://www.infobae.com/resizer/v2/HUCPCA2USVGYLO7VKLXXJ426DM.png?auth=9402dcd946480a6b275083d1d5e118ff3982ef0d1df218578179e0d962800df8&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Wed, 16 Sep 2026 09:00:01 +0000"
-      },
-      {
-        "titulo": "Cuál es el mejor momento del día para comer fibra y mejorar la digestión y la sensación de saciedad",
-        "link": "https://www.infobae.com/salud/2026/09/16/cual-es-el-mejor-momento-del-dia-para-comer-fibra-y-mejorar-la-digestion-y-la-sensacion-de-saciedad/",
-        "imagen": "https://www.infobae.com/resizer/v2/WFFSENY4KZAV5CU5Q65LJR3AYE.png?auth=371a72e034e53387b97bf83faeb7c73e1e5346b31d95386fb4299ce9ae54f6b3&smart=true&width=2752&height=1536",
+        "titulo": "Descansos más largos pueden ayudar a sostener el volumen en ejercicios exigentes",
+        "link": "https://www.infobae.com/salud/2026/09/16/descansos-mas-largos-pueden-ayudar-a-sostener-el-volumen-en-ejercicios-exigentes/",
+        "imagen": "https://www.infobae.com/resizer/v2/DMRGKNHV75CCJCEMJAOAGYWSAU.png?auth=0243cadf822f6cbb3e1078fb748c7a6a4488798d60c742895d8e80734b9caa82&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Wed, 16 Sep 2026 09:00:01 +0000"
       }
@@ -779,18 +779,18 @@
         "fecha": "Tue, 15 Sep 2026 20:03:00 -0300"
       },
       {
-        "titulo": "La Plata prepara tres jornadas de memoria y cultura por los 50 años de La Noche de los Lápices",
-        "link": "https://www.0221.com.ar/la-plata/la-plata-prepara-tres-jornadas-memoria-y-cultura-los-50-anos-la-noche-los-lapices-n134247",
-        "imagen": "https://media.0221.com.ar/p/b3e2ef4e0cfe61bdea9a2ef36666b33d/adjuntos/357/imagenes/100/185/0100185029/1200x630/smart/marcha-noche-los-lapices-2024-4jpeg.jpeg",
+        "titulo": "Llega la cuarta edición de la Fiesta del Alcaucil con música en vivo, muestra de autos antiguos y comidas",
+        "link": "https://www.0221.com.ar/que-hago/llega-la-cuarta-edicion-la-fiesta-del-alcaucil-musica-vivo-muestra-autos-antiguos-y-comidas-n134287",
+        "imagen": "https://media.0221.com.ar/p/ddc140909b1220a178bd268412af0c7a/adjuntos/357/imagenes/100/121/0100121549/1200x630/smart/alcaucil-7jpg.jpg",
         "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "Robaron a un conductor de DiDi en La Plata y encontraron el auto desguazado en Berisso",
-        "link": "https://www.eldia.com/policiales/robaron-a-un-conductor-de-didi-en-la-plata-y-encontraron-el-auto-desguazado-en-berisso-policiales_1789568400",
+        "titulo": "Tres Arroyos: la Sociedad Rural recuperó el histórico Parque Hotel",
+        "link": "https://www.eldia.com/politica-y-economia/tres-arroyos-la-sociedad-rural-recupero-el-historico-parque-hotel-politica-y-economia_1789569840",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 16 Sep 2026 14:29:27 GMT"
+        "fecha": "Wed, 16 Sep 2026 14:45:51 GMT"
       },
       {
         "titulo": "Buscan a una adolescente en La Plata que se fue de la casa de su papá y no regresó",
@@ -814,18 +814,18 @@
         "fecha": "Mon, 14 Sep 2026 20:12:00 -0300"
       },
       {
-        "titulo": "La Mega Primavera Rewind llega al Club Hípico de La Plata con hits de los 2000",
-        "link": "https://www.0221.com.ar/la-plata/la-mega-primavera-rewind-llega-al-club-hipico-la-plata-hits-los-2000-n134240",
-        "imagen": "https://media.0221.com.ar/p/bd631017fd8d611f37b95bdb12d1b643/adjuntos/357/imagenes/100/295/0100295929/1200x630/smart/rewind-fiesta-hipico-2.JPEG",
+        "titulo": "La Plata prepara tres jornadas de memoria y cultura por los 50 años de La Noche de los Lápices",
+        "link": "https://www.0221.com.ar/la-plata/la-plata-prepara-tres-jornadas-memoria-y-cultura-los-50-anos-la-noche-los-lapices-n134247",
+        "imagen": "https://media.0221.com.ar/p/b3e2ef4e0cfe61bdea9a2ef36666b33d/adjuntos/357/imagenes/100/185/0100185029/1200x630/smart/marcha-noche-los-lapices-2024-4jpeg.jpeg",
         "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Tue, 15 Sep 2026 16:31:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "Despidiéndose del invierno, La Plata volvió a ser una de las 10 ciudades más frías del país",
-        "link": "https://www.eldia.com/la-ciudad/despidiendose-del-invierno-la-plata-volvio-a-ser-una-de-las-10-ciudades-mas-frias-del-pais-la-ciudad_1789565220",
+        "titulo": "Más reclamos por desbordes cloacales y pérdidas de agua de ABSA en La Plata",
+        "link": "https://www.eldia.com/la-ciudad/mas-reclamos-por-desbordes-cloacales-y-perdidas-de-agua-de-absa-en-la-plata-la-ciudad_1789568880",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 16 Sep 2026 14:11:21 GMT"
+        "fecha": "Wed, 16 Sep 2026 14:33:32 GMT"
       },
       {
         "titulo": "La Plata y el país conmemoran los 50 años de La Noche de los Lápices",
