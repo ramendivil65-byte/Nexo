@@ -44,6 +44,7 @@ FEEDS = {
         ("C5N", "https://www.c5n.com/rss/pages/deportes.xml"),
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
         ("Olé", "https://www.ole.com.ar/rss/futbol-primera/"),  # sin confirmar, revisar si no trae nada
+        ("Cielosports", "https://infocielo.com/deportes/noticias_rss.php"),
     ],
     "policiales_actualidad": [
         ("Clarín", "https://www.clarin.com/rss/policiales/"),  # sin confirmar, revisar si no trae nada
@@ -135,6 +136,11 @@ def extraer_imagen(entry) -> str:
 
 
 def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
+    # Cielosports (deportes de La Plata) tiene más peso a propósito: la mayoría
+    # de los primeros lectores del sitio son de La Plata, así que Gimnasia y
+    # Estudiantes se ven más seguido que en un medio genérico.
+    FUENTES_CON_MAS_PESO = {"Cielosports": 12}
+
     items = []
     for nombre_fuente, url in fuentes:
         try:
@@ -143,8 +149,9 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
             print(f"  ! No se pudo leer {nombre_fuente} ({url}): {exc}")
             continue
 
+        limite = FUENTES_CON_MAS_PESO.get(nombre_fuente, 6)
         cantidad_antes = len(items)
-        for entry in feed.entries[:6]:
+        for entry in feed.entries[:limite]:
             titulo = limpiar_texto(entry.get("title", ""))
             if not titulo:
                 continue
@@ -159,18 +166,26 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
             )
         print(f"  · {nombre_fuente}: {len(items) - cantidad_antes} noticias (entries en el feed: {len(feed.entries)})")
 
-    # Diversificar: alternar fuentes en vez de mostrar 5 seguidas del mismo medio
+    # Diversificar: alternar fuentes en vez de mostrar 5 seguidas del mismo medio.
+    # Las fuentes en FUENTES_CON_MAS_PESO aparecen más veces en la rotación,
+    # así que terminan ocupando más lugares en el resultado final.
     items_por_fuente = {}
     for item in items:
         items_por_fuente.setdefault(item["fuente"], []).append(item)
 
+    orden_rotacion = []
+    for fuente in items_por_fuente.keys():
+        peso = 3 if fuente in FUENTES_CON_MAS_PESO else 1
+        orden_rotacion.extend([fuente] * peso)
+
     resultado = []
-    while len(resultado) < ITEMS_PER_CATEGORY and any(items_por_fuente.values()):
-        for fuente in list(items_por_fuente.keys()):
-            if items_por_fuente[fuente]:
-                resultado.append(items_por_fuente[fuente].pop(0))
-                if len(resultado) >= ITEMS_PER_CATEGORY:
-                    break
+    i = 0
+    intentos_maximos = ITEMS_PER_CATEGORY * 20  # por las dudas, para no colgarse
+    while len(resultado) < ITEMS_PER_CATEGORY and any(items_por_fuente.values()) and i < intentos_maximos:
+        fuente = orden_rotacion[i % len(orden_rotacion)]
+        if items_por_fuente[fuente]:
+            resultado.append(items_por_fuente[fuente].pop(0))
+        i += 1
 
     return resultado
 
