@@ -1,36 +1,36 @@
 {
-  "actualizado": "2026-09-16T16:51:57.385209+00:00",
+  "actualizado": "2026-09-16T17:08:58.820010+00:00",
   "merval": {
     "subas": [
       {
-        "simbolo": "BMA",
-        "porcentaje": 1.11155
-      },
-      {
         "simbolo": "CRESY",
-        "porcentaje": 0.92437298
+        "porcentaje": 2.01681
       },
       {
         "simbolo": "SUPV",
         "porcentaje": 0.83932669
       },
       {
-        "simbolo": "GGAL",
-        "porcentaje": 0.80683582
+        "simbolo": "BMA",
+        "porcentaje": 0.72349827
       },
       {
-        "simbolo": "TX",
-        "porcentaje": 0.43668122
+        "simbolo": "GGAL",
+        "porcentaje": 0.71191413
+      },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": 0.54944765
       }
     ],
     "bajas": [
       {
         "simbolo": "YPF",
-        "porcentaje": -3.46294
+        "porcentaje": -3.34143
       },
       {
         "simbolo": "PAM",
-        "porcentaje": -2.34996
+        "porcentaje": -2.26932
       }
     ]
   },
@@ -38,37 +38,37 @@
     "subas": [
       {
         "simbolo": "NVDA",
-        "porcentaje": 1.78395
+        "porcentaje": 1.60249
       },
       {
         "simbolo": "CAT",
-        "porcentaje": 1.0069712
+        "porcentaje": 0.81936112
       },
       {
         "simbolo": "HD",
-        "porcentaje": 0.5990536
+        "porcentaje": 0.64160958
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": 0.34858564
+        "porcentaje": 0.37423905
       }
     ],
     "bajas": [
       {
         "simbolo": "MSFT",
-        "porcentaje": -0.70606597
+        "porcentaje": -0.76641357
       },
       {
         "simbolo": "JPM",
-        "porcentaje": -0.59575883
-      },
-      {
-        "simbolo": "MCD",
-        "porcentaje": -0.44900656
+        "porcentaje": -0.71916659
       },
       {
         "simbolo": "KO",
-        "porcentaje": -0.32690687
+        "porcentaje": -0.40017934
+      },
+      {
+        "simbolo": "MCD",
+        "porcentaje": -0.38571041
       }
     ]
   }
