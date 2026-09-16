@@ -81,6 +81,11 @@ FEEDS = {
         ("La Nación", "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/turismo/?outputType=xml"),  # sin confirmar, revisar si no trae nada
         ("Pulso Turístico", "https://www.pulsoturistico.com.ar/feed/"),  # sin confirmar, revisar si no trae nada
     ],
+    "vida_sana": [
+        ("Ámbito", "https://www.ambito.com/rss/pages/Lifestyle.xml"),
+        ("C5N", "https://www.c5n.com/rss/pages/lifestyle.xml"),
+        ("Infobae Salud", "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+    ],
     "local": [
         ("0221", "https://www.0221.com.ar/rss/pages/la-plata.xml"),
         ("0221 Policiales", "https://www.0221.com.ar/rss/pages/policiales.xml"),
