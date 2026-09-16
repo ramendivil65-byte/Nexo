@@ -1,11 +1,53 @@
 {
-  "actualizado": "2026-09-16T15:20:25.008544+00:00",
+  "actualizado": "2026-09-16T15:43:17.649143+00:00",
   "categorias": {
     "politica": [
       {
+        "titulo": "Denuncia penal en la Armada: el trasfondo del sistema de corrupción con transferencias irregulares de sueldos",
+        "link": "https://www.ambito.com/politica/denuncia-penal-la-armada-el-trasfondo-del-sistema-corrupcion-transferencias-irregulares-sueldos-n6323028",
+        "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 12:36:00 -0300"
+      },
+      {
+        "titulo": "Atentado a la AMIA: revisarán las condenas al juez y los fiscales que investigaron el caso",
+        "link": "https://www.clarin.com/politica/atentado-amia-revisaran-condenas-juez-fiscales-investigaron-caso_0_0HUClf9Xxh.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/glqRrDSJj_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 16 Sep 2026 14:58:13 +0000"
+      },
+      {
+        "titulo": "Escala la tensión en Medio Oriente: Arabia Saudita bombardea Yemen mientras los hutíes responden con ataques",
+        "link": "https://www.ambito.com/mundo/escala-la-tension-medio-oriente-arabia-saudita-bombardea-yemen-mientras-los-huties-responden-ataques-n6323025",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Wed, 16 Sep 2026 12:30:00 -0300"
+      },
+      {
+        "titulo": "China ratificó su apoyo al reclamo de Argentina por la soberanía de las Islas Malvinas",
+        "link": "https://www.c5n.com/politica/china-ratifico-su-apoyo-al-reclamo-argentina-la-soberania-las-islas-malvinas-n249062",
+        "imagen": "https://media.c5n.com/p/515761fd57bfd14182ea6eeb05b2a385/adjuntos/326/imagenes/000/399/0000399125/1200x675/smart/milei-xijinping.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 12:15:00 -0300"
+      },
+      {
+        "titulo": "Discapacidad: el Gobierno quiere derogar la ley de emergencia y puntos históricos del sistema de prestaciones",
+        "link": "https://www.infobae.com/politica/2026/09/16/discapacidad-el-gobierno-quiere-derogar-la-ley-de-emergencia-y-puntos-historicos-del-sistema-de-prestaciones/",
+        "imagen": "https://www.infobae.com/resizer/v2/5QW73VLMRJE6HLVF5PXYI2MB34.jpg?auth=0ea5299b3dbbfdc2d0784571dfa3f81dd6f8c95f5369644b5d383cc8ff35c5b8&smart=true&width=8640&height=5760",
+        "fuente": "Infobae",
+        "fecha": "Wed, 16 Sep 2026 15:22:50 +0000"
+      },
+      {
+        "titulo": "Tres fotos que alientan las especulaciones acerca del peronismo cordobés",
+        "link": "https://www.tiempoar.com.ar/ta_article/tres-fotos-que-alientan-las-especulaciones-acerca-del-peronismo-cordobes/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 16 Sep 2026 14:04:33 +0000"
+      },
+      {
         "titulo": "CABA avanza con la limpieza del arroyo Cildañez",
         "link": "https://www.ambito.com/politica/caba-avanza-la-limpieza-del-arroyo-cildanez-n6322995",
-        "imagen": "https://media.ambito.com/p/080287de1831f8699aade587f051fab9/adjuntos/239/imagenes/043/646/0043646127/limpieza-arroyo-cildanez.jpeg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Wed, 16 Sep 2026 11:38:00 -0300"
       },
@@ -17,53 +59,11 @@
         "fecha": "Wed, 16 Sep 2026 14:00:33 +0000"
       },
       {
-        "titulo": "Derrumbe de un edificio en Gaza: 20 muertos y decenas de desaparecidos",
-        "link": "https://www.ambito.com/mundo/derrumbe-un-edificio-gaza-20-muertos-y-decenas-desaparecidos-n6323009",
+        "titulo": "Donald Trump y Andy Burnham podrían mantener su primer encuentro cara a cara en medio de la tensión por Malvinas",
+        "link": "https://www.ambito.com/mundo/donald-trump-y-andy-burnham-podrian-mantener-su-primer-encuentro-cara-cara-medio-la-tension-malvinas-n6323031",
         "imagen": "",
         "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 16 Sep 2026 11:45:00 -0300"
-      },
-      {
-        "titulo": "China ratificó su apoyo al reclamo de Argentina por la soberanía de las Islas Malvinas",
-        "link": "https://www.c5n.com/politica/china-ratifico-su-apoyo-al-reclamo-argentina-la-soberania-las-islas-malvinas-n249062",
-        "imagen": "https://media.c5n.com/p/515761fd57bfd14182ea6eeb05b2a385/adjuntos/326/imagenes/000/399/0000399125/1200x675/smart/milei-xijinping.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 12:15:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno acelera para aprobar el Presupuesto y suspender las PASO: Santilli recibirá a 7 gobernadores en 24 horas",
-        "link": "https://www.infobae.com/politica/2026/09/16/el-gobierno-acelera-las-negociaciones-por-el-presupuesto-y-la-suspension-de-las-paso-santilli-recibira-a-7-gobernadores-en-24-horas/",
-        "imagen": "https://www.infobae.com/resizer/v2/WCVM7BVMA5H4TPZWQVASALIKGA.jpg?auth=27eda233cb0c211ac4b009b5bcfe24affca960a9dee97d84ee3ee721c146baa2&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:59:51 +0000"
-      },
-      {
-        "titulo": "Tres fotos que alientan las especulaciones acerca del peronismo cordobés",
-        "link": "https://www.tiempoar.com.ar/ta_article/tres-fotos-que-alientan-las-especulaciones-acerca-del-peronismo-cordobes/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 14:04:33 +0000"
-      },
-      {
-        "titulo": "\"Deberían poder ingresar sin visa\": la promesa del embajador Peter Lamelas para los argentinos que viajen a EEUU",
-        "link": "https://www.ambito.com/politica/deberian-poder-ingresar-visa-la-promesa-del-embajador-peter-lamelas-los-argentinos-que-viajen-eeuu-n6322976",
-        "imagen": "https://media.ambito.com/p/e1033c39e9824b0145f56958140d9944/adjuntos/239/imagenes/042/945/0042945858/1200x675/smart/visa.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 10:59:00 -0300"
-      },
-      {
-        "titulo": "Tras el envío del Presupuesto y reactivar la reforma electoral, el Gobierno acelera un operativo para seducir gobernadores",
-        "link": "https://www.clarin.com/politica/envio-presupuesto-reactivar-reforma-electoral-gobierno-acelera-operativo-seducir-gobernadores_0_QqZ9xuzp6l.html",
-        "imagen": "https://www.clarin.com/img/2026/08/12/txFDocdnv_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 12:42:15 +0000"
-      },
-      {
-        "titulo": "Malvinas: qué países respaldan el reclamo argentino y cuál es la postura internacional",
-        "link": "https://www.ambito.com/mundo/malvinas-que-paises-respaldan-el-reclamo-argentino-y-cual-es-la-postura-internacional-n6322982",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 16 Sep 2026 11:25:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 12:27:07 -0300"
       },
       {
         "titulo": "Nuevo guiño de Peter Lamelas al Gobierno por los argentinos que viajan a EEUU: \"Deberían ingresar sin visa\"",
@@ -73,11 +73,11 @@
         "fecha": "Wed, 16 Sep 2026 12:15:00 -0300"
       },
       {
-        "titulo": "Los 1000 días de Milei: el Gobierno llega con su peor valoración y malestar económico, pero conserva su piso electoral",
-        "link": "https://www.infobae.com/politica/2026/09/16/los-1000-dias-de-milei-el-gobierno-llega-con-su-peor-valoracion-malestar-economico-pero-conserva-su-piso-electoral/",
-        "imagen": "https://www.infobae.com/resizer/v2/R46JFBKHTBEELPGYKHWE3OIHAI.png?auth=7a266fdfaef0bac9d4c6db8f87a416f4c647ad72e6bc50dceeee0ae338e09a66&smart=true&width=2752&height=1536",
+        "titulo": "El Gobierno acelera para aprobar el Presupuesto y suspender las PASO: Santilli recibirá a 7 gobernadores en 24 horas",
+        "link": "https://www.infobae.com/politica/2026/09/16/el-gobierno-acelera-las-negociaciones-por-el-presupuesto-y-la-suspension-de-las-paso-santilli-recibira-a-7-gobernadores-en-24-horas/",
+        "imagen": "https://www.infobae.com/resizer/v2/WCVM7BVMA5H4TPZWQVASALIKGA.jpg?auth=27eda233cb0c211ac4b009b5bcfe24affca960a9dee97d84ee3ee721c146baa2&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:47:15 +0000"
+        "fecha": "Wed, 16 Sep 2026 14:59:51 +0000"
       },
       {
         "titulo": "Denuncian que el gobierno busca derogar artículos clave de la Ley de Emergencia en Discapacidad",
@@ -110,11 +110,11 @@
         "fecha": "Wed, 16 Sep 2026 11:44:00 -0300"
       },
       {
-        "titulo": "Cuál podría ser el impacto en la Argentina de la decisión que hoy tomará la Reserva Federal de EEUU sobre las tasas de interés",
-        "link": "https://www.infobae.com/economia/2026/09/16/cual-podria-ser-el-impacto-en-la-argentina-de-la-decision-de-tasas-que-hoy-tomara-la-reserva-federal-de-eeuu/",
-        "imagen": "https://www.infobae.com/resizer/v2/Z5CDBNQPTNFQXCSNTFHEA6GVDE.JPG?auth=12cdeaaeb8bf428f94ac32529604e00f6f510c900dce0bf4c992532e2a52de1f&smart=true&width=5570&height=3714",
+        "titulo": "Por qué el Gobierno no incluyó el costo fiscal del RIGI en el proyecto de Presupuesto 2027",
+        "link": "https://www.infobae.com/economia/2026/09/16/por-que-el-gobierno-no-incluyo-el-costo-fiscal-del-rigi-en-el-proyecto-de-presupuesto-2027/",
+        "imagen": "https://www.infobae.com/resizer/v2/TYWEKS6JNNAY5CT4L77LBERDHI.png?auth=a081b49c370ddd7e3c0d7175f9c4a0a6aa15dafa8c489d4bc19a058728d8d489&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:16:13 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:30:51 +0000"
       },
       {
         "titulo": "«Optimista pero no realista», la opinión de economistas sobre el Presupuesto 2027",
@@ -145,11 +145,11 @@
         "fecha": "Wed, 16 Sep 2026 08:18:00 -0300"
       },
       {
-        "titulo": "ANSES: quiénes cobran hoy, miércoles 16 de septiembre de 2026",
-        "link": "https://www.infobae.com/economia/2026/09/16/anses-quienes-cobran-hoy-miercoles-16-de-septiembre-de-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/VUZSSQY7K5DFHIK67KMTTJWGEU.jpg?auth=19a732901d2338a3cee68c5b3109917ce72eb6b8b9661462257fe5eccbc92cc0&smart=true&width=1920&height=1080",
+        "titulo": "Cuál podría ser el impacto en la Argentina de la decisión que hoy tomará la Reserva Federal de EEUU sobre las tasas de interés",
+        "link": "https://www.infobae.com/economia/2026/09/16/cual-podria-ser-el-impacto-en-la-argentina-de-la-decision-de-tasas-que-hoy-tomara-la-reserva-federal-de-eeuu/",
+        "imagen": "https://www.infobae.com/resizer/v2/Z5CDBNQPTNFQXCSNTFHEA6GVDE.JPG?auth=12cdeaaeb8bf428f94ac32529604e00f6f510c900dce0bf4c992532e2a52de1f&smart=true&width=5570&height=3714",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:59:04 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:16:13 +0000"
       },
       {
         "titulo": "Presupuesto 2027: el gobierno repite el optimismo de 2026 y calcula una inflación del 18% y un crecimiento del 4%",
@@ -175,6 +175,41 @@
     ],
     "deportes": [
       {
+        "titulo": "Se confirmó la sede dónde jugarán Boca y Racing por la Copa Argentina",
+        "link": "https://www.ambito.com/deportes/se-confirmo-la-sede-donde-jugaran-boca-y-racing-la-copa-argentina-n6322998",
+        "imagen": "https://media.ambito.com/p/3a7327b5ffe6b135a4a35ae220c3a1aa/adjuntos/239/imagenes/043/598/0043598617/1200x675/smart/boca-racing.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 12:13:00 -0300"
+      },
+      {
+        "titulo": "La atleta canadiense que ganó los Cuatro Refugios en Bariloche murió en un trágico accidente en los Alpes",
+        "link": "https://www.clarin.com/deportes/atleta-canadiense-gano-refugios-bariloche-murio-tragico-accidente-alpes_0_j026HgFzLP.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/m0gWsgiQ__1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 16 Sep 2026 14:47:19 +0000"
+      },
+      {
+        "titulo": "Todo lo que hay que saber sobre Burkina Faso y Benín, los rivales desconocidos de la Selección",
+        "link": "https://www.c5n.com/deportes/todo-lo-que-hay-que-saber-burkina-faso-y-benin-los-rivales-desconocidos-la-seleccion-n249063",
+        "imagen": "https://media.c5n.com/p/3f74eba47d20a8fb3ff4e9bf0b24e036/adjuntos/326/imagenes/000/399/0000399126/1200x675/smart/burkina-faso-benin.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 12:29:00 -0300"
+      },
+      {
+        "titulo": "Argentina peleó hasta el final y mereció más, pero quedó eliminada del Mundial Sub 20 femenino ante Corea del Sur",
+        "link": "https://www.infobae.com/deportes/2026/09/16/argentina-jugara-ante-corea-del-sur-por-el-pase-a-los-cuartos-de-final-del-mundial-sub-20-femenino-hora-tv-y-todo-lo-que-hay-que-saber/",
+        "imagen": "https://www.infobae.com/resizer/v2/F25647SQZNF7PLOIC7HIX3LNSI.jpg?auth=9557c8e128220dd7b270ddc5bf33d28fc4544acf05e06b6dc134b2dfe5db0a9a&smart=true&width=3000&height=1688",
+        "fuente": "Infobae",
+        "fecha": "Wed, 16 Sep 2026 15:34:33 +0000"
+      },
+      {
+        "titulo": "La marca que tienen solo seis técnicos de River y Ponzio buscará igualar",
+        "link": "https://www.ole.com.ar/river-plate/river-leonardo-ponzio-record-entrenadores-triunfos-consecutivos-debut_0_nSGASIK2Iw.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/06/r548_Y9tv_1200x630__1.jpg",
+        "fuente": "Olé",
+        "fecha": "Wed, 16 Sep 2026 11:22:41 -0300"
+      },
+      {
         "titulo": "Facundo Colidio se pierde el partido contra Boca: qué dice el reglamento de la Conmebol",
         "link": "https://www.ambito.com/deportes/facundo-colidio-se-pierde-el-partido-contra-boca-que-dice-el-reglamento-la-conmebol-n6323013",
         "imagen": "https://media.ambito.com/p/9a8d88d40178e126a3a31d3d1b7f71d5/adjuntos/239/imagenes/043/646/0043646353/1200x675/572x108:592x128/facundo-colidio-instagram2.jpg",
@@ -196,11 +231,11 @@
         "fecha": "Wed, 16 Sep 2026 10:55:00 -0300"
       },
       {
-        "titulo": "Argentina peleó hasta el final y mereció más, pero quedó eliminada del Mundial Sub 20 femenino ante Corea del Sur",
-        "link": "https://www.infobae.com/deportes/2026/09/16/argentina-jugara-ante-corea-del-sur-por-el-pase-a-los-cuartos-de-final-del-mundial-sub-20-femenino-hora-tv-y-todo-lo-que-hay-que-saber/",
-        "imagen": "https://www.infobae.com/resizer/v2/F25647SQZNF7PLOIC7HIX3LNSI.jpg?auth=9557c8e128220dd7b270ddc5bf33d28fc4544acf05e06b6dc134b2dfe5db0a9a&smart=true&width=3000&height=1688",
+        "titulo": "Argentina inició su camino en las Olimpiadas de ajedrez con una victoria ante Kenia: Faustino Oro le ganó su partida a Kyle Kuka",
+        "link": "https://www.infobae.com/deportes/2026/09/16/argentina-inicio-su-camino-en-las-olimpiadas-de-ajedrez-con-una-victoria-ante-kenia-faustino-oro-gano-su-partida-ante-kyle-kuka/",
+        "imagen": "https://www.infobae.com/resizer/v2/PZ7VDLQUOBFAPBBHPEI3CQDW5U.jpg?auth=594bf978f3b810a7a2b94c1f6b6ddac647639ee10377f523d9644528f9b00d72&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:08:52 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:25:28 +0000"
       },
       {
         "titulo": "¿Con una sorpresa?: los convocados que tendría River a la Selección y Ponzio perderá por dos semanas",
@@ -222,41 +257,6 @@
         "imagen": "https://www.clarin.com/img/2026/09/16/p_tzPoaJr_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Wed, 16 Sep 2026 13:24:00 +0000"
-      },
-      {
-        "titulo": "La despedida de Lionel Messi de la Selección argentina: cuándo salen las entradas, dónde comprarlas y cuánto costarían",
-        "link": "https://www.c5n.com/deportes/la-despedida-lionel-messi-la-seleccion-argentina-cuando-salen-las-entradas-donde-comprarlas-y-cuanto-cuestan-n249054",
-        "imagen": "https://media.c5n.com/p/f1a28265f79025eb82dc64b7c802f92f/adjuntos/326/imagenes/000/396/0000396780/1200x675/smart/lionel-messi.png",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 10:14:00 -0300"
-      },
-      {
-        "titulo": "Estudiantes buscará la clasificación a la semifinal de la Copa Libertadores en Brasil ante el Corinthians: hora, TV y formaciones",
-        "link": "https://www.infobae.com/deportes/2026/09/16/estudiantes-buscara-la-clasificacion-a-la-semifinal-de-la-copa-libertadores-en-brasil-ante-el-corinthians-hora-tv-y-formaciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/DLMLRGZJMFC5PNSX24ZL2UNJBA.JPG?auth=e476ca86dab6e9c2671c5d383e549cd1519df180d8668f598cab0545ce9269da&smart=true&width=5040&height=3508",
-        "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:05:23 +0000"
-      },
-      {
-        "titulo": "Ponzio repetiría el 11 por cuarta vez: la cantidad increíble de años que no se daba algo así en River",
-        "link": "https://www.ole.com.ar/river-plate/river-ponzio-11-equipo-anos-formacion_0_FPUDoQYFaK.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/04/hjaNfphRV_1200x630__1.jpg",
-        "fuente": "Olé",
-        "fecha": "Wed, 16 Sep 2026 07:03:46 -0300"
-      },
-      {
-        "titulo": "Prohíben el ingreso a eventos deportivos a nueve personas por intentar ingresar con entradas falsas",
-        "link": "https://www.ambito.com/deportes/prohiben-el-ingreso-eventos-deportivos-nueve-personas-intentar-ingresar-entradas-falsas-n6322851",
-        "imagen": "https://media.ambito.com/p/785af4fec27b5a5ba5454eafcfa0f027/adjuntos/239/imagenes/040/154/0040154207/1200x675/smart/pelota-futboljpg.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 11:27:00 -0300"
-      },
-      {
-        "titulo": "Zigzag en la autopista, accidente y una extraña droga a bordo de un Lamborghini: un ex Manchester City complicado con la Justicia",
-        "link": "https://www.clarin.com/deportes/zigzag-autopista-accidente-extrana-droga-abordo-lamborghini-ex-manchester-city-complicado-justicia_0_RRMgC2yFwI.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/xOVmKhGa3_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 13:19:15 +0000"
       }
     ],
     "policiales_actualidad": [
@@ -275,11 +275,11 @@
         "fecha": "Wed, 16 Sep 2026 11:00:00 -0300"
       },
       {
-        "titulo": "La última tarde de Cristian Díaz, la víctima de “Pity” Álvarez: la visita a su hija y el ADN que destapó un secreto familiar",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/la-ultima-tarde-de-cristian-diaz-la-victima-de-pity-alvarez-la-visita-a-su-hija-y-el-adn-que-destapo-un-secreto-familiar/",
-        "imagen": "https://www.infobae.com/resizer/v2/DL672JVFDVCG7DWA6M5FUSC5LE.jpg?auth=f000f037b17a7dc7f0dee7d1202d7e799b07e98119e0988feb4ff3bb07d6274b&smart=true&width=1920&height=1080",
+        "titulo": "Juicio a “Pity” Álvarez, en vivo: por primera vez desde que comenzó el debate, el músico no se presentará a una audiencia",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/juicio-a-pity-alvarez-por-primera-vez-desde-que-comenzo-el-debate-el-musico-no-se-presentara-a-una-audiencia/",
+        "imagen": "https://www.infobae.com/resizer/v2/UNBRP56I2BHAFB4RU7G4U7IONU.jpg?auth=844e02eca46ac0bf5e7f2f10644966820f299030051814de7758b43868ec7156&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:19:55 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:38:04 +0000"
       },
       {
         "titulo": "El crimen de Cecilia Lazcano: dos compañeros de colegio detenidos, el misterio del \"poderoso\" Max y un fiscal recusado",
@@ -296,11 +296,11 @@
         "fecha": "Wed, 16 Sep 2026 09:49:00 -0300"
       },
       {
-        "titulo": "La Justicia confirmó la condena a prisión de Claudio Contardi por el abuso sexual a Julieta Prandi con una leve reducción de pena",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/la-justicia-redujo-seis-meses-la-condena-a-prision-de-claudio-contardi-por-el-abuso-sexual-a-julieta-prandi/",
-        "imagen": "https://www.infobae.com/resizer/v2/F3WT7AUWFZBT7PJQNMP7I32JQE.png?auth=5724c1f87174654f2392ad19086447479d69cfe85b2ac077529b3feabf9bd93e&smart=true&width=1920&height=1080",
+        "titulo": "Juicio por Loan Peña, en vivo: “Pedí 7 veces la detención de Laudelina, me quería dirigir la investigación”, declaró el ex comisario Maciel",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/juicio-por-loan-pena-en-vivo-las-ultimas-noticias-de-hoy-16-de-septiembre-minuto-a-minuto/",
+        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:18:47 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:37:34 +0000"
       },
       {
         "titulo": "Se entregó un excomisario de Misiones acusado de abusar de sus hijastras: estuvo 11 días prófugo",
@@ -317,11 +317,11 @@
         "fecha": "Wed, 16 Sep 2026 07:36:00 -0300"
       },
       {
-        "titulo": "Juicio por Loan Peña, en vivo: declaran peritos que trabajaron en la recolección de pruebas durante la desaparición",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/juicio-por-loan-pena-en-vivo-las-ultimas-noticias-de-hoy-16-de-septiembre-minuto-a-minuto/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
+        "titulo": "La última tarde de Cristian Díaz, la víctima de “Pity” Álvarez: la visita a su hija y el ADN que destapó un secreto familiar",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/la-ultima-tarde-de-cristian-diaz-la-victima-de-pity-alvarez-la-visita-a-su-hija-y-el-adn-que-destapo-un-secreto-familiar/",
+        "imagen": "https://www.infobae.com/resizer/v2/DL672JVFDVCG7DWA6M5FUSC5LE.jpg?auth=f000f037b17a7dc7f0dee7d1202d7e799b07e98119e0988feb4ff3bb07d6274b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:04:38 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:19:55 +0000"
       },
       {
         "titulo": "Las desgarradoras últimas palabras de Aramburú en brazos de su amigo: \"Llamá a la policía, me voy a morir\"",
@@ -338,20 +338,20 @@
         "fecha": "Wed, 16 Sep 2026 07:32:00 -0300"
       },
       {
-        "titulo": "El regreso de “El Groso” Ortigoza, el poderoso capo paraguayo de la Villa 31",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/el-regreso-de-el-groso-ortigoza-el-poderoso-capo-paraguayo-de-la-villa-31/",
-        "imagen": "https://www.infobae.com/resizer/v2/JT6YPWXUDVHFXK5ZFKNKL2764E.jpg?auth=7e311039becff655ae2d191754927f6931a25dc474538461617745c0348b48c1&smart=true&width=1920&height=1080",
+        "titulo": "La Justicia confirmó la condena a prisión de Claudio Contardi por el abuso sexual a Julieta Prandi con una leve reducción de pena",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/la-justicia-redujo-seis-meses-la-condena-a-prision-de-claudio-contardi-por-el-abuso-sexual-a-julieta-prandi/",
+        "imagen": "https://www.infobae.com/resizer/v2/F3WT7AUWFZBT7PJQNMP7I32JQE.png?auth=5724c1f87174654f2392ad19086447479d69cfe85b2ac077529b3feabf9bd93e&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:13:29 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:18:47 +0000"
       }
     ],
     "internacional": [
       {
-        "titulo": "Derrumbe de un edificio en Gaza: 20 muertos y decenas de desaparecidos",
-        "link": "https://www.ambito.com/mundo/derrumbe-un-edificio-gaza-20-muertos-y-decenas-desaparecidos-n6323009",
+        "titulo": "Escala la tensión en Medio Oriente: Arabia Saudita bombardea Yemen mientras los hutíes responden con ataques",
+        "link": "https://www.ambito.com/mundo/escala-la-tension-medio-oriente-arabia-saudita-bombardea-yemen-mientras-los-huties-responden-ataques-n6323025",
         "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 11:45:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 12:30:00 -0300"
       },
       {
         "titulo": "Video: el momento exacto en el que el helicóptero de un canal de noticias se estrella contra el suelo en Los Ángeles",
@@ -368,18 +368,18 @@
         "fecha": "Wed, 16 Sep 2026 14:13:08 +0000"
       },
       {
-        "titulo": "El Interamerican Institute for Democracy presenta la conferencia “Bolivia: Constitución del Estado Plurinacional es nula”",
-        "link": "https://www.infobae.com/america/america-latina/2026/09/16/el-interamerican-institute-for-democracy-presenta-la-conferencia-bolivia-constitucion-del-estado-plurinacional-es-nula/",
-        "imagen": "https://www.infobae.com/resizer/v2/TCQDEO5LOFCUZGMBQZRVW5EU5I.jpg?auth=e82049592cc255c64b630129109aa38fcf2f728737d5eba832e732ba3d436f92&smart=true&width=1920&height=1080",
+        "titulo": "Falsas ofertas de empleo y tours ficticios: la red que engaña a latinoamericanos para enviarlos a combatir a Rusia",
+        "link": "https://www.infobae.com/el-salvador/2026/09/16/falsas-ofertas-de-empleo-y-tours-ficticios-la-red-que-engana-a-latinoamericanos-para-enviarlos-a-combatir-a-rusia/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZUFIDQ5L65HNLM5AEPAPHTRZVM.png?auth=162e84bdf6faa26aff0bf4bab8d7f9cc0fcfa9c0da4876800a8377a3b82ce1b2&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 15:11:45 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:34:26 +0000"
       },
       {
-        "titulo": "Malvinas: qué países respaldan el reclamo argentino y cuál es la postura internacional",
-        "link": "https://www.ambito.com/mundo/malvinas-que-paises-respaldan-el-reclamo-argentino-y-cual-es-la-postura-internacional-n6322982",
+        "titulo": "Donald Trump y Andy Burnham podrían mantener su primer encuentro cara a cara en medio de la tensión por Malvinas",
+        "link": "https://www.ambito.com/mundo/donald-trump-y-andy-burnham-podrian-mantener-su-primer-encuentro-cara-cara-medio-la-tension-malvinas-n6323031",
         "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 11:25:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 12:27:07 -0300"
       },
       {
         "titulo": "Horror en Gaza: al menos 20 muertos y 60 desaparecidos por el derrumbe de un edificio bombardeado",
@@ -396,18 +396,18 @@
         "fecha": "Wed, 16 Sep 2026 13:15:26 +0000"
       },
       {
-        "titulo": "Un estado de EEUU concentra la mayor producción de pavos y mantiene vigilancia por influenza aviar altamente patógena",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/16/un-estado-de-eeuu-concentra-la-mayor-produccion-de-pavos-y-mantiene-vigilancia-por-influenza-aviar-altamente-patogena/",
-        "imagen": "https://www.infobae.com/resizer/v2/EC7UPZUFABH47C5MOIBLDNKCJ4.png?auth=35cea57837d1b755da37362306860ce893b522b31f7f0af6ee8bde442cf55308&smart=true&width=1536&height=1024",
+        "titulo": "Amnistía Internacional acusó a Irán de crímenes de lesa humanidad en la represión de 2022 y pidió investigar a 87 altos mandos del régimen",
+        "link": "https://www.infobae.com/america/mundo/2026/09/16/amnistia-internacional-acuso-a-iran-de-crimenes-de-lesa-humanidad-en-la-represion-de-2022-y-pidio-investigar-a-87-altos-mandos-del-regimen/",
+        "imagen": "https://www.infobae.com/resizer/v2/T2CBR657OBFB4SPS6TVT7NUY7U.jpg?auth=1440f1b39839a0954a808772e334743912a256d07140d3901cfae3b42f88d038&smart=true&width=5500&height=3667",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:56:59 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:30:43 +0000"
       },
       {
-        "titulo": "China ratificó su apoyo a Argentina por el reclamo de soberanía sobre las Islas Malvinas con Reino Unido",
-        "link": "https://www.ambito.com/mundo/china-ratifico-su-apoyo-argentina-el-reclamo-soberania-las-islas-malvinas-reino-unido-n6322957",
+        "titulo": "Derrumbe de un edificio en Gaza: 20 muertos y decenas de desaparecidos",
+        "link": "https://www.ambito.com/mundo/derrumbe-un-edificio-gaza-20-muertos-y-decenas-desaparecidos-n6323009",
         "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 10:57:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:45:00 -0300"
       },
       {
         "titulo": "Un helicóptero de un canal de noticias se estrelló mientras cubría un choque en Los Ángeles: al menos tres muertos",
@@ -424,20 +424,20 @@
         "fecha": "Wed, 16 Sep 2026 12:55:35 +0000"
       },
       {
-        "titulo": "Las autoridades indígenas de Guatemala lanzan la campaña Pasos firmes para frenar la criminalización",
-        "link": "https://www.infobae.com/america/america-latina/2026/09/16/las-autoridades-indigenas-de-guatemala-lanzan-la-campana-pasos-firmes-para-frenar-la-criminalizacion/",
-        "imagen": "https://www.infobae.com/resizer/v2/GLAITBN72JHBXERKKI2GZUBYTQ.jpg?auth=1a7bb98c6183dd06e4c01e8da51da6fb30aadb78f3fb079b0d47bfb60542571e&smart=true&width=4272&height=2848",
+        "titulo": "El Niño podría restar el crecimiento del PIB de Ecuador en 2027, según el Banco Central",
+        "link": "https://www.infobae.com/america/america-latina/2026/09/16/el-nino-podria-restar-el-crecimiento-del-pib-de-ecuador-en-2027-segun-el-banco-central/",
+        "imagen": "https://www.infobae.com/resizer/v2/NVP5QJOMR5BSHITOP6MH4G5JSU.jpg?auth=9d829ec2da724597d25b18a76eac77b0845aa5b01c8b34af4be46085c96db11c&smart=true&width=7008&height=3944",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 14:54:20 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:28:11 +0000"
       }
     ],
     "espectaculos": [
       {
-        "titulo": "La entrevista de Tom Cruise que confirma su comportamiento en el set: \"Los rumores son ciertos\"",
-        "link": "https://www.ambito.com/espectaculos/la-entrevista-tom-cruise-que-confirma-su-comportamiento-el-set-los-rumores-son-ciertos-n6323020",
-        "imagen": "",
+        "titulo": "Celebración de la música latina: cómo y dónde ver la entrega de los Latin Grammy 2026",
+        "link": "https://www.ambito.com/espectaculos/celebracion-la-musica-latina-como-y-donde-ver-la-entrega-los-latin-grammy-2026-n6323012",
+        "imagen": "https://media.ambito.com/p/8e658e9ca2b5fe687f15735d7e5492e8/adjuntos/239/imagenes/039/472/0039472973/1200x675/smart/grammy-latinosjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 12:10:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 12:17:00 -0300"
       },
       {
         "titulo": "Se conocieron los nominados a los Latin Grammys 2026: la lista completa",
@@ -461,11 +461,11 @@
         "fecha": "Wed, 16 Sep 2026 15:19:38 +0000"
       },
       {
-        "titulo": "Latin Grammy 2026: Ca7riel y Paco Amoroso, Karol G, Rosalía y Jorge Drexler lideran las nominaciones",
-        "link": "https://www.ambito.com/espectaculos/latin-grammy-2026-ca7riel-y-paco-amoroso-karol-g-rosalia-y-jorge-drexler-lideran-las-nominaciones-n6322979",
-        "imagen": "",
+        "titulo": "La entrevista de Tom Cruise que confirma su comportamiento en el set: \"Los rumores son ciertos\"",
+        "link": "https://www.ambito.com/espectaculos/la-entrevista-tom-cruise-que-confirma-su-comportamiento-el-set-los-rumores-son-ciertos-n6323020",
+        "imagen": "https://media.ambito.com/p/770f385bc26a7fe25e2007a0f4a3e827/adjuntos/239/imagenes/043/646/0043646398/1200x675/650x281:670x301/tom-cruis-instagram-2.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 11:10:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 12:10:00 -0300"
       },
       {
         "titulo": "\"Cambió toda la votación\": Ángel de Brito filtró quién ganará Gran Hermano: Generación Dorada",
@@ -489,11 +489,11 @@
         "fecha": "Wed, 16 Sep 2026 15:01:10 +0000"
       },
       {
-        "titulo": "\"Resident Evil: Noche Cero\": qué dicen las primeras reacciones de la nueva película basada en el popular videojuego",
-        "link": "https://www.ambito.com/espectaculos/resident-evil-noche-cero-que-dicen-las-primeras-reacciones-la-nueva-pelicula-basada-el-popular-videojuego-n6322968",
+        "titulo": "Latin Grammy 2026: Ca7riel y Paco Amoroso, Karol G, Rosalía y Jorge Drexler lideran las nominaciones",
+        "link": "https://www.ambito.com/espectaculos/latin-grammy-2026-ca7riel-y-paco-amoroso-karol-g-rosalia-y-jorge-drexler-lideran-las-nominaciones-n6322979",
         "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 11:09:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:10:00 -0300"
       },
       {
         "titulo": "Qué dijo la producción de Popstars tras la noticia que sacudió a la TV",
@@ -533,11 +533,11 @@
         "fecha": "Tue, 15 Sep 2026 14:29:00 -0300"
       },
       {
-        "titulo": "El iPhone podría convertirse en una consola: Apple prepara su propio mando para juegos",
-        "link": "https://www.infobae.com/tecno/2026/09/16/el-iphone-podria-convertirse-en-una-consola-apple-prepara-su-propio-mando-para-juegos/",
-        "imagen": "https://www.infobae.com/resizer/v2/LG4FLO7WTVAFPNOXL7LYVZ7PNU.png?auth=3dbda6f731f7199192798634bd8c0ef924f99269944e9052c5dc3351e802dd37&smart=true&width=1920&height=1080",
+        "titulo": "Nvidia entrega en escuelas de EE.UU computadores con inteligencia artificial para hacer robots autónomos",
+        "link": "https://www.infobae.com/tecno/2026/09/16/nvidia-entrega-en-escuelas-de-eeuu-computadores-con-inteligencia-artificial-para-hacer-robots-autonomos/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZHNOHWRDZZAEVAMDOOZHZYF364.JPG?auth=7990a4ac6ebb07daf7fcca2ab059924ffd7c4ac66c57fc34e62fdc7ffe36570e&smart=true&width=7823&height=5218",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 15:14:18 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:27:00 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -561,11 +561,11 @@
         "fecha": "Mon, 14 Sep 2026 11:58:00 -0300"
       },
       {
-        "titulo": "ChatGPT cambia por completo: OpenAI dice adiós a GPT-5.5 y ahora llega una nueva versión para actualizar",
-        "link": "https://www.infobae.com/tecno/2026/09/16/chatgpt-cambia-por-completo-openai-dice-adios-a-gpt-55-y-ahora-llega-una-nueva-version-para-actualizar/",
-        "imagen": "https://www.infobae.com/resizer/v2/754KMZAGLLDXAATXUSVZNFCLVE.jpg?auth=f11190bf11d975576b0dc50100d175bb38e525daf778229e297e1a169efb705f&smart=true&width=4521&height=2959",
+        "titulo": "El iPhone podría convertirse en una consola: Apple prepara su propio mando para juegos",
+        "link": "https://www.infobae.com/tecno/2026/09/16/el-iphone-podria-convertirse-en-una-consola-apple-prepara-su-propio-mando-para-juegos/",
+        "imagen": "https://www.infobae.com/resizer/v2/LG4FLO7WTVAFPNOXL7LYVZ7PNU.png?auth=3dbda6f731f7199192798634bd8c0ef924f99269944e9052c5dc3351e802dd37&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 15:06:38 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:14:18 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -589,11 +589,11 @@
         "fecha": "Sun, 13 Sep 2026 13:18:00 -0300"
       },
       {
-        "titulo": "4 consejos para conducir un vehículo automático en subidas y bajadas durante la ruta Buenos Aires a Mendoza",
-        "link": "https://www.infobae.com/tecno/2026/09/16/4-consejos-para-conducir-un-vehiculo-automatico-en-subidas-y-bajadas-durante-la-ruta-buenos-aires-a-mendoza/",
-        "imagen": "https://www.infobae.com/resizer/v2/63RLDVHVUFGUXM2IOKODFQFL2I.JPG?auth=ee8b252240d24d5c265ec98800bee0543f2beafa23ece4e8b9957c5189865683&smart=true&width=505&height=286",
+        "titulo": "ChatGPT cambia por completo: OpenAI dice adiós a GPT-5.5 y ahora llega una nueva versión para actualizar",
+        "link": "https://www.infobae.com/tecno/2026/09/16/chatgpt-cambia-por-completo-openai-dice-adios-a-gpt-55-y-ahora-llega-una-nueva-version-para-actualizar/",
+        "imagen": "https://www.infobae.com/resizer/v2/754KMZAGLLDXAATXUSVZNFCLVE.jpg?auth=f11190bf11d975576b0dc50100d175bb38e525daf778229e297e1a169efb705f&smart=true&width=4521&height=2959",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 14:39:02 +0000"
+        "fecha": "Wed, 16 Sep 2026 15:06:38 +0000"
       },
       {
         "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
@@ -749,9 +749,9 @@
         "fecha": "Wed, 16 Sep 2026 11:59:57 +0000"
       },
       {
-        "titulo": "Cuál es el mejor momento del día para comer fibra y mejorar la digestión y la sensación de saciedad",
-        "link": "https://www.infobae.com/salud/2026/09/16/cual-es-el-mejor-momento-del-dia-para-comer-fibra-y-mejorar-la-digestion-y-la-sensacion-de-saciedad/",
-        "imagen": "https://www.infobae.com/resizer/v2/WFFSENY4KZAV5CU5Q65LJR3AYE.png?auth=371a72e034e53387b97bf83faeb7c73e1e5346b31d95386fb4299ce9ae54f6b3&smart=true&width=2752&height=1536",
+        "titulo": "Descansos más largos pueden ayudar a sostener el volumen en ejercicios exigentes",
+        "link": "https://www.infobae.com/salud/2026/09/16/descansos-mas-largos-pueden-ayudar-a-sostener-el-volumen-en-ejercicios-exigentes/",
+        "imagen": "https://www.infobae.com/resizer/v2/DMRGKNHV75CCJCEMJAOAGYWSAU.png?auth=0243cadf822f6cbb3e1078fb748c7a6a4488798d60c742895d8e80734b9caa82&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Wed, 16 Sep 2026 09:00:01 +0000"
       }
