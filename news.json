@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T22:15:04.790418+00:00",
+  "actualizado": "2026-09-16T22:16:22.298828+00:00",
   "categorias": {
     "politica": [
       {
@@ -117,11 +117,11 @@
         "fecha": "Wed, 16 Sep 2026 21:32:51 +0000"
       },
       {
-        "titulo": "La inflación mayorista fue del 2,1% en agosto y acumuló una suba de 29,8% en un año",
-        "link": "https://www.tiempoar.com.ar/ta_article/la-inflacion-mayorista-fue-del-21-en-agosto-y-acumulo-una-suba-de-298-en-un-ano/",
+        "titulo": "El presupuesto destina a universidades $3,6 billones menos de lo que indica la ley",
+        "link": "https://www.tiempoar.com.ar/ta_article/universidades-36-billones-menos/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 21:25:33 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:13:22 +0000"
       },
       {
         "titulo": "¿A dónde viajar con el dólar de hoy? Los destinos más baratos y los más caros para el argentino",
@@ -152,11 +152,11 @@
         "fecha": "Wed, 16 Sep 2026 21:21:24 +0000"
       },
       {
-        "titulo": "El consumo masivo cayó 5% en agosto y acumuló un bajón del 3,2% desde enero",
-        "link": "https://www.tiempoar.com.ar/ta_article/el-consumo-masivo-cayo-5-en-agosto-y-acumulo-un-bajon-del-32-desde-enero/",
+        "titulo": "La inflación mayorista fue del 2,1% en agosto y acumuló una suba de 29,8% en un año",
+        "link": "https://www.tiempoar.com.ar/ta_article/la-inflacion-mayorista-fue-del-21-en-agosto-y-acumulo-una-suba-de-298-en-un-ano/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 19:36:56 +0000"
+        "fecha": "Wed, 16 Sep 2026 21:25:33 +0000"
       },
       {
         "titulo": "La Fed subió las tasas por primera vez desde 2023 y proyecta otro incremento más antes de fin de año",
@@ -210,11 +210,18 @@
         "fecha": "Wed, 16 Sep 2026 18:40:42 -0300"
       },
       {
+        "titulo": "Estudiantes va por el gran paso ante Corinthians: formaciones, hora y TV",
+        "link": "https://www.eldia.com/deportes/estudiantes-va-por-el-gran-paso-ante-corinthians-deportes_1789548198",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Wed, 16 Sep 2026 22:12:23 GMT"
+      },
+      {
         "titulo": "EL DIA en Brasil | Fotos y video: los hinchas de Estudiantes en la previa ante Corinthians",
         "link": "https://www.eldia.com/deportes/fotos-y-video-los-hinchas-de-estudiantes-vs-corinthians-por-copa-libertadores-deportes_1789595640",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Wed, 16 Sep 2026 22:06:32 GMT"
+        "fecha": "Wed, 16 Sep 2026 22:13:57 GMT"
       },
       {
         "titulo": "Troglio presentó la renuncia en Banfield en la previa del partido con Gimnasia",
@@ -222,13 +229,6 @@
         "imagen": "",
         "fuente": "El Día Deportes",
         "fecha": "Wed, 16 Sep 2026 21:45:09 GMT"
-      },
-      {
-        "titulo": "Estudiantes vs Rosario Central: salen a la venta las entradas para la Supercopa Internacional",
-        "link": "https://www.eldia.com/deportes/estudiantes-vs-rosario-central-salen-a-la-venta-las-entradas-para-la-supercopa-internacional-deportes_1789593000",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Wed, 16 Sep 2026 21:18:24 GMT"
       },
       {
         "titulo": "Corinthians pagó salarios atrasados horas antes de jugar ante Estudiantes por la Copa Libertadores",
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/91d6b9045603d1a8e8c63242b0a8deba/adjuntos/326/imagenes/000/000/0000000032/1200x675/smart/whatsapp-instagram-facebookjpg.jpg",
         "fuente": "C5N",
         "fecha": "Wed, 16 Sep 2026 14:58:00 -0300"
+      },
+      {
+        "titulo": "Amazon cambia salarios: pagarán 20 dólares la hora en puestos operacionales sin experiencia previa",
+        "link": "https://www.infobae.com/tecno/2026/09/16/amazon-cambia-salarios-pagaran-20-dolares-la-hora-en-puestos-operacionales-sin-experiencia-previa/",
+        "imagen": "https://www.infobae.com/resizer/v2/BG56DXAESJA2BBARMU7E6QISOQ.JPG?auth=5907822952047da4e036882d7231ed0135c84dfd7dc499ecb9b9a939b56431b8&smart=true&width=5725&height=3616",
+        "fuente": "Infobae Tecno",
+        "fecha": "Wed, 16 Sep 2026 21:29:29 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
