@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-09-16T22:55:04.721147+00:00",
+  "actualizado": "2026-09-16T23:14:20.465441+00:00",
   "categorias": {
     "politica": [
       {
-        "titulo": "Javier Milei negó un uso electoral de Malvinas: \"Es una estupidez mayúscula\"",
-        "link": "https://www.ambito.com/politica/javier-milei-nego-un-uso-electoral-malvinas-es-una-estupidez-mayuscula-n6323219",
-        "imagen": "https://media.ambito.com/p/373ac1145b45d24f7e3c66bd670ec93f/adjuntos/239/imagenes/043/634/0043634716/milei.jpg",
+        "titulo": "El Gobierno aseguró que cumplirá la ley si se prorroga la Emergencia en Discapacidad",
+        "link": "https://www.ambito.com/politica/el-gobierno-aseguro-que-cumplira-la-ley-si-se-prorroga-la-emergencia-discapacidad-n6323231",
+        "imagen": "https://media.ambito.com/p/e65eedacf2b05ece4e97f01c88f19a21/adjuntos/239/imagenes/043/466/0043466486/1200x675/smart/diputados-5.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 18:48:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:59:00 -0300"
       },
       {
         "titulo": "Por unanimidad, reeligen a Joaquín Morales Solá en la Academia de Periodismo",
@@ -45,11 +45,11 @@
         "fecha": "Wed, 16 Sep 2026 22:27:53 +0000"
       },
       {
-        "titulo": "Senado: avanzó el cambio del régimen de Zona Fría y admitieron acuerdo por sumar Zona Cálida",
-        "link": "https://www.ambito.com/politica/senado-avanzo-el-cambio-del-regimen-zona-fria-y-admitieron-acuerdo-sumar-zona-calida-n6323201",
-        "imagen": "https://media.ambito.com/p/de4d0e1971fbcc86f051115f520458b4/adjuntos/239/imagenes/043/647/0043647653/1200x675/smart/plenario-bloques-senado.jpg",
+        "titulo": "Argentina y EEUU avanzan en la implementación del acuerdo de comercio e inversión",
+        "link": "https://www.ambito.com/politica/argentina-y-eeuu-avanzan-la-implementacion-del-acuerdo-comercio-e-inversion-n6323232",
+        "imagen": "https://media.ambito.com/p/cd6920e0ead1b7c888466a14cb896eb1/adjuntos/239/imagenes/043/647/0043647777/reunion-lamelas-quirno-caputo.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 18:43:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:49:00 -0300"
       },
       {
         "titulo": "Sin la reforma del BCRA, el Senado votará este jueves Inocencia Fiscal II y pliegos de jueces vinculados a “Chiqui” Tapia",
@@ -89,11 +89,11 @@
     ],
     "economia": [
       {
-        "titulo": "Presupuesto 2027: el Gobierno insiste con eliminar los aumentos automáticos de la AUH",
-        "link": "https://www.ambito.com/economia/presupuesto-2027-el-gobierno-insiste-eliminar-los-aumentos-automaticos-la-auh-n6323194",
-        "imagen": "",
+        "titulo": "El optimismo de los productores agropecuarios en Argentina duplica al de EEUU: cuáles son las tres razones",
+        "link": "https://www.ambito.com/economia/el-optimismo-los-productores-agropecuarios-argentina-duplica-al-eeuu-cuales-son-las-tres-razones-n6323237",
+        "imagen": "https://media.ambito.com/p/635dd72853350b6304387cb7be48a54f/adjuntos/239/imagenes/040/594/0040594525/1200x675/smart/productores-agropecuariosjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 18:59:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:56:00 -0300"
       },
       {
         "titulo": "Presupuesto 2027: para los economistas, las proyecciones del Gobierno son “optimistas” en un año electoral",
@@ -101,6 +101,41 @@
         "imagen": "https://www.clarin.com/img/2026/08/17/gkUekDacQ_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Wed, 16 Sep 2026 22:01:42 +0000"
+      },
+      {
+        "titulo": "Cuándo cobro ANSES: jubilaciones y pensiones, AUH, AUE, Pago Único, Asignaciones Familiares de PNC y Progresar, este jueves 17 de septiembre",
+        "link": "https://www.c5n.com/economia/cuando-cobro-anses-jubilaciones-y-pensiones-auh-aue-pago-unico-asignaciones-familiares-pnc-y-progresar-este-jueves-17-septiembre-n249130",
+        "imagen": "https://media.c5n.com/p/4d4afc473efb705c686eb191d97d8fd0/adjuntos/326/imagenes/000/021/0000021575/1200x675/smart/anses-calendario-pago-del-jueves.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 19:58:00 -0300"
+      },
+      {
+        "titulo": "Red aeroportuaria argentina: el sector aporta unos USD 5.200 millones por año a la economía local",
+        "link": "https://www.infobae.com/economia/2026/09/16/red-aeroportuaria-argentina-el-sector-aporta-unos-usd-5200-millones-por-ano-a-la-economia-local/",
+        "imagen": "https://www.infobae.com/resizer/v2/P7A7F6LTTNDYFDFO5EXFXZSIFY.jpg?auth=aefdd1d18302add74516a57acddcb843c55e481f920301f2783f9a679b5948da&smart=true&width=5464&height=3640",
+        "fuente": "Infobae",
+        "fecha": "Wed, 16 Sep 2026 23:09:32 +0000"
+      },
+      {
+        "titulo": "El presupuesto destinado a universidades es de $ 3,6 billones menos de lo que indica la ley",
+        "link": "https://www.tiempoar.com.ar/ta_article/universidades-36-billones-menos/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 16 Sep 2026 22:13:22 +0000"
+      },
+      {
+        "titulo": "Presupuesto 2027: el Gobierno insiste con eliminar los aumentos automáticos de la AUH",
+        "link": "https://www.ambito.com/economia/presupuesto-2027-el-gobierno-insiste-eliminar-los-aumentos-automaticos-la-auh-n6323194",
+        "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 18:59:00 -0300"
+      },
+      {
+        "titulo": "Fondos para despidos: la CNV reglamentó los instrumentos de inversión al que podrán acceder las empresas",
+        "link": "https://www.clarin.com/economia/fondos-despidos-cnv-reglamento-instrumentos-inversion-podran-acceder-empresas_0_coXocP35Q4.html",
+        "imagen": "https://www.clarin.com/img/2025/03/18/fKNmG1kE4_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 16 Sep 2026 21:37:25 +0000"
       },
       {
         "titulo": "Cerraron más de 31.300 empresas desde que asumió Javier Milei, un 6,1% del total",
@@ -117,41 +152,6 @@
         "fecha": "Wed, 16 Sep 2026 22:45:20 +0000"
       },
       {
-        "titulo": "El presupuesto destinado a universidades es de $ 3,6 billones menos de lo que indica la ley",
-        "link": "https://www.tiempoar.com.ar/ta_article/universidades-36-billones-menos/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 22:13:22 +0000"
-      },
-      {
-        "titulo": "¿A dónde viajar con el dólar de hoy? Los destinos más baratos y los más caros para el argentino",
-        "link": "https://www.ambito.com/economia/a-donde-viajar-el-dolar-hoy-los-destinos-mas-baratos-y-los-mas-caros-el-argentino-n6322435",
-        "imagen": "https://media.ambito.com/p/fda3082d91fb92aca487fe1df879a3d6/adjuntos/239/imagenes/043/642/0043642577/1200x675/738x314:758x334/viajar.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 17:00:00 -0300"
-      },
-      {
-        "titulo": "Fondos para despidos: la CNV reglamentó los instrumentos de inversión al que podrán acceder las empresas",
-        "link": "https://www.clarin.com/economia/fondos-despidos-cnv-reglamento-instrumentos-inversion-podran-acceder-empresas_0_coXocP35Q4.html",
-        "imagen": "https://www.clarin.com/img/2025/03/18/fKNmG1kE4_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 21:37:25 +0000"
-      },
-      {
-        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 16 de septiembre",
-        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-16-septiembre-n249039",
-        "imagen": "https://media.c5n.com/p/86d07741be92aca1525bf763d2ddb81d/adjuntos/326/imagenes/000/262/0000262393/1200x675/smart/dolar-blue-dolares-billetes-divisas.png",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 17:26:00 -0300"
-      },
-      {
-        "titulo": "Las chances de que la economía argentina caiga en recesión se ubicaron en 82% en agosto, según la Universidad Di Tella",
-        "link": "https://www.infobae.com/economia/2026/09/16/las-chances-de-que-la-economia-argentina-caiga-en-recesion-se-ubicaron-en-82-en-agosto-segun-la-universidad-di-tella/",
-        "imagen": "https://www.infobae.com/resizer/v2/4H6JV7MXZJFW3PEOKCWDD2LMBI.png?auth=e982cd65aecf4a42dbc041247a971552e3c94ca6fd9c20b559715a21c3b4bdbe&smart=true&width=1536&height=1024",
-        "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:22:44 +0000"
-      },
-      {
         "titulo": "La inflación mayorista fue del 2,1% en agosto y acumuló una suba de 29,8% en un año",
         "link": "https://www.tiempoar.com.ar/ta_article/la-inflacion-mayorista-fue-del-21-en-agosto-y-acumulo-una-suba-de-298-en-un-ano/",
         "imagen": "",
@@ -159,11 +159,11 @@
         "fecha": "Wed, 16 Sep 2026 21:25:33 +0000"
       },
       {
-        "titulo": "La Fed subió las tasas por primera vez desde 2023 y proyecta otro incremento más antes de fin de año",
-        "link": "https://www.ambito.com/economia/la-fed-subio-las-tasas-primera-vez-2023-la-suba-los-precios-internacionales-del-petroleo-n6323117",
-        "imagen": "https://media.ambito.com/p/c84ca6bedd115612aad93a70f9513177/adjuntos/239/imagenes/040/461/0040461658/la-reserva-federal-de-eeuu1jpg.jpg",
+        "titulo": "¿A dónde viajar con el dólar de hoy? Los destinos más baratos y los más caros para el argentino",
+        "link": "https://www.ambito.com/economia/a-donde-viajar-el-dolar-hoy-los-destinos-mas-baratos-y-los-mas-caros-el-argentino-n6322435",
+        "imagen": "https://media.ambito.com/p/fda3082d91fb92aca487fe1df879a3d6/adjuntos/239/imagenes/043/642/0043642577/1200x675/738x314:758x334/viajar.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 16:23:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 17:00:00 -0300"
       },
       {
         "titulo": "Cinco claves para entender la suba de las tasas de EE.UU. en Argentina y cómo pega en la economía",
@@ -196,18 +196,18 @@
         "fecha": "Wed, 16 Sep 2026 19:39:00 -0300"
       },
       {
-        "titulo": "“Era esperar la muerte”: explosivas declaraciones del técnico de Inglaterra sobre la remontada épica de Argentina en el Mundial",
-        "link": "https://www.infobae.com/deportes/2026/09/16/era-esperar-la-muerte-explosivas-declaraciones-del-tecnico-de-inglaterra-sobre-la-remontada-epica-de-argentina-en-el-mundial/",
-        "imagen": "https://www.infobae.com/resizer/v2/QK66VTLTKRH35HXQFIC4EYQILE.JPG?auth=770fd5c0ffb6579267ff960a4c5f9680119e19be2d08c040c2fb1daa39906573&smart=true&width=5974&height=3361",
+        "titulo": "“Quiero convertirme en una persona de la que mi hijo se sienta orgulloso”, afirmó la estrella de Los Angeles Rams, Puka Nacua",
+        "link": "https://www.infobae.com/deportes/2026/09/16/quiero-convertirme-en-una-persona-de-la-que-mi-hijo-se-sienta-orgulloso-afirmo-la-estrella-de-los-angeles-rams-puka-nacua/",
+        "imagen": "https://www.infobae.com/resizer/v2/WJFHGHQZSVG2HDWMZVZICSTPYA.jpg?auth=c48f3890abb4a613db93b1837aba2645edb720d7a4981b750e0506240240b908&smart=true&width=6589&height=4393",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:50:11 +0000"
+        "fecha": "Wed, 16 Sep 2026 23:07:08 +0000"
       },
       {
-        "titulo": "Antecedente Monumental: Huracán y la racha positiva contra River de visitante",
-        "link": "https://www.ole.com.ar/huracan/huracan-river-monumental-carp-globo-estadisticas-gallardo-ponzio-torneo-clausura_0_ZSJrAayp7D.html",
-        "imagen": "https://www.ole.com.ar/images/2023/11/03/LqwD3UC_v_1200x630__1.jpg",
+        "titulo": "Crisis en Banfield: Pedro Troglio renunció pero se jugará su futuro ante Gimnasia en el Bosque",
+        "link": "https://www.ole.com.ar/banfield/banfield-pedro-troglio-copa-argentina-gimnasia-plata-matias-mariotto-taladro-clausura-renuncia_0_YGRghGSFFg.html",
+        "imagen": "https://www.ole.com.ar/images/2026/08/10/ZL_QnfBoB_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Wed, 16 Sep 2026 19:08:06 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:59:18 -0300"
       },
       {
         "titulo": "Estudiantes va por el gran paso ante Corinthians: formaciones, hora y TV",
@@ -261,11 +261,11 @@
     ],
     "policiales_actualidad": [
       {
-        "titulo": "La furia de un comisario preso con el primer fiscal del caso Loan: \"Siete veces le pedí detener a Laudelina\"",
-        "link": "https://www.clarin.com/policiales/furia-comisario-preso-primer-fiscal-caso-loan-veces-pedi-detener-laudelina_0_c003Xf3lYO.html",
-        "imagen": "https://www.clarin.com/img/2026/06/16/iZiN5LSIS_1200x630__1.jpg",
+        "titulo": "Importaron una camioneta usada desde Bélgica: traía escondidos US$ 2,3 millones en éxtasis",
+        "link": "https://www.clarin.com/policiales/importaron-camioneta-usada-belgica-traia-escondidos-us-23-millones-extasis_0_X7cLuusFTv.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/xDSVT1euJ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 19:38:23 +0000"
+        "fecha": "Wed, 16 Sep 2026 20:46:35 +0000"
       },
       {
         "titulo": "Con información de la DEA, incautaron 52 kilos de drogas sintéticas escondidas en un auto",
@@ -282,11 +282,11 @@
         "fecha": "Wed, 16 Sep 2026 21:47:02 +0000"
       },
       {
-        "titulo": "Juicio a \"Pity\" Álvarez: el músico pegó el faltazo y un psiquiatra afirmó que tuvo una \"conducta dirigida\" cuando mató a su vecino",
-        "link": "https://www.clarin.com/policiales/juicio-pity-alvarez-musico-pego-faltazo-psiquiatra-afirmo-conducta-dirigida-mato-vecino_0_kPTVfsICSe.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/U6-ZX8AT5_1200x630__1.jpg",
+        "titulo": "La furia de un comisario preso con el primer fiscal del caso Loan: \"Siete veces le pedí detener a Laudelina\"",
+        "link": "https://www.clarin.com/policiales/furia-comisario-preso-primer-fiscal-caso-loan-veces-pedi-detener-laudelina_0_c003Xf3lYO.html",
+        "imagen": "https://www.clarin.com/img/2026/06/16/iZiN5LSIS_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 19:35:17 +0000"
+        "fecha": "Wed, 16 Sep 2026 19:38:23 +0000"
       },
       {
         "titulo": "Nuevo Pacto Democrático: los desafíos entre la revolución digital y la falta de respuestas a lo urgente",
@@ -303,11 +303,11 @@
         "fecha": "Wed, 16 Sep 2026 21:30:43 +0000"
       },
       {
-        "titulo": "Confirman la condena contra Claudio Contardi, el ex de Julieta Prandi, por abuso sexual: hubo una leve reducción de pena",
-        "link": "https://www.clarin.com/policiales/confirman-condena-abuso-claudio-contardi-ex-julieta-prandi-leve-reduccion-pena_0_3NsrVTwAkh.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/0TF5_1A0L_1200x630__1.jpg",
+        "titulo": "Juicio a \"Pity\" Álvarez: el músico pegó el faltazo y un psiquiatra afirmó que tuvo una \"conducta dirigida\" cuando mató a su vecino",
+        "link": "https://www.clarin.com/policiales/juicio-pity-alvarez-musico-pego-faltazo-psiquiatra-afirmo-conducta-dirigida-mato-vecino_0_kPTVfsICSe.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/U6-ZX8AT5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 16:17:17 +0000"
+        "fecha": "Wed, 16 Sep 2026 19:35:17 +0000"
       },
       {
         "titulo": "Chocaron cuatro camiones en la Ruta 51 y uno cayó de un puente: murió uno de los choferes",
@@ -324,11 +324,11 @@
         "fecha": "Wed, 16 Sep 2026 20:23:07 +0000"
       },
       {
-        "titulo": "Cámaras en las calles y una mochila de delivery: las claves para detener a tres sospechosos de matar a un joven en José C. Paz",
-        "link": "https://www.clarin.com/policiales/camaras-calles-mochila-delivery-claves-detener-sospechosos-matar-joven-jose-c-paz_0_LfJDfcBAal.html",
-        "imagen": "https://www.clarin.com/img/2026/09/08/i6aJUNGLV_1200x630__1.jpg",
+        "titulo": "Confirman la condena contra Claudio Contardi, el ex de Julieta Prandi, por abuso sexual: hubo una leve reducción de pena",
+        "link": "https://www.clarin.com/policiales/confirman-condena-abuso-claudio-contardi-ex-julieta-prandi-leve-reduccion-pena_0_3NsrVTwAkh.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/0TF5_1A0L_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 15:08:17 +0000"
+        "fecha": "Wed, 16 Sep 2026 16:17:17 +0000"
       },
       {
         "titulo": "Río Negro: revelan pinturas rupestres inéditas de más de 500 años",
@@ -361,18 +361,18 @@
         "fecha": "Wed, 16 Sep 2026 19:10:00 -0300"
       },
       {
-        "titulo": "El ‘rey del fracking’ desembarca en Venezuela: Delcy Rodríguez celebró un acuerdo que la acerca más a Trump",
-        "link": "https://www.clarin.com/mundo/rey-fracking-desembarca-venezuela-delcy-rodriguez-celebro-acuerdo-acerca-trump_0_XEusD7C15X.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/QoopvzTIA_1200x630__1.jpg",
+        "titulo": "Estados Unidos: para bajar la inflación, la FED subió la tasa de interés por primera vez desde 2023",
+        "link": "https://www.clarin.com/mundo/estados-unidos-primera-vez-2023-fed-subio-tasa-interes_0_aTtfJTzVHG.html",
+        "imagen": "https://www.clarin.com/img/2026/08/28/eTK0bdJkX_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 21:33:15 +0000"
+        "fecha": "Wed, 16 Sep 2026 18:02:42 +0000"
       },
       {
-        "titulo": "Costa Rica y Estados Unidos refuerzan cooperación en seguridad y migración tras reunión entre Manuel Tovar y Marco Rubio",
-        "link": "https://www.infobae.com/costa-rica/2026/09/16/costa-rica-y-estados-unidos-refuerzan-cooperacion-en-seguridad-y-migracion-tras-reunion-entre-manuel-tovar-y-marco-rubio/",
-        "imagen": "https://www.infobae.com/resizer/v2/6FOUPGZPF5D25IPHL2VBZG3W5E.jpeg?auth=a4f7ae3d98fb56285a5bc597ce0513fce91bea09afcccd8b33d08c5599a8e1a0&smart=true&width=2048&height=1528",
+        "titulo": "Cómo el humo de los incendios podría estar reescribiendo el equilibrio de los ecosistemas",
+        "link": "https://www.infobae.com/america/mundo/2026/09/16/como-el-humo-de-los-incendios-podria-estar-reescribiendo-el-equilibrio-de-los-ecosistemas/",
+        "imagen": "https://www.infobae.com/resizer/v2/USTOA7J2DBD2BLGVODCRH6X2HI.png?auth=bc9b2e4973d3fd98cfbc14a0f55afde6fbbac1c68dec306681ed10b8cbc42bd1&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:49:51 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:56:54 +0000"
       },
       {
         "titulo": "EEUU paga u$s725 millones a la ONU y reduce su deuda con el organismo",
@@ -389,18 +389,18 @@
         "fecha": "Wed, 16 Sep 2026 13:57:00 -0300"
       },
       {
-        "titulo": "La economía mundial está empezando a desconfiar de Estados Unidos",
-        "link": "https://www.clarin.com/mundo/economia-mundial-empezando-desconfiar-estados-unidos_0_CLouRDpNL8.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/Oaad0DIfx_1200x630__1.jpg",
+        "titulo": "Roban las memorias del conde Spencer a días de su publicación: un libro que rompe 30 años de silencio sobre Lady Di",
+        "link": "https://www.clarin.com/mundo/roban-memorias-conde-spencer-dias-publicacion-libro-rompe-30-anos-silencio-lady-di_0_fU3mJ7rRf3.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/TJfEN2Sfi_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 21:01:51 +0000"
+        "fecha": "Wed, 16 Sep 2026 17:12:54 +0000"
       },
       {
-        "titulo": "El ICE detuvo en Virginia al opositor nicaragüense Denis Palacios Hernández, uno de los expulsados por el régimen",
-        "link": "https://www.infobae.com/nicaragua/2026/09/16/el-ice-detuvo-en-virginia-al-opositor-nicaraguense-denis-palacios-hernandez-uno-de-los-expulsados-por-el-regimen/",
-        "imagen": "https://www.infobae.com/resizer/v2/AS647IQTXBCGFA3FFZGYVWAZNQ.jpg?auth=c0849fbb1813eed139334c9eaa6b0d5ecbc6d7ddb6c2cc5fcdab6d213957dc44&smart=true&width=3000&height=2000",
+        "titulo": "Ayuda humanitaria de Estados Unidos llegará en las próximas semanas a cinco provincias de Cuba",
+        "link": "https://www.infobae.com/cuba/2026/09/16/ayuda-humanitaria-de-estados-unidos-llegara-en-las-proximas-semanas-a-cinco-provincias-de-cuba/",
+        "imagen": "https://www.infobae.com/resizer/v2/3TPKEINY6VDRJDFD5YBIQQNKEY.JPG?auth=30cc9071e27a98a3d4d7f270bcb5e87d13805179804fa852e18e804bb91a7abd&smart=true&width=7373&height=4915",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:45:24 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:54:52 +0000"
       },
       {
         "titulo": "\"Es una noticia falsa\", sentenció Yamandú Orsi sobre el cable submarino entre Malvinas y Montevideo",
@@ -417,18 +417,18 @@
         "fecha": "Wed, 16 Sep 2026 09:04:00 -0300"
       },
       {
-        "titulo": "Francia registró casi 8.000 muertes adicionales durante el verano abrasador de 2026",
-        "link": "https://www.clarin.com/mundo/francia-registro-8000-muertes-adicionales-verano-abrasador-2026_0_ITmHKwi0KH.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/fKpCFCP0P_1200x630__1.jpg",
+        "titulo": "Murió la perra Sunny, que acompañó a la familia Obama en la Casa Blanca durante su último mandato como presidente de los Estados Unidos",
+        "link": "https://www.clarin.com/mundo/murio-perra-sunny-acompano-familia-obama-casa-blanca-ultimo-mandato-presidente-estados-unidos_0_5zKUrWQsOA.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/KBMqtAfSI_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 19:31:50 +0000"
+        "fecha": "Wed, 16 Sep 2026 16:43:22 +0000"
       },
       {
-        "titulo": "Ayuda humanitaria de Estados Unidos llegará en las próximas semanas a cinco provincias de Cuba",
-        "link": "https://www.infobae.com/cuba/2026/09/16/ayuda-humanitaria-de-estados-unidos-llegara-en-las-proximas-semanas-a-cinco-provincias-de-cuba/",
-        "imagen": "https://www.infobae.com/resizer/v2/3TPKEINY6VDRJDFD5YBIQQNKEY.JPG?auth=30cc9071e27a98a3d4d7f270bcb5e87d13805179804fa852e18e804bb91a7abd&smart=true&width=7373&height=4915",
+        "titulo": "PIB de Panamá aumentó 6.4% en el segundo trimestre",
+        "link": "https://www.infobae.com/panama/2026/09/16/pib-de-panama-aumento-64-en-el-segundo-trimestre/",
+        "imagen": "https://www.infobae.com/resizer/v2/RGPWBVONT5FZ5MNY352ENGWCKM.png?auth=8286180cc305319d8b1166c811a864bd9a9782676873b9e6335f2357cfb678e1&smart=true&width=1408&height=768",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:42:45 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:54:42 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Wed, 16 Sep 2026 18:45:00 -0300"
       },
       {
-        "titulo": "Robo planificado: entraron sin romper nada a la casa de la periodista Carolina Perín y se llevaron una caja fuerte",
-        "link": "https://www.c5n.com/ratingcero/robo-planificado-entraron-romper-nada-la-casa-la-periodista-carolina-perin-y-se-llevaron-una-caja-fuerte-n249124",
-        "imagen": "https://media.c5n.com/p/823a5b49400644f748f3e3c0d3681b63/adjuntos/326/imagenes/000/399/0000399250/1200x675/smart/robo-carolina-perin.jpg",
+        "titulo": "Julieta Prandi cruzó a Yanina Latorre por sus dichos sobre la interna de los hermanos Ortega: \"Alguien resentido...\"",
+        "link": "https://www.c5n.com/ratingcero/julieta-prandi-cruzo-yanina-latorre-sus-dichos-la-interna-los-hermanos-ortega-alguien-resentido-n249129",
+        "imagen": "https://media.c5n.com/p/7ee54413f143315b366b5795a7adade0/adjuntos/326/imagenes/000/399/0000399252/1200x675/smart/yanina-latorre-vs-juliet-prandi.png",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 19:46:12 -0300"
+        "fecha": "Wed, 16 Sep 2026 20:00:00 -0300"
       },
       {
         "titulo": "Premios ACE: todos los nominados a los premios del teatro argentino",
@@ -454,11 +454,11 @@
         "fecha": "Wed, 16 Sep 2026 18:52:45 +0000"
       },
       {
-        "titulo": "Los motivos por los que Telefe bajó a L-Gante de MasterChef Celebrity y el enojo de Wanda Nara: “Pedía que lo retengan”",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/los-motivos-por-los-que-telefe-bajo-a-l-gante-de-masterchef-celebrity-y-el-enojo-de-wanda-nara-pedia-que-lo-retengan/",
-        "imagen": "https://www.infobae.com/resizer/v2/JCANR3H2VZBTVCY4EGF3KPVSAU.jpg?auth=73686d602f64bf90c0d0fd606cb4d56f88269d4c645796f28a06b57152fa612e&smart=true&width=1980&height=1090",
+        "titulo": "Malena Narvay recordó con dolor una relación pasada: “Fue un vínculo violento, me llevó a un lugar oscuro”",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/malena-narvay-recordo-con-dolor-una-relacion-pasada-fue-un-vinculo-violento-me-llevo-a-un-lugar-oscuro/",
+        "imagen": "https://www.infobae.com/resizer/v2/6LTMPX6QLBDGTPU3OGDZW7523Y.jpg?auth=fa59e18aa9214603bcacd60b0b861bbfaeb0a6f13537a12bc303a31ddec6d214&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:41:42 +0000"
+        "fecha": "Wed, 16 Sep 2026 23:10:03 +0000"
       },
       {
         "titulo": "Lena Dunham da la bienvenida a su primer hijo mediante gestación subrogada",
@@ -468,11 +468,11 @@
         "fecha": "Wed, 16 Sep 2026 16:23:00 -0300"
       },
       {
-        "titulo": "Ana Paula Dutil reveló cómo se enteró del romance de Emanuel Ortega y Julieta Prandi: \"Todavía vivíamos juntos\"",
-        "link": "https://www.c5n.com/ratingcero/ana-paula-dutil-revelo-como-se-entero-del-romance-emanuel-ortega-y-julieta-prandi-todavia-viviamos-juntos-n249119",
-        "imagen": "https://media.c5n.com/p/182bc79d265733fa6e480247fa861c9e/adjuntos/326/imagenes/000/399/0000399237/1200x675/smart/ana-paula-dutil-y-emanuel-ortega.png",
+        "titulo": "Robo planificado: entraron sin romper nada a la casa de la periodista Carolina Perín y se llevaron una caja fuerte",
+        "link": "https://www.c5n.com/ratingcero/robo-planificado-entraron-romper-nada-la-casa-la-periodista-carolina-perin-y-se-llevaron-una-caja-fuerte-n249124",
+        "imagen": "https://media.c5n.com/p/823a5b49400644f748f3e3c0d3681b63/adjuntos/326/imagenes/000/399/0000399250/1200x675/smart/robo-carolina-perin.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 19:00:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:46:12 -0300"
       },
       {
         "titulo": "Charlotte Caniggia, afuera de Gran Hermano y lejos de la chica caprichosa que mostró hace años en TV: \"Me pudieron conocer como soy\"",
@@ -482,11 +482,11 @@
         "fecha": "Wed, 16 Sep 2026 17:40:23 +0000"
       },
       {
-        "titulo": "La respuesta de Daniela Celis a Nick Sícaro: \"No quiero que el mundo se entere quién me hace sexo oral\"",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/la-respuesta-de-daniela-celis-a-nick-sicaro-no-quiero-que-el-mundo-se-entere-quien-me-hace-sexo-oral/",
-        "imagen": "https://www.infobae.com/resizer/v2/PESU727JX5DDDHWPNOEPAMIAXY.jpg?auth=128314fd4a7ce84847c45da4c6e74787005f8ffb1291399701632de76a146cf3&smart=true&width=1280&height=720",
+        "titulo": "Los motivos por los que Telefe bajó a L-Gante de MasterChef Celebrity y el enojo de Wanda Nara: “Pedía que lo retengan”",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/los-motivos-por-los-que-telefe-bajo-a-l-gante-de-masterchef-celebrity-y-el-enojo-de-wanda-nara-pedia-que-lo-retengan/",
+        "imagen": "https://www.infobae.com/resizer/v2/JCANR3H2VZBTVCY4EGF3KPVSAU.jpg?auth=73686d602f64bf90c0d0fd606cb4d56f88269d4c645796f28a06b57152fa612e&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:27:24 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:41:42 +0000"
       },
       {
         "titulo": "El show despedida de Ozzy Osbourne y Black Sabbath llega a los cines",
@@ -496,11 +496,11 @@
         "fecha": "Wed, 16 Sep 2026 15:01:00 -0300"
       },
       {
-        "titulo": "El romántico homenaje de J Rei que emocionó a María Becerra: \"Un caballero que me trata como a una reina\"",
-        "link": "https://www.c5n.com/ratingcero/el-romantico-homenaje-j-rei-que-emociono-maria-becerra-un-caballero-que-me-trata-como-una-reina-n249110",
-        "imagen": "https://media.c5n.com/p/969473c4f26498850de5582e8e4b6c42/adjuntos/326/imagenes/000/399/0000399207/1200x675/smart/maria-becerra-j-rei.jpg",
+        "titulo": "Ana Paula Dutil reveló cómo se enteró del romance de Emanuel Ortega y Julieta Prandi: \"Todavía vivíamos juntos\"",
+        "link": "https://www.c5n.com/ratingcero/ana-paula-dutil-revelo-como-se-entero-del-romance-emanuel-ortega-y-julieta-prandi-todavia-viviamos-juntos-n249119",
+        "imagen": "https://media.c5n.com/p/182bc79d265733fa6e480247fa861c9e/adjuntos/326/imagenes/000/399/0000399237/1200x675/smart/ana-paula-dutil-y-emanuel-ortega.png",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 18:19:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:00:00 -0300"
       },
       {
         "titulo": "Latin Grammy 2026: todos los nominados, con Ca7riel & Paco Amoroso y Milo J entre los argentinos más destacados",
@@ -510,11 +510,11 @@
         "fecha": "Wed, 16 Sep 2026 14:19:45 +0000"
       },
       {
-        "titulo": "Quiénes son los argentinos nominados a los Latin Grammy 2026: la lista completa",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/quienes-son-los-argentinos-nominados-a-los-latin-grammy-2026-la-lista-completa/",
-        "imagen": "https://www.infobae.com/resizer/v2/2BWVF3EVOZBDNIBPQONMEFCROY.jpg?auth=f070dd3b07afcb95b6a4d93144ac177c43ec5d01b2f9e5f114f46c0448b6acd2&smart=true&width=2711&height=1808",
+        "titulo": "La respuesta de Daniela Celis a Nick Sícaro: \"No quiero que el mundo se entere quién me hace sexo oral\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/la-respuesta-de-daniela-celis-a-nick-sicaro-no-quiero-que-el-mundo-se-entere-quien-me-hace-sexo-oral/",
+        "imagen": "https://www.infobae.com/resizer/v2/PESU727JX5DDDHWPNOEPAMIAXY.jpg?auth=128314fd4a7ce84847c45da4c6e74787005f8ffb1291399701632de76a146cf3&smart=true&width=1280&height=720",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 22:01:39 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:27:24 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Wed, 16 Sep 2026 16:05:00 -0300"
       },
       {
-        "titulo": "Anthropic llega a los bancos con la IA Claude: ahora los asesores financieros tendrán un asistente para atender a las personas",
-        "link": "https://www.infobae.com/tecno/2026/09/16/anthropic-llega-a-los-bancos-con-la-ia-claude-ahora-los-asesores-financieros-tendran-un-asistente-para-atender-a-las-personas/",
-        "imagen": "https://www.infobae.com/resizer/v2/35EUXP2RUZHU3EECGFQFVQXXVM.jpg?auth=8670f6ceaee67b0d7db4f4d313115c734566eeff63414360c6d6d99f676a0ff1&smart=true&width=1920&height=1280",
+        "titulo": "Paramount ya tiene fecha para negociar su fusión con Warner Bros",
+        "link": "https://www.infobae.com/tecno/2026/09/16/paramount-ya-tiene-fecha-para-negociar-su-fusion-con-warner-bros/",
+        "imagen": "https://www.infobae.com/resizer/v2/LWARSKTNS5HGVLX3KPGKJBSCHY.JPG?auth=25f85be736875fc8af2c737a2458d7ffab0b474a9d1874d9cceeb9f2d0deb8f6&smart=true&width=3000&height=2000",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 22:08:20 +0000"
+        "fecha": "Wed, 16 Sep 2026 23:06:36 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,6 +545,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
+      },
+      {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -561,11 +568,11 @@
         "fecha": "Wed, 16 Sep 2026 15:43:00 -0300"
       },
       {
-        "titulo": "Sin cables ni electricidad: esta computadora solo usa ADN y calor para hacer cálculos",
-        "link": "https://www.infobae.com/tecno/2026/09/16/sin-cables-ni-electricidad-esta-computadora-solo-usa-adn-y-calor-para-hacer-calculos/",
-        "imagen": "https://www.infobae.com/resizer/v2/3J47RXP3PBAFZHULTNTISKIWFI.jpg?auth=51992e6d05ba17ef3af82ba33829d25b5cf5d4212d97281f44f97add99acde3c&smart=true&width=1920&height=1080",
+        "titulo": "Anthropic llega a los bancos con la IA Claude: ahora los asesores financieros tendrán un asistente para atender a las personas",
+        "link": "https://www.infobae.com/tecno/2026/09/16/anthropic-llega-a-los-bancos-con-la-ia-claude-ahora-los-asesores-financieros-tendran-un-asistente-para-atender-a-las-personas/",
+        "imagen": "https://www.infobae.com/resizer/v2/35EUXP2RUZHU3EECGFQFVQXXVM.jpg?auth=8670f6ceaee67b0d7db4f4d313115c734566eeff63414360c6d6d99f676a0ff1&smart=true&width=1920&height=1280",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 21:50:15 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:08:20 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -573,6 +580,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
+      },
+      {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/91d6b9045603d1a8e8c63242b0a8deba/adjuntos/326/imagenes/000/000/0000000032/1200x675/smart/whatsapp-instagram-facebookjpg.jpg",
         "fuente": "C5N",
         "fecha": "Wed, 16 Sep 2026 14:58:00 -0300"
-      },
-      {
-        "titulo": "Amazon cambia salarios: pagarán 20 dólares la hora en puestos operacionales sin experiencia previa",
-        "link": "https://www.infobae.com/tecno/2026/09/16/amazon-cambia-salarios-pagaran-20-dolares-la-hora-en-puestos-operacionales-sin-experiencia-previa/",
-        "imagen": "https://www.infobae.com/resizer/v2/BG56DXAESJA2BBARMU7E6QISOQ.JPG?auth=5907822952047da4e036882d7231ed0135c84dfd7dc499ecb9b9a939b56431b8&smart=true&width=5725&height=3616",
-        "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 21:29:29 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -640,9 +640,9 @@
         "fecha": "Wed, 16 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "La regla de oro de la sillita de auto que salva vidas y muchos ignoran",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/la-regla-de-oro-de-la-sillita-de-auto-que-salva-vidas-y-muchos-ignoran/",
-        "imagen": "https://tn.com.ar/resizer/v2/I6XMRXR3HBB5DNZTPBFEWPVOXM.JPG?auth=5f215446fda32060bd50921f40acd64467384a947d37e2dbe3f588e1f0cbcf4c",
+        "titulo": "Los precios de Dongfeng en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/los-precios-de-dongfeng-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/HLX5TB57PBD6BMUH2MMJWER2XE.jpg?auth=cc9a7683e8e2dd6c82b9ed7d9d6d74e16395facb7ef414301e1eea665c70cd07",
         "fuente": "TN Autos",
         "fecha": "2026-09-16T06:00:00-03:00"
       },
@@ -654,9 +654,9 @@
         "fecha": "Wed, 16 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Los precios de Dongfeng en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/los-precios-de-dongfeng-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/HLX5TB57PBD6BMUH2MMJWER2XE.jpg?auth=cc9a7683e8e2dd6c82b9ed7d9d6d74e16395facb7ef414301e1eea665c70cd07",
+        "titulo": "La regla de oro de la sillita de auto que salva vidas y muchos ignoran",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/la-regla-de-oro-de-la-sillita-de-auto-que-salva-vidas-y-muchos-ignoran/",
+        "imagen": "https://tn.com.ar/resizer/v2/I6XMRXR3HBB5DNZTPBFEWPVOXM.JPG?auth=5f215446fda32060bd50921f40acd64467384a947d37e2dbe3f588e1f0cbcf4c",
         "fuente": "TN Autos",
         "fecha": "2026-09-16T06:00:00-03:00"
       },
@@ -689,29 +689,7 @@
         "fecha": "2026-09-15T15:57:32-03:00"
       }
     ],
-    "turismo": [
-      {
-        "titulo": "Escapada: un viaje por la inmigración que transformó Entre Ríos",
-        "link": "https://www.lanacion.com.ar/salud/escapada-un-viaje-por-la-inmigracion-que-transformo-entre-rios-nid16092026/",
-        "imagen": "https://resizer.glanacion.com/resizer/v2/MSYWKVMGLRFEHMPIJ66NBG2P3A.webp?auth=03447355c3de5558b51823b244b3d68589eab516bd51d87e73520e4aae542eee&smart=true&width=960&height=639",
-        "fuente": "La Nación",
-        "fecha": "Wed, 16 Sep 2026 22:48:06 +0000"
-      },
-      {
-        "titulo": "Cataratas de Iguazú: A 300 km está el tesoro natural más salvaje de Misiones",
-        "link": "https://www.lanacion.com.ar/salud/cataratas-de-iguazu-a-300-km-esta-el-tesoro-natural-mas-salvaje-de-misiones-nid15092026/",
-        "imagen": "https://resizer.glanacion.com/resizer/v2/MCXBZWDQCBEFXNQUKAGBCLG4HM.jpg?auth=4eea717701d36cd87d7febad05980107399ee3abf1c974cba0cecd1e40ff842d&smart=true&width=5472&height=3648",
-        "fuente": "La Nación",
-        "fecha": "Tue, 15 Sep 2026 15:17:26 +0000"
-      },
-      {
-        "titulo": "La joya del sur de Francia que invita a recorrer sus callecitas a pie, un castillo y jardines imponentes",
-        "link": "https://www.lanacion.com.ar/salud/la-joya-del-sur-de-francia-que-invita-a-recorrer-sus-callecitas-a-pie-un-castillo-y-jardines-nid09092026/",
-        "imagen": "https://resizer.glanacion.com/resizer/v2/KYMA3QTN4NAJNEI3UG6T4ADS3Y.JPG?auth=8879043ff3860c20dadfed3cb36138a98db6f477457a7f1b1cf31f39b1222a61&smart=true&width=2000&height=998",
-        "fuente": "La Nación",
-        "fecha": "Tue, 15 Sep 2026 09:31:56 +0000"
-      }
-    ],
+    "turismo": [],
     "vida_sana": [
       {
         "titulo": "Cumbre de neurólogos del mundo en Buenos Aires: cuáles son las claves para prevenir la demencia en la región",
@@ -758,11 +736,11 @@
     ],
     "local": [
       {
-        "titulo": "El legado de los desaparecidos de la Noche de los Lápices se hizo sentir en las calles de La Plata",
-        "link": "https://www.0221.com.ar/la-plata/el-legado-los-desaparecidos-la-noche-los-lapices-se-hizo-sentir-las-calles-la-plata-n134317",
-        "imagen": "https://media.0221.com.ar/p/6a6564489c6d7ae1d980d83f86a4e056/adjuntos/357/imagenes/100/296/0100296181/1200x630/2002x1749:2022x1769/marcha-la-noche-los-lapices-2026-22.jpeg",
+        "titulo": "Peces Raros fue nominado a los Latin Grammy 2026 por una colaboración con Nick Warren",
+        "link": "https://www.0221.com.ar/la-plata/peces-raros-fue-nominado-los-latin-grammy-2026-una-colaboracion-nick-warren-n134300",
+        "imagen": "https://media.0221.com.ar/p/9daf414c9cf89cabf6ee8dbcb386af11/adjuntos/357/imagenes/100/279/0100279954/1200x630/smart/peces-raros-5-jun-2025-prensa0115-1.jpg",
         "fuente": "0221",
-        "fecha": "Wed, 16 Sep 2026 19:04:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 20:00:00 -0300"
       },
       {
         "titulo": "Investigan la muerte de un hombre en Berisso: lo llevaron al hospital y lo abandonaron",
@@ -786,18 +764,18 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "Tras una persecución, atraparon a un motociclista que evadió un control en La Plata",
-        "link": "https://www.eldia.com/policiales/tras-una-persecucion-atraparon-a-un-motociclista-que-evadio-un-control-en-la-plata-policiales_1789595820",
+        "titulo": "Juicio por el crimen de Aramburú: el testimonio de los testigos complicó a los acusados",
+        "link": "https://www.eldia.com/policiales/juicio-por-el-crimen-de-federico-martin-aramburu-el-testimonio-de-los-testigos-complico-a-los-acusados-policiales_1789599060",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 16 Sep 2026 22:06:06 GMT"
+        "fecha": "Wed, 16 Sep 2026 23:07:55 GMT"
       },
       {
-        "titulo": "La Plata y el país conmemoran los 50 años de La Noche de los Lápices",
-        "link": "https://www.0221.com.ar/la-plata/la-plata-y-el-pais-conmemoran-los-50-anos-la-noche-los-lapices-n134234",
-        "imagen": "https://media.0221.com.ar/p/afcd20ffffd054474df8c045c913b2f0/adjuntos/357/imagenes/100/296/0100296256/1200x630/1252x929:1272x949/marcha-la-noche-los-lapices-2026-31-pablo-diaz.jpeg",
+        "titulo": "El legado de los desaparecidos de la Noche de los Lápices se hizo sentir en las calles de La Plata",
+        "link": "https://www.0221.com.ar/la-plata/el-legado-los-desaparecidos-la-noche-los-lapices-se-hizo-sentir-las-calles-la-plata-n134317",
+        "imagen": "https://media.0221.com.ar/p/6a6564489c6d7ae1d980d83f86a4e056/adjuntos/357/imagenes/100/296/0100296181/1200x630/2002x1749:2022x1769/marcha-la-noche-los-lapices-2026-22.jpeg",
         "fuente": "0221",
-        "fecha": "Wed, 16 Sep 2026 17:56:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 19:04:00 -0300"
       },
       {
         "titulo": "Le robaron el auto a un conductor de DiDi en Berisso y los delincuentes fueron atrapados con autopartes",
@@ -821,18 +799,18 @@
         "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "Troglio presentó la renuncia en Banfield en la previa del partido con Gimnasia",
-        "link": "https://www.eldia.com/deportes/pedro-troglio-presento-la-renuncia-en-banfield-en-la-previa-del-partido-con-gimnasia-deportes_1789593720",
+        "titulo": "Estudiantes va por el gran paso ante Corinthians: formaciones, hora y TV",
+        "link": "https://www.eldia.com/deportes/estudiantes-va-por-el-gran-paso-ante-corinthians-deportes_1789548198",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 16 Sep 2026 21:45:09 GMT"
+        "fecha": "Wed, 16 Sep 2026 22:12:23 GMT"
       },
       {
-        "titulo": "El Liceo Víctor Mercante renueva su homenaje a Lucía Ríos Müller a 10 años de su femicidio",
-        "link": "https://www.0221.com.ar/la-plata/el-liceo-victor-mercante-renueva-su-homenaje-lucia-rios-muller-10-anos-su-femicidio-n134311",
-        "imagen": "https://media.0221.com.ar/p/de296f8fc8101223c31b60fae36d0d81/adjuntos/357/imagenes/100/296/0100296195/1200x630/smart/lucia-rios-muller-liceo-victor-mecante.jpg",
+        "titulo": "La Plata y el país conmemoran los 50 años de La Noche de los Lápices",
+        "link": "https://www.0221.com.ar/la-plata/la-plata-y-el-pais-conmemoran-los-50-anos-la-noche-los-lapices-n134234",
+        "imagen": "https://media.0221.com.ar/p/afcd20ffffd054474df8c045c913b2f0/adjuntos/357/imagenes/100/296/0100296256/1200x630/1252x929:1272x949/marcha-la-noche-los-lapices-2026-31-pablo-diaz.jpeg",
         "fuente": "0221",
-        "fecha": "Wed, 16 Sep 2026 17:28:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 17:56:00 -0300"
       },
       {
         "titulo": "Una enfermera detenida en La Plata por los abusos en Magdalena negó haber participado de las torturas",
