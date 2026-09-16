@@ -75,8 +75,9 @@ FEEDS = {
         ("Autocosmos", "https://noticias.autocosmos.com.ar/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "turismo": [
-        ("Clarín", "https://www.clarin.com/rss/viajes/"),  # sin confirmar, revisar si no trae nada
         ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/viajes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+        ("La Nación", "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/turismo/?outputType=xml"),  # sin confirmar, revisar si no trae nada
+        ("Pulso Turístico", "https://www.pulsoturistico.com.ar/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "local": [
         ("0221", "https://www.0221.com.ar/rss/pages/la-plata.xml"),
