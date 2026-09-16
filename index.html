@@ -653,18 +653,50 @@ function actualizarVideo() {
 }
 
 // ---- Noticias reales desde news.json (generado por scripts/fetch_news.py) ----
+
+// La 4ta columna (antes fija en "Policiales") ahora rota cada 2 horas entre
+// estas categorías, para darles espacio en la portada sin sumar más columnas.
+const ROTACION_COL4 = ["local", "espectaculos", "tecnologia", "autos", "turismo", "vida_sana"];
+const HORAS_POR_ROTACION = 2;
+
+function categoriaRotativaActual() {
+  const bloque = Math.floor(Date.now() / (HORAS_POR_ROTACION * 60 * 60 * 1000));
+  return ROTACION_COL4[bloque % ROTACION_COL4.length];
+}
+
 const CATEGORIAS_COL = {
   "col-politica": "politica",
   "col-economia": "economia",
   "col-deportes": "deportes",
-  "col-policiales_actualidad": "policiales_actualidad"
+  "col-policiales_actualidad": categoriaRotativaActual()
+};
+
+const NOMBRES_CATEGORIA = {
+  "politica": "Política",
+  "economia": "Economía",
+  "deportes": "Deportes",
+  "policiales_actualidad": "Policiales y Actualidad",
+  "internacional": "Internacional",
+  "local": "La Plata",
+  "espectaculos": "Espectáculos",
+  "tecnologia": "Ciencia y Tecnología",
+  "autos": "Autos",
+  "turismo": "Turismo",
+  "vida_sana": "Vida Sana"
 };
 
 const ICONO_CATEGORIA = {
   "politica": "📜",
   "economia": "💵",
   "deportes": "⚽",
-  "policiales_actualidad": "🚨"
+  "policiales_actualidad": "🚨",
+  "internacional": "🌎",
+  "local": "📍",
+  "espectaculos": "🎬",
+  "tecnologia": "💻",
+  "autos": "🚗",
+  "turismo": "✈️",
+  "vida_sana": "🧘"
 };
 
 function renderNoticias(colId, items, categoria) {
@@ -672,6 +704,7 @@ function renderNoticias(colId, items, categoria) {
   if (!col || !items || !items.length) return; // sin datos: deja el contenido de ejemplo
 
   const h2 = col.querySelector("h2");
+  h2.textContent = NOMBRES_CATEGORIA[categoria] || h2.textContent;
   col.innerHTML = "";
   col.appendChild(h2);
   col.removeAttribute("data-fallback");
@@ -727,15 +760,28 @@ async function cargarNoticias() {
     const resp = await fetch("news.json", { cache: "no-store" });
     if (!resp.ok) return; // no hay news.json todavía: queda el contenido de ejemplo
     const data = await resp.json();
-    Object.values(CATEGORIAS_COL).forEach(categoria => {
-      poolNoticias[categoria] = (data.categorias && data.categorias[categoria]) || [];
-      elegirNoticiasParaMostrar(categoria);
+    // Cargamos el pool de TODAS las categorías (no solo las 4 de la portada),
+    // así cuando la 4ta columna rota a otra categoría ya tenemos sus datos.
+    Object.keys(data.categorias || {}).forEach(categoria => {
+      poolNoticias[categoria] = data.categorias[categoria] || [];
     });
+    Object.values(CATEGORIAS_COL).forEach(categoria => elegirNoticiasParaMostrar(categoria));
     actualizarTicker();
+
     // Cada 20 segundos, muestra otra combinación del mismo pool (nacional + internacional mezclados)
     setInterval(() => {
       Object.values(CATEGORIAS_COL).forEach(categoria => elegirNoticiasParaMostrar(categoria));
     }, 20000);
+
+    // Cada 2 minutos, revisa si le toca cambiar la categoría rotativa de la 4ta
+    // columna (por si alguien deja la pestaña abierta varias horas seguidas).
+    setInterval(() => {
+      const categoriaNueva = categoriaRotativaActual();
+      if (CATEGORIAS_COL["col-policiales_actualidad"] !== categoriaNueva) {
+        CATEGORIAS_COL["col-policiales_actualidad"] = categoriaNueva;
+        elegirNoticiasParaMostrar(categoriaNueva);
+      }
+    }, 2 * 60 * 1000);
   } catch (e) {
     // Sin conexión, o abierto como archivo local (file://): se queda con el contenido de ejemplo.
     console.log("No se pudo cargar news.json todavía:", e.message);
