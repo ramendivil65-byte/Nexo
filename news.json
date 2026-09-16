@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T01:31:05.869028+00:00",
+  "actualizado": "2026-09-16T01:54:42.903094+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,11 +10,11 @@
         "fecha": "Tue, 15 Sep 2026 22:05:00 -0300"
       },
       {
-        "titulo": "De visita en Washington, Jorge Macri dijo que en EE.UU. hubo apoyo a una alianza del PRO con La Libertad Avanza para las elecciones",
-        "link": "https://www.clarin.com/politica/visita-washington-jorge-macri-dijo-eeuu-apoyo-alianza-pro-libertad-avanza-elecciones_0_z3ifurbI0s.html",
-        "imagen": "https://www.clarin.com/img/2026/09/14/uIhpGACpU_1200x630__1.jpg",
+        "titulo": "Luis Caputo celebró el sobreseimiento de sus hermanos por el supuesto vínculo con Revolución Federal: \"La persecución más ridícula de la historia\"",
+        "link": "https://www.clarin.com/politica/luis-caputo-celebro-sobreseimiento-hermanos-supuesto-vinculo-revolucion-federal-persecucion-ridicula-historia_0_CYbEUkH4AB.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/K6cZ4kPG4_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 00:17:32 +0000"
+        "fecha": "Wed, 16 Sep 2026 00:42:44 +0000"
       },
       {
         "titulo": "Rusia amenazó a Polonia tras una advertencia de la OTAN: \"Dejaría de existir en dos o tres días\"",
@@ -38,6 +38,13 @@
         "fecha": "Wed, 16 Sep 2026 00:09:12 +0000"
       },
       {
+        "titulo": "Kicillof cerró encuentro federal de jóvenes en La Plata: críticas a Milei y llamado a «disputar el futuro»",
+        "link": "https://www.tiempoar.com.ar/ta_article/kicillof-cerro-encuentro-federal-de-jovenes-en-la-plata-criticas-a-milei-y-llamado-a-disputar-el-futuro/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 15 Sep 2026 22:53:04 +0000"
+      },
+      {
         "titulo": "La UIA alertó por la situación de las pymes y presentó al Gobierno un paquete de medidas",
         "link": "https://www.ambito.com/politica/la-uia-alerto-la-situacion-las-pymes-y-presento-al-gobierno-un-paquete-medidas-n6322811",
         "imagen": "https://media.ambito.com/p/c56b488fe67b4fdd154328ee1423d928/adjuntos/239/imagenes/042/298/0042298876/1200x675/smart/uiapng.png",
@@ -45,11 +52,11 @@
         "fecha": "Tue, 15 Sep 2026 21:39:00 -0300"
       },
       {
-        "titulo": "Aparecieron imágenes de la pelea con un cuchillo entre un intendente y su predecesor en Neuquén",
-        "link": "https://www.clarin.com/politica/aparecieron-imagenes-pelea-cuchillo-intendente-predecesor-neuquen_0_a5ujVZnjoe.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/VMKVpEuD__1200x630__1.jpg",
+        "titulo": "De visita en Washington, Jorge Macri dijo que en EE.UU. hubo apoyo a una alianza del PRO con La Libertad Avanza para las elecciones",
+        "link": "https://www.clarin.com/politica/visita-washington-jorge-macri-dijo-eeuu-apoyo-alianza-pro-libertad-avanza-elecciones_0_z3ifurbI0s.html",
+        "imagen": "https://www.clarin.com/img/2026/09/14/uIhpGACpU_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 23:34:29 +0000"
+        "fecha": "Wed, 16 Sep 2026 00:17:32 +0000"
       },
       {
         "titulo": "Giorgia Meloni avanza con una polémica reforma electoral en Italia y la oposición intenta frenarla",
@@ -73,27 +80,20 @@
         "fecha": "Tue, 15 Sep 2026 23:36:41 +0000"
       },
       {
-        "titulo": "Sindicatos reclaman que el salario mínimo supere los $3,1 millones para cubrir necesidades básicas",
-        "link": "https://www.ambito.com/politica/sindicatos-reclaman-que-el-salario-minimo-supere-los-31-millones-cubrir-necesidades-basicas-n6322799",
-        "imagen": "https://media.ambito.com/p/ea7ff76c8bcb2ecb3d01eb8af6da2bba/adjuntos/239/imagenes/043/645/0043645145/1200x675/smart/sindicatos.jpeg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 21:27:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno se alineó con Trump y rechazó regular el desarrollo de la Inteligencia Artificial",
-        "link": "https://www.clarin.com/politica/gobierno-alineo-trump-rechazo-regular-desarrollo-inteligencia-artificial_0_0BzXASgSzh.html",
-        "imagen": "https://www.clarin.com/img/2026/04/11/yj_YRO4FE_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 22:47:31 +0000"
+        "titulo": "El Senado retomó en comisión el debate sobre reforma política sin consenso todavía para eliminar las PASO",
+        "link": "https://www.tiempoar.com.ar/ta_article/el-senado-retomo-en-comision-el-debate-sobre-reforma-politica-sin-consenso-todavia-para-eliminar-las-paso/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 15 Sep 2026 22:38:27 +0000"
       }
     ],
     "economia": [
       {
-        "titulo": "FMI: el Gobierno admite que incumplirá la meta fiscal de 2026, pero confía en superar la revisión",
-        "link": "https://www.ambito.com/economia/fmi-el-gobierno-admite-que-incumplira-la-meta-fiscal-2026-pero-confia-superar-la-revision-n6322786",
-        "imagen": "",
+        "titulo": "Cómo aprovechar las ofertas de viaje, congelar el precio de un pasaje al exterior y pagarlo poco a poco",
+        "link": "https://www.ambito.com/economia/como-aprovechar-las-ofertas-viaje-congelar-el-precio-un-pasaje-al-exterior-y-pagarlo-poco-poco-n6322630",
+        "imagen": "https://media.ambito.com/p/942613c1f72aa3148eaebab0ecbda989/adjuntos/239/imagenes/043/630/0043630490/1200x675/597x424:617x444/viaje-ahorro.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 21:14:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 22:00:00 -0300"
       },
       {
         "titulo": "Un Presupuesto más realista para bajar la inflación y evitar una corrida en 2027",
@@ -117,11 +117,18 @@
         "fecha": "Tue, 15 Sep 2026 22:46:15 +0000"
       },
       {
-        "titulo": "Plazo fijo: cuánto gano si invierto $1.000.000 durante 30 días",
-        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-gano-si-invierto-1000000-30-dias-n6322587",
+        "titulo": "Aportista de Milei y constructora respaldada por Mekorot, seleccionadas para quedarse con AySA",
+        "link": "https://www.tiempoar.com.ar/ta_article/milei-mekorot-aysa/",
         "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 15 Sep 2026 22:33:16 +0000"
+      },
+      {
+        "titulo": "FMI: el Gobierno admite que incumplirá la meta fiscal de 2026, pero confía en superar la revisión",
+        "link": "https://www.ambito.com/economia/fmi-el-gobierno-admite-que-incumplira-la-meta-fiscal-2026-pero-confia-superar-la-revision-n6322786",
+        "imagen": "https://media.ambito.com/p/9072caa927e06c48602ad70718770ef1/adjuntos/239/imagenes/043/645/0043645245/1200x675/smart/fmi-caputo.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 21:00:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 21:14:00 -0300"
       },
       {
         "titulo": "Sturzenegger: \"Somos los plomeros, nos metemos en la cloaca para destapar el caño\"",
@@ -145,11 +152,18 @@
         "fecha": "Tue, 15 Sep 2026 22:26:59 +0000"
       },
       {
-        "titulo": "Se aceleró la inflación de alimentos en septiembre: ¿el IPC volverá al 2%?",
-        "link": "https://www.ambito.com/economia/se-acelero-la-inflacion-alimentos-septiembre-el-ipc-volvera-al-2-n6322640",
+        "titulo": "El consumo de carne vacuna cayó casi 10% en un año",
+        "link": "https://www.tiempoar.com.ar/ta_article/el-consumo-de-carne-vacuna-cayo-casi-10-en-un-ano/",
         "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 15 Sep 2026 20:32:01 +0000"
+      },
+      {
+        "titulo": "Plazo fijo: cuánto gano si invierto $1.000.000 durante 30 días",
+        "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-gano-si-invierto-1000000-30-dias-n6322587",
+        "imagen": "https://media.ambito.com/p/1ba5222a60fbc7b29596461ee4f6cc56/adjuntos/239/imagenes/043/548/0043548626/plazo-fijo-inversiones.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 20:31:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 21:00:00 -0300"
       },
       {
         "titulo": "La Deuda Pública se mantuvo casi estable en agosto y registró una leve suba: los factores que explican este movimiento",
@@ -157,20 +171,6 @@
         "imagen": "https://www.clarin.com/img/2026/01/02/IQ-j03uDB_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Tue, 15 Sep 2026 22:03:23 +0000"
-      },
-      {
-        "titulo": "Presupuesto 2027: el Gobierno estima una inflación anual del 18% y crecimiento del PBI del 4%",
-        "link": "https://www.c5n.com/economia/javier-milei-presupuesto-2027-congreso-gobierno-presentacion-15-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/4a3abb4803c370ad5fc7d43c8bd77efb/adjuntos/326/imagenes/000/349/0000349540/1200x675/smart/javier-milei-luis-caputo-asamblea-la-onu-septiembre-2025.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 18:24:00 -0300"
-      },
-      {
-        "titulo": "Colombia se perfila como el mercado de la región andina con mejores perspectivas de desempeño, según Bank of America",
-        "link": "https://www.infobae.com/economia/2026/09/15/colombia-se-perfila-como-el-mercado-de-la-region-andina-con-mejores-perspectivas-de-desempeno-segun-bank-of-america/",
-        "imagen": "https://www.infobae.com/resizer/v2/5QONWHDVOZEBBDZDRCUJMHNSGQ.JPG?auth=0eca7b3e935df9cacb1ad3abc895ce60e19bc16a6bf957d5d4ff883e0b918029&smart=true&width=8640&height=5760",
-        "fuente": "Infobae",
-        "fecha": "Tue, 15 Sep 2026 22:08:42 +0000"
       }
     ],
     "deportes": [
@@ -196,11 +196,11 @@
         "fecha": "Tue, 15 Sep 2026 21:28:00 -0300"
       },
       {
-        "titulo": "Boca Juniors empata contra San Pablo en Brasil por la revancha de los cuartos de final de la Copa Sudamericana",
+        "titulo": "Boca Juniors vence a San Pablo en Brasil por la revancha de los cuartos de final de la Copa Sudamericana",
         "link": "https://www.infobae.com/deportes/2026/09/15/boca-juniors-y-san-pablo-definiran-en-brasil-el-pase-a-las-semifinales-de-la-copa-sudamericana-hora-tv-y-formaciones/",
         "imagen": "https://www.infobae.com/resizer/v2/2I6WNBXVGJHTNCL7IJZ2QJIHXM.JPG?auth=f2edb3fd1faf9c4cc3dbeb0cdc308387831a156a29e624127dbe8c5b5fcab4cf&smart=true&width=4704&height=2646",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 01:17:27 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:53:01 +0000"
       },
       {
         "titulo": "Las claves del Instituto puntero: mucho peso ofensivo, una defensa sólida y Alex Luna como estrella",
@@ -361,18 +361,18 @@
         "fecha": "Tue, 15 Sep 2026 21:07:00 -0300"
       },
       {
-        "titulo": "Después de 88 años, Bolivia y Paraguay terminarán de definir los 742 kilómetros de su frontera común",
-        "link": "https://www.clarin.com/mundo/despues-88-anos-bolivia-paraguay-terminaran-definir-742-kilometros-frontera-comun_0_ZhY8XcYrsi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/7WnwKqS93_1200x630__1.jpg",
+        "titulo": "El testaferro de Nicolás Maduro, el venezolano Alex Saab, se declaró culpable de lavado tras un acuerdo con la Fiscalía",
+        "link": "https://www.clarin.com/mundo/testaferro-nicolas-maduro-venezolano-alex-saab-declaro-culpable-lavado-acuerdo-fiscalia_0_MVk8pyPJ2E.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/J2wnuYun9_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 00:34:41 +0000"
+        "fecha": "Tue, 15 Sep 2026 16:33:00 +0000"
       },
       {
-        "titulo": "El Instituto de Bienestar Estudiantil suspendió a 44 suplidores tras incidencias en la alimentación escolar de República Dominicana",
-        "link": "https://www.infobae.com/republica-dominicana/2026/09/16/el-instituto-de-bienestar-estudiantil-suspendio-a-44-suplidores-tras-incidencias-en-la-alimentacion-escolar-de-republica-dominicana/",
-        "imagen": "https://www.infobae.com/resizer/v2/6BDDJXV6VFBGJCAKUP37HGAQDI.jpg?auth=c2e088f6ef7d44f5c969239774da5f82ad98562c827b05639045696b5d315b4b&smart=true&width=2160&height=1215",
+        "titulo": "Brasil y Marruecos muestran interés en producir y distribuir fertilizantes desde Panamá",
+        "link": "https://www.infobae.com/panama/2026/09/16/brasil-y-marruecos-muestran-interes-en-producir-y-distribuir-fertilizantes-desde-panama/",
+        "imagen": "https://www.infobae.com/resizer/v2/QZEGBWXFJJG7NA4NV7IAHBQ7OE.jpeg?auth=dcc096f7cb0033a2977120a3403327bb8af306998164587c170e4503276179db&smart=true&width=586&height=436",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 01:25:43 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:30:16 +0000"
       },
       {
         "titulo": "Giorgia Meloni avanza con una polémica reforma electoral en Italia y la oposición intenta frenarla",
@@ -389,18 +389,18 @@
         "fecha": "Tue, 15 Sep 2026 18:20:00 -0300"
       },
       {
-        "titulo": "El FBI detuvo al último prófugo de su lista de diez más buscados: quién es Aníbal Alexander Canelón Aguirre, el \"primer fugitivo cibernético\"",
-        "link": "https://www.clarin.com/mundo/fbi-detuvo-ultimo-profugo-lista-buscados-anibal-alexander-canelon-aguirre-primer-fugitivo-cibernetico_0_uBhip12H4c.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/NxFQWwd03_1200x630__1.jpg",
+        "titulo": "Trump ataca a la Corte Suprema por prohibir sus restricciones al voto por correo: \"Estos no son los jueces que yo entrevisté\"",
+        "link": "https://www.clarin.com/mundo/trump-ataca-corte-suprema-prohibir-restricciones-voto-correo-jueces-entreviste_0_X8S3ioV69y.html",
+        "imagen": "https://www.clarin.com/img/2026/05/30/Q4vU5__Nw_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 22:45:36 +0000"
+        "fecha": "Tue, 15 Sep 2026 15:29:27 +0000"
       },
       {
-        "titulo": "Cubalex documentó 919 víctimas de violaciones de derechos humanos en Cuba entre enero y junio 2026",
-        "link": "https://www.infobae.com/cuba/2026/09/16/cubalex-documento-919-victimas-de-violaciones-de-derechos-humanos-en-cuba-entre-enero-y-junio-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/L64O3LABHNHARHWEXGJGMBKV44.png?auth=e147b995a84be270fea46f533626c8b96511a3c0f369ce1f0fd60c124c361c04&smart=true&width=2752&height=1536",
+        "titulo": "El Instituto de Bienestar Estudiantil suspendió a 44 suplidores tras incidencias en la alimentación escolar de República Dominicana",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/16/el-instituto-de-bienestar-estudiantil-suspendio-a-44-suplidores-tras-incidencias-en-la-alimentacion-escolar-de-republica-dominicana/",
+        "imagen": "https://www.infobae.com/resizer/v2/6BDDJXV6VFBGJCAKUP37HGAQDI.jpg?auth=c2e088f6ef7d44f5c969239774da5f82ad98562c827b05639045696b5d315b4b&smart=true&width=2160&height=1215",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 01:25:36 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:25:43 +0000"
       },
       {
         "titulo": "Tensión en Países Bajos por las protestas de agricultores y los bloqueos de rutas",
@@ -417,18 +417,18 @@
         "fecha": "Tue, 15 Sep 2026 17:43:00 -0300"
       },
       {
-        "titulo": "Brasil: en medio de fuertes cruces, la Corte Suprema aplazó la decisión de investigar al juez Alexandre de Moraes",
-        "link": "https://www.clarin.com/mundo/brasil-medio-fuertes-cruces-corte-suprema-aplazo-decision-investigar-juez-alexandre-moraes_0_96pl7QzFCh.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/_f4NokrQN_1200x630__1.jpg",
+        "titulo": "El precio de hablar desde España: el exilio ruso se enfrenta a la última amenaza de Vladimir Putin",
+        "link": "https://www.clarin.com/mundo/precio-hablar-espana-exilio-ruso-enfrenta-ultima-amenaza-vladimir-putin_0_p12kc7QuUD.html",
+        "imagen": "https://www.clarin.com/img/2026/09/14/EqmtdSs75_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 15 Sep 2026 22:41:19 +0000"
+        "fecha": "Tue, 15 Sep 2026 14:17:18 +0000"
       },
       {
-        "titulo": "Honduras: Teniente coronel Ever Maldonado vuelve al Estadio Nacional un año después del accidente que sufrió durante un show de paracaidismo",
-        "link": "https://www.infobae.com/honduras/2026/09/16/honduras-teniente-coronel-ever-maldonado-vuelve-al-estadio-nacional-un-ano-despues-del-accidente-que-sufrio-durante-un-show-de-paracaidismo/",
-        "imagen": "https://www.infobae.com/resizer/v2/RFJ2DZ4VKZHC3O267EG7H2XV74.jpeg?auth=06eb775ae1adbbf5a0429a361c99525c28f88d9b916bd0584f914e90d4de6865&smart=true&width=1536&height=1024",
+        "titulo": "Cubalex documentó 919 víctimas de violaciones de derechos humanos en Cuba entre enero y junio 2026",
+        "link": "https://www.infobae.com/cuba/2026/09/16/cubalex-documento-919-victimas-de-violaciones-de-derechos-humanos-en-cuba-entre-enero-y-junio-2026/",
+        "imagen": "https://www.infobae.com/resizer/v2/L64O3LABHNHARHWEXGJGMBKV44.png?auth=e147b995a84be270fea46f533626c8b96511a3c0f369ce1f0fd60c124c361c04&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 01:23:07 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:25:36 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Tue, 15 Sep 2026 21:47:00 -0300"
       },
       {
-        "titulo": "Nick de Gran Hermano despreció su relación con Daniela Celis y ella salió al cruce: \"Falta de respeto\"",
-        "link": "https://www.c5n.com/ratingcero/nick-gran-hermano-desprecio-su-relacion-daniela-celis-y-ella-salio-al-cruce-falta-respeto-n249024",
-        "imagen": "https://media.c5n.com/p/dac586e9c0d8115d0cf8a7013e6abce6/adjuntos/326/imagenes/000/399/0000399076/1200x675/smart/daniela-celis-y-nick-sicaro.png",
+        "titulo": "¿Todo mal con Julieta Prandi? Revelaron por qué los hermanos de Emanuel Ortega no fueron a su boda",
+        "link": "https://www.c5n.com/ratingcero/todo-mal-julieta-prandi-revelaron-que-los-hermanos-emanuel-ortega-no-fueron-su-boda-n249029",
+        "imagen": "https://media.c5n.com/p/8c3f8c12fd4dfc80c31d06f14966a68a/adjuntos/326/imagenes/000/399/0000399084/1200x675/smart/familia-ortega-julieta-prandi.png",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 21:38:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 22:27:00 -0300"
       },
       {
         "titulo": "Por qué \"The Pitt\" ganó el Premio Emmy a mejor serie dramática por segundo año seguido",
@@ -454,11 +454,11 @@
         "fecha": "Tue, 15 Sep 2026 21:27:17 +0000"
       },
       {
-        "titulo": "La jugada sesión de fotos de Coty Romero que impactó a sus fans: topless, sombras y sensualidad",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/la-jugada-sesion-de-fotos-de-coty-romero-que-impacto-a-sus-fans-topless-sombras-y-sensualidad/",
-        "imagen": "https://www.infobae.com/resizer/v2/S5IWYITBWBCXZE2NVFNUXFFMYY.jpg?auth=ddb483bf8726ec7592808fc6d8af22eb2d49eb86c265c56fa9c3f37a19020425&smart=true&width=2592&height=1458",
+        "titulo": "Georgina Barbarossa recordó el acoso que sufrió de Jorge Porcel: “Que Dios lo tenga en un tacho de mierda y no lo largue”",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/georgina-barbarossa-recordo-el-acoso-que-sufrio-de-jorge-porcel-que-dios-lo-tenga-en-un-tacho-de-mierda-y-no-lo-largue/",
+        "imagen": "https://www.infobae.com/resizer/v2/K4KX47KOSZCAJM6JJ3PZNDV74Q.jpg?auth=edb22eedd282db94289abcb07222480bf8bea471fc4a4ffd23eb3ca9a55264c9&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 01:12:32 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:36:49 +0000"
       },
       {
         "titulo": "Catriel y Paco Amoroso participarían del soundtrack oficial de GTA 6",
@@ -468,11 +468,11 @@
         "fecha": "Tue, 15 Sep 2026 20:18:00 -0300"
       },
       {
-        "titulo": "Nació Orión, el segundo hijo de Maluma: el significado detrás de su nombre",
-        "link": "https://www.c5n.com/ratingcero/nacio-orion-el-segundo-hijo-maluma-el-significado-detras-su-nombre-n249017",
-        "imagen": "https://media.c5n.com/p/283d046f7f675f4ba9207f59d133353d/adjuntos/326/imagenes/000/399/0000399061/1200x675/smart/maluma-y-susana-gomez-agrandaron-la-familia-un-tierno-anuncio-la-llegada-orion.jpg",
+        "titulo": "Nick de Gran Hermano despreció su relación con Daniela Celis y ella salió al cruce: \"Falta de respeto\"",
+        "link": "https://www.c5n.com/ratingcero/nick-gran-hermano-desprecio-su-relacion-daniela-celis-y-ella-salio-al-cruce-falta-respeto-n249024",
+        "imagen": "https://media.c5n.com/p/dac586e9c0d8115d0cf8a7013e6abce6/adjuntos/326/imagenes/000/399/0000399076/1200x675/smart/daniela-celis-y-nick-sicaro.png",
         "fuente": "C5N",
-        "fecha": "Tue, 15 Sep 2026 20:47:00 -0300"
+        "fecha": "Tue, 15 Sep 2026 21:38:00 -0300"
       },
       {
         "titulo": "Slow Horses: tras ganar un Emmy y a un día de estrenar su sexta temporada, Apple TV confirmó la octava",
@@ -482,11 +482,11 @@
         "fecha": "Tue, 15 Sep 2026 20:18:32 +0000"
       },
       {
-        "titulo": "Carolina Papaleo contrató a una detective para saber si su pareja le era infiel: “Él decía que estaba separado”",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/carolina-papaleo-relato-que-contrato-a-una-detective-para-saber-si-su-pareja-le-era-infiel-decia-que-estaba-separado/",
-        "imagen": "https://www.infobae.com/resizer/v2/LQNDW6R2RBGH5I5JNSHDWA5UOQ.jpg?auth=c7d1a32b6dd9cbd666d325d8f9c6dcf73ba7538f79481519ef48019a4c904b3e&smart=true&width=1980&height=1090",
+        "titulo": "La jugada sesión de fotos de Coty Romero que impactó a sus fans: topless, sombras y sensualidad",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/la-jugada-sesion-de-fotos-de-coty-romero-que-impacto-a-sus-fans-topless-sombras-y-sensualidad/",
+        "imagen": "https://www.infobae.com/resizer/v2/S5IWYITBWBCXZE2NVFNUXFFMYY.jpg?auth=ddb483bf8726ec7592808fc6d8af22eb2d49eb86c265c56fa9c3f37a19020425&smart=true&width=2592&height=1458",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 00:41:18 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:12:32 +0000"
       },
       {
         "titulo": "Murió Griselda Gambaro, una de las dramaturgas más importantes del teatro argentino",
@@ -496,9 +496,9 @@
         "fecha": "Tue, 15 Sep 2026 17:50:00 -0300"
       },
       {
-        "titulo": "Marcela Tinayre reveló cómo está Mirtha Legrand de salud: \"Su debilidad son...\"",
-        "link": "https://www.c5n.com/ratingcero/marcela-tinayre-revelo-como-esta-mirtha-legrand-salud-su-debilidad-son-n249020",
-        "imagen": "https://media.c5n.com/p/2eb0be87a2b9556fc5a2eeeeda0c2b5a/adjuntos/326/imagenes/000/147/0000147758/1200x675/smart/mirtha-legrand-marcela-tinayrejpgjpg.jpg",
+        "titulo": "Nació Orión, el segundo hijo de Maluma: el significado detrás de su nombre",
+        "link": "https://www.c5n.com/ratingcero/nacio-orion-el-segundo-hijo-maluma-el-significado-detras-su-nombre-n249017",
+        "imagen": "https://media.c5n.com/p/283d046f7f675f4ba9207f59d133353d/adjuntos/326/imagenes/000/399/0000399061/1200x675/smart/maluma-y-susana-gomez-agrandaron-la-familia-un-tierno-anuncio-la-llegada-orion.jpg",
         "fuente": "C5N",
         "fecha": "Tue, 15 Sep 2026 20:47:00 -0300"
       },
@@ -510,11 +510,11 @@
         "fecha": "Tue, 15 Sep 2026 16:58:39 +0000"
       },
       {
-        "titulo": "Luana Fernández y Cinzia Francischiello explotaron con acusaciones, insultos y amenazas: “La peor persona que conocí en mi vida”",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/luana-fernandez-y-cinzia-francischiello-explotaron-con-acusaciones-insultos-y-amenazas-la-peor-persona-que-conoci-en-mi-vida/",
-        "imagen": "https://www.infobae.com/resizer/v2/RDFHO445TZG47IP66KVW7FCKM4.png?auth=b6371d84900574a3e8ba5287d58479e157de447c43c561ef22754b2f81df06aa&smart=true&width=2752&height=1536",
+        "titulo": "Carolina Papaleo contrató a una detective para saber si su pareja le era infiel: “Él decía que estaba separado”",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/carolina-papaleo-relato-que-contrato-a-una-detective-para-saber-si-su-pareja-le-era-infiel-decia-que-estaba-separado/",
+        "imagen": "https://www.infobae.com/resizer/v2/LQNDW6R2RBGH5I5JNSHDWA5UOQ.jpg?auth=c7d1a32b6dd9cbd666d325d8f9c6dcf73ba7538f79481519ef48019a4c904b3e&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 00:14:49 +0000"
+        "fecha": "Wed, 16 Sep 2026 00:41:18 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Tue, 15 Sep 2026 14:29:00 -0300"
       },
       {
-        "titulo": "Amor y amistad con Gemini de Google: diseña juegos en pareja, sorprende con regalos y hasta comida personalizada",
-        "link": "https://www.infobae.com/tecno/2026/09/16/amor-y-amistad-con-gemini-de-google-disena-juegos-en-pareja-sorprende-con-regalos-y-hasta-comida-personalizada/",
-        "imagen": "https://www.infobae.com/resizer/v2/HG2J7ZENN5FXTGFBYBXOVK34NY.jpg?auth=c69acaf89ff1fbeb1ceae8662f02a45105f7318df3da2d5cf34cdb21b573ae5b&smart=true&width=1920&height=1080",
+        "titulo": "Desarrollan chip que puede borrarse y reprogramarse mediante luz",
+        "link": "https://www.infobae.com/tecno/2026/09/16/desarrollan-chip-que-puede-borrarse-y-reprogramarse-mediante-luz/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZKGUKY4TUFCYFPCUMDZ2LVKVVU.png?auth=73ad2166e05ef1aa763f5d83d1715cf992a1d24f19e28e590b5438142237fe86&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 01:25:33 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:40:54 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,13 +545,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
-      },
-      {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -568,11 +561,11 @@
         "fecha": "Mon, 14 Sep 2026 11:58:00 -0300"
       },
       {
-        "titulo": "Jensen Huang le dice a Trump que no ralentizará el desarrollo de IA: “No vamos a permitirlo”",
-        "link": "https://www.infobae.com/tecno/2026/09/16/jensen-huang-le-dice-a-trump-que-no-ralentizara-el-desarrollo-de-ia-no-vamos-a-permitirlo/",
-        "imagen": "https://www.infobae.com/resizer/v2/WLBY6M2BQJA7BH5UNM5F3G7OMA.jpg?auth=71323ca08d225266a7f07346b391f08633989ee927092f437b0514e74c908a35&smart=true&width=3313&height=2262",
+        "titulo": "Amor y amistad con Gemini de Google: diseña juegos en pareja, sorprende con regalos y hasta comida personalizada",
+        "link": "https://www.infobae.com/tecno/2026/09/16/amor-y-amistad-con-gemini-de-google-disena-juegos-en-pareja-sorprende-con-regalos-y-hasta-comida-personalizada/",
+        "imagen": "https://www.infobae.com/resizer/v2/HG2J7ZENN5FXTGFBYBXOVK34NY.jpg?auth=c69acaf89ff1fbeb1ceae8662f02a45105f7318df3da2d5cf34cdb21b573ae5b&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 00:59:55 +0000"
+        "fecha": "Wed, 16 Sep 2026 01:25:33 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -580,13 +573,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
-      },
-      {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/d8b6370bc24385b8f92c875bf82f2444/adjuntos/326/imagenes/000/398/0000398745/1200x675/smart/sam-altman-dario-amodei-elon-musk.jpg",
         "fuente": "C5N",
         "fecha": "Sun, 13 Sep 2026 13:18:00 -0300"
+      },
+      {
+        "titulo": "Jensen Huang le dice a Trump que no ralentizará el desarrollo de IA: “No vamos a permitirlo”",
+        "link": "https://www.infobae.com/tecno/2026/09/16/jensen-huang-le-dice-a-trump-que-no-ralentizara-el-desarrollo-de-ia-no-vamos-a-permitirlo/",
+        "imagen": "https://www.infobae.com/resizer/v2/WLBY6M2BQJA7BH5UNM5F3G7OMA.jpg?auth=71323ca08d225266a7f07346b391f08633989ee927092f437b0514e74c908a35&smart=true&width=3313&height=2262",
+        "fuente": "Infobae Tecno",
+        "fecha": "Wed, 16 Sep 2026 00:59:55 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -707,18 +707,39 @@
     ],
     "vida_sana": [
       {
-        "titulo": "Día Mundial del Aperitivo: la guía de lugares para disfrutar de un buen trago",
-        "link": "https://www.ambito.com/lifestyle/dia-mundial-del-aperitivo-la-guia-lugares-disfrutar-un-buen-aperitivo-n6322801",
-        "imagen": "https://media.ambito.com/p/3bfbb0b98bcdb6fdef158bdcbf4f835d/adjuntos/239/imagenes/043/645/0043645213/1200x675/847x371:867x391/mision-ba-aperitivo-1.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 21:08:00 -0300"
+        "titulo": "Entrenamiento de fuerza 101: Guía para desarrollar músculo de forma segura a cualquier edad",
+        "link": "https://www.infobae.com/salud/2026/09/16/entrenamiento-de-fuerza-101-guia-para-desarrollar-musculo-de-forma-segura-a-cualquier-edad/",
+        "imagen": "https://www.infobae.com/resizer/v2/NCEYA5E43ZD2PJPPBC5LZ3C75I.jpg?auth=254871168a7fdf9dc7eec1efb763d0ce5188ebd7d9efd64b0bff3bce7bf226fc&smart=true&width=1200&height=675",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 16 Sep 2026 01:45:20 +0000"
       },
       {
-        "titulo": "Carne a las brasas y cortes madurados en una propuesta diferente en Belgrano",
-        "link": "https://www.c5n.com/lifestyle/carne-las-brasas-y-cortes-madurados-una-propuesta-diferente-belgrano-n248878",
-        "imagen": "https://media.c5n.com/p/9d77345180859ba2493f29aeef4fc098/adjuntos/326/imagenes/000/398/0000398845/1200x675/smart/corte-comedor-7.jpg",
-        "fuente": "C5N",
-        "fecha": "Mon, 14 Sep 2026 14:28:00 -0300"
+        "titulo": "Las mascotas pueden portar gérmenes resistentes a los antibióticos",
+        "link": "https://www.infobae.com/salud/2026/09/16/las-mascotas-pueden-portar-germenes-resistentes-a-los-antibioticos/",
+        "imagen": "https://www.infobae.com/resizer/v2/T6XJCPFLRBGBBAXYKECAFFMZTM.jpg?auth=3aa784d0f11e5d88bea16cce979c15229ef1fd5566703f0755b309a83369bdf5&smart=true&width=1200&height=800",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 16 Sep 2026 01:31:12 +0000"
+      },
+      {
+        "titulo": "Paracetamol durante el embarazo relacionado con diferencias reproductivas en niñas",
+        "link": "https://www.infobae.com/salud/2026/09/16/paracetamol-durante-el-embarazo-relacionado-con-diferencias-reproductivas-en-ninas/",
+        "imagen": "https://www.infobae.com/resizer/v2/K6CACLEKZBETXDHP25QYPCILRY.jpg?auth=6adb6261bc199dbaa1c6e4dae445dcaaa77b0d615aa9f0a7003754202baf7e6f&smart=true&width=1200&height=680",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 16 Sep 2026 01:30:54 +0000"
+      },
+      {
+        "titulo": "La terapia hormonal puede aliviar los cambios de humor de la menopausia",
+        "link": "https://www.infobae.com/salud/2026/09/16/la-terapia-hormonal-puede-aliviar-los-cambios-de-humor-de-la-menopausia/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZEMSZQDDMBEATHQK2XFPIADBNE.jpg?auth=4423b1e41b9f60a85793466af2ad74383b55b1630dfeaf2fc4c8506f692f2c69&smart=true&width=1423&height=800",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 16 Sep 2026 01:30:36 +0000"
+      },
+      {
+        "titulo": "Menos sobrediagnóstico en el cribado de cáncer de mama de lo que se pensaba, según un estudio",
+        "link": "https://www.infobae.com/salud/2026/09/16/menos-sobrediagnostico-en-el-cribado-de-cancer-de-mama-de-lo-que-se-pensaba-segun-un-estudio/",
+        "imagen": "https://www.infobae.com/resizer/v2/CHPAWWF66JFIJB7NYCZXLTJPA4.jpg?auth=8cb2698ac268b6b96f8dd1336d5bf45e42d26013809811686f245db67dcc30a6&smart=true&width=1200&height=675",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 16 Sep 2026 01:30:17 +0000"
       },
       {
         "titulo": "Por qué la desorientación súbita en adultos mayores puede ser indicio de una urgencia médica, según una experta",
@@ -726,69 +747,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/6NQQURFZRJE6ZIJHBO3TPOSYVQ.png?auth=fcd96eda72dff205881ed517121e71df505a7715624ab65d2a5eb4f27d3c1019&smart=true&width=1408&height=768",
         "fuente": "Infobae Salud",
         "fecha": "Tue, 15 Sep 2026 18:27:42 +0000"
-      },
-      {
-        "titulo": "Calendario Lunar de septiembre 2026: las fases que quedan",
-        "link": "https://www.ambito.com/lifestyle/calendario-lunar-septiembre-2026-las-fases-que-quedan-n6322643",
-        "imagen": "https://media.ambito.com/p/4066cd6764e7ef975d7138a9c0a60fb7/adjuntos/239/imagenes/043/643/0043643929/1200x675/712x481:732x501/luna-1500-x-1000.png",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 16:30:00 -0300"
-      },
-      {
-        "titulo": "El Buenos Aires Herald inaugura una galería de arte en su redacción para celebrar sus 150 años",
-        "link": "https://www.c5n.com/lifestyle/el-buenos-aires-herald-inaugura-una-galeria-arte-su-redaccion-celebrar-sus-150-anos-n248669",
-        "imagen": "https://media.c5n.com/p/6942966d995ccf9c40126d40073533ae/adjuntos/326/imagenes/000/398/0000398516/1200x675/smart/galeria-arte-buenos-aires-herald.jpeg",
-        "fuente": "C5N",
-        "fecha": "Mon, 14 Sep 2026 10:08:00 -0300"
-      },
-      {
-        "titulo": "Cuáles son las comidas que favorecen la acidez estomacal y claves prevenirla",
-        "link": "https://www.infobae.com/salud/2026/09/15/cuales-son-las-comidas-que-favorecen-la-acidez-estomacal-y-claves-prevenirla/",
-        "imagen": "https://www.infobae.com/resizer/v2/X3MVDBEQPZEBRIWKOJZS54C6FA.png?auth=3e8eac4c68080e3bc1f1d3c589f684d9b054e817d5fb7925149657f50e188c10&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 15 Sep 2026 18:13:40 +0000"
-      },
-      {
-        "titulo": "Cuándo cae el Día de la Primavera en 2026, por qué se festeja y quiénes tienen feriado",
-        "link": "https://www.ambito.com/lifestyle/cuando-cae-el-dia-la-primavera-2026-que-se-festeja-y-quienes-tienen-feriado-n6322600",
-        "imagen": "https://media.ambito.com/p/a4f2951346795f96593b47c265372316/adjuntos/239/imagenes/041/819/0041819239/1200x675/589x242:609x262/dia-primaverajpgwebp.png",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 14:34:00 -0300"
-      },
-      {
-        "titulo": "Como es el truco para apanar cualquier comida sin usar ni pan rallado ni huevos",
-        "link": "https://www.c5n.com/lifestyle/como-es-el-truco-apanar-cualquier-comida-usar-ni-pan-rallado-ni-huevos-n248446",
-        "imagen": "https://media.c5n.com/p/8e552afdea6cd841bccc84825ebbf043/adjuntos/326/imagenes/000/398/0000398121/1200x675/smart/empanados.png",
-        "fuente": "C5N",
-        "fecha": "Sun, 13 Sep 2026 16:19:35 -0300"
-      },
-      {
-        "titulo": "Fórmula contaminada, sin condenas y USD 385 millones: el acuerdo al que llegó un laboratorio estadounidense con la Justicia",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/15/formula-contaminada-y-sin-cargos-penales-abbott-laboratories-pagara-usd-385-millones-por-el-escandalo-en-su-planta-de-michigan/",
-        "imagen": "https://www.infobae.com/resizer/v2/4KO2DM6AMNENHGD5WC4ORI6GGM?auth=200448ec51b4118b597f8059b190d8e14b327f653899642c8cc9351541b67c82&smart=true&width=6000&height=3375",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 15 Sep 2026 16:42:55 +0000"
-      },
-      {
-        "titulo": "¿Agradecés cuando te dejan cruzar la calle? Los 6 rasgos de personalidad que revela este gesto, según la psicología",
-        "link": "https://www.ambito.com/lifestyle/agradeces-cuando-te-dejan-cruzar-la-calle-los-6-rasgos-personalidad-que-revela-este-gesto-segun-la-psicologia-n6321856",
-        "imagen": "https://media.ambito.com/p/d3a693890410fa8c28723f2e69dae05c/adjuntos/239/imagenes/043/640/0043640204/1200x675/507x253:527x273/cruzar-la-calle.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 15 Sep 2026 07:00:00 -0300"
-      },
-      {
-        "titulo": "Este pueblo de España busca vecinos y da lugar a todo tipo de emprendimientos: qué ofrece",
-        "link": "https://www.c5n.com/lifestyle/este-pueblo-espana-busca-vecinos-y-da-lugar-todo-tipo-emprendimientos-que-ofrece-n248417",
-        "imagen": "https://media.c5n.com/p/c78a19f6f362c52fe0ef33186dc36060/adjuntos/326/imagenes/000/398/0000398079/1200x675/smart/cabra-de-mora.jpg",
-        "fuente": "C5N",
-        "fecha": "Sun, 13 Sep 2026 09:47:00 -0300"
-      },
-      {
-        "titulo": "Leer por placer protege el cerebro: un estudio detalló cuáles son sus beneficios para la memoria, la atención y la salud mental",
-        "link": "https://www.infobae.com/salud/ciencia/2026/09/15/leer-por-placer-protege-el-cerebro-un-estudio-detallo-cuales-son-sus-beneficios-para-la-memoria-la-atencion-y-la-salud-mental/",
-        "imagen": "https://www.infobae.com/resizer/v2/ODMKA7ZXSBFQNKM2GUUL33Q2XI.png?auth=abc3015c38fcf244fed6844c7f09db81c9b37577ea356f11a0dcc153f50b744e&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 15 Sep 2026 14:52:07 +0000"
       }
     ],
     "local": [
