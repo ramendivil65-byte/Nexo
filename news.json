@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-16T19:53:28.550640+00:00",
+  "actualizado": "2026-09-16T20:16:50.620972+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "Cortocircuito entre la Casa Rosada y el Congreso por la Emergencia en Discapacidad",
+        "link": "https://www.ambito.com/politica/cortocircuito-la-casa-rosada-y-el-congreso-la-emergencia-discapacidad-n6323115",
+        "imagen": "https://media.ambito.com/p/7d357d432208f613477672ea84dd41b6/adjuntos/239/imagenes/043/484/0043484034/1200x675/smart/milei-diputados-senadores.jpeg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 16:55:00 -0300"
+      },
+      {
+        "titulo": "Piñas, empujones y un cuchillo: se conoció el video de la pelea entre un intendente y su predecesor en Neuquén",
+        "link": "https://www.clarin.com/politica/pinas-empujones-cuchillo-conocio-video-pelea-intendente-predecesor-neuquen_0_BhCXmGv1A6.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/VMKVpEuD__1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 16 Sep 2026 18:18:53 +0000"
+      },
+      {
+        "titulo": "EEUU paga u$s725 millones a la ONU y reduce su deuda con el organismo",
+        "link": "https://www.ambito.com/mundo/eeuu-paga-us725-millones-la-onu-y-reduce-su-deuda-el-organismo-n6323125",
+        "imagen": "https://media.ambito.com/p/f802079a72df108155dad69c41d35196/adjuntos/239/imagenes/043/314/0043314022/onu.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Wed, 16 Sep 2026 16:52:00 -0300"
+      },
+      {
+        "titulo": "El Senado debate Inocencia Fiscal II y biocombustibles en un día decisivo para el Gobierno",
+        "link": "https://www.c5n.com/politica/el-senado-debate-inocencia-fiscal-ii-y-biocombustibles-un-dia-decisivo-el-gobierno-n249103",
+        "imagen": "https://media.c5n.com/p/c987e5001e93bf27faea77c7c2e02fd5/adjuntos/326/imagenes/000/396/0000396625/1200x675/smart/milei-y-bullrich-se-tienen-que-ir.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 16:53:00 -0300"
+      },
+      {
+        "titulo": "Diego Santilli se reunió con gobernadores del norte y les pidió apoyo para el Presupuesto 2027",
+        "link": "https://www.infobae.com/politica/2026/09/16/diego-santilli-se-reunio-con-gobernadores-del-norte-y-les-pidio-apoyo-para-el-presupuesto-2027/",
+        "imagen": "https://www.infobae.com/resizer/v2/5MNYLIIDT5BVVOP5OIAZJZP3IU.jpg?auth=699799bc0acb043b8e4528a1533b3a155a4ce76041372a3f67dc8ca9af5d5060&smart=true&width=4000&height=2250",
+        "fuente": "Infobae",
+        "fecha": "Wed, 16 Sep 2026 20:13:37 +0000"
+      },
+      {
+        "titulo": "El ajuste en discapacidad en el Presupuesto 2027 tensa la relación del Gobierno con sus aliados en el Congreso",
+        "link": "https://www.tiempoar.com.ar/ta_article/el-ajuste-en-discapacidad-en-el-presupuesto-2027-tensa-la-relacion-del-gobierno-con-sus-aliados-en-el-congreso/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 16 Sep 2026 19:14:01 +0000"
+      },
       {
         "titulo": "Caso $LIBRA: querellantes van a Casación contra el fallo que los dejó afuera",
         "link": "https://www.ambito.com/politica/caso-libra-querellantes-van-casacion-contra-el-fallo-que-los-dejo-afuera-n6323156",
@@ -10,11 +52,11 @@
         "fecha": "Wed, 16 Sep 2026 16:24:00 -0300"
       },
       {
-        "titulo": "Piñas, empujones y un cuchillo: se conoció el video de la pelea entre un intendente y su predecesor en Neuquén",
-        "link": "https://www.clarin.com/politica/pinas-empujones-cuchillo-conocio-video-pelea-intendente-predecesor-neuquen_0_BhCXmGv1A6.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/VMKVpEuD__1200x630__1.jpg",
+        "titulo": "Las pruebas del juicio Vialidad que tiran abajo la estrategia de Cristina Kirchner para anular su condena por corrupción",
+        "link": "https://www.clarin.com/politica/pruebas-juicio-vialidad-tiran-abajo-estrategia-cristina-kirchner-anular-condena-corrupcion_0_DStSB4lQVJ.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/js4saM4No_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 18:18:53 +0000"
+        "fecha": "Wed, 16 Sep 2026 17:02:24 +0000"
       },
       {
         "titulo": "\"Es una noticia falsa\", sentenció Yamandú Orsi sobre el cable submarino entre Malvinas y Montevideo",
@@ -38,48 +80,6 @@
         "fecha": "Wed, 16 Sep 2026 19:12:22 +0000"
       },
       {
-        "titulo": "El ajuste en discapacidad en el Presupuesto 2027 tensa la relación del Gobierno con sus aliados en el Congreso",
-        "link": "https://www.tiempoar.com.ar/ta_article/el-ajuste-en-discapacidad-en-el-presupuesto-2027-tensa-la-relacion-del-gobierno-con-sus-aliados-en-el-congreso/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 19:14:01 +0000"
-      },
-      {
-        "titulo": "Chile enviará una nota de protesta por los dichos de Patricia Bullrich sobre el estrecho de Magallanes",
-        "link": "https://www.ambito.com/politica/chile-enviara-una-nota-protesta-los-dichos-patricia-bullrich-el-estrecho-magallanes-n6323096",
-        "imagen": "https://media.ambito.com/p/ae77903134b5e14f337ea9b1e8c7acbf/adjuntos/239/imagenes/043/163/0043163894/1200x675/510x332:530x352/patricia-bullrich.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 15:26:00 -0300"
-      },
-      {
-        "titulo": "Las pruebas del juicio Vialidad que tiran abajo la estrategia de Cristina Kirchner para anular su condena por corrupción",
-        "link": "https://www.clarin.com/politica/pruebas-juicio-vialidad-tiran-abajo-estrategia-cristina-kirchner-anular-condena-corrupcion_0_DStSB4lQVJ.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/js4saM4No_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 17:02:24 +0000"
-      },
-      {
-        "titulo": "La guerra con Irán ya le costó u$s38.000 millones a EEUU y el gasto crecería u$s3.000 millones por mes",
-        "link": "https://www.ambito.com/mundo/la-guerra-iran-ya-le-costo-us38000-millones-eeuu-y-el-gasto-creceria-us3000-millones-mes-n6323034",
-        "imagen": "https://media.ambito.com/p/e737c8b928e321193fe534a0ae0022de/adjuntos/239/imagenes/043/296/0043296615/1200x675/685x277:705x297/operacion-furia-epica-ataque-eeuu-medio-oriente-2.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 16 Sep 2026 13:00:00 -0300"
-      },
-      {
-        "titulo": "La trama de los escandalosos pagos irregulares en la Armada: quiénes cobraron y cómo funcionaba la maniobra",
-        "link": "https://www.c5n.com/politica/la-trama-los-escandalosos-pagos-irregulares-la-armada-quienes-cobraron-y-como-funcionaba-la-maniobra-n249075",
-        "imagen": "https://media.c5n.com/p/a8197289d1956f1b2a1598ddacfcc881/adjuntos/326/imagenes/000/386/0000386389/1200x675/973x486:993x506/fuerzas-armadas.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 13:22:00 -0300"
-      },
-      {
-        "titulo": "Una intendenta inauguró una sala en una escuela que lleva su nombre y cuestionaron el homenaje",
-        "link": "https://www.infobae.com/politica/2026/09/16/una-intendenta-inauguro-una-sala-en-una-escuela-que-lleva-su-nombre-cuestionan-el-homenaje-y-piden-un-sumario/",
-        "imagen": "https://www.infobae.com/resizer/v2/635F63YX2FHLBEGW65YOLQMWVI.jpg?auth=ecb7d0f43ee65ee3ec3d23e3f43663b32b40da30214a880353db22af12afef47&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 18:56:28 +0000"
-      },
-      {
         "titulo": "La Justicia de Tierra del Fuego ordenó frenar el proyecto petrolero de las empresas Rockhopper y Navitas en Malvinas",
         "link": "https://www.tiempoar.com.ar/ta_article/la-justicia-de-tierra-del-fuego-ordeno-frenar-el-proyecto-petrolero-de-las-empresas-rockhopper-y-navitas-en-malvinas/",
         "imagen": "",
@@ -89,11 +89,11 @@
     ],
     "economia": [
       {
-        "titulo": "La Fed subió las tasas por primera vez desde 2023 y proyecta otro incremento más antes de fin de año",
-        "link": "https://www.ambito.com/economia/la-fed-subio-las-tasas-primera-vez-2023-la-suba-los-precios-internacionales-del-petroleo-n6323117",
-        "imagen": "https://media.ambito.com/p/c84ca6bedd115612aad93a70f9513177/adjuntos/239/imagenes/040/461/0040461658/la-reserva-federal-de-eeuu1jpg.jpg",
+        "titulo": "¿A dónde viajar con el dólar de hoy? Los destinos más baratos y los más caros para el argentino",
+        "link": "https://www.ambito.com/economia/a-donde-viajar-el-dolar-hoy-los-destinos-mas-baratos-y-los-mas-caros-el-argentino-n6322435",
+        "imagen": "https://media.ambito.com/p/fda3082d91fb92aca487fe1df879a3d6/adjuntos/239/imagenes/043/642/0043642577/1200x675/738x314:758x334/viajar.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 16:23:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 17:00:00 -0300"
       },
       {
         "titulo": "El Presupuesto elimina la actualización automática por inflación de la AUH y las asignaciones familiares",
@@ -101,6 +101,41 @@
         "imagen": "https://www.clarin.com/img/2025/08/01/v8yaecKAW_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Wed, 16 Sep 2026 18:08:26 +0000"
+      },
+      {
+        "titulo": "INDEC: la inflación mayorista trepó al 2,1% en agosto con un impulso de la suba del petróleo",
+        "link": "https://www.c5n.com/economia/indec-la-inflacion-mayorista-trepo-al-21-agosto-un-impulso-la-suba-del-petroleo-n249108",
+        "imagen": "https://media.c5n.com/p/ce96028bcfcc1bb44e6e9d5ddaecfcd6/adjuntos/326/imagenes/000/382/0000382474/1200x675/smart/black-mayorista-supermercado-hipermercado-mayorista.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 17:04:00 -0300"
+      },
+      {
+        "titulo": "“Estrangulamiento del mercado” y “suba desmedida de costos”: los dueños de Granja Tres Arroyos detallaron su debacle ante la Justicia",
+        "link": "https://www.infobae.com/economia/2026/09/16/estrangulamiento-del-mercado-y-suba-desmedida-de-costos-los-duenos-de-granja-tres-arroyos-detallaron-su-debacle-ante-la-justicia/",
+        "imagen": "https://www.infobae.com/resizer/v2/DA4QBZQX4VGPBDUDL25LBN5L3I.png?auth=b52fa2863c4a78860190a5cb4ba7540e327141782ef31abd3b45352c9a717801&smart=true&width=1683&height=935",
+        "fuente": "Infobae",
+        "fecha": "Wed, 16 Sep 2026 19:51:52 +0000"
+      },
+      {
+        "titulo": "El consumo masivo cayó 5% en agosto y acumuló un bajón del 3,2% desde enero",
+        "link": "https://www.tiempoar.com.ar/ta_article/el-consumo-masivo-cayo-5-en-agosto-y-acumulo-un-bajon-del-32-desde-enero/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 16 Sep 2026 19:36:56 +0000"
+      },
+      {
+        "titulo": "La Fed subió las tasas por primera vez desde 2023 y proyecta otro incremento más antes de fin de año",
+        "link": "https://www.ambito.com/economia/la-fed-subio-las-tasas-primera-vez-2023-la-suba-los-precios-internacionales-del-petroleo-n6323117",
+        "imagen": "https://media.ambito.com/p/c84ca6bedd115612aad93a70f9513177/adjuntos/239/imagenes/040/461/0040461658/la-reserva-federal-de-eeuu1jpg.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 16:23:00 -0300"
+      },
+      {
+        "titulo": "Edesur tomó un préstamo con cinco bancos para financiar obras y mejorar el servicio",
+        "link": "https://www.clarin.com/energia-y-mineria/edesur-tomo-prestamo-bancos-financiar-obras-mejorar-servicio_0_Rqf2eJL0cV.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/g0Si4wiCl_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 16 Sep 2026 17:32:22 +0000"
       },
       {
         "titulo": "La Reserva Federal de EEUU subió la tasa de interés por primera vez desde 2023",
@@ -117,41 +152,6 @@
         "fecha": "Wed, 16 Sep 2026 19:49:15 +0000"
       },
       {
-        "titulo": "El consumo masivo cayó 5% en agosto y acumuló un bajón del 3,2% desde enero",
-        "link": "https://www.tiempoar.com.ar/ta_article/el-consumo-masivo-cayo-5-en-agosto-y-acumulo-un-bajon-del-32-desde-enero/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 19:36:56 +0000"
-      },
-      {
-        "titulo": "La inflación mayorista se aceleró al 2,1% en agosto, impulsada por nuevas subas en petróleo",
-        "link": "https://www.ambito.com/economia/la-inflacion-mayorista-se-acelero-al-21-agosto-impulsada-nuevas-subas-petroleo-n6323153",
-        "imagen": "https://media.ambito.com/p/ac54dba672d71b636bfa0c8fee1e74a1/adjuntos/239/imagenes/043/505/0043505031/petroleo-brent-barril-estrecho-ormuz.png",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 16:22:00 -0300"
-      },
-      {
-        "titulo": "Edesur tomó un préstamo con cinco bancos para financiar obras y mejorar el servicio",
-        "link": "https://www.clarin.com/energia-y-mineria/edesur-tomo-prestamo-bancos-financiar-obras-mejorar-servicio_0_Rqf2eJL0cV.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/g0Si4wiCl_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 17:32:22 +0000"
-      },
-      {
-        "titulo": "La UIA le pidió al Gobierno medidas para la aliviar la crisis de las pymes",
-        "link": "https://www.c5n.com/economia/la-uia-le-pidio-al-gobierno-medidas-la-aliviar-la-crisis-las-pymes-n249079",
-        "imagen": "https://media.c5n.com/p/c4330cb456b3d8c68771aa3b5d97f3ce/adjuntos/326/imagenes/000/393/0000393606/1200x675/smart/martin-rappallini.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 14:11:00 -0300"
-      },
-      {
-        "titulo": "En Economía proyectan que la inflación va a bajar más rápido de lo que estiman los privados",
-        "link": "https://www.infobae.com/economia/2026/09/16/en-economia-proyectan-que-la-inflacion-va-a-bajar-mas-rapido-de-lo-que-estiman-los-privados/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZXX6R2MSNFDPBMZPEJHMFODBFI.JPG?auth=da3a0ab61f24c0f0ff6b3596a9eb183b16ca2ab0357d817e9087363e0231be9e&smart=true&width=4478&height=3089",
-        "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 19:39:44 +0000"
-      },
-      {
         "titulo": "«Optimista pero no realista», la opinión de economistas sobre el Presupuesto 2027",
         "link": "https://www.tiempoar.com.ar/ta_article/optimista-pero-no-realista-la-opinion-de-economistas-sobre-el-presupuesto-2027/",
         "imagen": "",
@@ -159,11 +159,11 @@
         "fecha": "Wed, 16 Sep 2026 14:30:32 +0000"
       },
       {
-        "titulo": "Tiny houses en Argentina: cuánto cuestan las mini casas que se construyen en un mes y se pueden trasladar",
-        "link": "https://www.ambito.com/economia/tiny-houses-argentina-cuanto-cuestan-las-mini-casas-que-se-construyen-un-mes-y-se-pueden-trasladar-n6322410",
-        "imagen": "https://media.ambito.com/p/6b3b3b7d21549ccbf7abd9decdeaccad/adjuntos/239/imagenes/043/642/0043642575/1200x675/669x346:689x366/tiny-houses.jpg",
+        "titulo": "La inflación mayorista se aceleró al 2,1% en agosto, impulsada por nuevas subas en petróleo",
+        "link": "https://www.ambito.com/economia/la-inflacion-mayorista-se-acelero-al-21-agosto-impulsada-nuevas-subas-petroleo-n6323153",
+        "imagen": "https://media.ambito.com/p/ac54dba672d71b636bfa0c8fee1e74a1/adjuntos/239/imagenes/043/505/0043505031/petroleo-brent-barril-estrecho-ormuz.png",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 15:00:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 16:22:00 -0300"
       },
       {
         "titulo": "La Argentina podría alcanzar un récord de US$ 103.000 millones este año y los empresarios reclaman más competitividad",
@@ -196,18 +196,25 @@
         "fecha": "Wed, 16 Sep 2026 13:54:00 -0300"
       },
       {
-        "titulo": "La impresionante remontada de Max Verstappen en una exótica carrera ante 100 competidores: superó a 80 rivales en tres vueltas",
-        "link": "https://www.infobae.com/deportes/2026/09/16/la-impresionante-remontada-de-max-verstappen-en-una-exotica-carrera-ante-100-competidores-supero-a-80-rivales-en-tres-vueltas/",
-        "imagen": "https://www.infobae.com/resizer/v2/TUWSE5ZTHRAZ5KV4B2C6QNOIKA.jpg?auth=45b58dc94773545c9882eea6f27d3c615fe73b7016ba3fd586fddf608bd72b03&smart=true&width=1920&height=1080",
+        "titulo": "Movimiento inesperado: el grande de Europa que puso la mira en Mauro Icardi para solucionar su falta de gol",
+        "link": "https://www.infobae.com/deportes/2026/09/16/movimiento-inesperado-el-grande-de-europa-que-puso-la-mira-en-mauro-icardi-para-solucionar-su-falta-de-gol/",
+        "imagen": "https://www.infobae.com/resizer/v2/HLKX5ORHINDURD6COHASPX2KMQ.jpg?auth=ee35d7a45c241afc1ea52cc3f59a230eeecdd537a86e5d8cbea6e8e7df025982&smart=true&width=1882&height=1059",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 19:36:47 +0000"
+        "fecha": "Wed, 16 Sep 2026 20:15:12 +0000"
       },
       {
-        "titulo": "El partido de la discordia: Sarmiento-River podría volver a cambiar de día",
+        "titulo": "Sarmiento-River cambiaría de día: el motivo de una nueva reprogramación y la fecha estipulada",
         "link": "https://www.ole.com.ar/river-plate/river-plate-sarmiento-dia-horario-cambio-fecha-fifa_0_tRDlG1BLrp.html",
         "imagen": "https://www.ole.com.ar/images/2023/08/27/Pmq-H7LWk_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Wed, 16 Sep 2026 16:15:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 16:17:00 -0300"
+      },
+      {
+        "titulo": "Estudiantes va por el gran paso ante Corinthians: formaciones, hora y TV",
+        "link": "https://www.eldia.com/deportes/estudiantes-va-por-el-gran-paso-ante-corinthians-deportes_1789548198",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Wed, 16 Sep 2026 19:59:13 GMT"
       },
       {
         "titulo": "Despedida de Messi: ¿el Papu Gómez estará en el Monumental junto a los campeones del mundo?",
@@ -224,11 +231,11 @@
         "fecha": "Wed, 16 Sep 2026 15:53:36 GMT"
       },
       {
-        "titulo": "La Brujita Verón, como uno más del plantel en Brasil",
-        "link": "https://www.eldia.com/deportes/estudiantes-vs-corinthians-la-brujita-veron-como-uno-mas-del-plantel-en-brasil-deportes_1789569180",
+        "titulo": "La Reserva de Gimnasia volvió al triunfo ante San Lorenzo y llega entonada al clásico contra Estudiantes",
+        "link": "https://www.0221.com.ar/gimnasia/la-reserva-gimnasia-volvio-al-triunfo-san-lorenzo-y-llega-entonada-al-clasico-contra-estudiantes-n134315",
         "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Wed, 16 Sep 2026 14:54:36 GMT"
+        "fuente": "0221 Deportes",
+        "fecha": "Wed, 16 Sep 2026 17:05:00 -0300"
       },
       {
         "titulo": "Estudiantes confirmó cuándo salen a la venta las entradas para la Supercopa Internacional ante Rosario Central",
@@ -243,13 +250,6 @@
         "imagen": "https://media.0221.com.ar/p/913c8d28d568b07ce22464830e9280da/adjuntos/357/imagenes/100/292/0100292734/1200x630/smart/entrenamiento-gimnasia-miramon.jpg",
         "fuente": "0221 Deportes",
         "fecha": "Wed, 16 Sep 2026 14:48:00 -0300"
-      },
-      {
-        "titulo": "A pura pirotecnia: Corinthians calentó la previa ante Estudiantes en San Pablo",
-        "link": "https://www.0221.com.ar/estudiantes/a-pura-pirotecnia-corinthians-calento-la-previa-estudiantes-san-pablo-n134298",
-        "imagen": "https://media.0221.com.ar/p/895d6d5f8a9ff2d32e8d125378805675/adjuntos/357/imagenes/100/296/0100296093/1200x630/smart/estudiantes-legada-al-hotel.png",
-        "fuente": "0221 Deportes",
-        "fecha": "Wed, 16 Sep 2026 14:42:00 -0300"
       },
       {
         "titulo": "La emocionante carta que subió un ayudante de Lionel Scaloni ante la despedida de Lionel Messi de la Selección argentina",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "\"Es una noticia falsa\", sentenció Yamandú Orsi sobre el cable submarino entre Malvinas y Montevideo",
-        "link": "https://www.ambito.com/uruguay/es-una-noticia-falsa-sentencio-yamandu-orsi-el-cable-submarino-malvinas-y-montevideo-n6323108",
-        "imagen": "https://media.ambito.com/p/e415b179e73a2e96eda7fc20bf37b453/adjuntos/239/imagenes/043/647/0043647326/1200x675/smart/yamandu-orsi.jpg",
+        "titulo": "EEUU paga u$s725 millones a la ONU y reduce su deuda con el organismo",
+        "link": "https://www.ambito.com/mundo/eeuu-paga-us725-millones-la-onu-y-reduce-su-deuda-el-organismo-n6323125",
+        "imagen": "https://media.ambito.com/p/f802079a72df108155dad69c41d35196/adjuntos/239/imagenes/043/314/0043314022/onu.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 15:57:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 16:52:00 -0300"
       },
       {
         "titulo": "Trágico video: murió una periodista a sus 38 años mientras trabajaba",
@@ -368,18 +368,18 @@
         "fecha": "Wed, 16 Sep 2026 18:02:42 +0000"
       },
       {
-        "titulo": "Guatemala: La Segeplan implementa una metodología que define el nivel de estudio previo de cada obra pública",
-        "link": "https://www.infobae.com/guatemala/2026/09/16/guatemala-la-segeplan-implementa-una-metodologia-que-define-el-nivel-de-estudio-previo-de-cada-obra-publica/",
-        "imagen": "https://www.infobae.com/resizer/v2/QZBDHBE7ORC7HE7FLYJ6IJ2SCU.jpg?auth=a55b837860861bf0f951c7dba24ee893040d843edd66446ea543087f3651bd3c&smart=true&width=768&height=512",
+        "titulo": "Barbara Cartland, la gran ausente: qué pasó con las obras de la escritora más vendida después de Shakespeare y Agatha Christie",
+        "link": "https://www.infobae.com/cultura/2026/09/16/barbara-cartland-la-gran-ausente-que-paso-con-las-obras-de-la-escritora-mas-vendida-despues-de-shakespeare-y-agatha-christie/",
+        "imagen": "https://www.infobae.com/resizer/v2/JHBJYWRCPBADXEN6PC5MASOHFY.jpg?auth=a6ea023d3ee3670d4abd7bf3fa2bc8461e5875a8bf6e1919d04a6e8d04f0828b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 19:33:13 +0000"
+        "fecha": "Wed, 16 Sep 2026 20:03:00 +0000"
       },
       {
-        "titulo": "La guerra con Irán ya le costó u$s38.000 millones a EEUU y el gasto crecería u$s3.000 millones por mes",
-        "link": "https://www.ambito.com/mundo/la-guerra-iran-ya-le-costo-us38000-millones-eeuu-y-el-gasto-creceria-us3000-millones-mes-n6323034",
-        "imagen": "https://media.ambito.com/p/e737c8b928e321193fe534a0ae0022de/adjuntos/239/imagenes/043/296/0043296615/1200x675/685x277:705x297/operacion-furia-epica-ataque-eeuu-medio-oriente-2.jpg",
+        "titulo": "\"Es una noticia falsa\", sentenció Yamandú Orsi sobre el cable submarino entre Malvinas y Montevideo",
+        "link": "https://www.ambito.com/uruguay/es-una-noticia-falsa-sentencio-yamandu-orsi-el-cable-submarino-malvinas-y-montevideo-n6323108",
+        "imagen": "https://media.ambito.com/p/e415b179e73a2e96eda7fc20bf37b453/adjuntos/239/imagenes/043/647/0043647326/1200x675/smart/yamandu-orsi.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 13:00:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 15:57:00 -0300"
       },
       {
         "titulo": "Video: el momento exacto en el que el helicóptero de un canal de noticias se estrella contra el suelo en Los Ángeles",
@@ -396,18 +396,18 @@
         "fecha": "Wed, 16 Sep 2026 17:12:54 +0000"
       },
       {
-        "titulo": "Panamá aplicará desde este viernes uno de los mayores aumentos del año a los combustibles",
-        "link": "https://www.infobae.com/panama/2026/09/16/panama-aplicara-desde-este-viernes-uno-de-los-mayores-aumentos-del-ano-a-los-combustibles/",
-        "imagen": "https://www.infobae.com/resizer/v2/OYTPI4VVEVD7RLH2AJFVFM43TY.png?auth=5550be7b6a6de2c6d0836c8de933fa3f30ba183165bae85538e960f881ae9fdd&smart=true&width=2752&height=1536",
+        "titulo": "Estados Unidos reconoce por primera vez que tiene armas de control espacial en órbita: qué se sabe sobre sus capacidades",
+        "link": "https://www.infobae.com/america/mundo/2026/09/16/estados-unidos-reconoce-por-primera-vez-que-tiene-armas-de-control-espacial-en-orbita-que-se-sabe-sobre-sus-capacidades/",
+        "imagen": "https://www.infobae.com/resizer/v2/AULHPEJXMVHVJNWFB4DWKVUCQE.jpg?auth=081a7a29dc6c4d8215259319900da59386f5994e250e7c86751c05a02eed7267&smart=true&width=2626&height=1751",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 19:32:44 +0000"
+        "fecha": "Wed, 16 Sep 2026 19:57:04 +0000"
       },
       {
-        "titulo": "Escala la tensión en Medio Oriente: Arabia Saudita bombardea Yemen mientras los hutíes responden con ataques",
-        "link": "https://www.ambito.com/mundo/escala-la-tension-medio-oriente-arabia-saudita-bombardea-yemen-mientras-los-huties-responden-ataques-n6323025",
-        "imagen": "https://media.ambito.com/p/a2463c4334e7e60ae1391283a662a8f8/adjuntos/239/imagenes/043/646/0043646473/arabia-saudita-ataca-yemen-1.jpg",
+        "titulo": "La guerra con Irán ya le costó u$s38.000 millones a EEUU y el gasto crecería u$s3.000 millones por mes",
+        "link": "https://www.ambito.com/mundo/la-guerra-iran-ya-le-costo-us38000-millones-eeuu-y-el-gasto-creceria-us3000-millones-mes-n6323034",
+        "imagen": "https://media.ambito.com/p/e737c8b928e321193fe534a0ae0022de/adjuntos/239/imagenes/043/296/0043296615/1200x675/685x277:705x297/operacion-furia-epica-ataque-eeuu-medio-oriente-2.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 12:30:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 13:00:00 -0300"
       },
       {
         "titulo": "Horror en Gaza: al menos 20 muertos y 60 desaparecidos por el derrumbe de un edificio bombardeado",
@@ -424,11 +424,11 @@
         "fecha": "Wed, 16 Sep 2026 16:43:22 +0000"
       },
       {
-        "titulo": "Diputados advierten sobre el “Superniño” y exigen acelerar entrega de alimentos ante muerte de 32 niños por desnutrición en Guatemala",
-        "link": "https://www.infobae.com/guatemala/2026/09/16/diputados-advierten-sobre-el-supernino-y-exigen-acelerar-entrega-de-alimentos-ante-muerte-de-32-ninos-por-desnutricion-en-guatemala/",
-        "imagen": "https://www.infobae.com/resizer/v2/AOUKCBBG6VHZXGXQXBFWHFOA3E.png?auth=94a698da414fe435d7ac00ab6653cdc7841f8a86e7a91dc4b6a56629c14943c3&smart=true&width=1536&height=1024",
+        "titulo": "Guatemala: La Segeplan implementa una metodología que define el nivel de estudio previo de cada obra pública",
+        "link": "https://www.infobae.com/guatemala/2026/09/16/guatemala-la-segeplan-implementa-una-metodologia-que-define-el-nivel-de-estudio-previo-de-cada-obra-publica/",
+        "imagen": "https://www.infobae.com/resizer/v2/QZBDHBE7ORC7HE7FLYJ6IJ2SCU.jpg?auth=a55b837860861bf0f951c7dba24ee893040d843edd66446ea543087f3651bd3c&smart=true&width=768&height=512",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 19:30:37 +0000"
+        "fecha": "Wed, 16 Sep 2026 19:33:13 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Wed, 16 Sep 2026 16:23:00 -0300"
       },
       {
-        "titulo": "Profundo enojo por el final de Margarita: polémica por la decisión que se tomó con Floricienta",
-        "link": "https://www.c5n.com/ratingcero/profundo-enojo-el-final-margarita-polemica-la-decision-que-se-tomo-floricienta-n249101",
-        "imagen": "https://media.c5n.com/p/8cdb0b150ff7c9380a32b175b5abc41a/adjuntos/326/imagenes/000/399/0000399194/1200x675/smart/floricienta-triste.jpg",
+        "titulo": "Levantaron Popstars: revelaron la verdad detrás de la llamativa decisión",
+        "link": "https://www.c5n.com/ratingcero/levantaron-popstars-revelaron-la-verdad-detras-la-llamativa-decision-n248966",
+        "imagen": "https://media.c5n.com/p/f26eb558d4607b322571aab12d451a72/adjuntos/326/imagenes/000/398/0000398976/1200x675/smart/jurado-popstars.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 16:35:40 -0300"
+        "fecha": "Wed, 16 Sep 2026 17:15:00 -0300"
       },
       {
         "titulo": "Premios ACE: todos los nominados a los premios del teatro argentino",
@@ -454,11 +454,11 @@
         "fecha": "Wed, 16 Sep 2026 18:52:45 +0000"
       },
       {
-        "titulo": "La tajante reacción de Luciana Salazar tras no ser invitada al casamiento de Emanuel Ortega y Julieta Prandi",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/la-tajante-reaccion-de-luciana-salazar-tras-no-ser-invitada-al-casamiento-de-emanuel-ortega-y-julieta-prandi/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZLXTUA3TAJA2LKIT4EYD567J2Y.png?auth=e55d18d7343d590443e0650bb6001e7a0941bca4eadfb6dcce7a04609bf9e1b7&smart=true&width=2752&height=1536",
+        "titulo": "El Polaco sorprendió con un cambio de look inspirado en el inicio de su carrera: \"¿Volvemos?\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/el-polaco-sorprendio-con-un-cambio-de-look-inspirado-en-el-inicio-de-su-carrera-volvemos/",
+        "imagen": "https://www.infobae.com/resizer/v2/KPBMP63JQJBMJBBQI6R6TL5BDY.jpg?auth=7079643c83e192b1abc9fd97a108306e31bb9685a63b33cd767484736b09f6af&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 19:07:03 +0000"
+        "fecha": "Wed, 16 Sep 2026 20:00:03 +0000"
       },
       {
         "titulo": "El show despedida de Ozzy Osbourne y Black Sabbath llega a los cines",
@@ -468,11 +468,11 @@
         "fecha": "Wed, 16 Sep 2026 15:01:00 -0300"
       },
       {
-        "titulo": "China Suárez y Mauro Icardi desmienten rumores de ruptura con románticas fotos",
-        "link": "https://www.c5n.com/ratingcero/china-suarez-y-mauro-icardi-desmienten-rumores-ruptura-romanticas-fotos-n249088",
-        "imagen": "https://media.c5n.com/p/7f01815a56b8584f2d31fcd1cb657fd8/adjuntos/326/imagenes/000/399/0000399180/1200x675/smart/mauro-icardi-y-china-suarez.jpg",
+        "titulo": "\"Cambió toda la votación\": Ángel de Brito filtró quién ganará Gran Hermano: Generación Dorada",
+        "link": "https://www.c5n.com/ratingcero/cambio-toda-la-votacion-angel-brito-filtro-quien-ganara-gran-hermano-generacion-dorada-n249058",
+        "imagen": "https://media.c5n.com/p/e1a7d6cd96972e184f429ce2920bc9f9/adjuntos/326/imagenes/000/399/0000399120/1200x675/smart/yipio-sol.png",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 16:02:44 -0300"
+        "fecha": "Wed, 16 Sep 2026 17:08:00 -0300"
       },
       {
         "titulo": "Charlotte Caniggia, afuera de Gran Hermano y lejos de la chica caprichosa que mostró hace años en TV: \"Me pudieron conocer como soy\"",
@@ -482,11 +482,11 @@
         "fecha": "Wed, 16 Sep 2026 17:40:23 +0000"
       },
       {
-        "titulo": "Qué dicen las encuestas a horas de la gran final de Gran Hermano Generación Dorada",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/que-dicen-las-encuestas-a-horas-de-la-gran-final-de-gran-hermano-generacion-dorada/",
-        "imagen": "https://www.infobae.com/resizer/v2/TZ77HITLFZEF3FYTRMKJDUP37E.png?auth=d34b2501307ef0892b552718ea15058abf5a4721fb1b583e1bf537fc733da306&smart=true&width=2752&height=1536",
+        "titulo": "La tajante reacción de Luciana Salazar tras no ser invitada al casamiento de Emanuel Ortega y Julieta Prandi",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/la-tajante-reaccion-de-luciana-salazar-tras-no-ser-invitada-al-casamiento-de-emanuel-ortega-y-julieta-prandi/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZLXTUA3TAJA2LKIT4EYD567J2Y.png?auth=e55d18d7343d590443e0650bb6001e7a0941bca4eadfb6dcce7a04609bf9e1b7&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 18:25:37 +0000"
+        "fecha": "Wed, 16 Sep 2026 19:07:03 +0000"
       },
       {
         "titulo": "Por primera vez en la historia, el Vaticano presentará una película para ser considerada en los premios Oscar",
@@ -496,11 +496,11 @@
         "fecha": "Wed, 16 Sep 2026 14:05:00 -0300"
       },
       {
-        "titulo": "Revelaron detalles inéditos de un regreso esperado en la TV: fue un éxito en Argentina",
-        "link": "https://www.c5n.com/ratingcero/revelaron-detalles-ineditos-un-regreso-esperado-la-tv-fue-un-exito-argentina-n249100",
-        "imagen": "https://media.c5n.com/p/a9b972313eef50008bf3d5b8544d309b/adjuntos/326/imagenes/000/399/0000399179/1200x675/smart/mirando-tv.jpg",
+        "titulo": "La vida fugaz y extraordinaria de Cris Miró: de llegar en bicicleta al Maipo a romper una barrera en la cultura argentina",
+        "link": "https://www.c5n.com/ratingcero/la-vida-fugaz-y-extraordinaria-cris-miro-llegar-bicicleta-al-maipo-romper-una-barrera-la-cultura-argentina-n249104",
+        "imagen": "https://media.c5n.com/p/e4b304e142745bdf6df53bfa3323a61e/adjuntos/326/imagenes/000/399/0000399198/1200x675/smart/cris-miro.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 15:55:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 17:05:00 -0300"
       },
       {
         "titulo": "Latin Grammy 2026: todos los nominados, con Ca7riel & Paco Amoroso y Milo J entre los argentinos más destacados",
@@ -510,11 +510,11 @@
         "fecha": "Wed, 16 Sep 2026 14:19:45 +0000"
       },
       {
-        "titulo": "Julieta Prandi habló de su relación con la familia de Emanuel Ortega y de las ausencias a su casamiento",
-        "link": "https://www.infobae.com/teleshow/2026/09/16/julieta-prandi-hablo-de-su-relacion-con-la-familia-de-emanuel-ortega-y-de-las-ausencias-a-su-casamiento/",
-        "imagen": "https://www.infobae.com/resizer/v2/SDUEWNT24BDI3M54APWCE65N7I.jpg?auth=62aa9672c8cbe65e91d5247c217fdc2357df9fd4c28e47e1d435897aabdacaf9&smart=true&width=1920&height=1080",
+        "titulo": "Qué dicen las encuestas a horas de la gran final de Gran Hermano Generación Dorada",
+        "link": "https://www.infobae.com/teleshow/2026/09/16/que-dicen-las-encuestas-a-horas-de-la-gran-final-de-gran-hermano-generacion-dorada/",
+        "imagen": "https://www.infobae.com/resizer/v2/TZ77HITLFZEF3FYTRMKJDUP37E.png?auth=d34b2501307ef0892b552718ea15058abf5a4721fb1b583e1bf537fc733da306&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 16 Sep 2026 18:03:10 +0000"
+        "fecha": "Wed, 16 Sep 2026 18:25:37 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Wed, 16 Sep 2026 16:05:00 -0300"
       },
       {
-        "titulo": "GTA 6 ya tiene música: Travis Scott y Raw Alejandro son parte del listado de artistas invitados",
-        "link": "https://www.infobae.com/tecno/2026/09/16/gta-6-ya-tiene-musica-travis-scott-y-raw-alejandro-son-parte-del-listado-de-artistas-invitados/",
-        "imagen": "https://www.infobae.com/resizer/v2/YABEMZ6S6ZDLFI2N5OZWLINVVE.jpg?auth=bab3915b1ae48c7640360d1ddffb60e03869eb340d012e2fd451c10327c779e8&smart=true&width=3840&height=2160",
+        "titulo": "Cómo transmitir ‘Las Guerreras K-pop’ del teléfono al TV, paso a paso",
+        "link": "https://www.infobae.com/tecno/2026/09/16/como-transmitir-las-guerreras-k-pop-del-telefono-al-tv-paso-a-paso/",
+        "imagen": "https://www.infobae.com/resizer/v2/QKOCWYVV5ZDHVME5URGMSIYDFU.png?auth=f2b4ea973b54a1628530d7ff9cca82e3ddfffcaa8b5e1fea3805fba064d7c380&smart=true&width=1200&height=700",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 19:25:55 +0000"
+        "fecha": "Wed, 16 Sep 2026 20:14:23 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -561,11 +561,11 @@
         "fecha": "Wed, 16 Sep 2026 15:43:00 -0300"
       },
       {
-        "titulo": "El incidente de agentes de OpenAI contra Hugging Face tuvo una fase previa que no se conocía hasta hoy",
-        "link": "https://www.infobae.com/tecno/2026/09/16/el-incidente-de-agentes-de-openai-contra-hugging-face-tuvo-una-fase-previa-que-no-se-conocia-hasta-hoy/",
-        "imagen": "https://www.infobae.com/resizer/v2/DNQUBKKSSJBHVMDQNYB7C6KYDY.JPG?auth=c9808d98b8c86d2b3c3f215d0089614a3c9d917e7a8c936c49cdd28688a23049&smart=true&width=3000&height=2000",
+        "titulo": "Agentes de inteligencia artificial vinculados a iLands mandan correos e intentan cobrar por servicios",
+        "link": "https://www.infobae.com/tecno/2026/09/16/agentes-de-inteligencia-artificial-vinculados-a-ilands-mandan-correos-e-intentan-cobrar-por-servicios/",
+        "imagen": "https://www.infobae.com/resizer/v2/OWASIKOLQFB27MN5KFLCVRITFU.png?auth=48471b6906f52ce34a5037fa7344d5ad4f25d8d35f1e39843df37d3dcd911438&smart=true&width=1536&height=1024",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 19:19:25 +0000"
+        "fecha": "Wed, 16 Sep 2026 20:11:06 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -589,11 +589,11 @@
         "fecha": "Wed, 16 Sep 2026 14:58:00 -0300"
       },
       {
-        "titulo": "Meta estaría listo para despedirse de la cámara de sus gafas inteligentes: se cambiaría por una versión con 6 micrófonos",
-        "link": "https://www.infobae.com/tecno/2026/09/16/meta-estaria-listo-para-despedirse-de-la-camara-de-sus-gafas-inteligentes-se-cambiaria-por-una-version-con-6-microfonos/",
-        "imagen": "https://www.infobae.com/resizer/v2/E77HWP5GNJCUDBSJ7I3KYEYBT4.JPG?auth=ab1b0a625e40183af69b9653ae8426942812ea878bbf96106dfdc164217b2bb2&smart=true&width=4304&height=2864",
+        "titulo": "GTA 6 ya tiene música: Travis Scott y Raw Alejandro son parte del listado de artistas invitados",
+        "link": "https://www.infobae.com/tecno/2026/09/16/gta-6-ya-tiene-musica-travis-scott-y-raw-alejandro-son-parte-del-listado-de-artistas-invitados/",
+        "imagen": "https://www.infobae.com/resizer/v2/YABEMZ6S6ZDLFI2N5OZWLINVVE.jpg?auth=bab3915b1ae48c7640360d1ddffb60e03869eb340d012e2fd451c10327c779e8&smart=true&width=3840&height=2160",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 16 Sep 2026 19:02:28 +0000"
+        "fecha": "Wed, 16 Sep 2026 19:25:55 +0000"
       },
       {
         "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
@@ -786,11 +786,11 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "Cientos de estudiantes marchan en la Plata a 50 años de La Noche de los Lápices",
-        "link": "https://www.eldia.com/la-ciudad/a-50-anos-de-la-noche-de-los-lapices-estudiantes-secundarios-marchan-en-la-plata-la-ciudad_1789560900",
+        "titulo": "En La Plata, confirmaron la condena contra el ex marido de Julieta Prandi",
+        "link": "https://www.eldia.com/policiales/en-la-plata-confirmaron-la-condena-contra-el-ex-marido-de-julieta-prandi-policiales-espectaculos_1789588860",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 16 Sep 2026 19:32:19 GMT"
+        "fecha": "Wed, 16 Sep 2026 20:04:28 GMT"
       },
       {
         "titulo": "La Plata y el país conmemoran los 50 años de La Noche de los Lápices",
@@ -821,11 +821,11 @@
         "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "Choque en Donato Álvarez deja dos personas internadas",
-        "link": "https://www.eldia.com/quilmes/choque-en-donato-alvarez-deja-dos-personas-internadas-quilmes_1789580820",
+        "titulo": "El jefe de IA de Microsoft advirtió sobre riesgos para la humanidad",
+        "link": "https://www.eldia.com/informacion-general/el-jefe-de-ia-de-microsoft-cuestiono-a-anthropic-y-advirtio-sobre-riesgos-para-la-humanidad-informacion-general_1789588320",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 16 Sep 2026 18:32:52 GMT"
+        "fecha": "Wed, 16 Sep 2026 19:54:48 GMT"
       },
       {
         "titulo": "Un detenido por el caso de la mafia china en La Plata tendrá una nueva chance de recuperar su libertad",
