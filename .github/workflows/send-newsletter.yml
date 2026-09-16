@@ -2,8 +2,8 @@ name: Enviar newsletter diario
 
 on:
   schedule:
-    # Corre todos los días a las 12:00 UTC = 09:00 hora de Argentina.
-    - cron: "0 12 * * *"
+    # Corre todos los días a las 10:00 UTC = 07:00 hora de Argentina.
+    - cron: "0 10 * * *"
   workflow_dispatch:
     # Permite tocar el botón "Run workflow" en GitHub para probarlo a mano.
 
