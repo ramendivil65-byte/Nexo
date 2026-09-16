@@ -500,13 +500,16 @@ footer p { color: #9CA3AF; font-size: 12px; }
 <section class="suscripcion">
   <div class="contenido">
     <h3>Suscribite al newsletter</h3>
-    <form action="https://5759032d.sibforms.com/serve/MUIFAKiPvxzvKnLTdBUMReB7ZYhadLwXKGLqZoiTifRy1PI5L2GS1MqP4PQM0CuBMbLo6J0VZYsfMq1ACo3DeRBtBREXEs-dDv-WdBysu3JT7EATEdB5KMVrw04YPlqe8m9-S70N2NT9dyyX9xPeGdZfk3r4RanLeTTDcJwUkAipaeIDu2Y5GHkxluIwCtIsEIJAZzAL1d6P0K7cLw==" method="POST" class="form-suscripcion">
+    <form id="form-suscripcion" action="https://5759032d.sibforms.com/serve/MUIFAKiPvxzvKnLTdBUMReB7ZYhadLwXKGLqZoiTifRy1PI5L2GS1MqP4PQM0CuBMbLo6J0VZYsfMq1ACo3DeRBtBREXEs-dDv-WdBysu3JT7EATEdB5KMVrw04YPlqe8m9-S70N2NT9dyyX9xPeGdZfk3r4RanLeTTDcJwUkAipaeIDu2Y5GHkxluIwCtIsEIJAZzAL1d6P0K7cLw==" method="POST" class="form-suscripcion">
       <input type="email" name="EMAIL" placeholder="tu@email.com" required>
       <input type="text" name="email_address_check" value="" style="display:none;">
       <input type="hidden" name="locale" value="es">
       <input type="hidden" name="html_type" value="simple">
       <button type="submit">Suscribirme</button>
     </form>
+    <div id="mensaje-suscripcion" style="display:none; color:#34D399; font-weight:700; margin-top:10px;">
+      ✅ ¡Gracias por suscribirte! Ya estás en la lista.
+    </div>
   </div>
 </section>
 
@@ -936,6 +939,21 @@ function arrancarMusica() {
   document.removeEventListener("click", arrancarMusica);
 }
 document.addEventListener("click", arrancarMusica);
+
+// ---- Suscripción al newsletter: se queda en la página en vez de mandarte a Brevo ----
+const formSuscripcion = document.getElementById("form-suscripcion");
+formSuscripcion.addEventListener("submit", function (e) {
+  e.preventDefault();
+  const datos = new FormData(formSuscripcion);
+  fetch(formSuscripcion.action, {
+    method: "POST",
+    body: datos,
+    mode: "no-cors", // Brevo no permite leer la respuesta desde otro dominio, pero el envío igual funciona
+  }).finally(() => {
+    formSuscripcion.style.display = "none";
+    document.getElementById("mensaje-suscripcion").style.display = "block";
+  });
+});
 </script>
 </body>
 </html>
