@@ -87,7 +87,6 @@ FEEDS = {
     ],
     "local": [
         ("0221", "https://www.0221.com.ar/rss/pages/la-plata.xml"),
-        ("0221 Policiales", "https://www.0221.com.ar/rss/pages/policiales.xml"),
         ("0221 Universidad", "https://www.0221.com.ar/rss/pages/universidad.xml"),
         ("0221 ¿Qué Hago?", "https://www.0221.com.ar/rss/pages/que-hago.xml"),
         ("El Día", "https://www.eldia.com/.rss"),
