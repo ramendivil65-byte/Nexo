@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T14:21:02.540195+00:00",
+  "actualizado": "2026-09-17T14:43:38.155117+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,11 +10,11 @@
         "fecha": "Thu, 17 Sep 2026 11:09:35 -0300"
       },
       {
-        "titulo": "Malvinas: Uruguay negó que se vaya a tender un cable submarino para conectar a su territorio con las islas",
-        "link": "https://www.clarin.com/politica/malvinas-uruguay-nego-vaya-tender-cable-submarino-conectar-territorio-islas_0_fXKEzVjysJ.html",
-        "imagen": "https://www.clarin.com/img/2026/04/09/ojNPLATqM_1200x630__1.jpg",
+        "titulo": "Tiene fecha el inicio del juicio político al juez federal acusado de pedir una coima y mentir en su CV",
+        "link": "https://www.clarin.com/politica/fecha-inicio-juicio-politico-juez-federal-acusado-pedir-coima-mentir-cv_0_bOzPsIwMqI.html",
+        "imagen": "https://www.clarin.com/img/2026/05/20/ndRUEydag_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 13:34:34 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:24:27 +0000"
       },
       {
         "titulo": "Nigeria: al menos 48 muertos y más de 100 intoxicados tras consumir una bebida que podría contener metanol",
@@ -22,6 +22,48 @@
         "imagen": "",
         "fuente": "Ámbito Mundo",
         "fecha": "Thu, 17 Sep 2026 10:40:00 -0300"
+      },
+      {
+        "titulo": "Cómo funciona y quiénes integran el Consejo de Seguridad Nacional que el Gobierno busca aprobar en el proyecto por Malvinas",
+        "link": "https://www.c5n.com/politica/como-funciona-y-quienes-integran-el-consejo-seguridad-nacional-que-el-gobierno-busca-aprobar-el-proyecto-malvinas-n249175",
+        "imagen": "https://media.c5n.com/p/2d8bac851452091e480ad747ba6a4006/adjuntos/326/imagenes/000/397/0000397557/1200x675/smart/sea-lion-malvinas.jpg",
+        "fuente": "C5N",
+        "fecha": "Thu, 17 Sep 2026 11:26:00 -0300"
+      },
+      {
+        "titulo": "Senado, en vivo: el oficialismo consiguió quórum y buscará aprobar Inocencia Fiscal II",
+        "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZAYLK3YTPJBRHC2FT4CXE7BW3I.JPG?auth=10ebb83d0c07775abee763813b52339b9345bced0cd008ac22a00a5381b396a2&smart=true&width=5472&height=3648",
+        "fuente": "Infobae",
+        "fecha": "Thu, 17 Sep 2026 14:26:59 +0000"
+      },
+      {
+        "titulo": "Bullrich se desmarca del gobierno por los recortes en Discapacidad en el Presupuesto: «Nadie me avisó»",
+        "link": "https://www.tiempoar.com.ar/ta_article/patricia-bullrich-otra-vez-molesta-con-el-gobierno-porque-nadie-aviso-los-recortes-en-discapacidad-que-contiene-el-presupuesto/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Thu, 17 Sep 2026 14:11:35 +0000"
+      },
+      {
+        "titulo": "Imagen en baja, piso electoral y nuevas demandas: qué dicen las encuestas sobre Javier Milei rumbo a las elecciones 2027",
+        "link": "https://www.ambito.com/politica/imagen-baja-piso-electoral-y-nuevas-demandas-que-dicen-las-encuestas-javier-milei-rumbo-las-elecciones-2027-n6323430",
+        "imagen": "https://media.ambito.com/p/81b5814d23c55afb3f3f8bcb1b3e17b4/adjuntos/239/imagenes/042/917/0042917233/javier-milei-elecciones-2025.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Thu, 17 Sep 2026 10:58:00 -0300"
+      },
+      {
+        "titulo": "Caso Hotesur: presentan las listas de testigos y el Tribunal ya puede fijar la fecha del juicio contra Cristina y Máximo Kirchner",
+        "link": "https://www.clarin.com/politica/caso-hotesur-presentan-listas-testigos-tribunal-puede-fijar-fecha-juicio-cristina-maximo-kirchner_0_RO2EIK9te2.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/5pBwStnW1_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 14:15:35 +0000"
+      },
+      {
+        "titulo": "Quiénes son los hutíes y cuál es el origen del grupo que controla amplias zonas de Yemen",
+        "link": "https://www.ambito.com/mundo/quienes-son-los-huties-y-cual-es-el-origen-del-grupo-que-controla-amplias-zonas-yemen-n6323400",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Thu, 17 Sep 2026 10:20:00 -0300"
       },
       {
         "titulo": "Seguí en vivo la sesión del Senado: se trata la Ley de Biocombustibles y el régimen de Inocencia Fiscal II",
@@ -36,48 +78,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/7AQHLZ7GFFFKZD3UDSXWTRYEAU.JPG?auth=1291a18dd2b6fc98479bd8e88f7c0dd7232b6ea336712f5dffa890fded53a598&smart=true&width=3000&height=1688",
         "fuente": "Infobae",
         "fecha": "Thu, 17 Sep 2026 13:50:50 +0000"
-      },
-      {
-        "titulo": "Patricia Bullrich otra vez molesta con el gobierno porque «nadie me avisó» los recortes en Discapacidad que contiene el Presupuesto",
-        "link": "https://www.tiempoar.com.ar/ta_article/patricia-bullrich-otra-vez-molesta-con-el-gobierno-porque-nadie-aviso-los-recortes-en-discapacidad-que-contiene-el-presupuesto/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 17 Sep 2026 14:11:35 +0000"
-      },
-      {
-        "titulo": "Imagen en baja, piso electoral y nuevas demandas: qué dicen las encuestas sobre Javier Milei rumbo a las elecciones 2027",
-        "link": "https://www.ambito.com/politica/imagen-baja-piso-electoral-y-nuevas-demandas-que-dicen-las-encuestas-javier-milei-rumbo-las-elecciones-2027-n6323430",
-        "imagen": "https://media.ambito.com/p/81b5814d23c55afb3f3f8bcb1b3e17b4/adjuntos/239/imagenes/042/917/0042917233/javier-milei-elecciones-2025.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 10:58:00 -0300"
-      },
-      {
-        "titulo": "Senado hoy, EN VIVO: LLA y sus aliados buscan aprobar los proyectos de Inocencia Fiscal II y la reforma de biocombustibles",
-        "link": "https://www.clarin.com/politica/senado-hoy-vivo-lla-aliados-buscan-aprobar-proyectos-inocencia-fiscal-ii-reforma-biocombustibles_0_XKQgxa5Iwa.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/WifyTu2z7_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 12:33:14 +0000"
-      },
-      {
-        "titulo": "Quiénes son los hutíes y cuál es el origen del grupo que controla amplias zonas de Yemen",
-        "link": "https://www.ambito.com/mundo/quienes-son-los-huties-y-cual-es-el-origen-del-grupo-que-controla-amplias-zonas-yemen-n6323400",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Thu, 17 Sep 2026 10:20:00 -0300"
-      },
-      {
-        "titulo": "Biocombustibles e Inocencia Fiscal II: el Senado busca darle luz verde a proyectos claves para el Gobierno",
-        "link": "https://www.c5n.com/politica/senado-sesion-inovencia-fiscal-biocombustibles-debate-17-agosto-2026",
-        "imagen": "",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 10:43:00 -0300"
-      },
-      {
-        "titulo": "¿Qué tipo de Presidente quieren los argentinos?: perfil del candidato ideal de cara a las próximas elecciones",
-        "link": "https://www.infobae.com/politica/2026/09/17/que-tipo-de-presidente-quieren-los-argentinos-perfil-del-candidato-ideal-de-cara-a-las-proximas-elecciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/N7NP6XX3EFH2NJU6YXZZYJIVLU.png?auth=7fd552ea5d8dbb85fb46ef023addc066f4d11af89b1fca03b0d0d62a2fedaf14&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:34:55 +0000"
       },
       {
         "titulo": "Cuáles son las iniciativas de la oposición porteña que ponen el foco en el suicidio adolescente",
@@ -96,11 +96,11 @@
         "fecha": "Thu, 17 Sep 2026 11:12:00 -0300"
       },
       {
-        "titulo": "Sube la confianza del consumidor después de dos meses de caída: mejoras en el interior y en los sectores bajos",
-        "link": "https://www.clarin.com/economia/sube-confianza-consumidor-despues-meses-caida-mejoras-interior-sectores-bajos_0_Ml4rZ0QrKY.html",
-        "imagen": "https://www.clarin.com/img/2026/04/16/-qLy6_kGC_1200x630__1.jpg",
+        "titulo": "El Gobierno prevé beneficios impositivos por 3,67% del PBI, pero no calculó el costo del RIGI",
+        "link": "https://www.clarin.com/economia/gobierno-preve-beneficios-impositivos-367-pbi-calculo-costo-rigi_0_5H42gFMO79.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/Bpwos-7iS_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 13:48:17 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:21:57 +0000"
       },
       {
         "titulo": "El FMI vuelve a la Argentina para revisar el acuerdo con el Gobierno de Javier Milei",
@@ -110,18 +110,18 @@
         "fecha": "Thu, 17 Sep 2026 10:30:00 -0300"
       },
       {
-        "titulo": "Cómo es el modelo agroindustrial de Brasil que dejó atrás a la Argentina",
-        "link": "https://www.infobae.com/economia/2026/09/17/como-es-el-modelo-agroindustrial-de-brasil-que-dejo-atras-a-la-argentina/",
-        "imagen": "https://www.infobae.com/resizer/v2/5ZXQ3LZ5J5G3LLNPYX6OD72KCU.jpg?auth=3bdd08dd8b5820e08ffb23d0d5827d37ba6562b01c9ecfc60dc7ac82d133c1f3&smart=true&width=848&height=500",
+        "titulo": "La confianza del consumidor subió 2,4% en septiembre y cortó dos meses de caída",
+        "link": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
+        "imagen": "https://www.infobae.com/resizer/v2/SRAGZJUAI5EW3KU7CHDCK6KFBE.png?auth=e1501e3647b5f676c1a5565ba44d5694bf8ee49557988d1085d34cf29b5fb9e2&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 14:13:57 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:34:59 +0000"
       },
       {
-        "titulo": "El presupuesto destinado a universidades es de $ 3,6 billones menos de lo que indica la ley",
-        "link": "https://www.tiempoar.com.ar/ta_article/universidades-36-billones-menos/",
+        "titulo": "Caputo nombró dos funcionarios de rango que no cumplen con los requisitos mínimos para ocupar esos cargos",
+        "link": "https://www.tiempoar.com.ar/ta_article/caputo-nombro-dos-funcionarios-de-rango-que-no-cumplen-con-los-requisitos-minimos-para-ocupar-esos-cargos/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 22:13:22 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:40:18 +0000"
       },
       {
         "titulo": "La confianza del consumidor rebotó 2,4% en septiembre, pero sigue lejos del pico de Javier Milei",
@@ -131,11 +131,11 @@
         "fecha": "Thu, 17 Sep 2026 11:08:00 -0300"
       },
       {
-        "titulo": "Rocca y Eurnekian construyen un nuevo gasoducto desde Vaca Muerta para exportar a Brasil",
-        "link": "https://www.clarin.com/economia/rocca-eurnekian-construyen-nuevo-gasoducto-vaca-muerta-exportar-brasil_0_2HgKsSKvGE.html",
-        "imagen": "https://www.clarin.com/img/2024/08/22/FIx2sezvm_1200x630__1.jpg",
+        "titulo": "Sube la confianza del consumidor después de dos meses de caída: mejoras en el interior y en los sectores bajos",
+        "link": "https://www.clarin.com/economia/sube-confianza-consumidor-despues-meses-caida-mejoras-interior-sectores-bajos_0_Ml4rZ0QrKY.html",
+        "imagen": "https://www.clarin.com/img/2026/04/16/-qLy6_kGC_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 13:20:56 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:48:17 +0000"
       },
       {
         "titulo": "El Gobierno automatiza el pago de las retenciones de la AUH: qué requisitos hay que cumplir para cobrar el 100%",
@@ -145,18 +145,18 @@
         "fecha": "Thu, 17 Sep 2026 09:45:00 -0300"
       },
       {
-        "titulo": "La confianza del consumidor subió 2,4% en septiembre y cortó dos meses de caída",
-        "link": "https://www.infobae.com/economia/2026/09/17/la-confianza-del-consumidor-subio-24-en-septiembre-y-corto-dos-meses-de-caida/",
-        "imagen": "https://www.infobae.com/resizer/v2/SRAGZJUAI5EW3KU7CHDCK6KFBE.png?auth=e1501e3647b5f676c1a5565ba44d5694bf8ee49557988d1085d34cf29b5fb9e2&smart=true&width=2752&height=1536",
+        "titulo": "Mercados: suben las acciones y los bonos argentinos de la mano del rebote de Wall Street",
+        "link": "https://www.infobae.com/economia/2026/09/17/mercados-suben-las-acciones-y-los-bonos-argentinos-de-la-mano-del-rebote-de-wall-street/",
+        "imagen": "https://www.infobae.com/resizer/v2/QWKEUC2ASBETHAYW6B4XLQNV5M.JPG?auth=0ca9a9e4af930ee92a08b35f2cd304e00eff3a084c4d9c2a0ef02e95269680e7&smart=true&width=4784&height=3189",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 14:08:53 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:31:57 +0000"
       },
       {
-        "titulo": "La inflación mayorista fue del 2,1% en agosto y acumuló una suba de 29,8% en un año",
-        "link": "https://www.tiempoar.com.ar/ta_article/la-inflacion-mayorista-fue-del-21-en-agosto-y-acumulo-una-suba-de-298-en-un-ano/",
+        "titulo": "El presupuesto destinado a universidades es de $ 3,6 billones menos de lo que indica la ley",
+        "link": "https://www.tiempoar.com.ar/ta_article/universidades-36-billones-menos/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 16 Sep 2026 21:25:33 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:13:22 +0000"
       },
       {
         "titulo": "La economía sigue desvelando a los argentinos: crecen la incertidumbre y el miedo al futuro",
@@ -166,11 +166,11 @@
         "fecha": "Thu, 17 Sep 2026 10:30:11 -0300"
       },
       {
-        "titulo": "A dónde va la plata del Presupuesto: Pettovello, Santilli y Sturzenegger, entre los ganadores del reparto de fondos",
-        "link": "https://www.clarin.com/economia/va-plata-presupuesto-pettovello-santilli-sturzenegger-ganadores-reparto-fondos_0_uGWOU7th0A.html",
-        "imagen": "https://www.clarin.com/img/2026/07/30/cwaHicvkA_1200x630__1.jpg",
+        "titulo": "Rocca y Eurnekian construyen un nuevo gasoducto desde Vaca Muerta para exportar a Brasil",
+        "link": "https://www.clarin.com/economia/rocca-eurnekian-construyen-nuevo-gasoducto-vaca-muerta-exportar-brasil_0_2HgKsSKvGE.html",
+        "imagen": "https://www.clarin.com/img/2024/08/22/FIx2sezvm_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 12:37:01 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:20:56 +0000"
       }
     ],
     "deportes": [
@@ -182,11 +182,11 @@
         "fecha": "Thu, 17 Sep 2026 11:11:00 -0300"
       },
       {
-        "titulo": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país",
-        "link": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/3-9sIhXPB_1200x630__1.jpg",
+        "titulo": "Durísimo ultimátum de los ultras del Real Madrid contra Mbappé, Vinícius y Konaté por la polémica con Ceuta: \"Estos tres individuos...\"",
+        "link": "https://www.clarin.com/deportes/durisimo-ultimatum-ultras-real-madrid-polemica-mbappe-vinicius-konate-ceuta-individuos_0_W8yDHShvTq.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/r9ZEb7fZw_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 13:06:00 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:22:01 +0000"
       },
       {
         "titulo": "El momento de furia de Lionel Messi tras salir campeón: por qué se enojó con Don Garber",
@@ -196,18 +196,18 @@
         "fecha": "Thu, 17 Sep 2026 11:00:00 -0300"
       },
       {
-        "titulo": "Klopp dio su primera lista como entrenador de Alemania con 44 futbolistas e inició su revolución: los nombres de peso que marginó",
-        "link": "https://www.infobae.com/deportes/2026/09/17/klopp-dio-su-primera-lista-como-entrenador-de-alemania-con-44-futbolistas-e-inicio-su-revolucion-los-nombres-de-peso-que-margino/",
-        "imagen": "https://www.infobae.com/resizer/v2/O7MOWASH55EE3KFX3XEIARZMPE.JPG?auth=3666ed085b0a9f22e1e7ae924359dc0da8c6e9f7dabb77daf5511235384db488&smart=true&width=6000&height=4000",
+        "titulo": "La curiosa anécdota de un argentino que logró una medalla en los Juegos Suramericanos en esports y compitió contra Franco Colapinto: “Yo le gané”",
+        "link": "https://www.infobae.com/deportes/2026/09/17/la-curiosa-anecdota-de-un-argentino-que-logro-una-medalla-en-los-juegos-suramericanos-en-esports-y-compitio-contra-colapinto-yo-le-gane/",
+        "imagen": "https://www.infobae.com/resizer/v2/445AB5NSVBBKPM7BUVPI2U4FGQ.jpg?auth=703d19e12287035a116bcf8527a60971263507b045103ab54a19ff5f420bdc2f&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:32:34 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:32:58 +0000"
       },
       {
-        "titulo": "Por qué Gallardo estará especialmente atento al partido de River",
-        "link": "https://www.ole.com.ar/river-plate/river-plate-marcelo-gallardo-seleccion-ecuador-huracan-galindez-caicedo_0_tGyvneL3uB.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/17/PFV82FeO3_1200x630__1.jpg",
+        "titulo": "La advertencia de un referente de Huracán a River: \"No vamos a regalar nada...\"",
+        "link": "https://www.ole.com.ar/river-plate/river-plate-huracan-cesar-ibanez-torneo-clausura_0_7MWuCa3vmA.html",
+        "imagen": "https://www.ole.com.ar/images/2025/02/12/bqFHcMRxi_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Thu, 17 Sep 2026 10:03:44 -0300"
+        "fecha": "Thu, 17 Sep 2026 11:15:45 -0300"
       },
       {
         "titulo": "\"Tremenda noche\": Verón comparó con la Libertadores 2009, habló de la localía y un posible caso Schiavi",
@@ -228,7 +228,7 @@
         "link": "https://www.eldia.com/deportes/estudiantes-podria-no-jugar-en-uno-la-semifinal-de-la-copa-libertadores-deportes_1789649640",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Thu, 17 Sep 2026 13:38:42 GMT"
+        "fecha": "Thu, 17 Sep 2026 14:36:57 GMT"
       },
       {
         "titulo": "¿Estudiantes busca un marcador central? Desde Sergio Ramos hasta Marcos Rojo, el pedido de los hinchas",
@@ -275,11 +275,11 @@
         "fecha": "Thu, 17 Sep 2026 10:32:00 -0300"
       },
       {
-        "titulo": "La Matanza sangrienta: delincuentes dispararon en medio de un operativo de la Bonaerense tras un nuevo asesinato",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/la-matanza-sangrienta-delincuentes-dispararon-en-medio-un-operativo-de-la-bonaerense-tras-un-nuevo-asesinato/",
-        "imagen": "https://www.infobae.com/resizer/v2/T6O7WW4KVVCT5HJ5OPXADY6KZQ.png?auth=dda66a29b6d4d7547763e3edede9757919ded7f00f5e28493463ea51ed5346bd&smart=true&width=900&height=497",
+        "titulo": "Juicio por Loan Peña, en vivo: las últimas noticias de hoy, 17 de septiembre, minuto a minuto",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/juicio-por-loan-pena-en-vivo-las-ultimas-noticias-de-hoy-17-de-septiembre-minuto-a-minuto/",
+        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:58:30 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:23:55 +0000"
       },
       {
         "titulo": "La vida al límite de un ex pandillero en la Medellín de Pablo Escobar: \"Dentro de lo malo que fui, fui bueno\"",
@@ -296,11 +296,11 @@
         "fecha": "Thu, 17 Sep 2026 09:03:00 -0300"
       },
       {
-        "titulo": "Juicio por Loan Peña, en vivo: las últimas noticias de hoy, 17 de septiembre, minuto a minuto",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/juicio-por-loan-pena-en-vivo-las-ultimas-noticias-de-hoy-17-de-septiembre-minuto-a-minuto/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
+        "titulo": "La Matanza sangrienta: delincuentes dispararon en medio de un operativo de la Bonaerense tras un nuevo asesinato",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/la-matanza-sangrienta-delincuentes-dispararon-en-medio-un-operativo-de-la-bonaerense-tras-un-nuevo-asesinato/",
+        "imagen": "https://www.infobae.com/resizer/v2/T6O7WW4KVVCT5HJ5OPXADY6KZQ.png?auth=dda66a29b6d4d7547763e3edede9757919ded7f00f5e28493463ea51ed5346bd&smart=true&width=900&height=497",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:54:20 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:58:30 +0000"
       },
       {
         "titulo": "Ituzaingó: una mujer de 70 años vendía cadenas de oro falsas, fue detenida e hizo un insólito planteo a la Justicia",
@@ -361,18 +361,18 @@
         "fecha": "Thu, 17 Sep 2026 07:35:00 -0300"
       },
       {
-        "titulo": "Por qué Israel quiere más bombas de una tonelada de EE. UU. y por qué la venta es controvertida",
-        "link": "https://www.clarin.com/new-york-times-international-weekly/israel-quiere-bombas-tonelada-ee-uu-venta-controvertida_0_zbYGSJg7Q2.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/5QTAfMTVR_1200x630__1.jpg",
+        "titulo": "La Ciudad de México tiene una \"zona de sacrificio\" tóxica donde el cáncer prolifera",
+        "link": "https://www.clarin.com/new-york-times-international-weekly/ciudad-mexico-zona-sacrificio-toxica-cancer-prolifera_0_DnU97qISYs.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/vIrwENHlg_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 13:26:50 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:37:40 +0000"
       },
       {
-        "titulo": "Un estudio reveló cómo el agua, el hielo y el aire mueven el centro de masa de la Tierra",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/09/17/un-estudio-revelo-como-el-agua-el-hielo-y-el-aire-mueven-el-centro-de-masa-de-la-tierra/",
-        "imagen": "https://www.infobae.com/resizer/v2/7OT5UYJEZJHJZGVPFZ5HHQWFGE.jpg?auth=347ba2eaf239a36fc396009ab0ab9a16b4725b8d45507d03bae19305a0025ee6&smart=true&width=2880&height=1573",
+        "titulo": "La Policía Nacional Civil de Guatemala capturó a tres sospechosos de secuestro exprés en la costa sur del país",
+        "link": "https://www.infobae.com/guatemala/2026/09/17/la-policia-nacional-civil-de-guatemala-capturo-a-tres-sospechosos-de-secuestro-expres-en-la-costa-sur-del-pais/",
+        "imagen": "https://www.infobae.com/resizer/v2/YZ6OWPAQSBEMXGSULC4DJWNJ4M.jpg?auth=faccea228e9c7a6730a00dcc1fd40da003a1a0d06ec3e97dec64f45f56dc65e7&smart=true&width=1251&height=900",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:33:03 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:39:48 +0000"
       },
       {
         "titulo": "Quiénes son los hutíes y cuál es el origen del grupo que controla amplias zonas de Yemen",
@@ -389,18 +389,18 @@
         "fecha": "Wed, 16 Sep 2026 21:11:00 -0300"
       },
       {
-        "titulo": "\"Tsunami del Himalaya\": un estudio reveló cómo el cambio climático agravó la devastadora riada de Nepal",
-        "link": "https://www.clarin.com/mundo/tsunami-himalaya-estudio-revelo-cambio-climatico-agravo-devastadora-riada-nepal_0_V5HG9SYcXK.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/sV9yQJHzF_1200x630__1.jpg",
+        "titulo": "La embajada armenia celebra este lunes 21 la Independencia con una gala en el Palacio Libertad",
+        "link": "https://www.clarin.com/mundo/embajada-armenia-celebra-lunes-21-independencia-gala-palacio-libertad_0_CzjNopAfGj.html",
+        "imagen": "https://www.clarin.com/img/2025/04/15/XKOPFJS7U_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 12:40:58 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:18:53 +0000"
       },
       {
-        "titulo": "Noche amarga en El Salvador: Alianza no logra la remontada y se despide de la Copa Centroamericana 2026",
-        "link": "https://www.infobae.com/el-salvador/2026/09/17/noche-amarga-en-el-salvador-alianza-no-logra-la-remontada-y-se-despide-de-la-copa-centroamericana-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/RBZAGLEJSZDFRL3FYJUIURAWME.png?auth=60c9586470068edb816b02c7e9220ada0d04cfd3b07af0aee0f0de5c24564fa1&smart=true&width=643&height=450",
+        "titulo": "“Annie” celebra su 50 aniversario con su regreso a Broadway y una tiktoker como protagonista",
+        "link": "https://www.infobae.com/cultura/2026/09/17/annie-celebra-su-50-aniversario-con-su-regreso-a-broadway-y-una-tiktoker-como-protagonista/",
+        "imagen": "https://www.infobae.com/resizer/v2/5DQ6NE5AOFFJHB3JNKGCHNFEIQ.png?auth=ffbedcb011cb88fba443494b7daa46554ad0f6f1fa48c75735338e80613dd82f&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:30:28 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:31:53 +0000"
       },
       {
         "titulo": "El hermano de Lady Di lanzó duras críticas contra el rey Carlos III en sus memorias",
@@ -417,18 +417,18 @@
         "fecha": "Wed, 16 Sep 2026 19:10:00 -0300"
       },
       {
-        "titulo": "Suecia: se confirma la victoria de la oposición de centroizquierda y renuncia el primer ministro",
-        "link": "https://www.clarin.com/mundo/suecia-confirma-victoria-oposicion-centroizquierda-renuncia-primer-ministro_0_uNHEWYutU1.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/1TSiDw141_1200x630__1.jpg",
+        "titulo": "El Papa León XIV prepara su visita a Francia entre tensiones con el gobierno de Emmanuel Macron",
+        "link": "https://www.clarin.com/mundo/papa-leon-xiv-prepara-visita-francia-tensiones-gobierno-emmanuel-macron_0_tbuqhBhG78.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/-gZHgPR06_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 12:33:38 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:54:36 +0000"
       },
       {
-        "titulo": "Guerra de bandas en Limón, Costa Rica: Cinco detenidos, fusiles incautados y un menor herido tras allanamientos del OIJ",
-        "link": "https://www.infobae.com/costa-rica/2026/09/17/guerra-de-bandas-en-limon-costa-rica-cinco-detenidos-fusiles-incautados-y-un-menor-herido-tras-allanamientos-del-oij/",
-        "imagen": "https://www.infobae.com/resizer/v2/J4KFYCDEKFFHLP5D5Z5HH3WB6E.png?auth=a4715fedd0d37d5346157afc7bd5391fbcbb72ba59b9ad9b0f7d45c365cbea43&smart=true&width=975&height=576",
+        "titulo": "Un estudio reveló cómo el agua, el hielo y el aire mueven el centro de masa de la Tierra",
+        "link": "https://www.infobae.com/america/ciencia-america/2026/09/17/un-estudio-revelo-como-el-agua-el-hielo-y-el-aire-mueven-el-centro-de-masa-de-la-tierra/",
+        "imagen": "https://www.infobae.com/resizer/v2/7OT5UYJEZJHJZGVPFZ5HHQWFGE.jpg?auth=347ba2eaf239a36fc396009ab0ab9a16b4725b8d45507d03bae19305a0025ee6&smart=true&width=2880&height=1573",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:04:46 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:33:03 +0000"
       }
     ],
     "espectaculos": [
@@ -447,18 +447,18 @@
         "fecha": "Thu, 17 Sep 2026 11:02:00 -0300"
       },
       {
-        "titulo": "Un Gran Hermano que rompió el molde: estiró todos los límites del formato y terminó coronando a quien había expulsado",
-        "link": "https://www.clarin.com/espectaculos/gran-hermano-rompio-molde-estiro-limites-formato-termino-coronando-expulsado_0_R76KsqSrIi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/JTBc7im5C_1200x630__1.jpg",
+        "titulo": "Rating del miércoles: ¿la fin de Gran Hermano lo ayudó a repuntar?",
+        "link": "https://www.clarin.com/espectaculos/rating-miercoles-fin-gran-hermano-ayudo-repuntar_0_Wbtk4crc7y.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/9DO6nwUKv_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 12:27:24 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:42:27 +0000"
       },
       {
-        "titulo": "El festival de cine de la UBA anuncia su edición más ambiciosa: homenajes, becas y nuevas sedes en Buenos Aires",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/el-festival-de-cine-de-la-uba-anuncia-su-edicion-mas-ambiciosa-homenajes-becas-y-nuevas-sedes-en-buenos-aires/",
-        "imagen": "https://www.infobae.com/resizer/v2/WRKGLYJLSJBYTCSYWIUA6TWSJM.jpg?auth=4e79ef3075d9d2f88fbc5e1e4e0c843e52f08fd2e86f06401aabf13d82e0ddb1&smart=true&width=594&height=275",
+        "titulo": "“Estás en ellos”, el conmovedor recuerdo de Yaco González a Agustina Posse, cinco años después de su muerte",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/estas-en-ellos-el-conmovedor-recuerdo-de-yaco-gonzalez-a-agustina-posse-cinco-anos-despues-de-su-muerte/",
+        "imagen": "https://www.infobae.com/resizer/v2/OQSE4JFWBJHUBLDICZJWO62AVE.png?auth=d40a1d49cc7890189fe65d1e6639beef762198c39653a23da1b7dff89aecb486&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 14:00:00 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:25:11 +0000"
       },
       {
         "titulo": "Aseguran que Ed Sheeran pidió que se donen u$s2 millones en ayuda humanitaria",
@@ -475,18 +475,18 @@
         "fecha": "Thu, 17 Sep 2026 10:49:00 -0300"
       },
       {
-        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este jueves 17 de septiembre de 2026 en Argentina",
-        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-jueves-17-de-septiembre-de-2026-en-argentina_0_SB30sYj5lN.html",
-        "imagen": "https://www.clarin.com/img/2025/08/25/gMhpNu9os_1200x630__1.jpg",
+        "titulo": "La embajada armenia celebra este lunes 21 la Independencia con una gala en el Palacio Libertad",
+        "link": "https://www.clarin.com/mundo/embajada-armenia-celebra-lunes-21-independencia-gala-palacio-libertad_0_CzjNopAfGj.html",
+        "imagen": "https://www.clarin.com/img/2025/04/15/XKOPFJS7U_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 10:15:03 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:18:53 +0000"
       },
       {
-        "titulo": "El comentario de Soy Rada sobre Evelyn Botto que descolocó a Mario Pergolini: “Eso me parece raro”",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/el-comentario-de-soy-rada-sobre-evelyn-botto-que-descoloco-a-mario-pergolini-eso-me-parece-raro/",
-        "imagen": "https://www.infobae.com/resizer/v2/6TB4GINQVFBG5E44J5DETSWMR4.png?auth=1b5a945de4b6efedf0c26b3c9e612ee18a650cd642e657e585a8a908e7c5ddd2&smart=true&width=2752&height=1536",
+        "titulo": "El festival de cine de la UBA anuncia su edición más ambiciosa: homenajes, becas y nuevas sedes en Buenos Aires",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/el-festival-de-cine-de-la-uba-anuncia-su-edicion-mas-ambiciosa-homenajes-becas-y-nuevas-sedes-en-buenos-aires/",
+        "imagen": "https://www.infobae.com/resizer/v2/WRKGLYJLSJBYTCSYWIUA6TWSJM.jpg?auth=4e79ef3075d9d2f88fbc5e1e4e0c843e52f08fd2e86f06401aabf13d82e0ddb1&smart=true&width=594&height=275",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:53:06 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:00:00 +0000"
       },
       {
         "titulo": "El acuerdo millonario al que habría llegado Tini Stoessel con su familia",
@@ -503,18 +503,18 @@
         "fecha": "Wed, 16 Sep 2026 23:27:00 -0300"
       },
       {
-        "titulo": "Tres adioses es una película entre luminosa, esperanzadora y sutilmente irónica",
-        "link": "https://www.clarin.com/espectaculos/adioses-pelicula-luminosa-esperanzadora-sutilmente-ironica_0_1X5guSGfqG.html",
-        "imagen": "https://www.clarin.com/img/2026/02/08/l-rgpc4s4_1200x630__1.jpg",
+        "titulo": "Un Gran Hermano que rompió el molde: estiró todos los límites del formato y terminó coronando a quien había expulsado",
+        "link": "https://www.clarin.com/espectaculos/gran-hermano-rompio-molde-estiro-limites-formato-termino-coronando-expulsado_0_R76KsqSrIi.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/JTBc7im5C_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 09:04:01 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:27:24 +0000"
       },
       {
-        "titulo": "La confesión de Wanda Nara antes de una nueva etapa en su carrera: “La profesión de mis sueños”",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/la-confesion-de-wanda-nara-antes-de-una-nueva-etapa-en-su-carrera-la-profesion-de-mis-suenos/",
-        "imagen": "https://www.infobae.com/resizer/v2/PE6RY4O6KVCDFLJVFHB42RWTVY.jpg?auth=48984393ba1b301dca2d9480a1c6e4094998d7d54462aaa3dd5201e54ae918a8&smart=true&width=1920&height=1080",
+        "titulo": "El comentario de Soy Rada sobre Evelyn Botto que descolocó a Mario Pergolini: “Eso me parece raro”",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/el-comentario-de-soy-rada-sobre-evelyn-botto-que-descoloco-a-mario-pergolini-eso-me-parece-raro/",
+        "imagen": "https://www.infobae.com/resizer/v2/6TB4GINQVFBG5E44J5DETSWMR4.png?auth=1b5a945de4b6efedf0c26b3c9e612ee18a650cd642e657e585a8a908e7c5ddd2&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 13:10:36 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:53:06 +0000"
       }
     ],
     "tecnologia": [
@@ -612,11 +612,11 @@
         "fecha": "Thu, 17 Sep 2026 14:00:09 GMT"
       },
       {
-        "titulo": "¿Viste autos con tapitas verdes en las cubiertas de los autos? La razón que pocos conocen",
-        "link": "https://tn.com.ar/autos/2026/09/17/viste-autos-con-tapitas-verdes-en-las-cubiertas-de-los-autos-la-razon-que-pocos-conocen/",
-        "imagen": "https://tn.com.ar/resizer/v2/P5OUA3MK65F4TMXQC4JISPJQSE.png?auth=5ec94790153919e25a8b8f0c9280f5a383e65d764b9c02e1c5e613b692a91de2",
+        "titulo": "Cuatro marcas confirmaron sus modelos para la Expo Auto Chino 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuatro-marcas-confirmaron-sus-modelos-para-la-expo-auto-chino-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/RZYNGQFGJRG2BJCH3DLXLGMBHM.png?auth=8ceb1720b1c810d49163cc03d91de80b562f11f1eb69f4fec75b839b5b85b3e5",
         "fuente": "TN Autos",
-        "fecha": "2026-09-17T06:00:00-03:00"
+        "fecha": "2026-09-17T11:35:55-03:00"
       },
       {
         "titulo": "Nace \"Semana Motor\": la nueva muestra automotriz al aire libre que tomará la Ciudad de Buenos Aires",
@@ -626,9 +626,9 @@
         "fecha": "Thu, 17 Sep 2026 13:49:05 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Volkswagen Tera en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuanto-cuesta-llenar-el-tanque-del-volkswagen-tera-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/P5TXOXR4DBHBNCOOTG5UO5ZCKQ.jpg?auth=b9511b7eda08fe3ee0b192ee8a19bc3b237e6f32b2a49e8e3bead59cd8d0ebd2",
+        "titulo": "¿Viste autos con tapitas verdes en las cubiertas de los autos? La razón que pocos conocen",
+        "link": "https://tn.com.ar/autos/2026/09/17/viste-autos-con-tapitas-verdes-en-las-cubiertas-de-los-autos-la-razon-que-pocos-conocen/",
+        "imagen": "https://tn.com.ar/resizer/v2/P5OUA3MK65F4TMXQC4JISPJQSE.png?auth=5ec94790153919e25a8b8f0c9280f5a383e65d764b9c02e1c5e613b692a91de2",
         "fuente": "TN Autos",
         "fecha": "2026-09-17T06:00:00-03:00"
       },
@@ -654,11 +654,11 @@
         "fecha": "Wed, 16 Sep 2026 13:19:09 GMT"
       },
       {
-        "titulo": "Felipe Sacristán, mecánico: “Los fabricantes dicen que el líquido de frenos hay que cambiarlo cada 2 años”",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/felipe-sacristan-mecanico-los-fabricantes-dicen-que-el-liquido-de-frenos-hay-que-cambiarlo-cada-2-anos/",
-        "imagen": "https://tn.com.ar/resizer/v2/Z4VWQA7XTVAGHKOENITB3WVV4A.png?auth=93c0b5edcf3e3545015d1f873073380af8fb55915513452789610ec384b489ee",
+        "titulo": "Cuánto cuesta llenar el tanque del Volkswagen Tera en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuanto-cuesta-llenar-el-tanque-del-volkswagen-tera-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/P5TXOXR4DBHBNCOOTG5UO5ZCKQ.jpg?auth=b9511b7eda08fe3ee0b192ee8a19bc3b237e6f32b2a49e8e3bead59cd8d0ebd2",
         "fuente": "TN Autos",
-        "fecha": "2026-09-16T21:11:05-03:00"
+        "fecha": "2026-09-17T06:00:00-03:00"
       },
       {
         "titulo": "Ford Pacheco cumple 65 años: datos curiosos e historia del polo industrial",
@@ -668,11 +668,11 @@
         "fecha": "Wed, 16 Sep 2026 13:07:58 GMT"
       },
       {
-        "titulo": "Si un camión pone la luz de giro izquierda en la ruta, esto es lo que tenés que saber",
-        "link": "https://tn.com.ar/autos/2026/09/16/si-un-camion-pone-la-luz-de-giro-izquierda-en-la-ruta-esto-es-lo-que-tenes-que-saber/",
-        "imagen": "https://tn.com.ar/resizer/v2/UHD7YUTPAVG45FMG64UYMHH2IY.jpg?auth=6d29c1e7e2bca359ae0fb278f42aded9318fd839b625ee86c37415dfcb51fcf0",
+        "titulo": "Felipe Sacristán, mecánico: “Los fabricantes dicen que el líquido de frenos hay que cambiarlo cada 2 años”",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/felipe-sacristan-mecanico-los-fabricantes-dicen-que-el-liquido-de-frenos-hay-que-cambiarlo-cada-2-anos/",
+        "imagen": "https://tn.com.ar/resizer/v2/Z4VWQA7XTVAGHKOENITB3WVV4A.png?auth=93c0b5edcf3e3545015d1f873073380af8fb55915513452789610ec384b489ee",
         "fuente": "TN Autos",
-        "fecha": "2026-09-16T12:05:34-03:00"
+        "fecha": "2026-09-16T21:11:05-03:00"
       },
       {
         "titulo": "BYD Ti7: el nuevo SUV robusto e híbrido de 350 CV que llega a Argentina con 1.015 km de autonomía",
@@ -682,11 +682,11 @@
         "fecha": "Wed, 16 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Peugeot 208 en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/cuanto-cuesta-llenar-el-tanque-del-peugeot-208-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/ZWWPR4OVFRAL5IQ2JVORHL55BE.jpg?auth=2003d240d00dfe3cd6da29921d9c749a07b19c0555a5cf8463115549c5a193c2",
+        "titulo": "Si un camión pone la luz de giro izquierda en la ruta, esto es lo que tenés que saber",
+        "link": "https://tn.com.ar/autos/2026/09/16/si-un-camion-pone-la-luz-de-giro-izquierda-en-la-ruta-esto-es-lo-que-tenes-que-saber/",
+        "imagen": "https://tn.com.ar/resizer/v2/UHD7YUTPAVG45FMG64UYMHH2IY.jpg?auth=6d29c1e7e2bca359ae0fb278f42aded9318fd839b625ee86c37415dfcb51fcf0",
         "fuente": "TN Autos",
-        "fecha": "2026-09-16T06:00:01-03:00"
+        "fecha": "2026-09-16T12:05:34-03:00"
       }
     ],
     "turismo": [
@@ -706,6 +706,13 @@
       }
     ],
     "vida_sana": [
+      {
+        "titulo": "Qué pasa con el cuerpo después de dos semanas sin entrenar y las razones por las que la capacidad aeróbica disminuye antes que la fuerza",
+        "link": "https://www.infobae.com/salud/2026/09/17/que-pasa-con-el-cuerpo-despues-de-dos-semanas-sin-entrenar-y-las-razones-por-las-que-la-capacidad-aerobica-disminuye-antes-que-la-fuerza/",
+        "imagen": "https://www.infobae.com/resizer/v2/2ARLHOCF7VFUNI7EY3IZRFFAZA.png?auth=6afdde2681747c1479801e5cc50510a8c83346e4c7903059fbb42f5e869408f6&smart=true&width=1920&height=1080",
+        "fuente": "Infobae Salud",
+        "fecha": "Thu, 17 Sep 2026 14:26:18 +0000"
+      },
       {
         "titulo": "Cumbre de neurólogos del mundo en Buenos Aires: cuáles son las claves para prevenir la demencia en la región",
         "link": "https://www.infobae.com/salud/ciencia/2026/09/16/cumbre-de-neurologos-del-mundo-en-buenos-aires-cuales-son-las-claves-para-prevenir-la-demencia-en-la-region/",
@@ -728,23 +735,16 @@
         "fecha": "Thu, 17 Sep 2026 10:34:38 +0000"
       },
       {
-        "titulo": "No toda descamación es caspa: las señales que pueden ayudar a identificar el problema",
-        "link": "https://www.infobae.com/salud/2026/09/17/no-toda-descamacion-es-caspa-las-senales-que-pueden-ayudar-a-identificar-el-problema/",
-        "imagen": "https://www.infobae.com/resizer/v2/UUDXSAMYMRC7DBHCZMABVIIYQI.png?auth=cbbe5dddf25f9922fa8f3a0802a2f467515de9b22cc06538fbeabae2a4db0405&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Thu, 17 Sep 2026 09:00:01 +0000"
-      },
-      {
-        "titulo": "Neumonía atípica: qué síntomas pueden confundirse con un resfrío y cuándo consultar",
-        "link": "https://www.infobae.com/salud/2026/09/17/neumonia-atipica-que-sintomas-pueden-confundirse-con-un-resfrio-y-cuando-consultar/",
-        "imagen": "https://www.infobae.com/resizer/v2/V5YD4VVN3JERXARLH77O7KP27U.jpg?auth=bbc125e2d9ec217cdc3cc524d1bcd93984c602f8778793b41832086a14dbc79c&smart=true&width=1456&height=816",
-        "fuente": "Infobae Salud",
-        "fecha": "Thu, 17 Sep 2026 09:00:01 +0000"
-      },
-      {
         "titulo": "Claves para eliminar el mal aliento de forma definitiva, según una experta en higiene dental",
         "link": "https://www.infobae.com/salud/2026/09/17/claves-para-eliminar-el-mal-aliento-de-forma-definitiva-segun-una-experta-en-higiene-dental/",
         "imagen": "https://www.infobae.com/resizer/v2/DZGSNWGPGRGELJQHD4WFOO4X2Y.jpg?auth=460ca404c319ee50e714f162ef7c261b963344e064d84b19d84cdff3607aecce&smart=true&width=1920&height=1080",
+        "fuente": "Infobae Salud",
+        "fecha": "Thu, 17 Sep 2026 09:00:01 +0000"
+      },
+      {
+        "titulo": "Qué ejercicios son más adecuados para las personas con osteoartritis y cuáles requieren precaución",
+        "link": "https://www.infobae.com/salud/2026/09/17/que-ejercicios-son-mas-adecuados-para-las-personas-con-osteoartritis-y-cuales-requieren-precaucion/",
+        "imagen": "https://www.infobae.com/resizer/v2/VINJDAV22FDNTCQMOSHTBYSRQY.png?auth=4f3ee686113c2c3a298556fa441234507769e063d80fc2c963c7cc4e5672aa4c&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Thu, 17 Sep 2026 09:00:01 +0000"
       }
@@ -779,11 +779,11 @@
         "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
       },
       {
-        "titulo": "\"Tremenda noche\": Verón comparó con la Libertadores 2009, habló de la localía y un posible caso Schiavi",
-        "link": "https://www.eldia.com/deportes/tremenda-noche-veron-comparo-con-la-libertadores-2009-hablo-de-la-localia-y-un-posible-caso-schiavi-deportes_1789653120",
+        "titulo": "Bullrich admitió que \"no sabía\" sobre los cambios para Discapacidad y crece la interna oficialista",
+        "link": "https://www.eldia.com/politica-y-economia/la-respuesta-de-bullrich-sobre-los-cambios-para-discapacidad-en-el-presupuesto-2027-yo-no-sabia-politica-y-economia_1789654680",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 14:11:38 GMT"
+        "fecha": "Thu, 17 Sep 2026 14:33:59 GMT"
       },
       {
         "titulo": "La Bioferia llega a La Plata con una escultura colectiva, música y actividades en el Bosque",
@@ -814,11 +814,11 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "Baja talla: confirman la fuerte incidencia de un nutriente en la dieta infantil",
-        "link": "https://www.eldia.com/informacion-general/baja-talla-confirman-la-fuerte-incidencia-de-un-nutriente-en-la-dieta-infantil-informacion-general_1789651260",
+        "titulo": "El FMI llega a la Argentina para la tercera revisión en la previa de un vencimiento de deuda",
+        "link": "https://www.eldia.com/politica-y-economia/el-fmi-llega-a-la-argentina-para-la-tercera-revision-del-programa-en-la-previa-de-un-vencimiento-de-deuda-politica-y-economia_1789654140",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 13:57:38 GMT"
+        "fecha": "Thu, 17 Sep 2026 14:14:11 GMT"
       },
       {
         "titulo": "Con sol, vientos leves y más de 20°C, anticipan un jueves clima ideal y de primavera en La Plata",
