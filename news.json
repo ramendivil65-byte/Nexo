@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T21:40:35.787579+00:00",
+  "actualizado": "2026-09-17T21:53:14.726544+00:00",
   "categorias": {
     "politica": [
       {
@@ -91,9 +91,44 @@
       {
         "titulo": "El PBI cayó 0,6% en el segundo trimestre, ante deterioro en el consumo y la inversión",
         "link": "https://www.ambito.com/economia/el-pbi-cayo-06-el-segundo-trimestre-deterioro-el-consumo-y-la-inversion-n6323646",
-        "imagen": "https://media.ambito.com/p/fce40973fc991f7ce27e4bd9d6281109/adjuntos/239/imagenes/043/429/0043429946/1200x675/smart/industria-argentina-manufactura.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Thu, 17 Sep 2026 17:05:00 -0300"
+      },
+      {
+        "titulo": "Qué es la ley de Inocencia Fiscal II aprobada por el Senado y los cambios que prevé para los ahorristas",
+        "link": "https://www.clarin.com/economia/ley-inocencia-fiscal-ii-aprobada-senado-cambios-preve-ahorristas_0_fZ6sIhfAYt.html",
+        "imagen": "https://www.clarin.com/img/2026/02/06/DZANs2Stg_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 21:00:25 +0000"
+      },
+      {
+        "titulo": "Bonos y ADRs subieron en Wall Street pese a la suba de tasas de la Fed, pero el riesgo país trepó a 515 puntos",
+        "link": "https://www.c5n.com/economia/bonos-y-adrs-subieron-wall-street-pese-la-suba-tasas-la-fed-pero-el-riesgo-pais-trepo-515-puntos-n249227",
+        "imagen": "https://media.c5n.com/p/cd01a346ee9c55f7caaec702d3e7c68a/adjuntos/326/imagenes/000/312/0000312394/1200x675/smart/wall-street.png",
+        "fuente": "C5N",
+        "fecha": "Thu, 17 Sep 2026 18:36:00 -0300"
+      },
+      {
+        "titulo": "Se liquidan las plantas y marcas de SanCor: la Justicia destrabó la licitación para vender lo que queda de la histórica láctea",
+        "link": "https://www.infobae.com/economia/2026/09/17/se-liquidan-las-plantas-y-marcas-de-sancor-la-justicia-destrabo-la-licitacion-para-vender-lo-que-queda-de-la-historica-lactea/",
+        "imagen": "https://www.infobae.com/resizer/v2/66CE4UMJHNFLXKM3G3E5ZDEQPI.jpg?auth=7f0a1e131eed4894018769a69ec9fc92e3faecee860461c06ef658ce1a9507ba&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Thu, 17 Sep 2026 21:47:08 +0000"
+      },
+      {
+        "titulo": "La confianza del consumidor repuntó a nivel nacional en septiembre, pero en CABA cayó casi un 7%",
+        "link": "https://www.tiempoar.com.ar/ta_article/la-confianza-del-consumidor-repunto-a-nivel-nacional-en-septiembre-pero-en-caba-cayo-casi-un-7/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Thu, 17 Sep 2026 21:15:52 +0000"
+      },
+      {
+        "titulo": "Cuánto cuesta vivir en Vaca Muerta y cuáles son los salarios en la zona petrolera",
+        "link": "https://www.ambito.com/economia/cuanto-cuesta-vivir-vaca-muerta-y-cuales-son-los-salarios-la-zona-petrolera-n6322927",
+        "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Thu, 17 Sep 2026 17:00:00 -0300"
       },
       {
         "titulo": "“Hay un desacople entre la oferta de crédito y la demanda por parte de las pymes”",
@@ -110,46 +145,11 @@
         "fecha": "Thu, 17 Sep 2026 17:28:00 -0300"
       },
       {
-        "titulo": "Se liquidan las plantas y marcas de SanCor: la Justicia destrabó la licitación para vender lo que queda de la histórica láctea",
-        "link": "https://www.infobae.com/economia/2026/09/17/se-liquidan-las-plantas-y-marcas-de-sancor-la-justicia-destrabo-la-licitacion-para-vender-lo-que-queda-de-la-historica-lactea/",
-        "imagen": "https://www.infobae.com/resizer/v2/66CE4UMJHNFLXKM3G3E5ZDEQPI.jpg?auth=7f0a1e131eed4894018769a69ec9fc92e3faecee860461c06ef658ce1a9507ba&smart=true&width=1920&height=1080",
+        "titulo": "Cuáles son los dos artículos del Presupuesto 2027 que buscan impulsar la industria automotriz y qué impacto tendrán",
+        "link": "https://www.infobae.com/economia/2026/09/17/cuales-son-los-dos-articulos-del-presupuesto-2027-que-buscan-impulsar-la-industria-automotriz-y-que-impacto-tendran/",
+        "imagen": "https://www.infobae.com/resizer/v2/UXRELTY2WJDAJDSPRQ2JPXXAD4.jpg?auth=4686e33d0eb1f872957cc2cf9197745734e4f6feac3f50aa91cd22437ed123b8&smart=true&width=800&height=440",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 21:27:05 +0000"
-      },
-      {
-        "titulo": "La confianza del consumidor repuntó a nivel nacional en septiembre, pero en CABA cayó casi un 7%",
-        "link": "https://www.tiempoar.com.ar/ta_article/la-confianza-del-consumidor-repunto-a-nivel-nacional-en-septiembre-pero-en-caba-cayo-casi-un-7/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 17 Sep 2026 21:15:52 +0000"
-      },
-      {
-        "titulo": "Cuánto cuesta vivir en Vaca Muerta y cuáles son los salarios en la zona petrolera",
-        "link": "https://www.ambito.com/economia/cuanto-cuesta-vivir-vaca-muerta-y-cuales-son-los-salarios-la-zona-petrolera-n6322927",
-        "imagen": "https://media.ambito.com/p/34fbddaab050dddcb174e52591188aa7/adjuntos/239/imagenes/043/645/0043645270/1200x675/883x303:903x323/cuanto-cuesta.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 17:00:00 -0300"
-      },
-      {
-        "titulo": "La economía cayó 0,6% en el segundo trimestre y se achica el crecimiento de todo el año",
-        "link": "https://www.clarin.com/economia/economia-cayo-06-segundo-trimestre-achica-crecimiento-ano_0_W9SNmteEZH.html",
-        "imagen": "https://www.clarin.com/img/2024/04/05/YChGZO8Au_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 20:04:31 +0000"
-      },
-      {
-        "titulo": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
-        "link": "https://www.c5n.com/economia/el-desempleo-subio-79-el-segundo-trimestre-2026-su-nivel-mas-alto-2021-n249211",
-        "imagen": "https://media.c5n.com/p/ec1cff715c1e1535e934ca6a8e5781bc/adjuntos/326/imagenes/000/371/0000371054/1200x675/smart/desempleo-argentina.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 16:41:00 -0300"
-      },
-      {
-        "titulo": "Jornada financiera: las acciones argentinas repuntaron en Wall Street, pero el riesgo país tocó el nivel más alto del mes",
-        "link": "https://www.infobae.com/economia/2026/09/17/jornada-financiera-las-acciones-argentinas-repuntaron-en-wall-street-pero-el-riesgo-pais-toco-el-nivel-mas-alto-del-mes/",
-        "imagen": "https://www.infobae.com/resizer/v2/SX4OQ57GGNFPBAULC3UGBHYZSI.JPG?auth=69b8e941d7fe22cad3459cbaa6406cf528e5dbc8ea72f23729554d5e6de72c30&smart=true&width=5672&height=3781",
-        "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 21:17:17 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:42:52 +0000"
       },
       {
         "titulo": "La Justicia le prohibió a Edesur cortarle la luz a una fábrica que recibió una factura de $174 millones",
@@ -159,18 +159,18 @@
         "fecha": "Thu, 17 Sep 2026 17:14:58 +0000"
       },
       {
-        "titulo": "El BCRA amplía el menú de opciones de los bancos para invertir en deuda del Tesoro",
+        "titulo": "Deuda: el BCRA amplía el cupo de los bancos para invertir en bonos del Tesoro",
         "link": "https://www.ambito.com/economia/el-bcra-modifica-el-esquema-encajes-y-extiende-el-desarme-posiciones-titulos-publicos-n6323674",
-        "imagen": "https://media.ambito.com/p/eaec9003fb8390f086c221b5d2015860/adjuntos/239/imagenes/043/597/0043597151/1200x675/smart/banco-central-bcra.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Thu, 17 Sep 2026 16:48:00 -0300"
       },
       {
-        "titulo": "En plena tensión con el Reino Unido por Malvinas, Argentina vuelve a tener vuelos de British Airways directos a Londres",
-        "link": "https://www.clarin.com/economia/plena-tension-reino-unido-malvinas-ezeiza-vuelve-tener-vuelos-british-airways-directos-londres_0_pLxPhqoERu.html",
-        "imagen": "https://www.clarin.com/img/2026/09/08/26AnMFr-9_1200x630__1.jpg",
+        "titulo": "La economía cayó 0,6% en el segundo trimestre y se achica el crecimiento de todo el año",
+        "link": "https://www.clarin.com/economia/economia-cayo-06-segundo-trimestre-achica-crecimiento-ano_0_W9SNmteEZH.html",
+        "imagen": "https://www.clarin.com/img/2024/04/05/YChGZO8Au_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 19:41:29 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:04:31 +0000"
       }
     ],
     "deportes": [
@@ -182,11 +182,11 @@
         "fecha": "Thu, 17 Sep 2026 18:27:00 -0300"
       },
       {
-        "titulo": "Estudiantes y Boca, la resistencia argentina ante el poder brasileño en las Copas: dos semifinalistas que quieren romper la tendencia",
-        "link": "https://www.clarin.com/deportes/estudiantes-boca-resistencia-argentina-poder-brasileno-copas-semifinalistas-quieren-romper-tendencia_0_5yRnY6HiqK.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/gLhk7ckWH_1200x630__1.jpg",
+        "titulo": "Estadios llenos, largas filas de ingreso y 1,8 millón de personas: el fenómeno de los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.clarin.com/deportes/estadios-llenos-largas-filas-ingreso-18-millon-personas-fenomeno-juegos-suramericanos-santa-fe-2026_0_lNM7yt8yjg.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/Pwqza9B23_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 20:47:46 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:09:56 +0000"
       },
       {
         "titulo": "El saludo de Lionel Messi a los atletas argentinos que compiten en los Juegos Suramericanos Santa Fe 2026",
@@ -196,11 +196,11 @@
         "fecha": "Thu, 17 Sep 2026 18:32:00 -0300"
       },
       {
-        "titulo": "11 frases de Marcelo Gallardo en su presentación como nuevo técnico de la selección de Ecuador: “Es un desafío de vida”",
-        "link": "https://www.infobae.com/deportes/2026/09/17/en-vivo-presentan-a-marcelo-gallardo-como-nuevo-entrenador-de-la-seleccion-de-ecuador/",
-        "imagen": "https://www.infobae.com/resizer/v2/PXO3JT2PERFWRLVGXLVBWG46JE.jpg?auth=77ca07710dbf50d797edcd837bd920c1d1d234b5f53d4d709be40b880ce2303a&smart=true&width=1079&height=607",
+        "titulo": "Francisco Cerúndolo destacó el estadio Ruca Che, donde se jugará la serie de Copa Davis entre Argentina y Turquía: “Espectacular”",
+        "link": "https://www.infobae.com/deportes/2026/09/17/francisco-cerundolo-destaco-el-estadio-ruca-che-donde-se-jugara-la-serie-de-copa-davis-entre-argentina-y-turquia-espectacular/",
+        "imagen": "https://www.infobae.com/resizer/v2/5UJD4W7PP5CT7OXGMHY5RAVFAQ.jpg?auth=9e66c12d7d7a726c5bbe56ac63883027599ab2bf2502ea6f7bf6d96ed448faf5&smart=true&width=3000&height=1687",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 21:38:26 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:52:46 +0000"
       },
       {
         "titulo": "Un set de tenis, título inesperado y pasaje histórico: cinco recordados cruces entre River y Huracán",
@@ -245,11 +245,11 @@
         "fecha": "Thu, 17 Sep 2026 16:47:00 -0300"
       },
       {
-        "titulo": "Gimnasia reunió a sus socios y presentó detalles sobre el presente y futuro del club",
-        "link": "https://www.0221.com.ar/gimnasia/gimnasia-reunio-sus-socios-y-presento-detalles-el-presente-y-futuro-del-club-n134368",
-        "imagen": "https://media.0221.com.ar/p/5e7a4de4f357b5c0e663741ce6f1c2fd/adjuntos/357/imagenes/100/295/0100295160/1200x630/smart/sede-gimnasia-calle-4.png",
+        "titulo": "¿Marcos Rojo vuelve a Estudiantes? La respuesta de su entorno ante los rumores",
+        "link": "https://www.0221.com.ar/estudiantes/marcos-rojo-vuelve-estudiantes-la-respuesta-su-entorno-los-rumores-n134364",
+        "imagen": "https://media.0221.com.ar/p/0f58628091827bdf8a9ee4fd18dfe848/adjuntos/357/imagenes/100/241/0100241011/1200x630/smart/marcos-rojo-estudiantes.png",
         "fuente": "0221 Deportes",
-        "fecha": "Thu, 17 Sep 2026 16:34:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 15:37:00 -0300"
       },
       {
         "titulo": "Peligra la localía del estadio Monumental frente a Burkina Faso: la Bombonera podría ocupar el lugar",
@@ -361,18 +361,18 @@
         "fecha": "Thu, 17 Sep 2026 17:42:00 -0300"
       },
       {
-        "titulo": "Escándalo en Madrid: Isabel Díaz Ayuso pagó con dinero público 6,3 millones de euros por un departamento que ahora quiere vender y nadie compra",
-        "link": "https://www.clarin.com/mundo/escandalo-madrid-isabel-diaz-ayuso-pago-dinero-publico-63-millones-euros-departamento-ahora-quiere-vender-nadie-compra_0_8sLofgISqM.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/3OwImO5n__1200x630__1.jpg",
+        "titulo": "Advertencia y alarma: Polonia aseguró que Rusia planea ataques contra los países de la OTAN aliados de Ucrania",
+        "link": "https://www.clarin.com/mundo/advertencia-alarma-polonia-aseguro-rusia-planea-ataques-paises-otan-aliados-ucrania_0_ZtKZ1Hu8C5.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/_QGKrgkI6_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 20:00:06 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:59:28 +0000"
       },
       {
-        "titulo": "Justicia panameña mantiene tras las rejas al exdirector de Ingresos",
-        "link": "https://www.infobae.com/panama/2026/09/17/justicia-panamena-mantiene-tras-las-rejas-al-exdirector-de-ingresos/",
-        "imagen": "https://www.infobae.com/resizer/v2/ECTI5RDMVZDS3FOJAOKRGVFY4M.png?auth=eb3574e891d84122a9ec01c8a455a9444e79219b254c4928bc8b17052676738a&smart=true&width=2752&height=1536",
+        "titulo": "La pobreza volvió a aumentar en Honduras y alcanzó al 61.1% de los hogares, según el Instituto Nacional de Estadísticas",
+        "link": "https://www.infobae.com/honduras/2026/09/17/la-pobreza-volvio-a-aumentar-en-honduras-y-alcanzo-al-611-de-los-hogares-segun-el-ine/",
+        "imagen": "https://www.infobae.com/resizer/v2/66GK22G6CRGCFMHJFP4FO622TI.png?auth=710caae22f42aac73792b9b1d7c415d9e9f0fbcee586dd6ae7f90e8b3ff710e8&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 21:36:12 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:48:33 +0000"
       },
       {
         "titulo": "La ONU consideró que existen motivos para creer que EEUU cometió crímenes de guerra en Irán",
@@ -389,18 +389,18 @@
         "fecha": "Thu, 17 Sep 2026 15:51:00 -0300"
       },
       {
-        "titulo": "El hermano de Lady Di afirma en su libro que la princesa se separó de Carlos porque el futuro rey \"estaba enamorado de su valet\"",
-        "link": "https://www.clarin.com/mundo/hermano-lady-di-afirma-libro-princesa-separo-carlos-futuro-rey-enamorado-valet_0_AomoKO8IPn.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/yrNwywJSw_1200x630__1.jpg",
+        "titulo": "Escándalo en Madrid: Isabel Díaz Ayuso pagó con dinero público 6,3 millones de euros por un departamento que ahora quiere vender y nadie compra",
+        "link": "https://www.clarin.com/mundo/escandalo-madrid-isabel-diaz-ayuso-pago-dinero-publico-63-millones-euros-departamento-ahora-quiere-vender-nadie-compra_0_8sLofgISqM.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/3OwImO5n__1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:34:42 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:00:06 +0000"
       },
       {
-        "titulo": "Ministerio de Seguridad administrará la protección de víctimas y testigos tras cierre de autónoma salvadoreña",
-        "link": "https://www.infobae.com/el-salvador/2026/09/17/ministerio-de-seguridad-administrara-la-proteccion-de-victimas-y-testigos-tras-cierre-de-autonoma-salvadorena/",
-        "imagen": "https://www.infobae.com/resizer/v2/JSBZYJ2LJVGEVAMWUS2V6UDFYA.jpg?auth=871268cac263e090d17b8203a3618d153f5b05473d6d4c32e49af8c3289c3f07&smart=true&width=2816&height=1536",
+        "titulo": "Policía de Control de Drogas de Costa Rica detiene a empleado municipal sospechoso de vender drogas desde su vivienda",
+        "link": "https://www.infobae.com/costa-rica/2026/09/17/policia-de-control-de-drogas-de-costa-rica-detiene-a-empleado-municipal-sospechoso-de-vender-drogas-desde-su-vivienda/",
+        "imagen": "https://www.infobae.com/resizer/v2/MLWSZT27M5HYLLOEHFSFMWXAA4.png?auth=5f978899ad5dccba473645be0ac84f274adbbb44aad052e54b3af7004de8f8d2&smart=true&width=2088&height=1178",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 21:31:24 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:41:57 +0000"
       },
       {
         "titulo": "Lula da Silva, duro con Flavio Bolsonaro: \"Brasil no soporta políticos que de día muestran la bandera y de noche se ponen en cuatro para EEUU\"",
@@ -417,18 +417,18 @@
         "fecha": "Thu, 17 Sep 2026 15:35:00 -0300"
       },
       {
-        "titulo": "Guerra espacial: los asesores militares de Donald Trump quieren que sus tropas se preparen para combatir alrededor de la Luna",
-        "link": "https://www.clarin.com/mundo/guerra-espacial-asesores-militares-donald-trump-quieren-tropas-preparen-combatir-alrededor-luna_0_rJeNKgKOw6.html",
-        "imagen": "https://www.clarin.com/img/2020/03/10/bZzN7QDrE_1200x630__1.jpg",
+        "titulo": "El hermano de Lady Di afirma en su libro que la princesa se separó de Carlos porque el futuro rey \"estaba enamorado de su valet\"",
+        "link": "https://www.clarin.com/mundo/hermano-lady-di-afirma-libro-princesa-separo-carlos-futuro-rey-enamorado-valet_0_AomoKO8IPn.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/yrNwywJSw_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:00:05 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:34:42 +0000"
       },
       {
-        "titulo": "La primera casa de cambio privada de Cuba ya opera en Santa Clara",
-        "link": "https://www.infobae.com/cuba/2026/09/17/la-primera-casa-de-cambio-privada-de-cuba-ya-opera-en-santa-clara/",
-        "imagen": "https://www.infobae.com/resizer/v2/XEWE7TUH6RFX7HTJABP2MSTS2Y.png?auth=a77adb835a9aad3a4a837e62463ed95add8f375704c9a6f851c916a1cd7073da&smart=true&width=2752&height=1536",
+        "titulo": "Justicia panameña mantiene tras las rejas al exdirector de Ingresos",
+        "link": "https://www.infobae.com/panama/2026/09/17/justicia-panamena-mantiene-tras-las-rejas-al-exdirector-de-ingresos/",
+        "imagen": "https://www.infobae.com/resizer/v2/ECTI5RDMVZDS3FOJAOKRGVFY4M.png?auth=eb3574e891d84122a9ec01c8a455a9444e79219b254c4928bc8b17052676738a&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 21:23:59 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:36:12 +0000"
       }
     ],
     "espectaculos": [
@@ -533,11 +533,11 @@
         "fecha": "Thu, 17 Sep 2026 15:21:00 -0300"
       },
       {
-        "titulo": "Qué significa desacelerar el desarrollo de la IA, el pedido de Anthropic respaldado por Musk y Altman",
-        "link": "https://www.infobae.com/tecno/2026/09/17/que-significa-desacelerar-el-desarrollo-de-la-ia-el-pedido-de-anthropic-respaldado-por-musk-y-altman/",
-        "imagen": "https://www.infobae.com/resizer/v2/FG3SMSJYY5EFZIIPMGLXNIGR6I.JPG?auth=5c37c694085e5d7c037c20b85c5af8b1bc58f01ddb7f3031e84dd4df17bf6eb7&smart=true&width=5382&height=3027",
+        "titulo": "Crean un robot humanoide que dobla perfecto toallas, hace la cama en segundos y más tareas de casa",
+        "link": "https://www.infobae.com/tecno/2026/09/17/crean-un-robot-humanoide-que-dobla-perfecto-toallas-hace-la-cama-en-segundos-y-mas-tareas-de-casa/",
+        "imagen": "https://www.infobae.com/resizer/v2/PMSS3ALPMNGXLAILUFWJUYTIBY.png?auth=f10c5441380329f4ffb72d1fcb4a3b4d9fed807b7e762e33058aa2d82ead1587&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 21:37:05 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:41:12 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -561,11 +561,11 @@
         "fecha": "Wed, 16 Sep 2026 16:05:00 -0300"
       },
       {
-        "titulo": "Pese a los riesgos, Bill Gates cree que la IA “ayudará a producir suficientes alimentos y erradicar enfermedades”",
-        "link": "https://www.infobae.com/tecno/2026/09/17/pese-a-los-riesgos-bill-gates-cree-que-la-ia-ayudara-a-producir-suficientes-alimentos-y-erradicar-enfermedades/",
-        "imagen": "https://www.infobae.com/resizer/v2/ONU4672PP5XOENNSPYAOOXTGLM.jpg?auth=043f61152851494d56205a432870ff92247f5077f879e28ec764cbd595b27a51&smart=true&width=5500&height=3667",
+        "titulo": "Qué significa desacelerar el desarrollo de la IA, el pedido de Anthropic respaldado por Musk y Altman",
+        "link": "https://www.infobae.com/tecno/2026/09/17/que-significa-desacelerar-el-desarrollo-de-la-ia-el-pedido-de-anthropic-respaldado-por-musk-y-altman/",
+        "imagen": "https://www.infobae.com/resizer/v2/FG3SMSJYY5EFZIIPMGLXNIGR6I.JPG?auth=5c37c694085e5d7c037c20b85c5af8b1bc58f01ddb7f3031e84dd4df17bf6eb7&smart=true&width=5382&height=3027",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 20:27:08 +0000"
+        "fecha": "Thu, 17 Sep 2026 21:37:05 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -589,11 +589,11 @@
         "fecha": "Wed, 16 Sep 2026 15:43:00 -0300"
       },
       {
-        "titulo": "Mark Zuckerberg descarta frenar la carrera de la IA: “La gente no querrá usar modelos que no se ajusten a sus intereses”",
-        "link": "https://www.infobae.com/tecno/2026/09/17/mark-zuckerberg-descarta-frenar-la-carrera-de-la-ia-la-gente-no-querra-usar-modelos-que-no-se-ajusten-a-sus-intereses/",
-        "imagen": "https://www.infobae.com/resizer/v2/S4CEHPYS2BFWHLOR4EMKQ3O4BM.jpg?auth=d8e4e44889993d3c21d026a0a7bd6007ddff4783a19a9f9df7eead14359e7561&smart=true&width=1920&height=1280",
+        "titulo": "Pese a los riesgos, Bill Gates cree que la IA “ayudará a producir suficientes alimentos y erradicar enfermedades”",
+        "link": "https://www.infobae.com/tecno/2026/09/17/pese-a-los-riesgos-bill-gates-cree-que-la-ia-ayudara-a-producir-suficientes-alimentos-y-erradicar-enfermedades/",
+        "imagen": "https://www.infobae.com/resizer/v2/ONU4672PP5XOENNSPYAOOXTGLM.jpg?auth=043f61152851494d56205a432870ff92247f5077f879e28ec764cbd595b27a51&smart=true&width=5500&height=3667",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 20:01:59 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:27:08 +0000"
       },
       {
         "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
@@ -835,11 +835,11 @@
         "fecha": "Thu, 17 Sep 2026 18:07:00 -0300"
       },
       {
-        "titulo": "Rey Garufa, Diego Torres y Sobredosis de Soda en la agenda cultural de La Plata",
-        "link": "https://www.0221.com.ar/que-hago/rey-garufa-diego-torres-y-sobredosis-soda-la-agenda-cultural-la-plata-n134323",
-        "imagen": "https://media.0221.com.ar/p/34af2ea7e9e5edb9f5d88a1566384d74/adjuntos/357/imagenes/100/220/0100220399/1200x630/smart/rey-garufa-4jpg.jpg",
+        "titulo": "Berisso tendrá una jornada de observación astronómica en el Parque Ambiental Municipal",
+        "link": "https://www.0221.com.ar/berisso/berisso-tendra-una-jornada-observacion-astronomica-el-parque-ambiental-municipal-n134348",
+        "imagen": "https://media.0221.com.ar/p/7a42659bb7f96425d23a8fd60e6ba8e3/adjuntos/357/imagenes/100/165/0100165906/1200x630/smart/telescopio-estrellasjpg.jpg",
         "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 18:38:00 -0300"
       },
       {
         "titulo": "\"Terminé empapada\": una importante pérdida de agua provoca trastornos a metros de 1 y 60",
@@ -863,11 +863,11 @@
         "fecha": "Thu, 17 Sep 2026 17:08:00 -0300"
       },
       {
-        "titulo": "Llega la cuarta edición de la Fiesta del Alcaucil con música en vivo, muestra de autos antiguos y comidas",
-        "link": "https://www.0221.com.ar/que-hago/llega-la-cuarta-edicion-la-fiesta-del-alcaucil-musica-vivo-muestra-autos-antiguos-y-comidas-n134287",
-        "imagen": "https://media.0221.com.ar/p/ddc140909b1220a178bd268412af0c7a/adjuntos/357/imagenes/100/121/0100121549/1200x630/smart/alcaucil-7jpg.jpg",
+        "titulo": "Rey Garufa, Diego Torres y Sobredosis de Soda en la agenda cultural de La Plata",
+        "link": "https://www.0221.com.ar/que-hago/rey-garufa-diego-torres-y-sobredosis-soda-la-agenda-cultural-la-plata-n134323",
+        "imagen": "https://media.0221.com.ar/p/34af2ea7e9e5edb9f5d88a1566384d74/adjuntos/357/imagenes/100/220/0100220399/1200x630/smart/rey-garufa-4jpg.jpg",
         "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
       },
       {
         "titulo": "El platense Tirante palpitó la serie de Copa Davis ante Turquía: “Estoy listo por si me toca jugar”",
@@ -891,11 +891,11 @@
         "fecha": "Thu, 17 Sep 2026 15:42:00 -0300"
       },
       {
-        "titulo": "La Plata prepara tres jornadas de memoria y cultura por los 50 años de La Noche de los Lápices",
-        "link": "https://www.0221.com.ar/la-plata/la-plata-prepara-tres-jornadas-memoria-y-cultura-los-50-anos-la-noche-los-lapices-n134247",
-        "imagen": "https://media.0221.com.ar/p/b3e2ef4e0cfe61bdea9a2ef36666b33d/adjuntos/357/imagenes/100/185/0100185029/1200x630/smart/marcha-noche-los-lapices-2024-4jpeg.jpeg",
+        "titulo": "Llega la cuarta edición de la Fiesta del Alcaucil con música en vivo, muestra de autos antiguos y comidas",
+        "link": "https://www.0221.com.ar/que-hago/llega-la-cuarta-edicion-la-fiesta-del-alcaucil-musica-vivo-muestra-autos-antiguos-y-comidas-n134287",
+        "imagen": "https://media.0221.com.ar/p/ddc140909b1220a178bd268412af0c7a/adjuntos/357/imagenes/100/121/0100121549/1200x630/smart/alcaucil-7jpg.jpg",
         "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
+        "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
         "titulo": "Universidades: anunciaron un paro de 48 horas y una nueva marcha federal",
