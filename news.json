@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T19:36:35.984776+00:00",
+  "actualizado": "2026-09-17T19:52:54.224999+00:00",
   "categorias": {
     "politica": [
       {
@@ -31,11 +31,11 @@
         "fecha": "Thu, 17 Sep 2026 15:57:00 -0300"
       },
       {
-        "titulo": "Senado, en vivo: se debate el proyecto de Inocencia Fiscal II",
-        "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZAYLK3YTPJBRHC2FT4CXE7BW3I.JPG?auth=10ebb83d0c07775abee763813b52339b9345bced0cd008ac22a00a5381b396a2&smart=true&width=5472&height=3648",
+        "titulo": "Milei desplazó al personal civil a cargo de la seguridad de la Quinta de Olivos: lo reemplaza la Casa Militar",
+        "link": "https://www.infobae.com/politica/2026/09/17/milei-desplazo-al-personal-civil-a-cargo-de-la-seguridad-de-la-quinta-de-olivos-lo-reemplaza-la-casa-militar/",
+        "imagen": "https://www.infobae.com/resizer/v2/V6ELLIXFQBCG3PIRGIGILVXUEA.png?auth=544e1c1e008acc09f4c21ef321b85d934fc30cdf2a9d2ab69a9b490d019319d8&smart=true&width=1310&height=732",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:29:14 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:36:54 +0000"
       },
       {
         "titulo": "“Decisión arbitraria”: el fiscal Agüero Iturbe apeló el archivo de la causa FMI contra Macri, Caputo y Sturzenegger",
@@ -49,7 +49,7 @@
         "link": "https://www.ambito.com/politica/los-sauces-y-hotesur-la-justicia-separo-los-juicios-y-fijo-las-fechas-inicio-n6323638",
         "imagen": "https://media.ambito.com/p/808489725d84b9004c468e63254dbd5d/adjuntos/239/imagenes/030/076/0030076832/1200x675/smart/hotesur-la-justicia-ordeno-la-intervencion-del-hotel-alto-calafate.jpg",
         "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 15:38:49 -0300"
+        "fecha": "Thu, 17 Sep 2026 15:38:00 -0300"
       },
       {
         "titulo": "Anuncian cambios en la seguridad de la residencia presidencial de Olivos: Casa Militar centralizará todo el funcionamiento de la Quinta",
@@ -73,11 +73,11 @@
         "fecha": "Thu, 17 Sep 2026 15:56:00 -0300"
       },
       {
-        "titulo": "Milei desplazó al personal civil a cargo de la seguridad de la Quinta de Olivos: lo reemplaza la Casa Militar",
-        "link": "https://www.infobae.com/politica/2026/09/17/milei-desplazo-al-personal-civil-a-cargo-de-la-seguridad-de-la-quinta-de-olivos-lo-reemplaza-la-casa-militar/",
-        "imagen": "https://www.infobae.com/resizer/v2/V6ELLIXFQBCG3PIRGIGILVXUEA.png?auth=544e1c1e008acc09f4c21ef321b85d934fc30cdf2a9d2ab69a9b490d019319d8&smart=true&width=1310&height=732",
+        "titulo": "Senado, en vivo: se debate el proyecto de Inocencia Fiscal II",
+        "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZAYLK3YTPJBRHC2FT4CXE7BW3I.JPG?auth=10ebb83d0c07775abee763813b52339b9345bced0cd008ac22a00a5381b396a2&smart=true&width=5472&height=3648",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:25:07 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:29:14 +0000"
       },
       {
         "titulo": "Kicillof viaja a Nueva York: reuniones con inversores y coloquio junto al alcalde Mamdani",
@@ -88,6 +88,41 @@
       }
     ],
     "economia": [
+      {
+        "titulo": "El BCRA modifica el esquema de encajes y extiende el desarme en posiciones en títulos públicos",
+        "link": "https://www.ambito.com/economia/el-bcra-modifica-el-esquema-encajes-y-extiende-el-desarme-posiciones-titulos-publicos-n6323674",
+        "imagen": "https://media.ambito.com/p/eaec9003fb8390f086c221b5d2015860/adjuntos/239/imagenes/043/597/0043597151/1200x675/smart/banco-central-bcra.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Thu, 17 Sep 2026 16:48:00 -0300"
+      },
+      {
+        "titulo": "El desempleo fue del 7,9% en el segundo trimestre de 2026, según el INDEC",
+        "link": "https://www.clarin.com/economia/desempleo-79-segundo-trimestre-2026_0_vKw094gzeh.html",
+        "imagen": "https://www.clarin.com/img/2024/12/10/s0Ivl_GzM_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 19:04:24 +0000"
+      },
+      {
+        "titulo": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
+        "link": "https://www.c5n.com/economia/el-desempleo-subio-79-el-segundo-trimestre-2026-su-nivel-mas-alto-2021-n249211",
+        "imagen": "https://media.c5n.com/p/ec1cff715c1e1535e934ca6a8e5781bc/adjuntos/326/imagenes/000/371/0000371054/1200x675/smart/desempleo-argentina.jpg",
+        "fuente": "C5N",
+        "fecha": "Thu, 17 Sep 2026 16:41:00 -0300"
+      },
+      {
+        "titulo": "Aumentó la desocupación al 7,9% en el segundo trimestre de 2026 y afecta a más de 1,7 millones de personas",
+        "link": "https://www.infobae.com/economia/2026/09/17/aumento-la-desocupacion-al-79-en-el-segundo-trimestre-de-2026-y-afecta-a-mas-de-17-millones-de-personas/",
+        "imagen": "https://www.infobae.com/resizer/v2/NLOFEIEDHRFXRIW4XHJS53IY4E.jpg?auth=e536e3fce61807b6be78a83525e3f1fbb5d86dc2f0c82cb605d8eb930926eab5&smart=true&width=880&height=512",
+        "fuente": "Infobae",
+        "fecha": "Thu, 17 Sep 2026 19:45:05 +0000"
+      },
+      {
+        "titulo": "La Justicia le prohibió a Edesur cortarle la luz a una fábrica que recibió una factura de $174 millones",
+        "link": "https://www.tiempoar.com.ar/ta_article/la-justicia-le-prohibio-a-edesur-cortarle-la-luz-a-una-fabrica-que-recibio-una-factura-de-174-millones/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Thu, 17 Sep 2026 17:14:58 +0000"
+      },
       {
         "titulo": "El PBI cayó 0,6% en el segundo trimestre, ante deterioro en el consumo y la inversión",
         "link": "https://www.ambito.com/economia/el-pbi-cayo-06-el-segundo-trimestre-deterioro-el-consumo-y-la-inversion-n6323646",
@@ -117,11 +152,11 @@
         "fecha": "Thu, 17 Sep 2026 19:32:53 +0000"
       },
       {
-        "titulo": "La Justicia le prohibió a Edesur cortarle la luz a una fábrica que recibió una factura de $174 millones",
-        "link": "https://www.tiempoar.com.ar/ta_article/la-justicia-le-prohibio-a-edesur-cortarle-la-luz-a-una-fabrica-que-recibio-una-factura-de-174-millones/",
+        "titulo": "Caputo nombró dos funcionarios de rango que no cumplen con los requisitos mínimos para ocupar esos cargos",
+        "link": "https://www.tiempoar.com.ar/ta_article/caputo-nombro-dos-funcionarios-de-rango-que-no-cumplen-con-los-requisitos-minimos-para-ocupar-esos-cargos/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 17 Sep 2026 17:14:58 +0000"
+        "fecha": "Thu, 17 Sep 2026 14:40:18 +0000"
       },
       {
         "titulo": "El desempleo subió a 7,9% en el segundo trimestre, su nivel más alto desde 2021, y la informalidad alcanzó el 45%",
@@ -136,41 +171,6 @@
         "imagen": "https://www.clarin.com/img/2026/09/17/ZV14EcCH5_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Thu, 17 Sep 2026 18:08:41 +0000"
-      },
-      {
-        "titulo": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
-        "link": "https://www.c5n.com/economia/el-desempleo-subio-79-el-segundo-trimestre-2026-su-nivel-mas-alto-2021-n249211",
-        "imagen": "https://media.c5n.com/p/ec1cff715c1e1535e934ca6a8e5781bc/adjuntos/326/imagenes/000/371/0000371054/1200x675/smart/desempleo-argentina.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 16:14:00 -0300"
-      },
-      {
-        "titulo": "Aumentó la desocupación al 7,9% en el segundo trimestre de 2026 y afecta a más de 1,7 millones de personas",
-        "link": "https://www.infobae.com/economia/2026/09/17/aumento-la-desocupacion-al-79-en-el-segundo-trimestre-de-2026-y-afecta-a-mas-de-17-millones-de-personas/",
-        "imagen": "https://www.infobae.com/resizer/v2/NLOFEIEDHRFXRIW4XHJS53IY4E.jpg?auth=e536e3fce61807b6be78a83525e3f1fbb5d86dc2f0c82cb605d8eb930926eab5&smart=true&width=880&height=512",
-        "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:31:55 +0000"
-      },
-      {
-        "titulo": "Caputo nombró dos funcionarios de rango que no cumplen con los requisitos mínimos para ocupar esos cargos",
-        "link": "https://www.tiempoar.com.ar/ta_article/caputo-nombro-dos-funcionarios-de-rango-que-no-cumplen-con-los-requisitos-minimos-para-ocupar-esos-cargos/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 17 Sep 2026 14:40:18 +0000"
-      },
-      {
-        "titulo": "De \"Euphoria\" a empresaria millonaria: así construyó Sydney Sweeney su imperio",
-        "link": "https://www.ambito.com/economia/de-euphoria-empresaria-millonaria-asi-construyo-sydney-sweeney-su-imperio-n6322833",
-        "imagen": "https://media.ambito.com/p/6ac9845ca4cbc9aa7d5f94a631f56963/adjuntos/239/imagenes/043/645/0043645277/1200x675/980x577:1000x597/sydney-sweeney.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 15:00:00 -0300"
-      },
-      {
-        "titulo": "Detectan un caso de gripe aviar en Buenos Aires: activan el protocolo sanitario",
-        "link": "https://www.clarin.com/rural/detectan-caso-gripe-aviar-buenos-aires-activan-protocolo-sanitario_0_Yg8zyTgCYQ.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/iWWGx8Yk3_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 17:07:31 +0000"
       }
     ],
     "deportes": [
@@ -196,11 +196,11 @@
         "fecha": "Thu, 17 Sep 2026 14:25:00 -0300"
       },
       {
-        "titulo": "Los festejos del Inter Miami de Messi tras ganar la Campeones Cup: la “protección” y el himno de la selección argentina que hicieron furor",
-        "link": "https://www.infobae.com/deportes/2026/09/17/los-festejos-del-inter-miami-de-messi-tras-ganar-la-campeones-cup-la-proteccion-y-el-himno-de-la-seleccion-argentina-que-hicieron-furor/",
-        "imagen": "https://www.infobae.com/resizer/v2/CYY5YYLPVJGFTCFFJPYMXLFX3A.png?auth=91151960df42cc9b5065d7d7e40c82c8de4f330271f29747987ae0178d61ddd4&smart=true&width=2752&height=1536",
+        "titulo": "EN VIVO: presentan a Marcelo Gallardo como nuevo entrenador de la selección de Ecuador",
+        "link": "https://www.infobae.com/deportes/2026/09/17/en-vivo-presentan-a-marcelo-gallardo-como-nuevo-entrenador-de-la-seleccion-de-ecuador/",
+        "imagen": "https://www.infobae.com/resizer/v2/H5Q3YNEMOZE57BJM6ENLUOYW2U.jpg?auth=1815d1bf6754f366b120614e49203334280a05b61ec44162b036c25e955c4d1d&smart=true&width=1200&height=675",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:24:59 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:47:28 +0000"
       },
       {
         "titulo": "Un set de tenis, título inesperado y pasaje histórico: cinco recordados cruces entre River y Huracán",
@@ -208,6 +208,13 @@
         "imagen": "https://www.ole.com.ar/images/2026/09/17/6fkAy4BhB_1200x630__1.jpg",
         "fuente": "Olé",
         "fecha": "Thu, 17 Sep 2026 15:39:38 -0300"
+      },
+      {
+        "titulo": "\"Estos chicos tienen mucho talento\": el análisis de Alfaro tras el triunfo de Paraguay",
+        "link": "https://www.eldia.com/deportes/juegos-suramericanos-2026-el-analisis-de-gustavo-alfaro-tras-el-triunfo-de-la-sub-19-de-paraguay-ante-argentina-deportes_1789673580",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Thu, 17 Sep 2026 19:44:14 GMT"
       },
       {
         "titulo": "Juegos Suramericanos: Matías Satas habló de la derrota ante Paraguay",
@@ -224,11 +231,11 @@
         "fecha": "Thu, 17 Sep 2026 18:44:42 GMT"
       },
       {
-        "titulo": "Estudiantes se ilusiona con un dato histórico en semifinales de Copa Libertadores",
-        "link": "https://www.eldia.com/deportes/estudiantes-se-ilusiona-con-un-dato-historico-en-semifinales-de-copa-libertadores-deportes_1789658580",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Thu, 17 Sep 2026 19:14:33 GMT"
+        "titulo": "Gimnasia reunió a sus socios y presentó detalles sobre el presente y futuro del club",
+        "link": "https://www.0221.com.ar/gimnasia/gimnasia-reunio-sus-socios-y-presento-detalles-el-presente-y-futuro-del-club-n134368",
+        "imagen": "https://media.0221.com.ar/p/5e7a4de4f357b5c0e663741ce6f1c2fd/adjuntos/357/imagenes/100/295/0100295160/1200x630/smart/sede-gimnasia-calle-4.png",
+        "fuente": "0221 Deportes",
+        "fecha": "Thu, 17 Sep 2026 16:34:00 -0300"
       },
       {
         "titulo": "¿Marcos Rojo vuelve a Estudiantes? La respuesta de su entorno ante los rumores",
@@ -245,13 +252,6 @@
         "fecha": "Thu, 17 Sep 2026 15:23:00 -0300"
       },
       {
-        "titulo": "El video del gol de Franco Domínguez Ávila en el debut de la Selección argentina",
-        "link": "https://www.0221.com.ar/estudiantes/el-video-del-gol-franco-dominguez-avila-el-debut-la-seleccion-argentina-n134360",
-        "imagen": "https://media.0221.com.ar/p/c6d970ce8ebea3bac796449797c9002e/adjuntos/357/imagenes/100/296/0100296343/1200x630/smart/festejo-argentina-sub-19.png",
-        "fuente": "0221 Deportes",
-        "fecha": "Thu, 17 Sep 2026 14:44:00 -0300"
-      },
-      {
         "titulo": "Clearlake toma el control total del Chelsea y consolida un activo de u$s5.000 millones",
         "link": "https://www.ambito.com/deportes/clearlake-toma-el-control-total-del-chelsea-y-consolida-un-activo-us5000-millones-n6323501",
         "imagen": "",
@@ -260,6 +260,27 @@
       }
     ],
     "policiales_actualidad": [
+      {
+        "titulo": "Tras la viralización de una foto, la Justicia investigó en un hotel: Facundo Moyano se hospedó 11 días, pero no hay registros de Candela Arizaga",
+        "link": "https://www.clarin.com/policiales/viralizacion-foto-justicia-investigo-hotel-facundo-moyano-hospedo-11-dias-registros-candela-arizaga_0_OiGwhgzmSQ.html",
+        "imagen": "https://www.clarin.com/img/2026/08/04/Xzqs2IHcS_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 18:53:23 +0000"
+      },
+      {
+        "titulo": "Humedad en medianera: la Justicia de La Matanza dictaminó quién paga",
+        "link": "https://www.c5n.com/sociedad/humedad-medianera-la-justicia-la-matanza-dictamino-quien-paga-n249207",
+        "imagen": "https://media.c5n.com/p/b729b409d9770ae59013038bf1a02668/adjuntos/326/imagenes/000/399/0000399370/1200x675/smart/pleito-una-pared-medianera-humedad.jpg",
+        "fuente": "C5N",
+        "fecha": "Thu, 17 Sep 2026 16:40:00 -0300"
+      },
+      {
+        "titulo": "Encontraron a un nuevo sospechoso del triple crimen narco de Florencio Varela: estaba preso en una alcaidia porteña",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/encontraron-a-un-nuevo-sospechoso-del-triple-crimen-narco-de-florencio-varela-estaba-preso-en-una-alcaidia-portena/",
+        "imagen": "https://www.infobae.com/resizer/v2/AI2MVE56CFGHJM3CMTRRY35O6Q.png?auth=d24a9b57407df7bcb6da8551be142463c058362601e85d19e1c89834f61ed065&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Thu, 17 Sep 2026 18:48:25 +0000"
+      },
       {
         "titulo": "Es ginecólogo, está preso por abuso sexual y le pagará una millonaria suma de dinero a una paciente para no ser condenado otra vez",
         "link": "https://www.clarin.com/policiales/ginecologo-preso-abuso-sexual-pagara-millonaria-suma-dinero-paciente-condenado-vez_0_SKsNJP0QZ1.html",
@@ -275,11 +296,11 @@
         "fecha": "Thu, 17 Sep 2026 12:00:00 -0300"
       },
       {
-        "titulo": "Encontraron a un nuevo sospechoso del triple crimen narco de Florencio Varela: estaba preso en una alcaidia porteña",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/encontraron-a-un-nuevo-sospechoso-del-triple-crimen-narco-de-florencio-varela-estaba-preso-en-una-alcaidia-portena/",
-        "imagen": "https://www.infobae.com/resizer/v2/AI2MVE56CFGHJM3CMTRRY35O6Q.png?auth=d24a9b57407df7bcb6da8551be142463c058362601e85d19e1c89834f61ed065&smart=true&width=1920&height=1080",
+        "titulo": "Una pareja de Rosario fue acusada de darle cocaína a su hijo de 5 años: ya tuvo tres internaciones por ingesta de droga",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/una-pareja-de-rosario-fue-acusada-de-darle-cocaina-a-su-hijo-de-5-anos-ya-tuvo-tres-internaciones-por-ingesta-de-droga/",
+        "imagen": "https://www.infobae.com/resizer/v2/JMOUSYHTIVBTDFO6BU5EFV4GYM.jpg?auth=f1f8e6ba62d594db090ef13879429965b46fc953a75df2f3cf5f99fcb888f458&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:48:25 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:35:04 +0000"
       },
       {
         "titulo": "La vida al límite de un ex pandillero en la Medellín de Pablo Escobar: \"Dentro de lo malo que fui, fui bueno\"",
@@ -296,11 +317,11 @@
         "fecha": "Thu, 17 Sep 2026 10:32:00 -0300"
       },
       {
-        "titulo": "Una pareja de Rosario fue acusada de darle cocaína a su hijo de 5 años: ya tuvo tres internaciones por ingesta de droga",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/una-pareja-de-rosario-fue-acusada-de-darle-cocaina-a-su-hijo-de-5-anos-ya-tuvo-tres-internaciones-por-ingesta-de-droga/",
-        "imagen": "https://www.infobae.com/resizer/v2/JMOUSYHTIVBTDFO6BU5EFV4GYM.jpg?auth=f1f8e6ba62d594db090ef13879429965b46fc953a75df2f3cf5f99fcb888f458&smart=true&width=1920&height=1080",
+        "titulo": "Quedó libre por la nueva ley penal juvenil el asesino confeso de Santiago Urbani: los argumentos del juez para soltarlo 2 años antes",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/quedo-libre-por-la-nueva-ley-penal-juvenil-el-asesino-confeso-de-santiago-urbani-los-argumentos-del-juez-para-soltarlo-2-anos-antes/",
+        "imagen": "https://www.infobae.com/resizer/v2/452AXAOHGBAKFJ72B3UWDSSTVQ.jpg?auth=3cbdedf695945582b66edcb4ca5076dcf539ef9a6607661a768dcee99a8179c1&smart=true&width=1920&height=1977",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:35:04 +0000"
+        "fecha": "Thu, 17 Sep 2026 17:58:29 +0000"
       },
       {
         "titulo": "Ituzaingó: una mujer de 70 años vendía cadenas de oro falsas, fue detenida e hizo un insólito planteo a la Justicia",
@@ -315,27 +336,6 @@
         "imagen": "https://media.c5n.com/p/515e3e1bcfa4df6dfb1c8a18779079a6/adjuntos/326/imagenes/000/394/0000394133/1200x675/smart/diego-maradona.jpg",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 09:03:00 -0300"
-      },
-      {
-        "titulo": "Quedó libre por la nueva ley penal juvenil el asesino confeso de Santiago Urbani: los argumentos del juez para soltarlo 2 años antes",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/quedo-libre-por-la-nueva-ley-penal-juvenil-el-asesino-confeso-de-santiago-urbani-los-argumentos-del-juez-para-soltarlo-2-anos-antes/",
-        "imagen": "https://www.infobae.com/resizer/v2/452AXAOHGBAKFJ72B3UWDSSTVQ.jpg?auth=3cbdedf695945582b66edcb4ca5076dcf539ef9a6607661a768dcee99a8179c1&smart=true&width=1920&height=1977",
-        "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 17:58:29 +0000"
-      },
-      {
-        "titulo": "Cayó la banda que habría baleado al excomisario en El Palomar: uno de los sospechosos tiene 14 años",
-        "link": "https://www.clarin.com/policiales/cayo-banda-baleado-excomisario-palomar-sospechosos-14-anos_0_tvTt0wi7vK.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/iRVUB49ID_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 05:27:21 +0000"
-      },
-      {
-        "titulo": "Murió un reconocido hacker y especialista en seguridad argentino de forma repentina",
-        "link": "https://www.c5n.com/sociedad/murio-un-reconocido-hacker-y-especialista-seguridad-argentino-forma-repentina-n249157",
-        "imagen": "https://media.c5n.com/p/8569088295beae139ccec7e00aef3f97/adjuntos/326/imagenes/000/223/0000223129/1200x675/smart/hacker.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 08:42:00 -0300"
       },
       {
         "titulo": "Juicio por Loan: cinco testigos declararon sobre los rastrillajes, el hallazgo de celulares y la camioneta de dos de los imputados",
@@ -361,18 +361,18 @@
         "fecha": "Thu, 17 Sep 2026 15:51:00 -0300"
       },
       {
-        "titulo": "El hermano de Lady Di afirma en su libro que la princesa se separó de Carlos porque el futuro rey \"estaba enamorado de su valet\"",
-        "link": "https://www.clarin.com/mundo/hermano-lady-di-afirma-libro-princesa-separo-carlos-futuro-rey-enamorado-valet_0_AomoKO8IPn.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/yrNwywJSw_1200x630__1.jpg",
+        "titulo": "Guerra espacial: los asesores militares de Donald Trump quieren que sus tropas se preparen para combatir alrededor de la Luna",
+        "link": "https://www.clarin.com/mundo/guerra-espacial-asesores-militares-donald-trump-quieren-tropas-preparen-combatir-alrededor-luna_0_rJeNKgKOw6.html",
+        "imagen": "https://www.clarin.com/img/2020/03/10/bZzN7QDrE_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:34:42 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:00:05 +0000"
       },
       {
-        "titulo": "El Ministerio de Trabajo abre procesos sancionatorios tras hallar incumplimientos en jornadas nocturnas en El Salvador",
-        "link": "https://www.infobae.com/el-salvador/2026/09/17/el-ministerio-de-trabajo-abre-procesos-sancionatorios-tras-hallar-incumplimientos-en-jornadas-nocturnas-en-el-salvador/",
-        "imagen": "https://www.infobae.com/resizer/v2/GDSLXLQEG5C4NHJ77W7BPJ2XRE.png?auth=2dfc8d418f530ce71b1b2c58978962cf997ccea59451e0be46ab6bb40eb37b59&smart=true&width=458&height=338",
+        "titulo": "Diputada de oposición en Guatemala, Sonia Gutiérrez presenta una Ley del Bono Temporal de Emergencia Familiar en respuesta a la sequía",
+        "link": "https://www.infobae.com/guatemala/2026/09/17/diputada-de-oposicion-en-guatemala-sonia-gutierrez-presenta-una-ley-del-bono-temporal-de-emergencia-familiar-en-respuesta-a-la-sequia/",
+        "imagen": "https://www.infobae.com/resizer/v2/ABT7PSJYZVG35IOUESNNDF6HLE.png?auth=21822300b05c1e32997deed8fa9a836c3c02eb5437079a4e6ee015f47236ef31&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:31:01 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:48:43 +0000"
       },
       {
         "titulo": "La ONU consideró que existen motivos para creer que EEUU cometió crímenes de guerra en Irán",
@@ -389,18 +389,18 @@
         "fecha": "Thu, 17 Sep 2026 15:35:00 -0300"
       },
       {
-        "titulo": "Guerra espacial: los asesores militares de Donald Trump quieren que sus tropas se preparen para combatir alrededor de la Luna",
-        "link": "https://www.clarin.com/mundo/guerra-espacial-asesores-militares-donald-trump-quieren-tropas-preparen-combatir-alrededor-luna_0_rJeNKgKOw6.html",
-        "imagen": "https://www.clarin.com/img/2020/03/10/bZzN7QDrE_1200x630__1.jpg",
+        "titulo": "Lula da Silva anuncia un aumento en las ayudas sociales en medio de la campaña y enciende alarmas en el mercado",
+        "link": "https://www.clarin.com/mundo/lula-da-silva-anuncia-aumento-ayudas-sociales-medio-campana-enciende-alarmas-mercado_0_g7GQdbGAmi.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/YGvZaadci_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:00:05 +0000"
+        "fecha": "Thu, 17 Sep 2026 16:57:12 +0000"
       },
       {
-        "titulo": "Panamá digitaliza completamente la evaluación de los estudios ambientales",
-        "link": "https://www.infobae.com/panama/2026/09/17/panama-digitaliza-completamente-la-evaluacion-de-los-estudios-ambientales/",
-        "imagen": "https://www.infobae.com/resizer/v2/5TU755HNRJEJJGYLFMPPQ3WIOU.png?auth=91bd0ba7840a3deb8f10d549731ddf2fc8326bd1afaecc034194663de581c68a&smart=true&width=2752&height=1536",
+        "titulo": "En Panamá la violencia recrudece en la provincia atlántica de Colón",
+        "link": "https://www.infobae.com/panama/2026/09/17/en-panama-la-violencia-recrudece-en-la-provincia-atlantica-de-colon/",
+        "imagen": "https://www.infobae.com/resizer/v2/ITS355LQGRDQNJ6SOHEPT3BJ7Y.png?auth=04d4ea49ace47ea6076a5671e5143bc9ebf2d289198393ce6ca3ef36a8430c7d&smart=true&width=1408&height=768",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:17:52 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:44:37 +0000"
       },
       {
         "titulo": "Lula da Silva, duro con Flavio Bolsonaro: \"Brasil no soporta políticos que de día muestran la bandera y de noche se ponen en cuatro para EEUU\"",
@@ -417,18 +417,18 @@
         "fecha": "Thu, 17 Sep 2026 13:12:00 -0300"
       },
       {
-        "titulo": "Lula da Silva anuncia un aumento en las ayudas sociales en medio de la campaña y enciende alarmas en el mercado",
-        "link": "https://www.clarin.com/mundo/lula-da-silva-anuncia-aumento-ayudas-sociales-medio-campana-enciende-alarmas-mercado_0_g7GQdbGAmi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/YGvZaadci_1200x630__1.jpg",
+        "titulo": "La órbita terrestre es un basurero: 17.000 toneladas de chatarra rodean la Tierra",
+        "link": "https://www.clarin.com/mundo/orbita-terrestre-basurero-17000-toneladas-chatarra-rodean-tierra_0_i6BfhUgDjV.html",
+        "imagen": "https://www.clarin.com/img/2025/11/13/c9i_2vKVO_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 16:57:12 +0000"
+        "fecha": "Thu, 17 Sep 2026 16:00:05 +0000"
       },
       {
-        "titulo": "Honduras: 14 autoridades electas no presentaron sus informes financieros ante el organismo de fiscalización electoral",
-        "link": "https://www.infobae.com/honduras/2026/09/17/honduras-14-autoridades-electas-no-presentaron-sus-informes-financieros-ante-el-organismo-de-fiscalizacion-electoral/",
-        "imagen": "https://www.infobae.com/resizer/v2/PTZE2TZGXRAWXPLBSEEJEBMVMQ.jpg?auth=b79f15f39dadf99c3b55145f112082751fa3878fb8bc244d95fcc7aefdb84894&smart=true&width=980&height=619",
+        "titulo": "La Sociedad de las Américas otorgará a Luis Abinader su Insignia de Oro en Nueva York",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/17/la-sociedad-de-las-americas-otorgara-a-luis-abinader-su-insignia-de-oro-en-nueva-york/",
+        "imagen": "https://www.infobae.com/resizer/v2/RZIHURFRI5GRHDVRURGHQSHTCM.jpeg?auth=95f62be30f7d3a0e2e43fc5b3093c6de285a01ba7906a873acf97bc7e6a90e39&smart=true&width=4160&height=2979",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:17:20 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:43:05 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Thu, 17 Sep 2026 14:52:51 -0300"
       },
       {
-        "titulo": "Tras consagrarse campeona de Gran Hermano, Sol Abraham lanzó una fuerte acusación contra Andrea del Boca",
-        "link": "https://www.c5n.com/ratingcero/tras-consagrarse-campeona-gran-hermano-sol-abraham-lanzo-una-fuerte-acusacion-contra-andrea-del-boca-n249208",
-        "imagen": "https://media.c5n.com/p/59a34a2587e22cfb1042c52a68db7e67/adjuntos/326/imagenes/000/399/0000399368/1200x675/smart/sol-andrea-gh.png",
+        "titulo": "Se supieron las supuestas provocaciones de Julieta Prandi a Ana Paula Dutil que generó furia en los Ortega",
+        "link": "https://www.c5n.com/ratingcero/se-supieron-las-supuestas-provocaciones-julieta-prandi-ana-paula-dutil-que-genero-furia-los-ortega-n249212",
+        "imagen": "https://media.c5n.com/p/7e1224aa7a4da14991830102e9c6c958/adjuntos/326/imagenes/000/399/0000399031/1200x675/smart/julieta-prandi-y-emanuel-ortega-dieron-el-si-un-registro-civil-san-isidro.jpg",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 16:03:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 16:33:00 -0300"
       },
       {
         "titulo": "Madonna vuelve a los Premios MTV 23 años después de su polémica presentación a los besos con Britney Spears y Christina Aguilera",
@@ -454,11 +454,11 @@
         "fecha": "Thu, 17 Sep 2026 18:23:00 +0000"
       },
       {
-        "titulo": "La encendida respuesta de Luisa Albinoni a Georgina Barbarossa tras sus palabras contra Jorge Porcel: \"Mediocre y soez\"",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/la-encendida-respuesta-de-luisa-albinoni-a-georgina-barbarossa-tras-sus-palabras-contra-jorge-porcel-mediocre-y-soez/",
-        "imagen": "https://www.infobae.com/resizer/v2/7BQT2BSC3ZFCHLHSKETXAZN6QQ.png?auth=fafb4f5bb8f9ea7329f3670c12053cd7315c892b32b42a7b188da77a1aab41bd&smart=true&width=2752&height=1536",
+        "titulo": "La China Suárez aprovechó los primeros calores y se lució en bikini a pleno sol",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/la-china-suarez-aprovecho-los-primeros-calores-y-se-lucio-en-bikini-a-pleno-sol/",
+        "imagen": "https://www.infobae.com/resizer/v2/7C6TQ3JLYJCVNMGXNIHNB2LOLU.png?auth=127c3ed772420268a5015ebec837ebbb8a4679b0af3436631bb422f59bed9697&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:13:33 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:48:35 +0000"
       },
       {
         "titulo": "Netflix presentó el tráiler de \"Tyson\", su nueva serie documental sobre la leyenda del boxeo",
@@ -468,11 +468,11 @@
         "fecha": "Thu, 17 Sep 2026 14:41:00 -0300"
       },
       {
-        "titulo": "Definición apasionante: cuánto midió el rating de la final de Gran Hermano entre Sol Abraham y Yipio",
-        "link": "https://www.c5n.com/ratingcero/definicion-apasionante-cuanto-midio-el-rating-la-final-gran-hermano-sol-abraham-y-yipio-n249209",
-        "imagen": "https://media.c5n.com/p/51dd9622208f2e26f126305ff9e6f208/adjuntos/326/imagenes/000/399/0000399323/1200x675/smart/sol-abraham.jpg",
+        "titulo": "Tras consagrarse campeona de Gran Hermano, Sol Abraham lanzó una fuerte acusación contra Andrea del Boca",
+        "link": "https://www.c5n.com/ratingcero/tras-consagrarse-campeona-gran-hermano-sol-abraham-lanzo-una-fuerte-acusacion-contra-andrea-del-boca-n249208",
+        "imagen": "https://media.c5n.com/p/59a34a2587e22cfb1042c52a68db7e67/adjuntos/326/imagenes/000/399/0000399368/1200x675/smart/sol-andrea-gh.png",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 15:59:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 16:03:00 -0300"
       },
       {
         "titulo": "Millie Bobby Brown adoptó a su segundo hijo, a los 22 años",
@@ -482,11 +482,11 @@
         "fecha": "Thu, 17 Sep 2026 17:58:18 +0000"
       },
       {
-        "titulo": "Alfredo Casero y Alacrán vuelven con un nuevo capítulo de Cha Cha Cha: los detalles exclusivos",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/alfredo-casero-y-alacran-vuelven-con-un-nuevo-capitulo-de-cha-cha-cha-los-detalles-exclusivos/",
-        "imagen": "https://www.infobae.com/resizer/v2/NPQU3A6TRRHRXMLTVPOUTZ6EJI.jpg?auth=b5401fd34f9ca67333e8a7fb40aad6d7803fc4962a918b71e492b7b9670b90ac&smart=true&width=1920&height=1080",
+        "titulo": "Peonía azul, acuarela y firma manuscrita: qué simbolizan los detalles de la invitación a la boda de Tini Stoessel y Rodrigo De Paul",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/peonia-azul-acuarela-y-firma-manuscrita-que-simbolizan-los-detalles-de-la-invitacion-a-la-boda-de-tini-stoessel-y-rodrigo-de-paul/",
+        "imagen": "https://www.infobae.com/resizer/v2/YQ7WMNKM4NFTVEBHI6W6IQWEEQ.png?auth=20c96fe34b41b1cfef7e4a38d506d6385e56a577b99c93369f288700344b6361&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:59:34 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:36:16 +0000"
       },
       {
         "titulo": "Madonna actuará en los MTV Video Music Awards por primera vez en más de 20 años",
@@ -496,11 +496,11 @@
         "fecha": "Thu, 17 Sep 2026 13:17:00 -0300"
       },
       {
-        "titulo": "Dieron a conocer los mensajes que le enviaba J Balvin a su pareja argentina antes de separarse: \"Toxiquito\"",
-        "link": "https://www.c5n.com/ratingcero/dieron-conocer-los-mensajes-que-le-enviaba-j-balvin-su-pareja-argentina-antes-separarse-toxiquito-n249203",
-        "imagen": "https://media.c5n.com/p/0958e4d32728468008c9987cb585a8c7/adjuntos/326/imagenes/000/399/0000399356/1200x675/smart/valentina-ferrer-y-j-balvin-2327660.jpg",
+        "titulo": "Definición apasionante: cuánto midió el rating de la final de Gran Hermano entre Sol Abraham y Yipio",
+        "link": "https://www.c5n.com/ratingcero/definicion-apasionante-cuanto-midio-el-rating-la-final-gran-hermano-sol-abraham-y-yipio-n249209",
+        "imagen": "https://media.c5n.com/p/51dd9622208f2e26f126305ff9e6f208/adjuntos/326/imagenes/000/399/0000399323/1200x675/smart/sol-abraham.jpg",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 15:50:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 15:59:00 -0300"
       },
       {
         "titulo": "Hernán Drago: la historia del modelo que sufrió bullying y que llegó a la TV con programa... y con tanda publicitaria",
@@ -510,11 +510,11 @@
         "fecha": "Thu, 17 Sep 2026 16:30:11 +0000"
       },
       {
-        "titulo": "Peonía azul, acuarela y firma manuscrita: qué simbolizan los detalles de la invitación a la boda de Tini Stoessel y Rodrigo De Paul",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/peonia-azul-acuarela-y-firma-manuscrita-que-simbolizan-los-detalles-de-la-invitacion-a-la-boda-de-tini-stoessel-y-rodrigo-de-paul/",
-        "imagen": "https://www.infobae.com/resizer/v2/YQ7WMNKM4NFTVEBHI6W6IQWEEQ.png?auth=20c96fe34b41b1cfef7e4a38d506d6385e56a577b99c93369f288700344b6361&smart=true&width=2752&height=1536",
+        "titulo": "La encendida respuesta de Luisa Albinoni a Georgina Barbarossa tras sus palabras contra Jorge Porcel: \"Mediocre y soez\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/la-encendida-respuesta-de-luisa-albinoni-a-georgina-barbarossa-tras-sus-palabras-contra-jorge-porcel-mediocre-y-soez/",
+        "imagen": "https://www.infobae.com/resizer/v2/7BQT2BSC3ZFCHLHSKETXAZN6QQ.png?auth=fafb4f5bb8f9ea7329f3670c12053cd7315c892b32b42a7b188da77a1aab41bd&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:26:41 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:13:33 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Thu, 17 Sep 2026 15:21:00 -0300"
       },
       {
-        "titulo": "Tim Cook sigue siendo importante en Apple tras dejar el puesto de CEO: cenará con los presidentes de EE. UU. y China",
-        "link": "https://www.infobae.com/tecno/2026/09/17/tim-cook-sigue-siendo-importante-en-apple-tras-dejar-el-puesto-de-ceo-cenara-con-los-presidentes-de-ee-uu-y-china/",
-        "imagen": "https://www.infobae.com/resizer/v2/PCJH5G56QBBR3ACXKKSTEDV5BU.JPG?auth=730d466a469671ab2c41b56fd149ec5c66166e0812cc0f2d771795552bfc93a6&smart=true&width=3984&height=2656",
+        "titulo": "Epic Games regala dos juegos que acaban de estrenarse en su tienda",
+        "link": "https://www.infobae.com/tecno/2026/09/17/epic-games-regala-dos-juegos-que-acaban-de-estrenarse-en-su-tienda/",
+        "imagen": "https://www.infobae.com/resizer/v2/VWK77ZEPU5FKFBE4WUL4GCTCUM.JPG?auth=6c498107b3e7e3cd33d49c30d74adfa8e0d28bdcf116e087283378195297f79c&smart=true&width=3500&height=2300",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 19:19:21 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:45:32 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,6 +545,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
+      },
+      {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -561,11 +568,11 @@
         "fecha": "Wed, 16 Sep 2026 16:05:00 -0300"
       },
       {
-        "titulo": "Rockstar anuncia el álbum oficial de GTA 6 con Travis Scott y 34 canciones inéditas",
-        "link": "https://www.infobae.com/tecno/2026/09/17/rockstar-anuncia-el-album-oficial-de-gta-6-con-travis-scott-y-34-canciones-ineditas/",
-        "imagen": "https://www.infobae.com/resizer/v2/J2PXRED3AZFFNMCI5LBFTGUKJY.jpg?auth=d43ea84ea23b704a6c89f2f34ca54d7c153ffd4fc9f704f89b802214cf2b1149&smart=true&width=3840&height=2160",
+        "titulo": "Aniimo ya está en GeForce NOW: todos los juegos que llegan a la nube de Nvidia",
+        "link": "https://www.infobae.com/tecno/2026/09/17/aniimo-ya-esta-en-geforce-now-todos-los-juegos-que-llegan-a-la-nube-de-nvidia/",
+        "imagen": "https://www.infobae.com/resizer/v2/OCGLXFFBXVAKLICKTY5KKAMO6U.png?auth=9336cbc720feb2b66f6cb984adc1bfdcee060ba4dfdbc7f53ac6b4d3acc92729&smart=true&width=753&height=376",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 19:15:01 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:37:17 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -573,6 +580,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
+      },
+      {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -587,20 +601,6 @@
         "imagen": "",
         "fuente": "C5N",
         "fecha": "Wed, 16 Sep 2026 15:43:00 -0300"
-      },
-      {
-        "titulo": "Cómo limpiar una freidora de aire por dentro según los fabricantes: paso a paso",
-        "link": "https://www.infobae.com/tecno/2026/09/17/como-limpiar-una-freidora-de-aire-por-dentro-segun-los-fabricantes-paso-a-paso/",
-        "imagen": "https://www.infobae.com/resizer/v2/AOHH7XNXR5AR3E4J2T6VKMVLIU.png?auth=4f8e9d4389f95ba5cc7c3ba856de7b5491e027f64069b951e32240cd27be7c52&smart=true&width=1408&height=768",
-        "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 19:09:21 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -842,11 +842,11 @@
         "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
       },
       {
-        "titulo": "VIDEO | \"Es Listerine, señorita”: dio positivo de alcoholemia en la Autopista y apeló a la frase de Bilardo",
-        "link": "https://www.eldia.com/la-ciudad/video-es-listerine-senorita-dio-positivo-de-alcoholemia-en-la-autopista-y-apelo-a-la-frase-de-bilardo-la-ciudad_1789671960",
+        "titulo": "En el Gran La Plata, el desempleo llegó al 8,7% y 125 mil trabajadores buscan otro trabajo",
+        "link": "https://www.eldia.com/politica-y-economia/en-el-gran-la-plata-el-desempleo-llego-al-8-7-y-125-mil-trabajadores-buscan-otro-trabajo-politica-y-economia-la-ciudad_1789673460",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 19:19:38 GMT"
+        "fecha": "Thu, 17 Sep 2026 19:47:20 GMT"
       },
       {
         "titulo": "Comprar una casa sin ir al banco: el nuevo invento de Yacoub que cambiará las reglas de los hipotecarios",
@@ -870,11 +870,11 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "Reuniones y un operativo clave, en la agenda del Intendente interino",
-        "link": "https://www.eldia.com/politica-y-economia/reuniones-y-un-operativo-clave-en-la-agenda-del-intendente-interino-politica-y-economia_1789671420",
+        "titulo": "VIDEO | \"Es Listerine, señorita”: dio positivo de alcoholemia en la Autopista y apeló a la frase de Bilardo",
+        "link": "https://www.eldia.com/la-ciudad/video-es-listerine-senorita-dio-positivo-de-alcoholemia-en-la-autopista-y-apelo-a-la-frase-de-bilardo-la-ciudad_1789671960",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 19:01:55 GMT"
+        "fecha": "Thu, 17 Sep 2026 19:19:38 GMT"
       },
       {
         "titulo": "La llegada de BTS a La Plata ya pone en marcha la organización de un operativo para 150 mil personas",
@@ -898,11 +898,11 @@
         "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "VIDEO | La reacción de Flavio Azzaro tras la clasificación de Estudiantes",
-        "link": "https://www.eldia.com/deportes/la-reaccion-de-flavio-azzaro-tras-la-clasificacion-de-estudiantes-a-semifinales-de-copa-libertadores-2026-deportes_1789670040",
+        "titulo": "Reuniones y un operativo clave, en la agenda del Intendente interino",
+        "link": "https://www.eldia.com/politica-y-economia/reuniones-y-un-operativo-clave-en-la-agenda-del-intendente-interino-politica-y-economia_1789671420",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 18:44:42 GMT"
+        "fecha": "Thu, 17 Sep 2026 19:01:55 GMT"
       }
     ]
   }
