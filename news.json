@@ -1,16 +1,58 @@
 {
-  "actualizado": "2026-09-17T12:47:53.578117+00:00",
+  "actualizado": "2026-09-17T13:17:11.443281+00:00",
   "categorias": {
     "politica": [
       {
         "titulo": "Lo publicó Ámbito, lo negó la Oficina de Respuesta Oficial y ahora lo confirma el Presupuesto 2027",
         "link": "https://www.ambito.com/politica/lo-publico-ambito-lo-nego-la-oficina-respuesta-oficial-y-ahora-lo-confirma-el-presupuesto-2027-n6323348",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/d4e690fb5d80fa465bb3edeb6308c495/adjuntos/239/imagenes/042/637/0042637294/1200x675/smart/submarino-nuclear.jpg",
         "fuente": "Ámbito",
         "fecha": "Thu, 17 Sep 2026 09:23:00 -0300"
       },
       {
-        "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente convocó a la oposición a dejar de lado sus diferencias y aprobar el proyecto de Malvinas que envió al Congreso",
+        "titulo": "Senado hoy, EN VIVO: LLA y sus aliados buscan aprobar los proyectos de Inocencia Fiscal II y la reforma sobre biocombustibles",
+        "link": "https://www.clarin.com/politica/senado-hoy-vivo-lla-aliados-buscan-aprobar-proyectos-inocencia-fiscal-ii-reforma-biocombustibles_0_XKQgxa5Iwa.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/WifyTu2z7_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 12:33:14 +0000"
+      },
+      {
+        "titulo": "El hermano de Lady Di lanzó duras críticas contra el rey Carlos III en sus memorias",
+        "link": "https://www.ambito.com/mundo/el-hermano-lady-di-lanzo-duras-criticas-contra-el-rey-carlos-iii-sus-memorias-n6323347",
+        "imagen": "https://media.ambito.com/p/d290716e185b1cbf3bec8aa2daa3c610/adjuntos/239/imagenes/040/112/0040112793/1200x675/smart/principe-carlos-y-lady-dijpg.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Thu, 17 Sep 2026 09:48:00 -0300"
+      },
+      {
+        "titulo": "Fuerte crítica de Patricia Bullrich por los cambios en Discapacidad: \"Soy jefa de la bancada y no me enteré\"",
+        "link": "https://www.c5n.com/politica/fuerte-critica-patricia-bullrich-los-cambios-discapacidad-soy-jefa-la-bancada-y-no-me-entere-n249165",
+        "imagen": "https://media.c5n.com/p/2d44f5122eb5339336f6265dba9630ef/adjuntos/326/imagenes/000/368/0000368724/1200x675/smart/patricia-bullrich-senado-reforma-laboral-12-febrero-2026.jpg",
+        "fuente": "C5N",
+        "fecha": "Thu, 17 Sep 2026 10:03:00 -0300"
+      },
+      {
+        "titulo": "Purga en la Armada por la trama de corrupción con los sueldos: avanza la destitución de una decena de militares",
+        "link": "https://www.infobae.com/politica/2026/09/17/purga-en-la-armada-por-la-trama-de-corrupcion-con-los-sueldos-avanza-la-destitucion-de-una-docena-de-militares/",
+        "imagen": "https://www.infobae.com/resizer/v2/SN7MU4XKPBFJ7IQRRPBJN7YQ3Q.png?auth=0af7dba4734140a396e1413574ef163f5d5b6d5f40cb78fb63e0d8839ee8f2f1&smart=true&width=1186&height=760",
+        "fuente": "Infobae",
+        "fecha": "Thu, 17 Sep 2026 13:11:48 +0000"
+      },
+      {
+        "titulo": "Cuáles son las iniciativas de la oposición porteña que ponen el foco en el suicidio adolescente",
+        "link": "https://www.tiempoar.com.ar/ta_article/cuales-son-las-iniciativas-de-la-oposicion-portena-que-ponen-el-foco-en-el-suicidio-adolescente/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Thu, 17 Sep 2026 12:18:45 +0000"
+      },
+      {
+        "titulo": "Pagó una deuda en 2020, se la reclamaron cuatro años después y la Justicia condenó a tres empresas",
+        "link": "https://www.ambito.com/politica/pago-una-deuda-2020-se-la-reclamaron-cuatro-anos-despues-y-la-justicia-condeno-tres-empresas-n6323332",
+        "imagen": "https://media.ambito.com/p/74eae0a6fbdb1c54a297072be6416f72/adjuntos/239/imagenes/043/104/0043104001/1200x675/643x295:663x315/alquileres-inquilinos-deuda-propiedades.png",
+        "fuente": "Ámbito",
+        "fecha": "Thu, 17 Sep 2026 08:34:00 -0300"
+      },
+      {
+        "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente le pidió a la oposición que apruebe el proyecto de ley sobre Malvinas",
         "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-convoco-oposicion-dejar-lado-diferencias-aprobar-proyecto-malvinas-envio-congreso_0_0ciOoukrTk.html",
         "imagen": "https://www.clarin.com/img/2026/09/03/CG6TSLVBu_1200x630__1.jpg",
         "fuente": "Clarín",
@@ -24,11 +66,11 @@
         "fecha": "Thu, 17 Sep 2026 09:32:00 -0300"
       },
       {
-        "titulo": "El pedido del Gobierno por el proyecto de Malvinas: \"Pausar otras discusiones y darle máxima prioridad en el Congreso\"",
-        "link": "https://www.c5n.com/politica/el-pedido-del-gobierno-el-proyecto-malvinas-pausar-otras-discusiones-y-darle-maxima-prioridad-el-congreso-n249161",
-        "imagen": "https://media.c5n.com/p/f477badce52fe942f873ef3efb720647/adjuntos/326/imagenes/000/397/0000397409/1200x675/smart/javier-milei-cadena-nacional-islas-malvinas.png",
+        "titulo": "Malvinas: las sanciones que propone el Gobierno en la ley de Defensa de la Soberanía Nacional",
+        "link": "https://www.c5n.com/politica/malvinas-las-sanciones-que-propone-el-gobierno-la-ley-defensa-soberania-nacional-n249162",
+        "imagen": "",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 09:04:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:59:00 -0300"
       },
       {
         "titulo": "Pilar Ramírez negó una caída del consumo en los comercios porteños y habló de una posible alianza con el PRO",
@@ -36,48 +78,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/DUAYQVVJHVANJPVBSQLX6BMTFU.png?auth=91184ad72d9a348e08f0cba1de2335d08b049ffeb52773eed0dae88ee9a46771&smart=true&width=1088&height=549",
         "fuente": "Infobae",
         "fecha": "Thu, 17 Sep 2026 12:29:43 +0000"
-      },
-      {
-        "titulo": "Cuáles son las iniciativas de la oposición porteña que ponen el foco en el suicidio adolescente",
-        "link": "https://www.tiempoar.com.ar/ta_article/cuales-son-las-iniciativas-de-la-oposicion-portena-que-ponen-el-foco-en-el-suicidio-adolescente/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 17 Sep 2026 12:18:45 +0000"
-      },
-      {
-        "titulo": "Pagó una deuda en 2020, se la reclamaron cuatro años después y la Justicia condenó a tres empresas",
-        "link": "https://www.ambito.com/politica/pago-una-deuda-2020-se-la-reclamaron-cuatro-anos-despues-y-la-justicia-condeno-tres-empresas-n6323332",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 08:34:00 -0300"
-      },
-      {
-        "titulo": "Malvinas: entró al Congreso el proyecto para sancionar a las empresas petroleras que operen en las islas",
-        "link": "https://www.clarin.com/politica/malvinas-entro-congreso-proyecto-sancionar-empresas-petroleras-operen-islas_0_0NCjaffKrm.html",
-        "imagen": "https://www.clarin.com/img/2013/01/11/SkWT3my4x_1200x630.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 11:15:07 +0000"
-      },
-      {
-        "titulo": "La soberanía que Londres recuperó y ahora le reclaman",
-        "link": "https://www.ambito.com/mundo/la-soberania-que-londres-recupero-y-ahora-le-reclaman-n6323272",
-        "imagen": "https://media.ambito.com/p/3f3f67d67659b04a8353b18b47d38ea1/adjuntos/239/imagenes/043/640/0043640514/1200x675/629x324:649x344/banderas-reino-unido-escocia.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Thu, 17 Sep 2026 07:00:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno envió al Congreso el proyecto por Malvinas: qué dice la Ley de Defensa de la Soberanía Nacional",
-        "link": "https://www.c5n.com/politica/el-gobierno-envio-al-congreso-el-proyecto-malvinas-que-dice-la-ley-defensa-la-soberania-nacional-n249155",
-        "imagen": "https://media.c5n.com/p/6ea92437d1b6457066e2841a3b2fed32/adjuntos/326/imagenes/000/399/0000399292/1200x675/smart/javier-milei.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 08:03:00 -0300"
-      },
-      {
-        "titulo": "Ernesto Sanz habló de las elecciones 2027: \"La reelección de Milei no es un hecho, es un relato del Gobierno\"",
-        "link": "https://www.infobae.com/politica/2026/09/17/ernesto-sanz-hablo-de-las-elecciones-2027-la-reeleccion-de-milei-no-es-un-hecho-es-un-relato-del-gobierno/",
-        "imagen": "https://www.infobae.com/resizer/v2/22AZUYQSENEWFIERSHWX34ZRJY.jpg?auth=5d404f87da9114fb6c0f6ac81d3b3b6295f7a9eb67e17a46f2a7e573405e0243&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 11:47:44 +0000"
       },
       {
         "titulo": "El Gobierno envió al Congreso el proyecto por Malvinas que endurece las penas por la explotación de recursos",
@@ -96,18 +96,18 @@
         "fecha": "Thu, 17 Sep 2026 00:00:00 -0300"
       },
       {
-        "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este jueves 17 de septiembre de 2026",
-        "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-jueves-17-de-septiembre-de-2026_0_I0TmJMhUqS.html",
-        "imagen": "https://www.clarin.com/img/2022/01/19/P2ZVV0DA5_1200x630__1.jpg",
+        "titulo": "A dónde va la plata del Presupuesto: Pettovello, Santilli y Sturzenegger, entre los ganadores del reparto de fondos",
+        "link": "https://www.clarin.com/economia/va-plata-presupuesto-pettovello-santilli-sturzenegger-ganadores-reparto-fondos_0_uGWOU7th0A.html",
+        "imagen": "https://www.clarin.com/img/2026/07/30/cwaHicvkA_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 10:45:13 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:37:01 +0000"
       },
       {
-        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 17 de septiembre",
-        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-17-septiembre-n249156",
-        "imagen": "https://media.c5n.com/p/e43322d214cdeb13f9c07854f0a1e342/adjuntos/326/imagenes/000/375/0000375704/1200x675/smart/dolar-blue-billetes-divisas-dolares.jpg",
+        "titulo": "El Gobierno automatiza el pago de las retenciones de la AUH: qué requisitos hay que cumplir para cobrar el 100%",
+        "link": "https://www.c5n.com/economia/el-gobierno-automatiza-el-pago-las-retenciones-la-auh-que-requisitos-hay-que-cumplir-cobrar-el-100-n249163",
+        "imagen": "https://media.c5n.com/p/62e20f49daeccdf178f88ce6eccdfd30/adjuntos/326/imagenes/000/389/0000389075/1200x675/smart/anses.png",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 08:16:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:45:00 -0300"
       },
       {
         "titulo": "Inocencia Fiscal II: punto por punto, las claves del proyecto que el Gobierno busca aprobar en el Senado",
@@ -131,18 +131,18 @@
         "fecha": "Wed, 16 Sep 2026 23:00:00 -0300"
       },
       {
-        "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este jueves 17 de septiembre de 2026",
-        "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-jueves-17-de-septiembre-de-2026_0_mO8FkjGVpx.html",
-        "imagen": "https://www.clarin.com/img/2018/08/29/B1sEYYBv7_1200x630__1.jpg",
+        "titulo": "“Crisis crónica”: dos economías regionales claves profundizan su mal momento y los productores aseguran que hace tres años que no logran cubrir sus costos",
+        "link": "https://www.clarin.com/rural/crisis-cronica-economias-regionales-claves-profundizan-mal-momento-productores-aseguran-hace-anos-logran-cubrir-costos_0_Mt8eJ2k8SH.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/SITMr6gAZ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 10:45:13 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:23:06 +0000"
       },
       {
-        "titulo": "El Gobierno cambió el sistema de control de la AUH: cómo afecta a los titulares del beneficio",
-        "link": "https://www.c5n.com/economia/el-gobierno-cambio-el-sistema-control-la-auh-como-afecta-los-titulares-del-beneficio-n249153",
-        "imagen": "https://media.c5n.com/p/e820fcf95773454c7995e0a871bdeb04/adjuntos/326/imagenes/000/386/0000386243/1200x675/smart/auh.png",
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 17 de septiembre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-17-septiembre-n249156",
+        "imagen": "https://media.c5n.com/p/e43322d214cdeb13f9c07854f0a1e342/adjuntos/326/imagenes/000/375/0000375704/1200x675/smart/dolar-blue-billetes-divisas-dolares.jpg",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 07:44:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 08:16:00 -0300"
       },
       {
         "titulo": "El Indec informará hoy dos datos clave: el crecimiento del PBI y la evolución del desempleo",
@@ -166,11 +166,11 @@
         "fecha": "Wed, 16 Sep 2026 19:56:00 -0300"
       },
       {
-        "titulo": "Euro hoy en Perú: precio y cotización de la divisa este jueves 17 de septiembre de 2026",
-        "link": "https://www.clarin.com/economia/euro-hoy-en-peru-precio-y-cotizacion-de-la-divisa-este-jueves-17-de-septiembre-de-2026_0_lSEtIi9Xrb.html",
-        "imagen": "https://www.clarin.com/img/2021/11/23/DMEZ4i0la_1200x630__1.jpg",
+        "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este jueves 17 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-jueves-17-de-septiembre-de-2026_0_I0TmJMhUqS.html",
+        "imagen": "https://www.clarin.com/img/2022/01/19/P2ZVV0DA5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 10:45:12 +0000"
+        "fecha": "Thu, 17 Sep 2026 10:45:13 +0000"
       }
     ],
     "deportes": [
@@ -196,11 +196,11 @@
         "fecha": "Thu, 17 Sep 2026 09:00:00 -0300"
       },
       {
-        "titulo": "El momento de furia de Lionel Messi con Don Garber, el comisionado de la MLS, tras el título del Inter Miami",
-        "link": "https://www.infobae.com/deportes/2026/09/17/el-momento-de-furia-de-lionel-messi-con-don-garber-el-comisionado-de-la-mls-tras-el-titulo-del-inter-miami/",
-        "imagen": "https://www.infobae.com/resizer/v2/5WARFUGIOBFWFPLI52DXQX6VRA.png?auth=51fe4c6a68f4cb275fb58b0262b30b2856033c8c90366d485915bf21c32dccf7&smart=true&width=1920&height=1080",
+        "titulo": "Las espectaculares fotos inéditas de Diego Armando Maradona a bordo de un buque militar hace más de tres décadas: “Nos divertimos mucho”",
+        "link": "https://www.infobae.com/deportes/2026/09/17/las-espectaculares-fotos-ineditas-de-diego-armando-maradona-a-bordo-de-un-buque-militar-hace-mas-de-tres-decadas-nos-divertimos-mucho/",
+        "imagen": "https://www.infobae.com/resizer/v2/ORMVFM2XV5DDFBJ74QL5QEV3MA.jpg?auth=82d0404e3fe05ef7a6de243fb3ad022f7873c81bdfdf7571b54dcb8887e5ee63&smart=true&width=810&height=456",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:44:29 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:11:32 +0000"
       },
       {
         "titulo": "Qué pasa con Aníbal Moreno: por qué se demorará su vuelta y cómo es el tratamiento de una lesión incómoda",
@@ -235,7 +235,7 @@
         "link": "https://www.0221.com.ar/estudiantes/la-millonaria-cantidad-dolares-que-ya-gano-estudiantes-la-copa-libertadores-y-cuanto-puede-sumar-n134338",
         "imagen": "https://media.0221.com.ar/p/b6178eb21f780b5c86ee83ce015e3cd5/adjuntos/357/imagenes/100/296/0100296283/1200x630/1137x279:1157x299/estudaintes-corinthians-festejo-gol-castro.png",
         "fuente": "0221 Deportes",
-        "fecha": "Thu, 17 Sep 2026 09:45:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:54:00 -0300"
       },
       {
         "titulo": "¿Cuándo jugará Estudiantes la semifinal de la Copa Libertadores y contra quién?",
@@ -279,7 +279,7 @@
         "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/juicio-por-loan-pena-en-vivo-las-ultimas-noticias-de-hoy-17-de-septiembre-minuto-a-minuto/",
         "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:38:47 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:09:09 +0000"
       },
       {
         "titulo": "La vida al límite de un ex pandillero en la Medellín de Pablo Escobar: \"Dentro de lo malo que fui, fui bueno\"",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Lula da Silva llevará a la ONU un mensaje directo para Donald Trump: \"No se meta en las elecciones de Brasil\"",
-        "link": "https://www.ambito.com/mundo/lula-da-silva-llevara-la-onu-un-mensaje-directo-donald-trump-no-se-meta-las-elecciones-brasil-n6323368",
-        "imagen": "https://media.ambito.com/p/280ec9a84e61b3321ffeba4cb861674d/adjuntos/239/imagenes/042/788/0042788726/trump-lula.jpg",
+        "titulo": "El hermano de Lady Di lanzó duras críticas contra el rey Carlos III en sus memorias",
+        "link": "https://www.ambito.com/mundo/el-hermano-lady-di-lanzo-duras-criticas-contra-el-rey-carlos-iii-sus-memorias-n6323347",
+        "imagen": "https://media.ambito.com/p/d290716e185b1cbf3bec8aa2daa3c610/adjuntos/239/imagenes/040/112/0040112793/1200x675/smart/principe-carlos-y-lady-dijpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 09:32:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:48:00 -0300"
       },
       {
         "titulo": "Brutal temporal en España: rutas cortadas, inundaciones y al menos un fallecido",
@@ -361,25 +361,25 @@
         "fecha": "Thu, 17 Sep 2026 07:35:00 -0300"
       },
       {
-        "titulo": "Carney abraza en Europa la propuesta de convertir a Canadá en el primer miembro asociado de la UE: “No buscamos el poder para dominar a los demás”",
-        "link": "https://www.clarin.com/mundo/carney-abraza-europa-propuesta-convertir-canada-primer-miembro-asociado-ue-buscamos-poder-dominar_0_EiE5oYBqxi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/JBb2ZmQZm_1200x630__1.jpg",
+        "titulo": "Trump quería que Canadá fuera el estado número 51. Al final, terminó empujándola hacia la Unión Europea",
+        "link": "https://www.clarin.com/new-york-times-international-weekly/trump-queria-canada-estado-numero-51-final-termino-empujandola-union-europea_0_TNoUCMdLom.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/SeF4vqlwO_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 10:57:18 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:14:35 +0000"
       },
       {
-        "titulo": "El Parlamento Europeo pide suspender el acuerdo con Cuba si no hay avances hacia el multipartidismo",
-        "link": "https://www.infobae.com/cuba/2026/09/17/el-parlamento-europeo-pide-suspender-el-acuerdo-con-cuba-si-no-hay-avances-hacia-el-multipartidismo/",
-        "imagen": "https://www.infobae.com/resizer/v2/AW726HQCUJAKRG6SQ3WLRGBASI.png?auth=23981c7930d60caa123355e44afb668b75ba65009875a2e59a2da9036f3f0978&smart=true&width=752&height=421",
+        "titulo": "Guerra de bandas en Limón, Costa Rica: Cinco detenidos, fusiles incautados y un menor herido tras allanamientos del OIJ",
+        "link": "https://www.infobae.com/costa-rica/2026/09/17/guerra-de-bandas-en-limon-costa-rica-cinco-detenidos-fusiles-incautados-y-un-menor-herido-tras-allanamientos-del-oij/",
+        "imagen": "https://www.infobae.com/resizer/v2/J4KFYCDEKFFHLP5D5Z5HH3WB6E.png?auth=a4715fedd0d37d5346157afc7bd5391fbcbb72ba59b9ad9b0f7d45c365cbea43&smart=true&width=975&height=576",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:40:49 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:04:46 +0000"
       },
       {
-        "titulo": "La soberanía que Londres recuperó y ahora le reclaman",
-        "link": "https://www.ambito.com/mundo/la-soberania-que-londres-recupero-y-ahora-le-reclaman-n6323272",
-        "imagen": "https://media.ambito.com/p/3f3f67d67659b04a8353b18b47d38ea1/adjuntos/239/imagenes/043/640/0043640514/1200x675/629x324:649x344/banderas-reino-unido-escocia.jpg",
+        "titulo": "Lula da Silva llevará a la ONU un mensaje directo para Donald Trump: \"No se meta en las elecciones de Brasil\"",
+        "link": "https://www.ambito.com/mundo/lula-da-silva-llevara-la-onu-un-mensaje-directo-donald-trump-no-se-meta-las-elecciones-brasil-n6323368",
+        "imagen": "https://media.ambito.com/p/280ec9a84e61b3321ffeba4cb861674d/adjuntos/239/imagenes/042/788/0042788726/trump-lula.jpg",
         "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 07:00:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:32:00 -0300"
       },
       {
         "titulo": "Donald Trump le exigió a la Reserva Federal que baje la tasa de interés \"rápido\": \"Debería ser de 1% o menos\"",
@@ -389,25 +389,25 @@
         "fecha": "Wed, 16 Sep 2026 21:11:00 -0300"
       },
       {
-        "titulo": "\"Un acto hostil\": la dura amenaza de Donald Trump contra la Unión Europea por su posible alianza con Canadá",
-        "link": "https://www.clarin.com/mundo/acto-hostil-dura-amenaza-donald-trump-union-europea-posible-alianza-canada_0_SZP3L2Mclo.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/5M7jsps_0_1200x630__1.jpg",
+        "titulo": "El costo humano oculto del poder recién adquirido de Kim Jong Un",
+        "link": "https://www.clarin.com/new-york-times-international-weekly/costo-humano-oculto-poder-recien-adquirido-kim-jong_0_GObzee4q8E.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/orE9THyLa_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 01:58:10 +0000"
+        "fecha": "Thu, 17 Sep 2026 11:55:31 +0000"
       },
       {
-        "titulo": "Guatemala implementará un plan de emergencia y prevé asistencia para 1 millón 212 mil 178 familias hasta diciembre",
-        "link": "https://www.infobae.com/guatemala/2026/09/17/guatemala-implementara-un-plan-de-emergencia-y-preve-asistencia-para-1-millon-212-mil-178-familias-hasta-diciembre/",
-        "imagen": "https://www.infobae.com/resizer/v2/4UVDRIZDARHEDK64KZTPU7MCRI.jpg?auth=d63d6f660e3d9adc8a086018ca6d6f18a4f59a6af5ff59cfbaf300232e27c78b&smart=true&width=4272&height=2848",
+        "titulo": "Murió Peter Max, el artista que llevó la psicodelia a la cultura popular",
+        "link": "https://www.infobae.com/cultura/2026/09/17/murio-peter-max-el-artista-que-llevo-la-psicodelia-a-la-cultura-popular/",
+        "imagen": "https://www.infobae.com/resizer/v2/D6LHVTH3UVA3DM4AWZEMUBYEME.jpg?auth=df41c467d85076dc84c60c7979b80eee3e0be1175ad533d9e8b05f19e18fb203&smart=true&width=3000&height=2091",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:12:30 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:53:57 +0000"
       },
       {
-        "titulo": "Donald Trump ordenó cerrar el Centro Kennedy tras otro revés judicial por el cambio de nombre",
-        "link": "https://www.ambito.com/mundo/donald-trump-ordeno-cerrar-el-centro-kennedy-otro-reves-judicial-el-cambio-nombre-n6323180",
-        "imagen": "https://media.ambito.com/p/a72f140bd1fe6200f78d9bed69749cea/adjuntos/239/imagenes/037/717/0037717170/1200x675/smart/donald-trump-enojadojpg.jpg",
+        "titulo": "La soberanía que Londres recuperó y ahora le reclaman",
+        "link": "https://www.ambito.com/mundo/la-soberania-que-londres-recupero-y-ahora-le-reclaman-n6323272",
+        "imagen": "https://media.ambito.com/p/3f3f67d67659b04a8353b18b47d38ea1/adjuntos/239/imagenes/043/640/0043640514/1200x675/629x324:649x344/banderas-reino-unido-escocia.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 18:19:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 07:00:00 -0300"
       },
       {
         "titulo": "Quiénes eran la periodista y el piloto que murieron en el helicóptero que se estrelló en Los Ángeles",
@@ -417,18 +417,18 @@
         "fecha": "Wed, 16 Sep 2026 19:10:00 -0300"
       },
       {
-        "titulo": "Alerta en Valencia por fuertes inundaciones: cierran el aeropuerto, suspenden clases y hay un muerto en Cataluña",
-        "link": "https://www.clarin.com/mundo/alerta-valencia-fuertes-inundaciones-cierran-aeropuerto-suspenden-clases-partidos-futbol_0_TxUZeE53ua.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/wDlBEO-gA_1200x630__1.jpg",
+        "titulo": "Carney abraza en Europa la propuesta de convertir a Canadá en el primer miembro asociado de la UE: “No buscamos el poder para dominar a los demás”",
+        "link": "https://www.clarin.com/mundo/carney-abraza-europa-propuesta-convertir-canada-primer-miembro-asociado-ue-buscamos-poder-dominar_0_EiE5oYBqxi.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/JBb2ZmQZm_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 00:40:13 +0000"
+        "fecha": "Thu, 17 Sep 2026 10:57:18 +0000"
       },
       {
-        "titulo": "Aeropuerto de Tocumen en Panamá movilizó más de 15.8 millones de pasajeros hasta agosto",
-        "link": "https://www.infobae.com/panama/2026/09/17/aeropuerto-de-tocumen-en-panama-movilizo-mas-de-158-millones-de-pasajeros-hasta-agosto/",
-        "imagen": "https://www.infobae.com/resizer/v2/LQL5ZIX3ZVHEDMHQXPTTNMB7FA.jpeg?auth=5edb5bcd56cd79f2e6bf6ec0c06cba8a9e925285ceb1ddb1b80e01ebe4b3a2a3&smart=true&width=1180&height=425",
+        "titulo": "Interés por el sector tecnológico ya se refleja en las solicitudes que recibe el régimen de empresas multinacionales en Panamá",
+        "link": "https://www.infobae.com/panama/2026/09/17/interes-por-el-sector-tecnologico-ya-se-refleja-en-las-solicitudes-que-recibe-el-regimen-de-empresas-multinacionales-en-panama/",
+        "imagen": "https://www.infobae.com/resizer/v2/MU4HUJLKPFGE7AJCAQVEB7FG7A.jpeg?auth=23772dbe1f091f3d600bae2f55748b92ab8bc08588a32bb40ca9ccb6680f64e8&smart=true&width=740&height=489",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:04:50 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:44:30 +0000"
       }
     ],
     "espectaculos": [
@@ -447,18 +447,18 @@
         "fecha": "Wed, 16 Sep 2026 23:27:00 -0300"
       },
       {
-        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este jueves 17 de septiembre de 2026 en Argentina",
-        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-jueves-17-de-septiembre-de-2026-en-argentina_0_SB30sYj5lN.html",
-        "imagen": "https://www.clarin.com/img/2025/08/25/gMhpNu9os_1200x630__1.jpg",
+        "titulo": "Un Gran Hermano que rompió el molde: estiró todos los límites del formato y terminó coronando a quien había expulsado",
+        "link": "https://www.clarin.com/espectaculos/gran-hermano-rompio-molde-estiro-limites-formato-termino-coronando-expulsado_0_R76KsqSrIi.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/JTBc7im5C_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 10:15:03 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:27:24 +0000"
       },
       {
-        "titulo": "La autocrítica de Yipio tras su derrota en Gran Hermano: “Jugué mucho con el corazón”",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/la-autocritica-de-yipio-tras-su-derrota-en-gran-hermano-jugue-mucho-con-el-corazon/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAYRC4OH55FFBJZU5CXQDWOOTQ.jpg?auth=8165082504666b002704871b4965c0a283821c817868ff2807c116b627898d05&smart=true&width=1920&height=1080",
+        "titulo": "La confesión de Wanda Nara antes de una nueva etapa en su carrera: “La profesión de mis sueños”",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/la-confesion-de-wanda-nara-antes-de-una-nueva-etapa-en-su-carrera-la-profesion-de-mis-suenos/",
+        "imagen": "https://www.infobae.com/resizer/v2/PE6RY4O6KVCDFLJVFHB42RWTVY.jpg?auth=48984393ba1b301dca2d9480a1c6e4094998d7d54462aaa3dd5201e54ae918a8&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:32:25 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:10:36 +0000"
       },
       {
         "titulo": "Angelina Jolie salvó un bosque de 61.000 hectáreas en Camboya: cómo logró frenar la caza ilegal",
@@ -475,18 +475,18 @@
         "fecha": "Wed, 16 Sep 2026 23:08:00 -0300"
       },
       {
-        "titulo": "Tres adioses es una película entre luminosa, esperanzadora y sutilmente irónica",
-        "link": "https://www.clarin.com/espectaculos/adioses-pelicula-luminosa-esperanzadora-sutilmente-ironica_0_1X5guSGfqG.html",
-        "imagen": "https://www.clarin.com/img/2026/02/08/l-rgpc4s4_1200x630__1.jpg",
+        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este jueves 17 de septiembre de 2026 en Argentina",
+        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-jueves-17-de-septiembre-de-2026-en-argentina_0_SB30sYj5lN.html",
+        "imagen": "https://www.clarin.com/img/2025/08/25/gMhpNu9os_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 09:04:01 +0000"
+        "fecha": "Thu, 17 Sep 2026 10:15:03 +0000"
       },
       {
-        "titulo": "“¡Qué orgullo!”, las emotivas palabras de José María Muscari por el logro de su hijo Lucio rumbo a su gran sueño",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/que-orgullo-las-emotivas-palabras-de-jose-maria-muscari-por-el-logro-de-su-hijo-lucio-rumbo-a-su-gran-sueno/",
-        "imagen": "https://www.infobae.com/resizer/v2/XEEK4UNH2NHMTHACTMV6SYFCTQ.jpg?auth=5d5ed6ab5fdc146925d5b54a6fe1e692e3cd2ab2b2d34967133ab147a2ee9505&smart=true&width=2048&height=1365",
+        "titulo": "La granja de Zenón cumple 15 años y repasa su salto de YouTube al mundo",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/la-granja-de-zenon-cumple-15-anos-y-repasa-su-salto-de-youtube-al-mundo/",
+        "imagen": "https://www.infobae.com/resizer/v2/ORYCDNJ2V5ELPCQBTLRZ6EO4CI.png?auth=a17ebb19fa66e3c6657a8e8f9ddd38780c3585d3af77ee4050feb4a1e88d80fd&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:26:09 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:54:11 +0000"
       },
       {
         "titulo": "Pity Álvarez faltó a la novena audiencia del juicio: los motivos",
@@ -503,18 +503,18 @@
         "fecha": "Wed, 16 Sep 2026 22:21:00 -0300"
       },
       {
-        "titulo": "\"Resident Evil: noche cero\", el mejor reinicio de una vieja franquicia",
-        "link": "https://www.clarin.com/espectaculos/resident-evil-noche-cero-mejor-reinicio-vieja-franquicia_0_RI9qfu145K.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/NyAD1J8rQ_1200x630__1.jpg",
+        "titulo": "Tres adioses es una película entre luminosa, esperanzadora y sutilmente irónica",
+        "link": "https://www.clarin.com/espectaculos/adioses-pelicula-luminosa-esperanzadora-sutilmente-ironica_0_1X5guSGfqG.html",
+        "imagen": "https://www.clarin.com/img/2026/02/08/l-rgpc4s4_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 09:02:02 +0000"
+        "fecha": "Thu, 17 Sep 2026 09:04:01 +0000"
       },
       {
-        "titulo": "El rating de la final de Gran Hermano: cuánto midió la definición entre Sol Abraham y Yipio",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/el-rating-de-la-final-de-gran-hermano-cuanto-midio-la-definicion-entre-sol-abraham-y-yipio/",
-        "imagen": "https://www.infobae.com/resizer/v2/DNOHKXFLTJHQJDRDD6EG3ZSKR4.jpg?auth=9a3d161959e7eec8eb8460ea5ae4cdcc71918375e166d450f6c91ec381c06da1&smart=true&width=3264&height=1836",
+        "titulo": "La autocrítica de Yipio tras su derrota en Gran Hermano: “Jugué mucho con el corazón”",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/la-autocritica-de-yipio-tras-su-derrota-en-gran-hermano-jugue-mucho-con-el-corazon/",
+        "imagen": "https://www.infobae.com/resizer/v2/MAYRC4OH55FFBJZU5CXQDWOOTQ.jpg?auth=8165082504666b002704871b4965c0a283821c817868ff2807c116b627898d05&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 12:06:47 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:48:44 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Wed, 16 Sep 2026 16:05:00 -0300"
       },
       {
-        "titulo": "Apple evaluaría regresar al negocio de los servidores con ayuda de Nvidia",
-        "link": "https://www.infobae.com/tecno/2026/09/17/apple-evaluaria-regresar-al-negocio-de-los-servidores-con-ayuda-de-nvidia/",
-        "imagen": "https://www.infobae.com/resizer/v2/VQCUWYVYXVC75IGUQRRBH5GHYM.png?auth=c72074c21689e7475d798f396df7a4b1cbe730649742d2272dcdcee2336e33d1&smart=true&width=1920&height=1080",
+        "titulo": "Apple lanza la primera beta de iOS 27.2 y Siri AI ya funciona en español",
+        "link": "https://www.infobae.com/tecno/2026/09/17/apple-lanza-la-primera-beta-de-ios-272-y-siri-ai-ya-funciona-en-espanol/",
+        "imagen": "https://www.infobae.com/resizer/v2/HSKM24I4KFFR5KTVACYKCYBKVU.png?auth=7820ce3e9dcd804b987b72bf96c6f40648445717537f75aec8310e8e9f605afd&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 12:17:28 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:16:29 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,6 +545,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
+      },
+      {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -561,11 +568,11 @@
         "fecha": "Wed, 16 Sep 2026 15:43:00 -0300"
       },
       {
-        "titulo": "Por qué Google permitirá que sus empleados usen Claude después de negarse durante un tiempo",
-        "link": "https://www.infobae.com/tecno/2026/09/17/por-que-google-permitira-que-sus-empleados-usen-claude-despues-de-negarse-durante-un-tiempo/",
-        "imagen": "https://www.infobae.com/resizer/v2/XMJ3NCYUKJCA5C3MRIKLWOZQZA.png?auth=766cfcc2348c23d7abd96312aa2b6c01897f1b8aae48eda2481777a5c99a9be4&smart=true&width=1920&height=1080",
+        "titulo": "EA Sports FC 27: cuándo sale y desde que hora se puede jugar cada versión",
+        "link": "https://www.infobae.com/tecno/2026/09/17/ea-sports-fc-27-cuando-sale-y-desde-que-hora-se-puede-jugar-cada-version/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZMD2KHMCC5F47AHHE5C36NZDKQ.png?auth=1d6982eca0b799c023e314e905fc3ec5c172c950b962e9ee03026ae5951903f6&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 11:58:18 +0000"
+        "fecha": "Thu, 17 Sep 2026 12:57:30 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -573,6 +580,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
+      },
+      {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/91d6b9045603d1a8e8c63242b0a8deba/adjuntos/326/imagenes/000/000/0000000032/1200x675/smart/whatsapp-instagram-facebookjpg.jpg",
         "fuente": "C5N",
         "fecha": "Wed, 16 Sep 2026 14:58:00 -0300"
-      },
-      {
-        "titulo": "Exinvestigadores de Google DeepMind crean una startup que alcanza una valoración de 4.000 millones en un mes",
-        "link": "https://www.infobae.com/tecno/2026/09/17/exinvestigadores-de-google-deepmind-crean-una-startup-que-alcanza-una-valoracion-de-4000-millones-en-un-mes/",
-        "imagen": "https://www.infobae.com/resizer/v2/OHE3ED2UOMJ2ZYGH5XCXXXSF54.jpg?auth=1bf83d9b715886d77f2b13efc966697a59b3a0cfcd5603cad8fe69655806f126&smart=true&width=5500&height=3689",
-        "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 11:57:25 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -695,7 +695,7 @@
         "link": "https://www.lanacion.com.ar/salud/escapada-un-viaje-por-la-inmigracion-que-transformo-entre-rios-nid16092026/",
         "imagen": "https://resizer.glanacion.com/resizer/v2/MSYWKVMGLRFEHMPIJ66NBG2P3A.webp?auth=03447355c3de5558b51823b244b3d68589eab516bd51d87e73520e4aae542eee&smart=true&width=960&height=639",
         "fuente": "La Nación",
-        "fecha": "Wed, 16 Sep 2026 22:48:06 +0000"
+        "fecha": "Thu, 17 Sep 2026 13:01:45 +0000"
       },
       {
         "titulo": "Cataratas de Iguazú: A 300 km está el tesoro natural más salvaje de Misiones",
@@ -751,11 +751,11 @@
     ],
     "local": [
       {
-        "titulo": "Con sol, vientos leves y más de 20°C, anticipan un jueves clima ideal y de primavera en La Plata",
-        "link": "https://www.0221.com.ar/la-plata/con-sol-vientos-leves-y-mas-20c-anticipan-un-jueves-clima-ideal-y-primavera-la-plata-n134335",
-        "imagen": "https://media.0221.com.ar/p/d9ecdd84ff81dfd2cd16c9566115bae0/adjuntos/357/imagenes/100/020/0100020187/1200x630/783x299:803x319/clima-sol-soleado-calor-primavera.jpg",
+        "titulo": "La Bioferia llega a La Plata con una escultura colectiva, música y actividades en el Bosque",
+        "link": "https://www.0221.com.ar/la-plata/la-bioferia-llega-la-plata-una-escultura-colectiva-musica-y-actividades-el-bosque-n134313",
+        "imagen": "https://media.0221.com.ar/p/2833c594f2266f4923e907d7f832228c/adjuntos/357/imagenes/100/291/0100291704/1200x630/smart/bioferia.jpg",
         "fuente": "0221",
-        "fecha": "Thu, 17 Sep 2026 08:29:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 09:42:00 -0300"
       },
       {
         "titulo": "Allanaron la Cámara de Comercio China de La Plata y buscan pistas sobre una red delictiva",
@@ -779,18 +779,18 @@
         "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
       },
       {
-        "titulo": "Rescataron a un zorro en Bernal",
-        "link": "https://www.eldia.com/quilmes/rescataron-a-un-zorro-en-bernal-quilmes_1789646640",
+        "titulo": "\"Nido Vacío\": alertan sobre su alto impacto emocional",
+        "link": "https://www.eldia.com/informacion-general/nido-vacio-alertan-sobre-su-alto-impacto-emocional-informacion-general_1789648140",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 12:46:15 GMT"
+        "fecha": "Thu, 17 Sep 2026 12:50:57 GMT"
       },
       {
-        "titulo": "Un impactante incendio junto a la Autopista La Plata-Buenos Aires complica la visibilidad",
-        "link": "https://www.0221.com.ar/la-plata/un-impactante-incendio-junto-la-autopista-la-plata-buenos-aires-complica-la-visibilidad-n134334",
-        "imagen": "https://media.0221.com.ar/p/e1bd949da1435e6adabddc58afabc9b8/adjuntos/357/imagenes/100/296/0100296281/1200x630/smart/incendio-ceamse-sarandi.png",
+        "titulo": "Con sol, vientos leves y más de 20°C, anticipan un jueves clima ideal y de primavera en La Plata",
+        "link": "https://www.0221.com.ar/la-plata/con-sol-vientos-leves-y-mas-20c-anticipan-un-jueves-clima-ideal-y-primavera-la-plata-n134335",
+        "imagen": "https://media.0221.com.ar/p/d9ecdd84ff81dfd2cd16c9566115bae0/adjuntos/357/imagenes/100/020/0100020187/1200x630/783x299:803x319/clima-sol-soleado-calor-primavera.jpg",
         "fuente": "0221",
-        "fecha": "Thu, 17 Sep 2026 07:52:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 08:29:00 -0300"
       },
       {
         "titulo": "Un ladrón se cayó de la moto al escapar de la Policía en La Plata y terminó detenido",
@@ -814,18 +814,18 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "VIDEO. Detuvieron a un integrante de la banda de los \"rompe vidrios\" en City Bell",
-        "link": "https://www.eldia.com/policiales/detuvieron-a-un-integrante-de-la-banda-de-los-rompe-vidrios-en-city-bell-policiales_1789647420",
+        "titulo": "Rescataron a un zorro en Bernal",
+        "link": "https://www.eldia.com/quilmes/rescataron-a-un-zorro-en-bernal-quilmes_1789646640",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 12:29:22 GMT"
+        "fecha": "Thu, 17 Sep 2026 12:46:15 GMT"
       },
       {
-        "titulo": "Arrancá la mañana con información y entretenimiento en el streaming de 0221 Play",
-        "link": "https://www.0221.com.ar/la-plata/arranca-la-manana-informacion-y-entretenimiento-el-streaming-0221-play-n134333",
-        "imagen": "https://media.0221.com.ar/p/787f5beafd8e13658e0f8d6e8565d238/adjuntos/357/imagenes/100/275/0100275354/1200x630/smart/portada-primer-intento.jpeg",
+        "titulo": "Un impactante incendio junto a la Autopista La Plata-Buenos Aires complica la visibilidad",
+        "link": "https://www.0221.com.ar/la-plata/un-impactante-incendio-junto-la-autopista-la-plata-buenos-aires-complica-la-visibilidad-n134334",
+        "imagen": "https://media.0221.com.ar/p/e1bd949da1435e6adabddc58afabc9b8/adjuntos/357/imagenes/100/296/0100296281/1200x630/smart/incendio-ceamse-sarandi.png",
         "fuente": "0221",
-        "fecha": "Thu, 17 Sep 2026 07:46:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 07:52:00 -0300"
       },
       {
         "titulo": "Investigan la muerte de un hombre en Berisso: lo llevaron al hospital y lo abandonaron",
