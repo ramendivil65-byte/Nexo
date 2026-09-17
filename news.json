@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T20:16:29.488623+00:00",
+  "actualizado": "2026-09-17T20:41:30.797835+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,7 +10,7 @@
         "fecha": "Thu, 17 Sep 2026 16:00:59 -0300"
       },
       {
-        "titulo": "Sin acuerdo por el financiamiento, convocan a una nueva marcha federal universitaria para el 15 de octubre y la UBA hará paros escalonados durante 23 días",
+        "titulo": "Sin acuerdo por el financiamiento, convocan a una nueva marcha federal universitaria para el 15 de octubre y habrá paros escalonados durante 23 días en la UBA",
         "link": "https://www.clarin.com/politica/acuerdo-financiamiento-convocan-nueva-marcha-federal-universitaria-15-octubre_0_7cMfykuLvV.html",
         "imagen": "https://www.clarin.com/img/2026/05/12/dFvis47OI_1200x630__1.jpg",
         "fuente": "Clarín",
@@ -31,11 +31,11 @@
         "fecha": "Thu, 17 Sep 2026 15:57:00 -0300"
       },
       {
-        "titulo": "Milei desplazó al personal civil a cargo de la seguridad de la Quinta de Olivos: lo reemplaza la Casa Militar",
-        "link": "https://www.infobae.com/politica/2026/09/17/milei-desplazo-al-personal-civil-a-cargo-de-la-seguridad-de-la-quinta-de-olivos-lo-reemplaza-la-casa-militar/",
-        "imagen": "https://www.infobae.com/resizer/v2/V6ELLIXFQBCG3PIRGIGILVXUEA.png?auth=544e1c1e008acc09f4c21ef321b85d934fc30cdf2a9d2ab69a9b490d019319d8&smart=true&width=1310&height=732",
+        "titulo": "Senado, en vivo: tras la aprobación de la ley de Inocencia Fiscal II, los legisladores se preparan para debatir modificaciones en Biocombustibles",
+        "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZAYLK3YTPJBRHC2FT4CXE7BW3I.JPG?auth=10ebb83d0c07775abee763813b52339b9345bced0cd008ac22a00a5381b396a2&smart=true&width=5472&height=3648",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 20:12:54 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:39:13 +0000"
       },
       {
         "titulo": "Milei echó a todo el personal de la Quinta de Olivos y puso a las FFAA a cocinar y limpiar",
@@ -54,7 +54,7 @@
       {
         "titulo": "Anuncian cambios en la seguridad de la residencia presidencial de Olivos: Casa Militar centralizará todo el funcionamiento de la Quinta",
         "link": "https://www.clarin.com/politica/anuncian-cambios-seguridad-residencia-presidencial-olivos-casa-militar-centralizara-custodia_0_g81xzL9Owa.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/AB-f6J6Jd_1200x630__1.jpg",
+        "imagen": "https://www.clarin.com/img/2026/09/17/ajcI9Ohx2_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Thu, 17 Sep 2026 18:39:13 +0000"
       },
@@ -73,11 +73,11 @@
         "fecha": "Thu, 17 Sep 2026 15:56:00 -0300"
       },
       {
-        "titulo": "Senado, en vivo: se acerca la votación del proyecto de Inocencia Fiscal II",
-        "link": "https://www.infobae.com/politica/2026/09/17/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-el-proyecto-de-inocencia-fiscal-ii-minuto-a-minuto/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZAYLK3YTPJBRHC2FT4CXE7BW3I.JPG?auth=10ebb83d0c07775abee763813b52339b9345bced0cd008ac22a00a5381b396a2&smart=true&width=5472&height=3648",
+        "titulo": "Senado: con el apoyo de los aliados, el Gobierno logró convertir en ley la Inocencia Fiscal II",
+        "link": "https://www.infobae.com/politica/2026/09/17/senado-con-el-apoyo-de-los-aliados-el-gobierno-logro-convertir-en-ley-la-inocencia-fiscal-ii/",
+        "imagen": "https://www.infobae.com/resizer/v2/X3L7MICJS5CLZAN4GDNZRVI2GE.jpg?auth=04d478f10ca924e46e463557dbd6f5682696b9bcddbd7deaf54c709a66f564de&smart=true&width=3188&height=1793",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 20:03:37 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:34:05 +0000"
       },
       {
         "titulo": "“Decisión arbitraria”: el fiscal Agüero Iturbe apeló el archivo de la causa FMI contra Macri, Caputo y Sturzenegger",
@@ -96,25 +96,25 @@
         "fecha": "Thu, 17 Sep 2026 17:05:00 -0300"
       },
       {
-        "titulo": "El desempleo fue del 7,9% en el segundo trimestre de 2026, según el INDEC",
-        "link": "https://www.clarin.com/economia/desempleo-79-segundo-trimestre-2026_0_vKw094gzeh.html",
-        "imagen": "https://www.clarin.com/img/2024/12/10/s0Ivl_GzM_1200x630__1.jpg",
+        "titulo": "“Hay un desacople entre la oferta de crédito y la demanda por parte de las pymes”",
+        "link": "https://www.clarin.com/economia/desacople-oferta-credito-demanda-parte-pymes_0_9TXB69xzuv.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/5AoZShn9c_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 19:04:24 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:19:59 +0000"
       },
       {
-        "titulo": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
-        "link": "https://www.c5n.com/economia/el-desempleo-subio-79-el-segundo-trimestre-2026-su-nivel-mas-alto-2021-n249211",
-        "imagen": "https://media.c5n.com/p/ec1cff715c1e1535e934ca6a8e5781bc/adjuntos/326/imagenes/000/371/0000371054/1200x675/smart/desempleo-argentina.jpg",
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 17 de septiembre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-17-septiembre-n249156",
+        "imagen": "https://media.c5n.com/p/e43322d214cdeb13f9c07854f0a1e342/adjuntos/326/imagenes/000/375/0000375704/1200x675/smart/dolar-blue-billetes-divisas-dolares.jpg",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 16:41:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 17:28:00 -0300"
       },
       {
-        "titulo": "Aumentó la desocupación al 7,9% en el segundo trimestre de 2026 y afecta a más de 1,7 millones de personas",
-        "link": "https://www.infobae.com/economia/2026/09/17/aumento-la-desocupacion-al-79-en-el-segundo-trimestre-de-2026-y-afecta-a-mas-de-17-millones-de-personas/",
-        "imagen": "https://www.infobae.com/resizer/v2/NLOFEIEDHRFXRIW4XHJS53IY4E.jpg?auth=e536e3fce61807b6be78a83525e3f1fbb5d86dc2f0c82cb605d8eb930926eab5&smart=true&width=880&height=512",
+        "titulo": "Mercados: subieron las acciones argentinas de la mano del rebote de Wall Street",
+        "link": "https://www.infobae.com/economia/2026/09/17/mercados-suben-las-acciones-y-los-bonos-argentinos-de-la-mano-del-rebote-de-wall-street/",
+        "imagen": "https://www.infobae.com/resizer/v2/QWKEUC2ASBETHAYW6B4XLQNV5M.JPG?auth=0ca9a9e4af930ee92a08b35f2cd304e00eff3a084c4d9c2a0ef02e95269680e7&smart=true&width=4784&height=3189",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:59:09 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:37:49 +0000"
       },
       {
         "titulo": "La Justicia le prohibió a Edesur cortarle la luz a una fábrica que recibió una factura de $174 millones",
@@ -131,25 +131,25 @@
         "fecha": "Thu, 17 Sep 2026 17:00:00 -0300"
       },
       {
-        "titulo": "Los industriales piden política de Estado: hay contrabando, dumping, subfacturación y elevada informalidad",
-        "link": "https://www.clarin.com/economia/industriales-piden-politica-estado-contrabando-dumping-subfacturacion-elevada-informalidad_0_f9SGhMbNYK.html",
-        "imagen": "https://www.clarin.com/img/2024/11/03/Zi4S6DyHs_1200x630__1.jpg",
+        "titulo": "La economía cayó 0,6% en el segundo trimestre y se achica el crecimiento de todo el año",
+        "link": "https://www.clarin.com/economia/economia-cayo-06-segundo-trimestre-achica-crecimiento-ano_0_W9SNmteEZH.html",
+        "imagen": "https://www.clarin.com/img/2024/04/05/YChGZO8Au_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:39:19 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:04:31 +0000"
       },
       {
-        "titulo": "La recuperación no se consolida: el PIB creció 2% interanual en el segundo trimestre pero cayó frente al primer trimestre",
-        "link": "https://www.c5n.com/economia/la-recuperacion-no-se-consolida-el-pib-crecio-2-interanual-el-segundo-trimestre-pero-cayo-frente-al-primer-trimestre-n249213",
-        "imagen": "https://media.c5n.com/p/6e7bf0ff3616c51ba76a3cc22ea504ec/adjuntos/326/imagenes/000/399/0000399373/1200x675/smart/captura.JPG",
+        "titulo": "El desempleo subió a 7,9% en el segundo trimestre de 2026, su nivel más alto desde 2021",
+        "link": "https://www.c5n.com/economia/el-desempleo-subio-79-el-segundo-trimestre-2026-su-nivel-mas-alto-2021-n249211",
+        "imagen": "https://media.c5n.com/p/ec1cff715c1e1535e934ca6a8e5781bc/adjuntos/326/imagenes/000/371/0000371054/1200x675/smart/desempleo-argentina.jpg",
         "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 16:27:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 16:41:00 -0300"
       },
       {
-        "titulo": "La economía argentina cayó 0,6% en el segundo trimestre de 2026: cuáles fueron los sectores más afectados",
-        "link": "https://www.infobae.com/economia/2026/09/17/la-economia-argentina-cayo-06-en-el-segundo-trimestre-de-2026-cuales-fueron-los-sectores-mas-afectados/",
-        "imagen": "https://www.infobae.com/resizer/v2/TDYSFKEVTFB53BMYKY2IIB6D7Q.png?auth=ccad09b6cd89db67457bfeb931bf54513353f715f981ec8c2790a3e822ff646e&smart=true&width=1408&height=768",
+        "titulo": "Aumentó la desocupación al 7,9% en el segundo trimestre de 2026 y afecta a más de 1,7 millones de personas",
+        "link": "https://www.infobae.com/economia/2026/09/17/aumento-la-desocupacion-al-79-en-el-segundo-trimestre-de-2026-y-afecta-a-mas-de-17-millones-de-personas/",
+        "imagen": "https://www.infobae.com/resizer/v2/NLOFEIEDHRFXRIW4XHJS53IY4E.jpg?auth=e536e3fce61807b6be78a83525e3f1fbb5d86dc2f0c82cb605d8eb930926eab5&smart=true&width=880&height=512",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:57:21 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:23:58 +0000"
       },
       {
         "titulo": "Caputo nombró dos funcionarios de rango que no cumplen con los requisitos mínimos para ocupar esos cargos",
@@ -166,11 +166,11 @@
         "fecha": "Thu, 17 Sep 2026 16:48:00 -0300"
       },
       {
-        "titulo": "Central Puerto sale del negocio minero con una ganancia millonaria",
-        "link": "https://www.clarin.com/energia-y-mineria/central-puerto-sale-negocio-minero-ganancia-millonaria_0_1L0UgUZiJq.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/ZV14EcCH5_1200x630__1.jpg",
+        "titulo": "En plena tensión con el Reino Unido por Malvinas, Argentina vuelve a tener vuelos de British Airways directos a Londres",
+        "link": "https://www.clarin.com/economia/plena-tension-reino-unido-malvinas-ezeiza-vuelve-tener-vuelos-british-airways-directos-londres_0_pLxPhqoERu.html",
+        "imagen": "https://www.clarin.com/img/2026/09/08/26AnMFr-9_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:08:41 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:41:29 +0000"
       }
     ],
     "deportes": [
@@ -200,7 +200,7 @@
         "link": "https://www.infobae.com/deportes/2026/09/17/en-vivo-presentan-a-marcelo-gallardo-como-nuevo-entrenador-de-la-seleccion-de-ecuador/",
         "imagen": "https://www.infobae.com/resizer/v2/H5Q3YNEMOZE57BJM6ENLUOYW2U.jpg?auth=1815d1bf6754f366b120614e49203334280a05b61ec44162b036c25e955c4d1d&smart=true&width=1200&height=675",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 20:10:18 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:37:50 +0000"
       },
       {
         "titulo": "Un set de tenis, título inesperado y pasaje histórico: cinco recordados cruces entre River y Huracán",
@@ -210,6 +210,13 @@
         "fecha": "Thu, 17 Sep 2026 15:39:38 -0300"
       },
       {
+        "titulo": "El platense Tirante palpitó la serie de Copa Davis ante Turquía: “Estoy listo por si me toca jugar”",
+        "link": "https://www.eldia.com/deportes/el-platense-thiago-tirante-palpito-la-serie-de-copa-davis-ante-turquia-estoy-listo-por-si-me-toca-jugar-deportes_1789677240",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Thu, 17 Sep 2026 20:34:53 GMT"
+      },
+      {
         "titulo": "Sin Miramón, Nicolás Barros Schelotto volverá a ser titular en Gimnasia",
         "link": "https://www.eldia.com/deportes/sin-miramon-nicolas-barros-schelotto-volvera-a-ser-titular-en-gimnasia-deportes_1789674720",
         "imagen": "",
@@ -217,18 +224,11 @@
         "fecha": "Thu, 17 Sep 2026 19:52:44 GMT"
       },
       {
-        "titulo": "\"Estos chicos tienen mucho talento\": el análisis de Alfaro tras el triunfo de Paraguay",
+        "titulo": "VIDEO | \"Estos chicos tienen mucho talento\": el análisis de Alfaro tras el triunfo de Paraguay",
         "link": "https://www.eldia.com/deportes/juegos-suramericanos-2026-el-analisis-de-gustavo-alfaro-tras-el-triunfo-de-la-sub-19-de-paraguay-ante-argentina-deportes_1789673580",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Thu, 17 Sep 2026 19:48:42 GMT"
-      },
-      {
-        "titulo": "Juegos Suramericanos: Matías Satas habló de la derrota ante Paraguay",
-        "link": "https://www.eldia.com/deportes/juegos-suramericanos-2026-matias-satas-hablo-sobre-la-derrota-de-la-sub-19-en-el-debut-ante-paraguay-esto-recien-empieza-deportes_1789670820",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Thu, 17 Sep 2026 19:26:03 GMT"
+        "fecha": "Thu, 17 Sep 2026 20:23:23 GMT"
       },
       {
         "titulo": "Fernando Muslera y un registro que ilusiona a Estudiantes: 20 vallas invictas en 28 partidos",
@@ -261,11 +261,11 @@
     ],
     "policiales_actualidad": [
       {
-        "titulo": "Es ginecólogo, está preso por abuso sexual y le pagará una millonaria suma de dinero a una paciente para no ser condenado otra vez",
-        "link": "https://www.clarin.com/policiales/ginecologo-preso-abuso-sexual-pagara-millonaria-suma-dinero-paciente-condenado-vez_0_SKsNJP0QZ1.html",
-        "imagen": "https://www.clarin.com/img/2026/04/30/686FOqYlP_1200x630__1.jpg",
+        "titulo": "Triple crimen de Florencio Varela: a días cumplirse un año del caso hay un nuevo acusado preso",
+        "link": "https://www.clarin.com/policiales/triple-crimen-florencio-varela-dias-cumplirse-ano-caso-nuevo-acusado-preso_0_Ntj7xoLGWn.html",
+        "imagen": "https://www.clarin.com/img/2025/09/25/St0AACldTd_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 09:02:02 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:44:19 +0000"
       },
       {
         "titulo": "Humedad en medianera: la Justicia de La Matanza dictaminó quién paga",
@@ -275,18 +275,18 @@
         "fecha": "Thu, 17 Sep 2026 16:40:00 -0300"
       },
       {
-        "titulo": "Encontraron a un nuevo sospechoso del triple crimen narco de Florencio Varela: estaba preso en una alcaidia porteña",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/encontraron-a-un-nuevo-sospechoso-del-triple-crimen-narco-de-florencio-varela-estaba-preso-en-una-alcaidia-portena/",
-        "imagen": "https://www.infobae.com/resizer/v2/AI2MVE56CFGHJM3CMTRRY35O6Q.png?auth=d24a9b57407df7bcb6da8551be142463c058362601e85d19e1c89834f61ed065&smart=true&width=1920&height=1080",
+        "titulo": "Es ginecólogo, está preso por abuso sexual y acordó pagar $30 millones a otra víctima para evitar un segundo juicio",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/es-ginecologo-esta-preso-por-abuso-sexual-y-acordo-pagar-30-millones-a-otra-victima-para-evitar-un-segundo-juicio/",
+        "imagen": "https://www.infobae.com/resizer/v2/AEKQHEPATREIFEAD55RAZ342JU.jpg?auth=e1d896842d03ad3de02763ed86ecd4b5acab4d413bf096d2b84c704c4d197c57&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:53:44 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:34:33 +0000"
       },
       {
-        "titulo": "La vida al límite de un ex pandillero en la Medellín de Pablo Escobar: \"Dentro de lo malo que fui, fui bueno\"",
-        "link": "https://www.clarin.com/policiales/vida-limite-ex-pandillero-medellin-pablo-escobar-dentro-malo-bueno_0_yCqAerUQo9.html",
-        "imagen": "https://www.clarin.com/img/2026/09/07/vtbhh-bkW_1200x630__1.jpg",
+        "titulo": "Juicio por Loan: el jefe de Bomberos aseguró que fueron \"engañados\" y descartó un accidente",
+        "link": "https://www.clarin.com/policiales/juicio-loan-jefe-bomberos-aseguro-enganados-descarto-accidente_0_D1QSQxq7se.html",
+        "imagen": "https://www.clarin.com/img/2024/07/08/_-XKK8a4z_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 09:02:02 +0000"
+        "fecha": "Thu, 17 Sep 2026 19:06:00 +0000"
       },
       {
         "titulo": "Otra empresa que quiebra y deja más empleados en la calle: \"No cobramos desde julio\"",
@@ -296,18 +296,18 @@
         "fecha": "Thu, 17 Sep 2026 12:00:00 -0300"
       },
       {
-        "titulo": "Una pareja de Rosario fue acusada de darle cocaína a su hijo de 5 años: ya tuvo tres internaciones por ingesta de droga",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/una-pareja-de-rosario-fue-acusada-de-darle-cocaina-a-su-hijo-de-5-anos-ya-tuvo-tres-internaciones-por-ingesta-de-droga/",
-        "imagen": "https://www.infobae.com/resizer/v2/JMOUSYHTIVBTDFO6BU5EFV4GYM.jpg?auth=f1f8e6ba62d594db090ef13879429965b46fc953a75df2f3cf5f99fcb888f458&smart=true&width=1920&height=1080",
+        "titulo": "Encontraron a un nuevo sospechoso del triple crimen narco de Florencio Varela: estaba preso en una alcaidia porteña",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/encontraron-a-un-nuevo-sospechoso-del-triple-crimen-narco-de-florencio-varela-estaba-preso-en-una-alcaidia-portena/",
+        "imagen": "https://www.infobae.com/resizer/v2/AI2MVE56CFGHJM3CMTRRY35O6Q.png?auth=d24a9b57407df7bcb6da8551be142463c058362601e85d19e1c89834f61ed065&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 18:35:04 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:33:31 +0000"
       },
       {
-        "titulo": "Ituzaingó: una mujer de 70 años vendía cadenas de oro falsas, fue detenida e hizo un insólito planteo a la Justicia",
-        "link": "https://www.clarin.com/policiales/ituzaingo-mujer-70-anos-vendia-cadenas-oro-falsas-detenida-hizo-insolito-planteo-justicia_0_EATXi2ZdvD.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/0wLBHxxYb_1200x630__1.jpg",
+        "titulo": "Tras la viralización de una foto, la Justicia investigó en un hotel: Facundo Moyano se hospedó 11 días, pero no hay registros de Candela Arizaga",
+        "link": "https://www.clarin.com/policiales/viralizacion-foto-justicia-investigo-hotel-facundo-moyano-hospedo-11-dias-registros-candela-arizaga_0_OiGwhgzmSQ.html",
+        "imagen": "https://www.clarin.com/img/2026/08/04/Xzqs2IHcS_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 08:17:37 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:53:23 +0000"
       },
       {
         "titulo": "Escuchó gritos mientras estaba sola y descubrió que sus vecinos hacían un exorcismo",
@@ -317,18 +317,18 @@
         "fecha": "Thu, 17 Sep 2026 10:32:00 -0300"
       },
       {
-        "titulo": "Quedó libre por la nueva ley penal juvenil el asesino confeso de Santiago Urbani: los argumentos del juez para soltarlo 2 años antes",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/quedo-libre-por-la-nueva-ley-penal-juvenil-el-asesino-confeso-de-santiago-urbani-los-argumentos-del-juez-para-soltarlo-2-anos-antes/",
-        "imagen": "https://www.infobae.com/resizer/v2/452AXAOHGBAKFJ72B3UWDSSTVQ.jpg?auth=3cbdedf695945582b66edcb4ca5076dcf539ef9a6607661a768dcee99a8179c1&smart=true&width=1920&height=1977",
+        "titulo": "Una pareja de Rosario fue acusada de darle cocaína a su hijo de 5 años: ya tuvo tres internaciones por ingesta de droga",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/una-pareja-de-rosario-fue-acusada-de-darle-cocaina-a-su-hijo-de-5-anos-ya-tuvo-tres-internaciones-por-ingesta-de-droga/",
+        "imagen": "https://www.infobae.com/resizer/v2/JMOUSYHTIVBTDFO6BU5EFV4GYM.jpg?auth=f1f8e6ba62d594db090ef13879429965b46fc953a75df2f3cf5f99fcb888f458&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 17:58:29 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:35:04 +0000"
       },
       {
-        "titulo": "Cayó la banda que habría baleado al excomisario en El Palomar: uno de los sospechosos tiene 14 años",
-        "link": "https://www.clarin.com/policiales/cayo-banda-baleado-excomisario-palomar-sospechosos-14-anos_0_tvTt0wi7vK.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/iRVUB49ID_1200x630__1.jpg",
+        "titulo": "Es ginecólogo, está preso por abuso sexual y le pagará una millonaria suma de dinero a una paciente para no ser condenado otra vez",
+        "link": "https://www.clarin.com/policiales/ginecologo-preso-abuso-sexual-pagara-millonaria-suma-dinero-paciente-condenado-vez_0_SKsNJP0QZ1.html",
+        "imagen": "https://www.clarin.com/img/2026/04/30/686FOqYlP_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 05:27:21 +0000"
+        "fecha": "Thu, 17 Sep 2026 09:02:02 +0000"
       },
       {
         "titulo": "Juicio por la muerte de Diego Maradona: declaran dos peritos de parte de Leopoldo Luque y Agustina Cosachov",
@@ -338,11 +338,11 @@
         "fecha": "Thu, 17 Sep 2026 09:03:00 -0300"
       },
       {
-        "titulo": "Juicio por Loan: cinco testigos declararon sobre los rastrillajes, el hallazgo de celulares y la camioneta de dos de los imputados",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/juicio-por-loan-pena-en-vivo-las-ultimas-noticias-de-hoy-17-de-septiembre-minuto-a-minuto/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
+        "titulo": "Quedó libre por la nueva ley penal juvenil el asesino confeso de Santiago Urbani: los argumentos del juez para soltarlo 2 años antes",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/quedo-libre-por-la-nueva-ley-penal-juvenil-el-asesino-confeso-de-santiago-urbani-los-argumentos-del-juez-para-soltarlo-2-anos-antes/",
+        "imagen": "https://www.infobae.com/resizer/v2/452AXAOHGBAKFJ72B3UWDSSTVQ.jpg?auth=3cbdedf695945582b66edcb4ca5076dcf539ef9a6607661a768dcee99a8179c1&smart=true&width=1920&height=1977",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 17:55:31 +0000"
+        "fecha": "Thu, 17 Sep 2026 17:58:29 +0000"
       }
     ],
     "internacional": [
@@ -361,18 +361,18 @@
         "fecha": "Thu, 17 Sep 2026 15:51:00 -0300"
       },
       {
-        "titulo": "El hermano de Lady Di afirma en su libro que la princesa se separó de Carlos porque el futuro rey \"estaba enamorado de su valet\"",
-        "link": "https://www.clarin.com/mundo/hermano-lady-di-afirma-libro-princesa-separo-carlos-futuro-rey-enamorado-valet_0_AomoKO8IPn.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/yrNwywJSw_1200x630__1.jpg",
+        "titulo": "Escándalo en Madrid: Isabel Díaz Ayuso pagó con dinero público 6,3 millones de euros por un departamento que ahora quiere vender y nadie compra",
+        "link": "https://www.clarin.com/mundo/escandalo-madrid-isabel-diaz-ayuso-pago-dinero-publico-63-millones-euros-departamento-ahora-quiere-vender-nadie-compra_0_8sLofgISqM.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/3OwImO5n__1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:34:42 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:00:06 +0000"
       },
       {
-        "titulo": "Diputada de oposición en Guatemala, Sonia Gutiérrez, presenta una Ley del Bono Temporal de Emergencia Familiar en respuesta a la sequía",
-        "link": "https://www.infobae.com/guatemala/2026/09/17/diputada-de-oposicion-en-guatemala-sonia-gutierrez-presenta-una-ley-del-bono-temporal-de-emergencia-familiar-en-respuesta-a-la-sequia/",
-        "imagen": "https://www.infobae.com/resizer/v2/ABT7PSJYZVG35IOUESNNDF6HLE.png?auth=21822300b05c1e32997deed8fa9a836c3c02eb5437079a4e6ee015f47236ef31&smart=true&width=1536&height=1024",
+        "titulo": "Christiansen renueva a Panamá con 13 cambios para iniciar su ciclo hacia el Mundial 2030",
+        "link": "https://www.infobae.com/panama/2026/09/17/christiansen-renueva-a-panama-con-13-cambios-para-iniciar-su-ciclo-hacia-el-mundial-2030/",
+        "imagen": "https://www.infobae.com/resizer/v2/UFUTE5SURRHMTBUTZBIABWNU3U.png?auth=c2858e415aeb41d71f7a69595ff18683b616b5ffa327a2b1e97e5838825d612a&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:52:13 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:27:55 +0000"
       },
       {
         "titulo": "La ONU consideró que existen motivos para creer que EEUU cometió crímenes de guerra en Irán",
@@ -389,18 +389,18 @@
         "fecha": "Thu, 17 Sep 2026 15:35:00 -0300"
       },
       {
-        "titulo": "Guerra espacial: los asesores militares de Donald Trump quieren que sus tropas se preparen para combatir alrededor de la Luna",
-        "link": "https://www.clarin.com/mundo/guerra-espacial-asesores-militares-donald-trump-quieren-tropas-preparen-combatir-alrededor-luna_0_rJeNKgKOw6.html",
-        "imagen": "https://www.clarin.com/img/2020/03/10/bZzN7QDrE_1200x630__1.jpg",
+        "titulo": "El hermano de Lady Di afirma en su libro que la princesa se separó de Carlos porque el futuro rey \"estaba enamorado de su valet\"",
+        "link": "https://www.clarin.com/mundo/hermano-lady-di-afirma-libro-princesa-separo-carlos-futuro-rey-enamorado-valet_0_AomoKO8IPn.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/yrNwywJSw_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:00:05 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:34:42 +0000"
       },
       {
-        "titulo": "En Panamá la violencia recrudece en la provincia atlántica de Colón",
-        "link": "https://www.infobae.com/panama/2026/09/17/en-panama-la-violencia-recrudece-en-la-provincia-atlantica-de-colon/",
-        "imagen": "https://www.infobae.com/resizer/v2/ITS355LQGRDQNJ6SOHEPT3BJ7Y.png?auth=04d4ea49ace47ea6076a5671e5143bc9ebf2d289198393ce6ca3ef36a8430c7d&smart=true&width=1408&height=768",
+        "titulo": "Panamá Black Weekend busca superar los $85 millones en su octava edición",
+        "link": "https://www.infobae.com/panama/2026/09/17/panama-black-weekend-busca-superar-los-85-millones-en-su-octava-edicion/",
+        "imagen": "https://www.infobae.com/resizer/v2/ENECNBQLMBARTOB2SGYRGTA3OA.png?auth=a6ddaa6667daf8dc9d74c62109d51c61ca5ff9c3f7841ea869285f16af49df51&smart=true&width=1408&height=768",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:44:37 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:24:56 +0000"
       },
       {
         "titulo": "Lula da Silva, duro con Flavio Bolsonaro: \"Brasil no soporta políticos que de día muestran la bandera y de noche se ponen en cuatro para EEUU\"",
@@ -417,18 +417,18 @@
         "fecha": "Thu, 17 Sep 2026 13:12:00 -0300"
       },
       {
-        "titulo": "Lula da Silva anuncia un aumento en las ayudas sociales en medio de la campaña y enciende alarmas en el mercado",
-        "link": "https://www.clarin.com/mundo/lula-da-silva-anuncia-aumento-ayudas-sociales-medio-campana-enciende-alarmas-mercado_0_g7GQdbGAmi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/YGvZaadci_1200x630__1.jpg",
+        "titulo": "Guerra espacial: los asesores militares de Donald Trump quieren que sus tropas se preparen para combatir alrededor de la Luna",
+        "link": "https://www.clarin.com/mundo/guerra-espacial-asesores-militares-donald-trump-quieren-tropas-preparen-combatir-alrededor-luna_0_rJeNKgKOw6.html",
+        "imagen": "https://www.clarin.com/img/2020/03/10/bZzN7QDrE_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 16:57:12 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:00:05 +0000"
       },
       {
-        "titulo": "La Sociedad de las Américas otorgará a Luis Abinader su Insignia de Oro en Nueva York",
-        "link": "https://www.infobae.com/republica-dominicana/2026/09/17/la-sociedad-de-las-americas-otorgara-a-luis-abinader-su-insignia-de-oro-en-nueva-york/",
-        "imagen": "https://www.infobae.com/resizer/v2/RZIHURFRI5GRHDVRURGHQSHTCM.jpeg?auth=95f62be30f7d3a0e2e43fc5b3093c6de285a01ba7906a873acf97bc7e6a90e39&smart=true&width=4160&height=2979",
+        "titulo": "Quién es Palmer Luckey, el empresario de Silicon Valley que quiere transformar la industria de defensa de Estados Unidos",
+        "link": "https://www.infobae.com/america/mundo/2026/09/17/quien-es-palmer-luckey-el-empresario-de-silicon-valley-que-quiere-transformar-la-industria-de-defensa-de-estados-unidos/",
+        "imagen": "https://www.infobae.com/resizer/v2/Y6T7NR5GZFDFNIR4FMEDEYKNCA.jpg?auth=29a4ec39a6cf6659d24daed47143c475c2f4836a47de76ab8a0cd14b54d1ebb7&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 19:43:05 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:18:23 +0000"
       }
     ],
     "espectaculos": [
@@ -447,18 +447,18 @@
         "fecha": "Thu, 17 Sep 2026 17:01:00 -0300"
       },
       {
-        "titulo": "Madonna vuelve a los Premios MTV 23 años después de su polémica presentación a los besos con Britney Spears y Christina Aguilera",
-        "link": "https://www.clarin.com/espectaculos/madonna-vuelve-premios-mtv-23-anos-despues-polemica-presentacion-besos-britney-spears-christina-aguilera_0_VaIiC2IRpL.html",
-        "imagen": "https://www.clarin.com/img/2023/10/23/tjSsf4PXd_1200x630__1.jpg",
+        "titulo": "Ed Sheeran pide que se donen u$s2 millones para ayuda humanitaria: ¿Y por qué no los pone él?",
+        "link": "https://www.clarin.com/espectaculos/ed-sheeran-pide-donen-us2-millones-ayuda-humanitaria-pone_0_twArp4PXKn.html",
+        "imagen": "https://www.clarin.com/img/2023/05/03/APkhS3wi8_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 18:23:00 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:08:35 +0000"
       },
       {
-        "titulo": "Las vacaciones de Sol Pérez en el Caribe: entrenamiento al amanecer, juegos en la pileta con Marco y mensajes de amor",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/las-vacaciones-de-sol-perez-en-el-caribe-entrenamiento-al-amanecer-juegos-en-la-pileta-con-marco-y-mensajes-de-amor/",
-        "imagen": "https://www.infobae.com/resizer/v2/AXFDZY76PRGPRD6IUKYNHT5YRY.png?auth=eff74f0954a44463a9cad6f57d620e90ce04f3777ffc7fd537ae9024adca0f92&smart=true&width=1920&height=1080",
+        "titulo": "La China Suárez aprovechó los primeros calores y se lució en bikini a pleno sol: “Estoy buenísima”",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/la-china-suarez-aprovecho-los-primeros-calores-y-se-lucio-en-bikini-a-pleno-sol/",
+        "imagen": "https://www.infobae.com/resizer/v2/7C6TQ3JLYJCVNMGXNIHNB2LOLU.png?auth=127c3ed772420268a5015ebec837ebbb8a4679b0af3436631bb422f59bed9697&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 20:11:09 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:13:52 +0000"
       },
       {
         "titulo": "Netflix presentó el tráiler de \"Tyson\", su nueva serie documental sobre la leyenda del boxeo",
@@ -475,18 +475,18 @@
         "fecha": "Thu, 17 Sep 2026 16:33:00 -0300"
       },
       {
-        "titulo": "Millie Bobby Brown adoptó a su segundo hijo, a los 22 años",
-        "link": "https://www.clarin.com/espectaculos/millie-bobby-brown-adopto-segundo-hijo-22-anos_0_JtQi2c2FaD.html",
-        "imagen": "https://www.clarin.com/img/2025/08/21/HoLjJ2GMx_1200x630__1.jpg",
+        "titulo": "Madonna vuelve a los Premios MTV 23 años después de su polémica presentación a los besos con Britney Spears y Christina Aguilera",
+        "link": "https://www.clarin.com/espectaculos/madonna-vuelve-premios-mtv-23-anos-despues-polemica-presentacion-besos-britney-spears-christina-aguilera_0_VaIiC2IRpL.html",
+        "imagen": "https://www.clarin.com/img/2023/10/23/tjSsf4PXd_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 17:58:18 +0000"
+        "fecha": "Thu, 17 Sep 2026 18:23:00 +0000"
       },
       {
-        "titulo": "La China Suárez aprovechó los primeros calores y se lució en bikini a pleno sol: “Estoy buenísima”",
-        "link": "https://www.infobae.com/teleshow/2026/09/17/la-china-suarez-aprovecho-los-primeros-calores-y-se-lucio-en-bikini-a-pleno-sol/",
-        "imagen": "https://www.infobae.com/resizer/v2/7C6TQ3JLYJCVNMGXNIHNB2LOLU.png?auth=127c3ed772420268a5015ebec837ebbb8a4679b0af3436631bb422f59bed9697&smart=true&width=2752&height=1536",
+        "titulo": "Las vacaciones de Sol Pérez en el Caribe: entrenamiento al amanecer, juegos en la pileta con Marco y mensajes de amor",
+        "link": "https://www.infobae.com/teleshow/2026/09/17/las-vacaciones-de-sol-perez-en-el-caribe-entrenamiento-al-amanecer-juegos-en-la-pileta-con-marco-y-mensajes-de-amor/",
+        "imagen": "https://www.infobae.com/resizer/v2/AXFDZY76PRGPRD6IUKYNHT5YRY.png?auth=eff74f0954a44463a9cad6f57d620e90ce04f3777ffc7fd537ae9024adca0f92&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 20:02:03 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:11:09 +0000"
       },
       {
         "titulo": "Madonna actuará en los MTV Video Music Awards por primera vez en más de 20 años",
@@ -503,11 +503,11 @@
         "fecha": "Thu, 17 Sep 2026 16:03:00 -0300"
       },
       {
-        "titulo": "Hernán Drago: la historia del modelo que sufrió bullying y que llegó a la TV con programa... y con tanda publicitaria",
-        "link": "https://www.clarin.com/espectaculos/hernan-drago-historia-modelo-sufrio-bullying-llego-tv-programa-tanda-publicitaria_0_Z50R6F0vG1.html",
-        "imagen": "https://www.clarin.com/img/2024/08/23/CXJGhyM6E_1200x630__1.jpg",
+        "titulo": "Millie Bobby Brown adoptó a su segundo hijo, a los 22 años",
+        "link": "https://www.clarin.com/espectaculos/millie-bobby-brown-adopto-segundo-hijo-22-anos_0_JtQi2c2FaD.html",
+        "imagen": "https://www.clarin.com/img/2025/08/21/HoLjJ2GMx_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 16:30:11 +0000"
+        "fecha": "Thu, 17 Sep 2026 17:58:18 +0000"
       },
       {
         "titulo": "Peonía azul, acuarela y firma manuscrita: qué simbolizan los detalles de la invitación a la boda de Tini Stoessel y Rodrigo De Paul",
@@ -533,11 +533,11 @@
         "fecha": "Thu, 17 Sep 2026 15:21:00 -0300"
       },
       {
-        "titulo": "Mark Zuckerberg descarta frenar la carrera de la IA: “La gente no querrá usar modelos que no se ajusten a sus intereses”",
-        "link": "https://www.infobae.com/tecno/2026/09/17/mark-zuckerberg-descarta-frenar-la-carrera-de-la-ia-la-gente-no-querra-usar-modelos-que-no-se-ajusten-a-sus-intereses/",
-        "imagen": "https://www.infobae.com/resizer/v2/S4CEHPYS2BFWHLOR4EMKQ3O4BM.jpg?auth=d8e4e44889993d3c21d026a0a7bd6007ddff4783a19a9f9df7eead14359e7561&smart=true&width=1920&height=1280",
+        "titulo": "Pese a los riesgos, Bill Gates cree que la IA “ayudará a producir suficientes alimentos y erradicar enfermedades”",
+        "link": "https://www.infobae.com/tecno/2026/09/17/pese-a-los-riesgos-bill-gates-cree-que-la-ia-ayudara-a-producir-suficientes-alimentos-y-erradicar-enfermedades/",
+        "imagen": "https://www.infobae.com/resizer/v2/ONU4672PP5XOENNSPYAOOXTGLM.jpg?auth=043f61152851494d56205a432870ff92247f5077f879e28ec764cbd595b27a51&smart=true&width=5500&height=3667",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 20:01:59 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:27:08 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,6 +545,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
+      },
+      {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -561,11 +568,11 @@
         "fecha": "Wed, 16 Sep 2026 16:05:00 -0300"
       },
       {
-        "titulo": "La IA ahora toman decisiones y deja de lado solo la redacción de correos en las empresas",
-        "link": "https://www.infobae.com/tecno/2026/09/17/la-ia-ahora-toman-decisiones-y-deja-de-lado-solo-la-redaccion-de-correos-en-las-empresas/",
-        "imagen": "https://www.infobae.com/resizer/v2/ACP2NTRBNVBPPDHQSXKDOMOPXY.png?auth=de2443f02786e7fb1527634e69bb5bb132ae9930acf65ae1896b4fd15ab55c26&smart=true&width=1408&height=768",
+        "titulo": "Mark Zuckerberg descarta frenar la carrera de la IA: “La gente no querrá usar modelos que no se ajusten a sus intereses”",
+        "link": "https://www.infobae.com/tecno/2026/09/17/mark-zuckerberg-descarta-frenar-la-carrera-de-la-ia-la-gente-no-querra-usar-modelos-que-no-se-ajusten-a-sus-intereses/",
+        "imagen": "https://www.infobae.com/resizer/v2/S4CEHPYS2BFWHLOR4EMKQ3O4BM.jpg?auth=d8e4e44889993d3c21d026a0a7bd6007ddff4783a19a9f9df7eead14359e7561&smart=true&width=1920&height=1280",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 19:59:12 +0000"
+        "fecha": "Thu, 17 Sep 2026 20:01:59 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -573,6 +580,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
+      },
+      {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -587,20 +601,6 @@
         "imagen": "",
         "fuente": "C5N",
         "fecha": "Wed, 16 Sep 2026 15:43:00 -0300"
-      },
-      {
-        "titulo": "Epic Games regala dos juegos que acaban de estrenarse en su tienda",
-        "link": "https://www.infobae.com/tecno/2026/09/17/epic-games-regala-dos-juegos-que-acaban-de-estrenarse-en-su-tienda/",
-        "imagen": "https://www.infobae.com/resizer/v2/VWK77ZEPU5FKFBE4WUL4GCTCUM.JPG?auth=6c498107b3e7e3cd33d49c30d74adfa8e0d28bdcf116e087283378195297f79c&smart=true&width=3500&height=2300",
-        "fuente": "Infobae Tecno",
-        "fecha": "Thu, 17 Sep 2026 19:45:32 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -821,11 +821,11 @@
     ],
     "local": [
       {
-        "titulo": "De la mano de Giro 360 y No Juegan con Nadie, la tarde de 0221 Play sigue a pura info y entretenimiento",
-        "link": "https://www.0221.com.ar/la-plata/de-la-mano-giro-360-y-no-juegan-nadie-la-tarde-0221-play-sigue-pura-info-y-entretenimiento-n134367",
-        "imagen": "https://media.0221.com.ar/p/4d52b871407216f4b8840f7b9b77d693/adjuntos/357/imagenes/100/275/0100275473/1200x630/smart/portada-giro-360.png",
+        "titulo": "Conmoción en La Plata: un hombre falleció tras descompensarse en una concesionaria",
+        "link": "https://www.0221.com.ar/la-plata/conmocion-la-plata-un-hombre-fallecio-descompensarse-una-concesionaria-n134376",
+        "imagen": "https://media.0221.com.ar/p/d9d90b666699f0a7cbfa7e47873b0370/adjuntos/357/imagenes/100/187/0100187093/1200x630/2308x1708:2328x1728/ambulancias-5jpg.jpg",
         "fuente": "0221",
-        "fecha": "Thu, 17 Sep 2026 16:29:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 17:28:00 -0300"
       },
       {
         "titulo": "Docentes universitarios anunciaron paros y una nueva Marcha Federal para el 15 de octubre",
@@ -842,18 +842,18 @@
         "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
       },
       {
-        "titulo": "Universidades: anunciaron un paro de 48 horas y una nueva marcha federal",
-        "link": "https://www.eldia.com/politica-y-economia/no-hubo-acuerdo-en-la-paritaria-universitaria-anunciarian-mas-paros-y-preparan-la-marcha-federal-politica-y-economia-la-ciudad_1789666140",
+        "titulo": "El platense Tirante palpitó la serie de Copa Davis ante Turquía: “Estoy listo por si me toca jugar”",
+        "link": "https://www.eldia.com/deportes/el-platense-thiago-tirante-palpito-la-serie-de-copa-davis-ante-turquia-estoy-listo-por-si-me-toca-jugar-deportes_1789677240",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 20:14:01 GMT"
+        "fecha": "Thu, 17 Sep 2026 20:34:53 GMT"
       },
       {
-        "titulo": "Comprar una casa sin ir al banco: el nuevo invento de Yacoub que cambiará las reglas de los hipotecarios",
-        "link": "https://www.0221.com.ar/la-plata/comprar-una-casa-ir-el-banco-el-nuevo-invento-yacoub-que-cambiara-las-reglas-los-hipotecarios-n134356",
-        "imagen": "https://media.0221.com.ar/p/0c62299d4bb5c411bcafda3fabb9ed7f/adjuntos/357/imagenes/100/296/0100296346/1200x630/712x532:732x552/calculadora-cuentas-creditos.png",
+        "titulo": "De la mano de Giro 360 y No Juegan con Nadie, la tarde de 0221 Play sigue a pura info y entretenimiento",
+        "link": "https://www.0221.com.ar/la-plata/de-la-mano-giro-360-y-no-juegan-nadie-la-tarde-0221-play-sigue-pura-info-y-entretenimiento-n134367",
+        "imagen": "https://media.0221.com.ar/p/4d52b871407216f4b8840f7b9b77d693/adjuntos/357/imagenes/100/275/0100275473/1200x630/smart/portada-giro-360.png",
         "fuente": "0221",
-        "fecha": "Thu, 17 Sep 2026 16:06:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 16:29:00 -0300"
       },
       {
         "titulo": "Fracasó la paritaria de los docentes universitarios y toma fuerza una nueva Marcha Federal en octubre",
@@ -870,18 +870,18 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "\"Estos chicos tienen mucho talento\": el análisis de Alfaro tras el triunfo de Paraguay",
-        "link": "https://www.eldia.com/deportes/juegos-suramericanos-2026-el-analisis-de-gustavo-alfaro-tras-el-triunfo-de-la-sub-19-de-paraguay-ante-argentina-deportes_1789673580",
+        "titulo": "Universidades: anunciaron un paro de 48 horas y una nueva marcha federal",
+        "link": "https://www.eldia.com/politica-y-economia/no-hubo-acuerdo-en-la-paritaria-universitaria-anunciarian-mas-paros-y-preparan-la-marcha-federal-politica-y-economia-la-ciudad_1789666140",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 19:48:42 GMT"
+        "fecha": "Thu, 17 Sep 2026 20:31:50 GMT"
       },
       {
-        "titulo": "La llegada de BTS a La Plata ya pone en marcha la organización de un operativo para 150 mil personas",
-        "link": "https://www.0221.com.ar/la-plata/la-llegada-bts-la-plata-ya-pone-marcha-la-organizacion-un-operativo-150-mil-personas-n134363",
-        "imagen": "https://media.0221.com.ar/p/e24d853b20d5fee242ae31c5da917633/adjuntos/357/imagenes/100/278/0100278765/1200x630/926x825:946x845/bts.jpg",
+        "titulo": "Comprar una casa sin ir al banco: el nuevo invento de Yacoub que cambiará las reglas de los hipotecarios",
+        "link": "https://www.0221.com.ar/la-plata/comprar-una-casa-ir-el-banco-el-nuevo-invento-yacoub-que-cambiara-las-reglas-los-hipotecarios-n134356",
+        "imagen": "https://media.0221.com.ar/p/0c62299d4bb5c411bcafda3fabb9ed7f/adjuntos/357/imagenes/100/296/0100296346/1200x630/712x532:732x552/calculadora-cuentas-creditos.png",
         "fuente": "0221",
-        "fecha": "Thu, 17 Sep 2026 15:57:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 16:06:00 -0300"
       },
       {
         "titulo": "Los docentes de la UNLP vuelven a parar y se movilizan en reclamo de un aumento salarial del 33%",
@@ -898,11 +898,11 @@
         "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "Juegos Suramericanos: Matías Satas habló de la derrota ante Paraguay",
-        "link": "https://www.eldia.com/deportes/juegos-suramericanos-2026-matias-satas-hablo-sobre-la-derrota-de-la-sub-19-en-el-debut-ante-paraguay-esto-recien-empieza-deportes_1789670820",
+        "titulo": "VIDEO | \"Estos chicos tienen mucho talento\": el análisis de Alfaro tras el triunfo de Paraguay",
+        "link": "https://www.eldia.com/deportes/juegos-suramericanos-2026-el-analisis-de-gustavo-alfaro-tras-el-triunfo-de-la-sub-19-de-paraguay-ante-argentina-deportes_1789673580",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 19:26:03 GMT"
+        "fecha": "Thu, 17 Sep 2026 20:23:23 GMT"
       }
     ]
   }
