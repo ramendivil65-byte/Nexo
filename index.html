@@ -654,7 +654,7 @@ const canalesVideo = [
 const canalesRadio = [
   { nombre: "Radio Mitre", sigla: "MITRE", color: "#0D2B69", url: "https://www.youtube.com/@Radiomitre" },
   { nombre: "Radio 10", sigla: "R10", color: "#141414", url: "https://www.youtube.com/@Radio10am/live" },
-  { nombre: "El Destape Radio", sigla: "DESTAPE", color: "#1A3D8F", url: "https://www.youtube.com/channel/UCgOvQwLB387CWMrseINhyCg" },
+  { nombre: "El Destape Radio", sigla: "DESTAPE", color: "#1A3D8F", url: "https://www.youtube.com/@eldestapetv/live" },
   { nombre: "Radio Rivadavia", sigla: "RIVA", color: "#B4141E", url: "https://www.youtube.com/radiorivadaviaam630" },
   { nombre: "Radio Provincia", sigla: "PBA", color: "#0096DC", url: "https://www.youtube.com/@provincia1270" }
 ];
@@ -966,14 +966,9 @@ setInterval(cargarCotizacionesReales, 15 * 60 * 1000);
 setInterval(actualizarVideo, 5000);
 setInterval(actualizarRadio, 5500);
 
-// ---- Música de fondo: arranca sola con el primer clic en cualquier parte de la página ----
-const musicaFondo = document.getElementById("musica-fondo");
-function arrancarMusica() {
-  musicaFondo.volume = 0.35;
-  musicaFondo.play().catch(() => {});
-  document.removeEventListener("click", arrancarMusica);
-}
-document.addEventListener("click", arrancarMusica);
+// ---- Música de fondo: DESACTIVADA a pedido ----
+// (se dejó el <audio> en el HTML por si se quiere reactivar más adelante,
+// pero no se dispara ningún evento que la haga sonar)
 
 // ---- Suscripción al newsletter: se queda en la página en vez de mandarte a Brevo ----
 const formSuscripcion = document.getElementById("form-suscripcion");
