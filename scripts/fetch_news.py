@@ -107,6 +107,23 @@ REQUEST_HEADERS = {
 
 IMG_TAG_RE = re.compile(r'<img[^>]+src="([^"]+)"', re.IGNORECASE)
 
+# Palabras que indican que una noticia es policial/de inseguridad. Se usan
+# para filtrar la categoría "local", que trae feeds generales (no solo de
+# un tema) y por eso puede traer alguna nota de este tipo mezclada.
+PALABRAS_POLICIALES = [
+    "polic", "robo", "robó", "robaron", "asalto", "asaltaron", "asesinato",
+    "asesinaron", "homicidio", "crimen", "detuvieron", "detenido", "preso",
+    "condena", "condenaron", "juicio", "fiscal", "femicidio", "balacera",
+    "tiroteo", "secuestro", "narco", "droga", "cárcel", "delito", "hurto",
+    "arma de fuego", "puñalada", "apuñal",
+]
+
+
+def es_noticia_policial(titulo: str) -> bool:
+    titulo_lower = titulo.lower()
+    return any(palabra in titulo_lower for palabra in PALABRAS_POLICIALES)
+
+
 
 def limpiar_texto(texto: str) -> str:
     """Saca tags HTML y espacios de más de un título/resumen de RSS."""
@@ -160,6 +177,8 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
         for entry in feed.entries[:limite]:
             titulo = limpiar_texto(entry.get("title", ""))
             if not titulo:
+                continue
+            if nombre_categoria == "local" and es_noticia_policial(titulo):
                 continue
             items.append(
                 {
