@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T05:56:59.198956+00:00",
+  "actualizado": "2026-09-17T06:24:49.759632+00:00",
   "categorias": {
     "politica": [
       {
@@ -8,13 +8,6 @@
         "imagen": "https://media.ambito.com/p/f54c31419d769e445fe7e46f4d7948f8/adjuntos/239/imagenes/043/647/0043647841/1200x675/smart/jorge-macri-jpg.jpeg",
         "fuente": "Ámbito",
         "fecha": "Wed, 16 Sep 2026 20:26:00 -0300"
-      },
-      {
-        "titulo": "Jones Huala fue condenado a más de cinco años de prisión y seguirá preso hasta 2030",
-        "link": "https://www.clarin.com/politica/jones-huala-condenado-anos-prision-seguira-preso-2030_0_HhMaKRT40Q.html",
-        "imagen": "https://www.clarin.com/img/2025/01/19/G_yXQYzVP_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 04:37:48 +0000"
       },
       {
         "titulo": "Donald Trump ordenó cerrar el Centro Kennedy tras otro revés judicial por el cambio de nombre",
@@ -31,11 +24,11 @@
         "fecha": "Wed, 16 Sep 2026 19:46:00 -0300"
       },
       {
-        "titulo": "Misiones buscará desdoblar las elecciones provinciales y ya analizan en qué fechas se pueden realizar",
-        "link": "https://www.infobae.com/politica/2026/09/17/misiones-buscara-desdoblar-las-elecciones-provinciales-y-ya-analizan-en-que-fechas-se-pueden-realizar/",
-        "imagen": "https://www.infobae.com/resizer/v2/XNI3XBW4XZFJDMOS4ZBFUGJNKU.jpg?auth=e92e51bf90d27386d10d1ea8db1ceed9717015ef2523534af817c51402972519&smart=true&width=786&height=442",
+        "titulo": "Ernesto Sanz habló de las elecciones 2027: \"La reelección de Milei no es un hecho, es un relato del Gobierno\"",
+        "link": "https://www.infobae.com/politica/2026/09/17/ernesto-sanz-hablo-de-las-elecciones-2027-la-reeleccion-de-milei-no-es-un-hecho-es-un-relato-del-gobierno/",
+        "imagen": "https://www.infobae.com/resizer/v2/22AZUYQSENEWFIERSHWX34ZRJY.jpg?auth=5d404f87da9114fb6c0f6ac81d3b3b6295f7a9eb67e17a46f2a7e573405e0243&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 05:03:17 +0000"
+        "fecha": "Thu, 17 Sep 2026 05:53:50 +0000"
       },
       {
         "titulo": "Miles de jóvenes marcharon en La Plata a 50 años de La Noche de los Lápices",
@@ -52,13 +45,6 @@
         "fecha": "Wed, 16 Sep 2026 19:59:00 -0300"
       },
       {
-        "titulo": "El jefe de la Armada relevó a nueve integrantes por la denuncia de presunta corrupción",
-        "link": "https://www.clarin.com/politica/jefe-armada-relevo-integrantes-denuncia-presunta-corrupcion_0_uvLqW97KFK.html",
-        "imagen": "https://www.clarin.com/img/2026/02/10/Dkm4mXD05_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 02:20:35 +0000"
-      },
-      {
         "titulo": "EEUU paga u$s725 millones a la ONU y reduce su deuda con el organismo",
         "link": "https://www.ambito.com/mundo/eeuu-paga-us725-millones-la-onu-y-reduce-su-deuda-el-organismo-n6323125",
         "imagen": "https://media.ambito.com/p/f802079a72df108155dad69c41d35196/adjuntos/239/imagenes/043/314/0043314022/onu.jpg",
@@ -73,11 +59,11 @@
         "fecha": "Wed, 16 Sep 2026 18:33:00 -0300"
       },
       {
-        "titulo": "Jorge Capitanich descarta pelear por la gobernación de Chaco y envía un mensaje a la renovación en el PJ",
-        "link": "https://www.infobae.com/politica/2026/09/17/jorge-capitanich-descarta-pelear-por-la-gobernacion-de-chaco-y-envia-un-mensaje-a-la-renovacion-en-el-pj/",
-        "imagen": "https://www.infobae.com/resizer/v2/HI2YT5CKCBDQ7AOCMR433SGFF4.jpeg?auth=bfe93933ab85d7e1285b6c9e2262482482d47febce0ce46a88e9acf22e72ac61&smart=true&width=1920&height=1080",
+        "titulo": "Misiones buscará desdoblar las elecciones provinciales y ya analizan en qué fechas se pueden realizar",
+        "link": "https://www.infobae.com/politica/2026/09/17/misiones-buscara-desdoblar-las-elecciones-provinciales-y-ya-analizan-en-que-fechas-se-pueden-realizar/",
+        "imagen": "https://www.infobae.com/resizer/v2/XNI3XBW4XZFJDMOS4ZBFUGJNKU.jpg?auth=e92e51bf90d27386d10d1ea8db1ceed9717015ef2523534af817c51402972519&smart=true&width=786&height=442",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 05:02:48 +0000"
+        "fecha": "Thu, 17 Sep 2026 05:03:17 +0000"
       },
       {
         "titulo": "El ajuste en discapacidad en el Presupuesto 2027 tensa la relación del Gobierno con sus aliados en el Congreso",
@@ -85,6 +71,20 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Wed, 16 Sep 2026 19:14:01 +0000"
+      },
+      {
+        "titulo": "Argentina y EEUU avanzan en la implementación del acuerdo de comercio e inversión",
+        "link": "https://www.ambito.com/politica/argentina-y-eeuu-avanzan-la-implementacion-del-acuerdo-comercio-e-inversion-n6323232",
+        "imagen": "https://media.ambito.com/p/cd6920e0ead1b7c888466a14cb896eb1/adjuntos/239/imagenes/043/647/0043647777/reunion-lamelas-quirno-caputo.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 16 Sep 2026 19:49:00 -0300"
+      },
+      {
+        "titulo": "\"Es una noticia falsa\", sentenció Yamandú Orsi sobre el cable submarino entre Malvinas y Montevideo",
+        "link": "https://www.ambito.com/uruguay/es-una-noticia-falsa-sentencio-yamandu-orsi-el-cable-submarino-malvinas-y-montevideo-n6323108",
+        "imagen": "https://media.ambito.com/p/e415b179e73a2e96eda7fc20bf37b453/adjuntos/239/imagenes/043/647/0043647326/1200x675/smart/yamandu-orsi.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Wed, 16 Sep 2026 15:57:00 -0300"
       }
     ],
     "economia": [
@@ -175,13 +175,6 @@
     ],
     "deportes": [
       {
-        "titulo": "Estudiantes semifinalista de la Copa Libertadores: le ganó a Corinthians en un final para el infarto y espera rival",
-        "link": "https://www.ambito.com/deportes/estudiantes-semifinalista-la-copa-libertadores-le-gano-corinthians-un-final-el-infarto-y-espera-rival-n6323298",
-        "imagen": "https://media.ambito.com/p/b3a07256091132d6c951eff886e48fa0/adjuntos/239/imagenes/043/648/0043648123/1200x675/smart/estudiantes-semifinalista.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 00:24:00 -0300"
-      },
-      {
         "titulo": "Memphis Depay, del cielo al infierno: tras la renovación mediática en Corinthians, erró el penal que clasificó a Estudiantes en la Libertadores",
         "link": "https://www.clarin.com/deportes/memphis-depay-cielo-infierno-renovacion-mediatica-corinthians-erro-penal-clasifico-estudiantes-libertadores_0_PtZPgm3QEG.html",
         "imagen": "https://www.clarin.com/img/2026/09/16/fXKG2G4Zu_1200x630__1.jpg",
@@ -252,14 +245,42 @@
         "fecha": "Thu, 17 Sep 2026 00:08:00 -0300"
       },
       {
-        "titulo": "Con un Messi intratable, Inter Miami venció a Cruz Azul y se consagró campeón de la Campeones Cup",
-        "link": "https://www.ambito.com/deportes/messi-va-un-nuevo-titulo-el-inter-miami-cruz-azul-horario-tv-y-formaciones-n6323099",
-        "imagen": "https://media.ambito.com/p/70730b67b3dcc0e59594040b41559801/adjuntos/239/imagenes/043/648/0043648061/1200x675/647x356:667x376/messi-inter-miami.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 16 Sep 2026 23:18:00 -0300"
+        "titulo": "Sale el fallo del caso Boca-Vélez por la Copa Argentina: el reclamo de puntos por mala inclusión, un ejercicio tan viejo como el fútbol",
+        "link": "https://www.clarin.com/deportes/sale-fallo-caso-boca-velez-copa-argentina-reclamo-puntos-mala-inclusion-ejercicio-viejo-futbol_0_aqGqmBzKfm.html",
+        "imagen": "https://www.clarin.com/img/2026/09/09/fAjzC2D8L_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 03:21:18 +0000"
+      },
+      {
+        "titulo": "La cruda confesión del entrenador de Inglaterra por la derrota ante Argentina: \"No había forma de sobrevivir\"",
+        "link": "https://www.c5n.com/deportes/la-cruda-confesion-del-entrenador-inglaterra-la-derrota-argentina-no-habia-forma-sobrevivir-n249136",
+        "imagen": "https://media.c5n.com/p/0fc7cc8c3aed2a871ff9ff3ef4abd102/adjuntos/326/imagenes/000/390/0000390967/1200x675/smart/thomas-tuchel.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 21:27:00 -0300"
       }
     ],
     "policiales_actualidad": [
+      {
+        "titulo": "Cayó la banda que habría baleado al excomisario en El Palomar: uno de los sospechosos tiene 14 años",
+        "link": "https://www.clarin.com/policiales/cayo-banda-baleado-excomisario-palomar-sospechosos-14-anos_0_tvTt0wi7vK.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/iRVUB49ID_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 17 Sep 2026 05:27:21 +0000"
+      },
+      {
+        "titulo": "Loto Plus: resultado del sorteo 3918 del miércoles 16 de septiembre de 2026",
+        "link": "https://www.c5n.com/sociedad/loto-plus-resultado-del-sorteo-3918-del-miercoles-16-septiembre-2026-n249131",
+        "imagen": "https://media.c5n.com/p/8443571ef8a981a6d6797b92eeb229b4/adjuntos/326/imagenes/000/159/0000159967/1200x675/smart/loto-plus.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 16 Sep 2026 23:05:57 -0300"
+      },
+      {
+        "titulo": "Investigan el hallazgo de una beba muerta en un cesto de residuos de Santa Cruz y hay una mujer detenida",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/investigan-el-hallazgo-de-una-beba-muerta-en-un-cesto-de-residuos-de-santa-cruz-y-hay-una-mujer-detenida/",
+        "imagen": "https://www.infobae.com/resizer/v2/JZTRLP3WXNCRZE5DL2PNEJLJUY.jpg?auth=94499fa7856608ab8b5f40a3dbeb8371ffd0604d0eeb30ea78339286b9914513&smart=true&width=1980&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Thu, 17 Sep 2026 06:09:38 +0000"
+      },
       {
         "titulo": "\"Se puso loca y se acuchilló\": la insólita defensa del imputado por el femicidio de la aspirante a gendarme que tenía nueve puñaladas",
         "link": "https://www.clarin.com/policiales/puso-loca-acuchillo-insolita-defensa-imputado-femicidio-aspirante-gendarme-punaladas_0_kkj8oJymsC.html",
@@ -268,11 +289,11 @@
         "fecha": "Wed, 16 Sep 2026 23:24:59 +0000"
       },
       {
-        "titulo": "Loto Plus: resultado del sorteo 3918 del miércoles 16 de septiembre de 2026",
-        "link": "https://www.c5n.com/sociedad/loto-plus-resultado-del-sorteo-3918-del-miercoles-16-septiembre-2026-n249131",
-        "imagen": "https://media.c5n.com/p/8443571ef8a981a6d6797b92eeb229b4/adjuntos/326/imagenes/000/159/0000159967/1200x675/smart/loto-plus.jpg",
+        "titulo": "Quini 6: los resultados del sorteo 3.409 del miércoles 16 de septiembre de 2026",
+        "link": "https://www.c5n.com/sociedad/quini-6-los-resultados-del-sorteo-3409-del-miercoles-16-septiembre-2026-n249132",
+        "imagen": "https://media.c5n.com/p/ba2c95dac92b0aea411f56a66ff82e33/adjuntos/326/imagenes/000/238/0000238127/1200x675/smart/quini-6.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 23:05:57 -0300"
+        "fecha": "Wed, 16 Sep 2026 22:53:06 -0300"
       },
       {
         "titulo": "Piden prisión preventiva para la madre de una alumna que le desfiguró la cara a una maestra en Neuquén",
@@ -289,11 +310,11 @@
         "fecha": "Wed, 16 Sep 2026 23:06:56 +0000"
       },
       {
-        "titulo": "Quini 6: los resultados del sorteo 3.409 del miércoles 16 de septiembre de 2026",
-        "link": "https://www.c5n.com/sociedad/quini-6-los-resultados-del-sorteo-3409-del-miercoles-16-septiembre-2026-n249132",
-        "imagen": "https://media.c5n.com/p/ba2c95dac92b0aea411f56a66ff82e33/adjuntos/326/imagenes/000/238/0000238127/1200x675/smart/quini-6.jpg",
+        "titulo": "Trasladaron a más de 40 pingüinos del exAquarium de Mar del Plata a un refugio en Río Negro",
+        "link": "https://www.c5n.com/sociedad/trasladaron-mas-40-pinguinos-del-exaquarium-mar-del-plata-un-refugio-rio-negro-n249144",
+        "imagen": "https://media.c5n.com/p/019fec05a9d1ba811e0fc34a144d4183/adjuntos/326/imagenes/000/399/0000399271/1200x675/smart/pinguinos-aquarium.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 22:53:06 -0300"
+        "fecha": "Wed, 16 Sep 2026 22:10:00 -0300"
       },
       {
         "titulo": "Un hombre le arrojó agua caliente en el cuerpo a su pareja y quedó detenido en Chaco",
@@ -310,27 +331,6 @@
         "fecha": "Wed, 16 Sep 2026 20:46:35 +0000"
       },
       {
-        "titulo": "Trasladaron a más de 40 pingüinos del exAquarium de Mar del Plata a un refugio en Río Negro",
-        "link": "https://www.c5n.com/sociedad/trasladaron-mas-40-pinguinos-del-exaquarium-mar-del-plata-un-refugio-rio-negro-n249144",
-        "imagen": "https://media.c5n.com/p/019fec05a9d1ba811e0fc34a144d4183/adjuntos/326/imagenes/000/399/0000399271/1200x675/smart/pinguinos-aquarium.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 16 Sep 2026 22:10:00 -0300"
-      },
-      {
-        "titulo": "Detuvieron a dos hombres en Berisso por el robo de un auto a un chofer de una aplicación de viajes",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/detuvieron-a-dos-hombres-en-berisso-por-el-robo-de-un-auto-a-un-chofer-de-una-aplicacion-de-viajes/",
-        "imagen": "https://www.infobae.com/resizer/v2/E5EVD3P62BFCZG7QXN3JEH7YP4.png?auth=b4eaab4aecdefecb617f8f02aba93ed22d837e1e117a459a55521c12d44b8b7a&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 03:51:24 +0000"
-      },
-      {
-        "titulo": "La furia de un comisario preso con el primer fiscal del caso Loan: \"Siete veces le pedí detener a Laudelina\"",
-        "link": "https://www.clarin.com/policiales/furia-comisario-preso-primer-fiscal-caso-loan-veces-pedi-detener-laudelina_0_c003Xf3lYO.html",
-        "imagen": "https://www.clarin.com/img/2026/06/16/iZiN5LSIS_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 19:38:23 +0000"
-      },
-      {
         "titulo": "Candela Arizaga pidió que se levante la restricción de acercamiento a Facundo Moyano",
         "link": "https://www.c5n.com/sociedad/candela-arizaga-pidio-que-se-levante-la-restriccion-acercamiento-facundo-moyano-n249141",
         "imagen": "https://media.c5n.com/p/af0f6828aac8bc164e13c60cd6f37542/adjuntos/326/imagenes/000/393/0000393584/1200x675/smart/candela-arizaga-facundo-moyano.jpg",
@@ -338,11 +338,11 @@
         "fecha": "Wed, 16 Sep 2026 21:24:00 -0300"
       },
       {
-        "titulo": "Juicio por Loan: quiénes son los cinco testigos que declaran este jueves",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/juicio-por-loan-quienes-son-los-cinco-testigos-que-declaran-este-jueves/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
+        "titulo": "Detuvieron a dos hombres en Berisso por el robo de un auto a un chofer de una aplicación de viajes",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/17/detuvieron-a-dos-hombres-en-berisso-por-el-robo-de-un-auto-a-un-chofer-de-una-aplicacion-de-viajes/",
+        "imagen": "https://www.infobae.com/resizer/v2/E5EVD3P62BFCZG7QXN3JEH7YP4.png?auth=b4eaab4aecdefecb617f8f02aba93ed22d837e1e117a459a55521c12d44b8b7a&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Thu, 17 Sep 2026 03:30:00 +0000"
+        "fecha": "Thu, 17 Sep 2026 03:51:24 +0000"
       }
     ],
     "internacional": [
@@ -361,11 +361,11 @@
         "fecha": "Wed, 16 Sep 2026 21:11:00 -0300"
       },
       {
-        "titulo": "\"Un acto hostil\": la dura amenaza de Donald Trump contra la Unión Europea por su posible alianza con Canadá",
-        "link": "https://www.clarin.com/mundo/acto-hostil-dura-amenaza-donald-trump-union-europea-posible-alianza-canada_0_SZP3L2Mclo.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/5M7jsps_0_1200x630__1.jpg",
+        "titulo": "Alerta en Valencia por fuertes inundaciones: cierran el aeropuerto y suspenden clases y partidos de fútbol",
+        "link": "https://www.clarin.com/mundo/alerta-valencia-fuertes-inundaciones-cierran-aeropuerto-suspenden-clases-partidos-futbol_0_TxUZeE53ua.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/wDlBEO-gA_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 01:58:10 +0000"
+        "fecha": "Thu, 17 Sep 2026 00:40:13 +0000"
       },
       {
         "titulo": "El Salvador Travel Market 2026 reúne a representantes de 17 países para impulsar negocios turísticos",
@@ -389,11 +389,11 @@
         "fecha": "Wed, 16 Sep 2026 19:10:00 -0300"
       },
       {
-        "titulo": "Alerta en Valencia por fuertes inundaciones: cierran el aeropuerto, suspenden clases y hay un muerto en Cataluña",
-        "link": "https://www.clarin.com/mundo/alerta-valencia-fuertes-inundaciones-cierran-aeropuerto-suspenden-clases-partidos-futbol_0_TxUZeE53ua.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/wDlBEO-gA_1200x630__1.jpg",
+        "titulo": "El aumento de los combustibles desata protestas en todo el mundo",
+        "link": "https://www.clarin.com/mundo/aumento-combustibles-desata-protestas-mundo_0_zrpFcUijgd.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/nLMm_HICy_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Thu, 17 Sep 2026 00:40:13 +0000"
+        "fecha": "Wed, 16 Sep 2026 22:22:18 +0000"
       },
       {
         "titulo": "Lula afirmó que viajará a la Asamblea General de la ONU para decirle a Trump que “no se meta” en las elecciones de Brasil",
@@ -417,11 +417,11 @@
         "fecha": "Wed, 16 Sep 2026 13:57:00 -0300"
       },
       {
-        "titulo": "El aumento de los combustibles desata protestas en todo el mundo",
-        "link": "https://www.clarin.com/mundo/aumento-combustibles-desata-protestas-mundo_0_zrpFcUijgd.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/nLMm_HICy_1200x630__1.jpg",
+        "titulo": "El ‘rey del fracking’ desembarca en Venezuela: Delcy Rodríguez celebró un acuerdo que la acerca más a Trump",
+        "link": "https://www.clarin.com/mundo/rey-fracking-desembarca-venezuela-delcy-rodriguez-celebro-acuerdo-acerca-trump_0_XEusD7C15X.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/QoopvzTIA_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 16 Sep 2026 22:22:18 +0000"
+        "fecha": "Wed, 16 Sep 2026 21:33:15 +0000"
       },
       {
         "titulo": "La Cámara de Representantes de EEUU aprobó nuevas sanciones contra Rusia y aranceles de hasta el 100% a sus compradores de energía",
@@ -654,9 +654,9 @@
         "fecha": "Wed, 16 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "La regla de oro de la sillita de auto que salva vidas y muchos ignoran",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/la-regla-de-oro-de-la-sillita-de-auto-que-salva-vidas-y-muchos-ignoran/",
-        "imagen": "https://tn.com.ar/resizer/v2/I6XMRXR3HBB5DNZTPBFEWPVOXM.JPG?auth=5f215446fda32060bd50921f40acd64467384a947d37e2dbe3f588e1f0cbcf4c",
+        "titulo": "Los precios de Dongfeng en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/los-precios-de-dongfeng-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/HLX5TB57PBD6BMUH2MMJWER2XE.jpg?auth=cc9a7683e8e2dd6c82b9ed7d9d6d74e16395facb7ef414301e1eea665c70cd07",
         "fuente": "TN Autos",
         "fecha": "2026-09-16T06:00:00-03:00"
       },
@@ -668,9 +668,9 @@
         "fecha": "Wed, 16 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Los precios de Dongfeng en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/16/los-precios-de-dongfeng-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/HLX5TB57PBD6BMUH2MMJWER2XE.jpg?auth=cc9a7683e8e2dd6c82b9ed7d9d6d74e16395facb7ef414301e1eea665c70cd07",
+        "titulo": "La regla de oro de la sillita de auto que salva vidas y muchos ignoran",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/16/la-regla-de-oro-de-la-sillita-de-auto-que-salva-vidas-y-muchos-ignoran/",
+        "imagen": "https://tn.com.ar/resizer/v2/I6XMRXR3HBB5DNZTPBFEWPVOXM.JPG?auth=5f215446fda32060bd50921f40acd64467384a947d37e2dbe3f588e1f0cbcf4c",
         "fuente": "TN Autos",
         "fecha": "2026-09-16T06:00:00-03:00"
       },
@@ -786,13 +786,6 @@
         "fecha": "Wed, 16 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "Choque con Trump: la Reserva Federal sube las tasas",
-        "link": "https://www.eldia.com/el-mundo/choque-con-trump-la-reserva-federal-sube-las-tasas-el-mundo_1789623685",
-        "imagen": "",
-        "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 05:41:25 GMT"
-      },
-      {
         "titulo": "Allanaron la Cámara de Comercio China de La Plata y buscan pistas sobre una red delictiva",
         "link": "https://www.0221.com.ar/la-plata/allanaron-la-camara-comercio-china-la-plata-y-buscan-pistas-una-red-delictiva-n134316",
         "imagen": "https://media.0221.com.ar/p/a00f6a3ac95efd3473f1bc03b5f5aa53/adjuntos/357/imagenes/100/296/0100296192/1200x630/smart/allanamiento-la-camara-comercio-china-1.jpeg",
@@ -821,13 +814,6 @@
         "fecha": "Tue, 15 Sep 2026 17:11:00 -0300"
       },
       {
-        "titulo": "La Unión Europea quiere sumar a Canadá",
-        "link": "https://www.eldia.com/el-mundo/la-union-europea-quiere-sumar-a-canada-el-mundo_1789623565",
-        "imagen": "",
-        "fuente": "El Día",
-        "fecha": "Thu, 17 Sep 2026 05:39:25 GMT"
-      },
-      {
         "titulo": "Excombatientes de La Plata lograron frenar el avance de un megaproyecto petrolero en Malvinas",
         "link": "https://www.0221.com.ar/la-plata/excombatientes-la-plata-lograron-frenar-el-avance-un-megaproyecto-petrolero-malvinas-n134324",
         "imagen": "https://media.0221.com.ar/p/944612731a91495022e3ea77c31808f9/adjuntos/357/imagenes/100/296/0100296260/1200x630/smart/proyecto-petrolero-las-islas-malvinas.jpg",
@@ -840,6 +826,20 @@
         "imagen": "https://media.0221.com.ar/p/1d8af4080d67028b2887a69a3b13aa6a/adjuntos/357/imagenes/100/283/0100283146/1200x630/1392x835:1412x855/didi-3.jpg",
         "fuente": "0221 Policiales",
         "fecha": "Wed, 16 Sep 2026 15:14:00 -0300"
+      },
+      {
+        "titulo": "La UNLP busca ampliar el Boleto Educativo y que siga vigente tras obtener títulos intermedios",
+        "link": "https://www.0221.com.ar/universidad/la-unlp-busca-ampliar-el-boleto-educativo-y-que-siga-vigente-obtener-titulos-intermedios-n134189",
+        "imagen": "https://media.0221.com.ar/p/a89fd5743577807408c29c49995c7c18/adjuntos/357/imagenes/100/143/0100143454/1200x630/smart/subejpg.jpg",
+        "fuente": "0221 Universidad",
+        "fecha": "Mon, 14 Sep 2026 20:12:00 -0300"
+      },
+      {
+        "titulo": "La Mega Primavera Rewind llega al Club Hípico de La Plata con hits de los 2000",
+        "link": "https://www.0221.com.ar/la-plata/la-mega-primavera-rewind-llega-al-club-hipico-la-plata-hits-los-2000-n134240",
+        "imagen": "https://media.0221.com.ar/p/bd631017fd8d611f37b95bdb12d1b643/adjuntos/357/imagenes/100/295/0100295929/1200x630/smart/rewind-fiesta-hipico-2.JPEG",
+        "fuente": "0221 ¿Qué Hago?",
+        "fecha": "Tue, 15 Sep 2026 16:31:00 -0300"
       }
     ]
   }
