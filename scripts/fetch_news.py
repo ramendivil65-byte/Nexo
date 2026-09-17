@@ -78,9 +78,10 @@ FEEDS = {
         ("Autocosmos", "https://noticias.autocosmos.com.ar/feed/"),  # sin confirmar, revisar si no trae nada
     ],
     "turismo": [
-        ("Infobae", "https://www.infobae.com/arc/outboundfeeds/rss/category/viajes/?outputType=xml"),  # sin confirmar, revisar si no trae nada
-        ("La Nación", "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/turismo/?outputType=xml"),  # sin confirmar, revisar si no trae nada
-        ("Pulso Turístico", "https://www.pulsoturistico.com.ar/feed/"),  # sin confirmar, revisar si no trae nada
+        ("Viajando Destinos", "https://argentina.viajando.travel/rss/destinos.xml"),
+        ("Viajando Últimas Noticias", "https://argentina.viajando.travel/rss/ultimas-noticias.xml"),
+        ("Viajando Escapadas", "https://argentina.viajando.travel/rss/escapadas.xml"),
+        ("Viajando Sol y Playa", "https://argentina.viajando.travel/rss/sol-playa.xml"),
     ],
     "vida_sana": [
         ("Infobae Salud", "https://www.infobae.com/arc/outboundfeeds/rss/category/salud/?outputType=xml"),  # sin confirmar, revisar si no trae nada
