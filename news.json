@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T14:43:10.067677+00:00",
+  "actualizado": "2026-09-18T14:56:58.302389+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,7 +10,49 @@
         "fecha": "Fri, 18 Sep 2026 11:05:35 -0300"
       },
       {
-        "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente viaja hoy a Bahía Blanca para reunirse con empresarios adheridos al RIGI",
+        "titulo": "Aparece un nuevo video del allanamiento a Cristina Kirchner y del vestidor con la puerta blindada",
+        "link": "https://www.clarin.com/politica/aparece-nuevo-video-allanamiento-cristina-kirchner-vestidor-puerta-blindada_0_CJrQW0LBPx.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/a5DwbMzIi_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 13:51:59 +0000"
+      },
+      {
+        "titulo": "Fiyi declaró una emergencia por VIH luego de confirmar que 1 de cada 60 habitantes está infectado",
+        "link": "https://www.ambito.com/mundo/fiyi-declaro-una-emergencia-vih-luego-confirmar-que-1-cada-60-habitantes-esta-infectado-n6323925",
+        "imagen": "https://media.ambito.com/p/37dac9206117f6f6a1a360c5c8f7dfc2/adjuntos/239/imagenes/041/586/0041586147/test-autodiagnostico-vihjpg.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Fri, 18 Sep 2026 11:46:00 -0300"
+      },
+      {
+        "titulo": "Los pacientes oncológicos, la cara más dramática del brutal ajuste en Salud",
+        "link": "https://www.c5n.com/politica/los-pacientes-oncologicos-la-cara-mas-dramatica-del-brutal-ajuste-salud-n249273",
+        "imagen": "https://media.c5n.com/p/a133842d1606a12a90e757fc05a4f99e/adjuntos/326/videos/000/399/0000399472/1200x675/smart/motosierra-la-salud-recortes-y-abandono-oncologia-informe-especial-felicitas-bonavitta.png",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 11:50:00 -0300"
+      },
+      {
+        "titulo": "Advierten que la ley por Malvinas incluye amenazas a la libertad de expresión y riesgos de censura",
+        "link": "https://www.infobae.com/politica/2026/09/18/advierten-que-la-ley-por-malvinas-incluye-amenazas-a-la-libertad-de-expresion-y-riesgos-de-censura/",
+        "imagen": "https://www.infobae.com/resizer/v2/X4HXLAB4VZAOBBOOD2MHSEVTJI.jpg?auth=55c2656f334e6612ab89456a5f7a5607bf7201e2a4d1dbc2272f43724908954d&smart=true&width=1280&height=720",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 14:46:42 +0000"
+      },
+      {
+        "titulo": "Federalismo en serio",
+        "link": "https://www.tiempoar.com.ar/ta_article/federalismo-en-serio/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Fri, 18 Sep 2026 14:52:50 +0000"
+      },
+      {
+        "titulo": "La tensión entre el ala política y el equipo económico empantana la estrategia electoral 2027",
+        "link": "https://www.ambito.com/politica/la-tension-el-ala-y-el-equipo-economico-empantana-la-estrategia-electoral-2027-n6323883",
+        "imagen": "https://media.ambito.com/p/ec2b7e8eda13b718674aba24a88d3ae5/adjuntos/239/imagenes/043/629/0043629378/1200x675/smart/mesa-politica.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 18 Sep 2026 09:51:00 -0300"
+      },
+      {
+        "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente ya está en Bahía Blanca para reunirse con empresarios adheridos al RIGI",
         "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-viaja-hoy-bahia-blanca-reunirse-empresarios-adhirieron-rigi_0_qyiG51pbP0.html",
         "imagen": "https://www.clarin.com/img/2026/07/26/dGnoQiEqq_1200x630__1.jpg",
         "fuente": "Clarín",
@@ -24,18 +66,18 @@
         "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
       },
       {
-        "titulo": "Javier Milei desembarca en Bahía Blanca: reunión con empresarios, inversiones y encuentro con militantes",
-        "link": "https://www.c5n.com/politica/javier-milei-visita-bahia-blanca-agenda-actividades-viernes-18-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/6ea92437d1b6457066e2841a3b2fed32/adjuntos/326/imagenes/000/399/0000399292/1200x675/smart/javier-milei.jpg",
+        "titulo": "En plena interna, Patricia Bullrich le envió un irónico mensaje a Javier Milei con un tema de Lali Espósito",
+        "link": "https://www.c5n.com/politica/en-plena-interna-patricia-bullrich-le-envio-un-ironico-mensaje-javier-milei-un-tema-lali-esposito-n249272",
+        "imagen": "https://media.c5n.com/p/1ff4d515145a97c6985274c0c93bef13/adjuntos/326/imagenes/000/399/0000399473/1200x675/smart/bullrich-patricia-captura-18-9-26.png",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 10:08:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:48:00 -0300"
       },
       {
         "titulo": "Provocativo gesto de Patricia Bullrich: publicó un video con una canción de Lali Espósito tras sus críticas al interior del Gobierno",
         "link": "https://www.infobae.com/politica/2026/09/18/provocativo-gesto-de-patricia-bullrich-publico-un-video-con-una-cancion-de-lali-esposito-tras-sus-criticas-al-interior-del-gobierno/",
         "imagen": "https://www.infobae.com/resizer/v2/FJ2QONDN6VDZDEGFBGI7HWVXZY.jpg?auth=989bc2899b2574a203102bcae379446ea80f39ee69d960f565c44e1519c43de8&smart=true&width=1580&height=852",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:38:31 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:40:58 +0000"
       },
       {
         "titulo": "El regreso de Keynes: el disparador para discutir la economía libertaria",
@@ -43,48 +85,6 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Fri, 18 Sep 2026 14:36:20 +0000"
-      },
-      {
-        "titulo": "La tensión entre el ala política y el equipo económico empantana la estrategia electoral 2027",
-        "link": "https://www.ambito.com/politica/la-tension-el-ala-y-el-equipo-economico-empantana-la-estrategia-electoral-2027-n6323883",
-        "imagen": "https://media.ambito.com/p/ec2b7e8eda13b718674aba24a88d3ae5/adjuntos/239/imagenes/043/629/0043629378/1200x675/smart/mesa-politica.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 09:51:00 -0300"
-      },
-      {
-        "titulo": "La nueva encuesta que le llegó a Javier Milei con datos clave para su reelección",
-        "link": "https://www.clarin.com/politica/nueva-encuesta-llego-javier-milei-datos-clave-reeleccion_0_omBKtjbbmv.html",
-        "imagen": "https://www.clarin.com/img/2026/09/03/zVbLy0D06_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 09:00:15 +0000"
-      },
-      {
-        "titulo": "Un banquero ligado a la realeza muerto, un ataque inexplicable y un video viral: el misterio del \"Putney Pusher\" en Londres",
-        "link": "https://www.ambito.com/mundo/un-banquero-ligado-la-realeza-muerto-un-ataque-inexplicable-y-un-video-viral-el-misterio-del-putney-pusher-londres-n6323879",
-        "imagen": "https://media.ambito.com/p/e64445059cd7504570fd343ac5ab1cc0/adjuntos/239/imagenes/043/650/0043650761/1200x675/634x351:654x371/nicolas.jpeg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Fri, 18 Sep 2026 10:55:00 -0300"
-      },
-      {
-        "titulo": "Quién es Javier Ruffi, el nuevo Director Nacional del Mercosur",
-        "link": "https://www.c5n.com/politica/quien-es-javier-ruffi-el-nuevo-director-nacional-del-mercosur-n249266",
-        "imagen": "https://media.c5n.com/p/0d54bb1909a563710d9f6fa30437f7d7/adjuntos/326/imagenes/000/399/0000399447/1200x675/smart/javier-ruffi.png",
-        "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 09:46:00 -0300"
-      },
-      {
-        "titulo": "Malvinas y seguridad: una especialista advirtió que el proyecto incorpora facultades que exceden el reclamo de soberanía",
-        "link": "https://www.infobae.com/politica/2026/09/18/malvinas-y-seguridad-una-especialista-advirtio-que-el-proyecto-incorpora-facultades-que-exceden-el-reclamo-de-soberania/",
-        "imagen": "https://www.infobae.com/resizer/v2/EACZSONVCZGXNIQYI4DTEFWZB4.JPG?auth=66414b2cf9e4b0ee26043a6b2835b936c6c88f0ff7d0c75faca2ab549141009f&smart=true&width=5500&height=3667",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:33:57 +0000"
-      },
-      {
-        "titulo": "El Consejo para defender la soberanía en Malvinas que propone Milei pone a la oposición en estado de alerta",
-        "link": "https://www.tiempoar.com.ar/ta_article/malvinas-soberania-milei-oposicion/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 13:16:12 +0000"
       }
     ],
     "economia": [
@@ -96,11 +96,11 @@
         "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
       },
       {
-        "titulo": "Kicillof quiere frenar la privatización nuclear de Milei y avisa que \"es un delito malvender\" las centrales por \"6 veces menos\" de su valor",
-        "link": "https://www.clarin.com/economia/kicillof-quiere-frenar-privatizacion-nuclear-milei-avisa-delito-malvender-centrales-6-veces-valor_0_2q0yB7oz0c.html",
-        "imagen": "https://www.clarin.com/img/2026/08/22/FIa8WTr-i_1200x630__1.jpg",
+        "titulo": "Conflicto con Mendoza, Vaca Muerta y una advertencia del gobernador de La Pampa a Nación: “No pretendan que entre en una ‘paritaria’ política”",
+        "link": "https://www.clarin.com/energia-y-mineria/conflicto-mendoza-vaca-muerta-advertencia-gobernador-pampa-nacion-pretendan-paritaria-politica_0_Qj9MpCLdon.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/asrdRmtyV_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 13:34:54 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:02:25 +0000"
       },
       {
         "titulo": "Economía descartó una devaluación en 2027 y remarcó que no hay atraso cambiario",
@@ -110,11 +110,11 @@
         "fecha": "Fri, 18 Sep 2026 11:24:00 -0300"
       },
       {
-        "titulo": "El Tesoro volvió a obtener un superávit financiero en agosto",
-        "link": "https://www.infobae.com/economia/2026/09/18/el-tesoro-volvio-a-obtener-un-superavit-financiero-en-agosto/",
-        "imagen": "https://www.infobae.com/resizer/v2/EATKEUKBJNCQNDWT5KHSXPYUNI.JPG?auth=c25d02029d4e6b9df05267a81bf98cb7a65b52e63881b57cd08aa49d39567491&smart=true&width=5000&height=3333",
+        "titulo": "La mora temprana en los créditos empezó a reducirse pero advierten que la normalización llevará tiempo",
+        "link": "https://www.infobae.com/economia/2026/09/18/la-mora-temprana-en-los-creditos-empezo-a-reducirse-pero-advierten-que-la-normalizacion-llevara-tiempo/",
+        "imagen": "https://www.infobae.com/resizer/v2/LFGPRCZNTFE5PMKWBWG4XG4RVM.png?auth=09b77a86705d99adbe8cbd7888bd0ec822dbbddafa7a482f06744c0433d49311&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:34:19 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:44:55 +0000"
       },
       {
         "titulo": "El Indec confirmó la caída de la economía y toma cuerpo el fantasma de la recesión",
@@ -131,11 +131,11 @@
         "fecha": "Fri, 18 Sep 2026 11:20:00 -0300"
       },
       {
-        "titulo": "Ley de Biocombustibles: el Consejo Agroindustrial y exportadores celebraron la media sanción y aseguran que destrabaría inversiones por US$ 1.000 millones",
-        "link": "https://www.clarin.com/rural/ley-biocombustibles-consejo-agroindustrial-exportadores-celebraron-media-sancion-aseguran-destrabaria-inversiones-us-1000-millones_0_x40li6r96Z.html",
-        "imagen": "https://www.clarin.com/img/2019/12/17/rhiAgH_N_1200x630__1.jpg",
+        "titulo": "La Justicia ordenó el desalojo del predio de Fate, que está tomado por el gremio del neumático desde febrero",
+        "link": "https://www.clarin.com/economia/justicia-ordeno-desalojo-predio-fate-tomado-gremio-neumatico-febrero_0_Yrd7ZFOJpy.html",
+        "imagen": "https://www.clarin.com/img/2026/02/18/D3O1MQWN__1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 13:24:44 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:01:48 +0000"
       },
       {
         "titulo": "La desocupación subió al 7,9%: así quedó el mapa del desempleo provincia por provincia",
@@ -145,11 +145,11 @@
         "fecha": "Fri, 18 Sep 2026 09:39:00 -0300"
       },
       {
-        "titulo": "Wall Street se mantiene a la deriva mientras suben los rendimientos de los bonos y fluctúan los precios del petróleo",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/18/wall-street-se-mantiene-a-la-deriva-mientras-suben-los-rendimientos-de-los-bonos-y-fluctuan-los-precios-del-petroleo/",
-        "imagen": "https://www.infobae.com/resizer/v2/LXBHGVW7KNF5TKSFCSQZCI37GU.jpg?auth=78ce36fe7a9a0b907e0ecc23dd0f65360b76f8f8fe7bd557c747835c7e95d262&smart=true&width=2738&height=1826",
+        "titulo": "El Tesoro volvió a obtener un superávit financiero en agosto",
+        "link": "https://www.infobae.com/economia/2026/09/18/el-tesoro-volvio-a-obtener-un-superavit-financiero-en-agosto/",
+        "imagen": "https://www.infobae.com/resizer/v2/EATKEUKBJNCQNDWT5KHSXPYUNI.JPG?auth=c25d02029d4e6b9df05267a81bf98cb7a65b52e63881b57cd08aa49d39567491&smart=true&width=5000&height=3333",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:07:53 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:34:19 +0000"
       },
       {
         "titulo": "Ordenan el desalojo de FATE y el sindicato convocó a defender la fábrica",
@@ -166,11 +166,11 @@
         "fecha": "Fri, 18 Sep 2026 09:53:00 -0300"
       },
       {
-        "titulo": "Aruba: cómo la isla paradisíaca se reconvirtió al turismo sustentable y hoy es un imán para los argentinos",
-        "link": "https://www.clarin.com/economia/aruba-isla-paradisiaca-reconvirtio-turismo-sustentable-hoy-iman-argentinos_0_7IxUVy0DG5.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/y5rg0D6NV_1200x630__1.jpg",
+        "titulo": "El Gobierno sumó en agosto otro superávit fiscal y acumula un resultado primario de 1,1% del PBI",
+        "link": "https://www.clarin.com/economia/gobierno-sumo-agosto-superavit-fiscal-acumula-resultado-primario-11-pbi_0_qspfuqecHI.html",
+        "imagen": "https://www.clarin.com/img/2026/09/15/Cn8_dQld__1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 12:31:41 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:52:08 +0000"
       }
     ],
     "deportes": [
@@ -182,11 +182,11 @@
         "fecha": "Fri, 18 Sep 2026 11:34:00 -0300"
       },
       {
-        "titulo": "Memphis Depay no sale del pozo: erró el penal con Estudiantes y Xavi lo dejó afuera de la primera convocatoria de Países Bajos",
-        "link": "https://www.clarin.com/deportes/memphis-depay-sale-pozo-erro-penal-estudiantes-xavi-dejo-afuera-primera-convocatoria-paises-bajos_0_fFcYNosV43.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/M_W-66R_J_1200x630__1.jpg",
+        "titulo": "Brutal colisión en la MLB: el momento en que Jared Young, de los Mets, recibe un rodillazo en la cabeza de su propio compañero y sale en camilla ante los Phillies",
+        "link": "https://www.clarin.com/estados-unidos/brutal-colision-mlb-momento-jared-young-mets-recibe-rodillazo-cabeza-propio-companero-sale-camilla-phillies_0_j3W1cD4neq.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/lGGkxMn4l_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 13:21:56 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:58:46 +0000"
       },
       {
         "titulo": "Marcelo Gallardo asumió como DT de Ecuador y fue contundente: \"Venimos a competir para ganar\"",
@@ -203,11 +203,11 @@
         "fecha": "Fri, 18 Sep 2026 14:39:58 +0000"
       },
       {
-        "titulo": "La confirmación Monumental de Ponzio antes de Huracán",
-        "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-formacion-titular-11-huracan-monumental_0_s82van7G80.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/18/X6ee-lS2J_1200x630__1.jpg",
+        "titulo": "La reunión del presidente de River que generó una gran expectativa en Uruguay",
+        "link": "https://www.ole.com.ar/river-plate/river-plate-reunion-stefano-di-carlo-penarol-cristian-jaime_0_rk1FGD7szV.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/18/IMltzKwa__1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Fri, 18 Sep 2026 10:28:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:33:55 -0300"
       },
       {
         "titulo": "Objetivo Libertadores: el Pincha sueña despierto",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Descubren al primer felino salvaje en 100 años y es más pequeño que un gato doméstico",
-        "link": "https://www.ambito.com/mundo/descubren-al-primer-felino-salvaje-100-anos-y-es-mas-pequeno-que-un-gato-domestico-n6323885",
-        "imagen": "https://media.ambito.com/p/6e7fc29017cdcaee1697e731ee2b0d01/adjuntos/239/imagenes/043/650/0043650826/felino-nuevo-bolivia.jpeg",
+        "titulo": "Fiyi declaró una emergencia por VIH luego de confirmar que 1 de cada 60 habitantes está infectado",
+        "link": "https://www.ambito.com/mundo/fiyi-declaro-una-emergencia-vih-luego-confirmar-que-1-cada-60-habitantes-esta-infectado-n6323925",
+        "imagen": "https://media.ambito.com/p/37dac9206117f6f6a1a360c5c8f7dfc2/adjuntos/239/imagenes/041/586/0041586147/test-autodiagnostico-vihjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:46:00 -0300"
       },
       {
         "titulo": "Donald Trump habló sobre la guerra con Irán: \"¿Quiero entrar y aniquilarlos? ¿o no?\"",
@@ -361,11 +361,11 @@
         "fecha": "Fri, 18 Sep 2026 08:32:00 -0300"
       },
       {
-        "titulo": "Una enfurecida Ayuso se defiende del ático de lujo en Madrid: \"No es para mí, no quiero saber nada de esta historia\"",
-        "link": "https://www.clarin.com/mundo/enfurecida-ayuso-defiende-atico-lujo-madrid-quiero-saber-historia_0_88Sbc6vFiv.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/NofEaq6yb_1200x630__1.jpg",
+        "titulo": "Sin oposición ni suspenso y en plena guerra con Ucrania, Rusia elige nuevo Parlamento al estilo Putin",
+        "link": "https://www.clarin.com/mundo/oposicion-suspenso-plena-guerra-ucrania-rusia-elige-nuevo-parlamento-estilo-putin_0_uumDtoJDGQ.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/GefFDjnFb_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 13:09:18 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:38:27 +0000"
       },
       {
         "titulo": "El Salvador impulsará un Censo Económico con un crédito de USD 50 millones del BID",
@@ -375,11 +375,11 @@
         "fecha": "Fri, 18 Sep 2026 14:35:00 +0000"
       },
       {
-        "titulo": "Un banquero ligado a la realeza muerto, un ataque inexplicable y un video viral: el misterio del \"Putney Pusher\" en Londres",
-        "link": "https://www.ambito.com/mundo/un-banquero-ligado-la-realeza-muerto-un-ataque-inexplicable-y-un-video-viral-el-misterio-del-putney-pusher-londres-n6323879",
-        "imagen": "https://media.ambito.com/p/e64445059cd7504570fd343ac5ab1cc0/adjuntos/239/imagenes/043/650/0043650761/1200x675/634x351:654x371/nicolas.jpeg",
+        "titulo": "Descubren al primer felino salvaje en 100 años y es más pequeño que un gato doméstico",
+        "link": "https://www.ambito.com/mundo/descubren-al-primer-felino-salvaje-100-anos-y-es-mas-pequeno-que-un-gato-domestico-n6323885",
+        "imagen": "https://media.ambito.com/p/6e7fc29017cdcaee1697e731ee2b0d01/adjuntos/239/imagenes/043/650/0043650826/felino-nuevo-bolivia.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 10:55:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
       },
       {
         "titulo": "\"Leopardus tilcayo\", se descubrió una nueva especie de gato salvaje por primera vez en 100 años",
@@ -389,11 +389,11 @@
         "fecha": "Thu, 17 Sep 2026 17:42:00 -0300"
       },
       {
-        "titulo": "La historia de EE.UU., contada en 15 millones de primeros borradores de la historia",
-        "link": "https://www.clarin.com/new-york-times-international-weekly/historia-eeuu-contada-15-millones-primeros-borradores-historia_0_8iZWjjGN2r.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/m6tblmL23_1200x630__1.jpg",
+        "titulo": "Una enfurecida Ayuso se defiende del ático de lujo en Madrid: \"No es para mí, no quiero saber nada de esta historia\"",
+        "link": "https://www.clarin.com/mundo/enfurecida-ayuso-defiende-atico-lujo-madrid-quiero-saber-historia_0_88Sbc6vFiv.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/NofEaq6yb_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 12:49:41 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:09:18 +0000"
       },
       {
         "titulo": "¿Ortega prepara el camino al poder para Murillo? Esto dicen los expertos",
@@ -403,11 +403,11 @@
         "fecha": "Fri, 18 Sep 2026 14:31:05 +0000"
       },
       {
-        "titulo": "EEUU recompensará a quienes den información sobre la evasión de sanciones de Irán",
-        "link": "https://www.ambito.com/mundo/eeuu-recompensara-quienes-den-informacion-la-evasion-sanciones-iran-n6323860",
-        "imagen": "https://media.ambito.com/p/0a3af146b1ee7a0cb5292bbc6c5d6401/adjuntos/239/imagenes/043/316/0043316460/1200x675/585x351:605x371/estados-unidos-iran-donald-trump-mojtaba-jamenei.jpg",
+        "titulo": "Un banquero ligado a la realeza muerto, un ataque inexplicable y un video viral: el misterio del \"Putney Pusher\" en Londres",
+        "link": "https://www.ambito.com/mundo/un-banquero-ligado-la-realeza-muerto-un-ataque-inexplicable-y-un-video-viral-el-misterio-del-putney-pusher-londres-n6323879",
+        "imagen": "https://media.ambito.com/p/e64445059cd7504570fd343ac5ab1cc0/adjuntos/239/imagenes/043/650/0043650761/1200x675/634x351:654x371/nicolas.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 10:16:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 10:55:00 -0300"
       },
       {
         "titulo": "Elecciones en Brasil: una encuesta adelantó un empate técnico entre Lula da Silva y Bolsonaro en un eventual balotaje",
@@ -417,11 +417,11 @@
         "fecha": "Thu, 17 Sep 2026 15:51:00 -0300"
       },
       {
-        "titulo": "¿Qué es E1, donde Israel impulsa un plan de solución a una disputa territorial?",
-        "link": "https://www.clarin.com/new-york-times-international-weekly/e1-israel-impulsa-plan-solucion-disputa-territorial_0_5t5UlNUcUj.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/yL_u7Vb79_1200x630__1.jpg",
+        "titulo": "La historia de EE.UU., contada en 15 millones de primeros borradores de la historia",
+        "link": "https://www.clarin.com/new-york-times-international-weekly/historia-eeuu-contada-15-millones-primeros-borradores-historia_0_8iZWjjGN2r.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/m6tblmL23_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 12:01:51 +0000"
+        "fecha": "Fri, 18 Sep 2026 12:49:41 +0000"
       },
       {
         "titulo": "Atenciones de emergencia por sarna aumentaron más de 500% en Costa Rica en cinco años",
@@ -433,11 +433,11 @@
     ],
     "espectaculos": [
       {
-        "titulo": "Llega el Batman Day 2026: cómo y cuándo será la celebración global dedicada al superhéroe",
-        "link": "https://www.ambito.com/espectaculos/llega-el-batman-day-2026-como-y-cuando-sera-la-celebracion-global-dedicada-al-superheroe-n6323913",
+        "titulo": "Paulo Londra anunció la fecha de \"entre CIELOS\", su nuevo álbum de estudio",
+        "link": "https://www.ambito.com/espectaculos/paulo-londra-anuncio-la-fecha-entre-cielos-su-nuevo-album-estudio-n6323937",
         "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 10:36:13 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:42:32 -0300"
       },
       {
         "titulo": "Luto en Los Beatles: murió un artista que dejó una marca importante en la banda",
@@ -461,11 +461,11 @@
         "fecha": "Fri, 18 Sep 2026 14:16:15 +0000"
       },
       {
-        "titulo": "Boca perderá a un titular ante Racing en la Copa Argentina por la fecha FIFA",
-        "link": "https://www.ambito.com/espectaculos/boca-perdera-un-titular-racing-la-copa-argentina-la-fecha-fifa-n6323901",
-        "imagen": "https://media.ambito.com/p/f38ea63b9fa6918c051ddc7b5ce9715c/adjuntos/239/imagenes/043/551/0043551299/arruabarrena.png",
+        "titulo": "Llega el Batman Day 2026: cómo y cuándo será la celebración global dedicada al superhéroe",
+        "link": "https://www.ambito.com/espectaculos/llega-el-batman-day-2026-como-y-cuando-sera-la-celebracion-global-dedicada-al-superheroe-n6323913",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 10:16:53 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:13:54 -0300"
       },
       {
         "titulo": "La historia real en la que se basa la miniserie Cautiva: el caso de las monjas de Nogoyá",
@@ -491,9 +491,9 @@
       {
         "titulo": "Netflix presentó el tráiler de \"Lo dejamos acá\", la nueva película con Ricardo Darín y Diego Peretti",
         "link": "https://www.ambito.com/espectaculos/netflix-presento-el-trailer-lo-dejamos-aca-la-nueva-pelicula-ricardo-darin-y-diego-peretti-n6323890",
-        "imagen": "https://media.ambito.com/p/51cee544f0dde4b910f5fe7c1ebafac4/adjuntos/239/imagenes/042/451/0042451499/lo-dejamos-aca-pelicula-darin-peretti.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 10:04:17 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:08:32 -0300"
       },
       {
         "titulo": "Luto en las redes: murió una reconocida influencer tras someterse a una cirugía estética",
@@ -547,6 +547,13 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
+      },
+      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -575,6 +582,13 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
+      },
+      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
-      },
-      {
-        "titulo": "Bitcoin: cuál es el precio de esta criptomoneda este viernes",
-        "link": "https://www.infobae.com/tecno/2026/09/18/bitcoin-cual-es-el-precio-de-esta-criptomoneda-este-viernes/",
-        "imagen": "https://www.infobae.com/resizer/v2/632SZ3DAYBDG7EXG7ZVDZK44X4.jpg?auth=c8ac4d6e01854f77d7945ecac582699cbf523e06a0afff91ce01e733e2c3b06d&smart=true&width=1920&height=1080",
-        "fuente": "Infobae Tecno",
-        "fecha": "Fri, 18 Sep 2026 14:17:26 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -626,9 +626,9 @@
         "fecha": "Fri, 18 Sep 2026 11:08:35 GMT"
       },
       {
-        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
+        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -640,9 +640,9 @@
         "fecha": "Fri, 18 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
+        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -784,16 +784,23 @@
         "fecha": "Fri, 18 Sep 2026 14:01:37 +0000"
       },
       {
-        "titulo": "Qué beneficios de la miel tienen respaldo científico y cuáles aún no",
-        "link": "https://www.infobae.com/salud/2026/09/18/que-beneficios-de-la-miel-tienen-respaldo-cientifico-y-cuales-aun-no/",
-        "imagen": "https://www.infobae.com/resizer/v2/WDTDMZCOORFKFFMOCMHE2IM3KU.png?auth=80e4ae190f4b0651b9755c98de1c6bd2f74c89e98cb003be8f41c84ad9d76aa0&smart=true&width=2752&height=1536",
+        "titulo": "Saltarse el desayuno se asocia con un menor rendimiento escolar en niños y adolescentes, alerta la ciencia",
+        "link": "https://www.infobae.com/salud/2026/09/18/saltarse-el-desayuno-se-asocia-con-un-menor-rendimiento-escolar-en-ninos-y-adolescentes-alerta-la-ciencia/",
+        "imagen": "https://www.infobae.com/resizer/v2/I427URJPERBXNLPKH57HMWELTI.png?auth=eefa103efb288badd3e1db6f6df53ebee09ed861e4b96317051a9ab3a3f87c6a&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "5 claves para saber si la alimentación aporta suficiente proteína sin usar suplementos",
-        "link": "https://www.infobae.com/salud/2026/09/18/5-claves-para-saber-si-la-alimentacion-aporta-suficiente-proteina-sin-usar-suplementos/",
-        "imagen": "https://www.infobae.com/resizer/v2/HLLZGWUJR5F3LIJ5ITEWWU6BGE.png?auth=4fc09a6ff1d843a00a91b5e9f7c55c10565df47eb9606cb34a1021516cb89702&smart=true&width=2752&height=1536",
+        "titulo": "Cara de cortisol: qué es y cuándo es una señal de alarma",
+        "link": "https://www.infobae.com/salud/2026/09/18/cara-de-cortisol-que-es-y-cuando-es-una-senal-de-alarma/",
+        "imagen": "https://www.infobae.com/resizer/v2/P6LIEM5YJ5DPJNX2BA6KX6QZH4.png?auth=31e354c0e02d651a5d3535be1f8765b0b535a94852d8dee854dc4b60bc74bc73&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
+      },
+      {
+        "titulo": "Por qué bajar de peso no depende solamente de comer menos",
+        "link": "https://www.infobae.com/salud/2026/09/18/por-que-bajar-de-peso-no-depende-solamente-de-comer-menos/",
+        "imagen": "https://www.infobae.com/resizer/v2/PN3NPE45YNA7VEIVLOJPAFLVCI.png?auth=27f504c80d49b8c87a73d5a7d80f7fe0cb83bca3ecdf75261ecb780116f04ee0&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
@@ -810,20 +817,13 @@
         "imagen": "https://www.infobae.com/resizer/v2/3O6GORW6WBHAPOMIK3I7RXZ5UM.png?auth=eb0497571eda762134b65759b5b9af3e598670f65ab6d5f965a10de8c721ea86&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
-      },
-      {
-        "titulo": "13 alimentos que pueden ayudar a cubrir las necesidades diarias de vitamina B12",
-        "link": "https://www.infobae.com/salud/2026/09/18/13-alimentos-que-pueden-ayudar-a-cubrir-las-necesidades-diarias-de-vitamina-b12/",
-        "imagen": "https://www.infobae.com/resizer/v2/IZXGFIG3XVHS3NGA3YZPNGYB7A.png?auth=eb85aa4eda0817021a8d2f0afd7f1bef12308729d4d432a90e7471916142464c&smart=true&width=2042&height=1149",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       }
     ],
     "local": [
       {
         "titulo": "Buscan en La Plata a un hombre con retraso madurativo que lleva dos días desaparecido",
         "link": "https://www.0221.com.ar/la-plata/buscan-la-plata-un-hombre-retraso-madurativo-que-lleva-dos-dias-desaparecido-n134396",
-        "imagen": "",
+        "imagen": "https://media.0221.com.ar/p/5864923275bb9b9f7bbc81c2377f9f1c/adjuntos/357/imagenes/100/296/0100296418/1200x630/683x385:703x405/mario-hernan-sotelo-busqueda-personas-1.png",
         "fuente": "0221",
         "fecha": "Fri, 18 Sep 2026 11:00:00 -0300"
       },
@@ -842,11 +842,11 @@
         "fecha": "Fri, 18 Sep 2026 09:49:00 -0300"
       },
       {
-        "titulo": "Intendentes en búsqueda del enroque: 80 de los 135 no podrán ser reelectos en la Provincia",
-        "link": "https://www.eldia.com/politica-y-economia/intendentes-en-busqueda-del-enroque-80-de-los-135-no-podran-ser-reelectos-en-la-provincia-politica-y-economia_1789737600",
+        "titulo": "Loteos ilegales en La Plata: una detenida y hay orden de arresto para otras tres personas",
+        "link": "https://www.eldia.com/policiales/loteos-ilegales-en-la-plata-una-detenida-y-hay-orden-de-arresto-para-otras-tres-personas-policiales_1789740720",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 13:40:03 GMT"
+        "fecha": "Fri, 18 Sep 2026 14:53:29 GMT"
       },
       {
         "titulo": "Mientras se desarrolla el paro universitario habrá una clase pública en el centro de La Plata",
@@ -870,11 +870,11 @@
         "fecha": "Thu, 17 Sep 2026 19:23:00 -0300"
       },
       {
-        "titulo": "Vecinos denuncian un basural a cielo abierto en La Plata: \"Los camiones pasan y siguen de largo\"",
-        "link": "https://www.eldia.com/la-ciudad/vecinos-denuncian-un-basural-a-cielo-abierto-en-la-plata-los-camiones-pasan-y-siguen-de-largo-la-ciudad_1789737540",
+        "titulo": "Intendentes en búsqueda del enroque: 80 de los 135 no podrán ser reelectos en la Provincia",
+        "link": "https://www.eldia.com/politica-y-economia/intendentes-en-busqueda-del-enroque-80-de-los-135-no-podran-ser-reelectos-en-la-provincia-politica-y-economia_1789737600",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 13:31:32 GMT"
+        "fecha": "Fri, 18 Sep 2026 13:40:03 GMT"
       },
       {
         "titulo": "Los últimos pasos de Julio López antes de su segunda desaparición",
@@ -898,11 +898,11 @@
         "fecha": "Thu, 17 Sep 2026 18:38:00 -0300"
       },
       {
-        "titulo": "La Armada apartó a nueve militares tras la denuncia de fraude en la liquidación de sueldos",
-        "link": "https://www.eldia.com/politica-y-economia/la-armada-aparto-a-nueve-militares-tras-la-denuncia-de-fraude-en-la-liquidacion-de-sueldos-politica-y-economia_1789733880",
+        "titulo": "Vecinos denuncian un basural a cielo abierto en La Plata: \"Los camiones pasan y siguen de largo\"",
+        "link": "https://www.eldia.com/la-ciudad/vecinos-denuncian-un-basural-a-cielo-abierto-en-la-plata-los-camiones-pasan-y-siguen-de-largo-la-ciudad_1789737540",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 12:30:02 GMT"
+        "fecha": "Fri, 18 Sep 2026 13:31:32 GMT"
       }
     ]
   }
