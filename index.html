@@ -343,7 +343,7 @@ footer p { color: #9CA3AF; font-size: 12px; }
     padding: 10px 14px;
   }
 
-  .logo-banner img { width: 280px !important; }
+  .logo-banner img { height: 90px !important; width: auto !important; }
 
   .header-widgets {
     width: 100%;
@@ -354,20 +354,34 @@ footer p { color: #9CA3AF; font-size: 12px; }
 
   nav {
     padding: 10px 14px;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
+    flex-wrap: wrap;
+    position: relative;
   }
+
+  #menu-hamburguesa { display: block !important; order: 1; }
+  .en-vivo { order: 2; }
 
   nav .links {
+    display: none;
+    order: 3;
     width: 100%;
-    overflow-x: auto;
+    flex-direction: column;
+    align-items: flex-start;
+    overflow-x: visible;
     flex-wrap: nowrap;
-    gap: 14px;
-    padding-bottom: 4px;
+    gap: 4px;
+    padding-top: 10px;
+    margin-top: 8px;
+    border-top: 1px solid #E5E7EB;
   }
 
-  nav .links a { white-space: nowrap; }
+  nav .links.abierto { display: flex; }
+
+  nav .links a {
+    white-space: normal;
+    width: 100%;
+    padding: 8px 4px;
+  }
 
   .columnas { grid-template-columns: 1fr; }
   .widgets { grid-template-columns: 1fr; }
@@ -414,7 +428,8 @@ footer p { color: #9CA3AF; font-size: 12px; }
   </div></div>
 
 <nav>
-  <div class="links">
+  <button id="menu-hamburguesa" aria-label="Abrir menú" style="display:none; background:none; border:none; font-size:26px; cursor:pointer; color:var(--azul-principal); padding:4px 8px;">☰</button>
+  <div class="links" id="nav-links">
     <a href="index.html">Inicio</a>
     <a href="categoria.html?cat=local">Local</a>
     <a href="categoria.html?cat=politica">Nacional</a>
@@ -984,6 +999,19 @@ formSuscripcion.addEventListener("submit", function (e) {
     document.getElementById("mensaje-suscripcion").style.display = "block";
   });
 });
+
+// ---- Menú hamburguesa (celular) ----
+const botonMenu = document.getElementById("menu-hamburguesa");
+const navLinks = document.getElementById("nav-links");
+if (botonMenu && navLinks) {
+  botonMenu.addEventListener("click", () => {
+    navLinks.classList.toggle("abierto");
+  });
+  // Si tocás un link, se cierra el menú solo
+  navLinks.querySelectorAll("a").forEach(link => {
+    link.addEventListener("click", () => navLinks.classList.remove("abierto"));
+  });
+}
 </script>
 </body>
 </html>
