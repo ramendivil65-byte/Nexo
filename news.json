@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T13:14:58.594249+00:00",
+  "actualizado": "2026-09-18T13:32:00.941344+00:00",
   "categorias": {
     "politica": [
       {
@@ -15,6 +15,48 @@
         "imagen": "https://www.clarin.com/img/2026/07/26/dGnoQiEqq_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Fri, 18 Sep 2026 12:06:29 +0000"
+      },
+      {
+        "titulo": "EEUU recompensará a quienes den información sobre la evasión de sanciones de Irán",
+        "link": "https://www.ambito.com/mundo/eeuu-recompensara-quienes-den-informacion-la-evasion-sanciones-iran-n6323860",
+        "imagen": "https://media.ambito.com/p/0a3af146b1ee7a0cb5292bbc6c5d6401/adjuntos/239/imagenes/043/316/0043316460/1200x675/585x351:605x371/estados-unidos-iran-donald-trump-mojtaba-jamenei.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Fri, 18 Sep 2026 10:16:00 -0300"
+      },
+      {
+        "titulo": "Javier Milei desembarca en Bahía Blanca: reunión con empresarios, inversiones y encuentro con militantes",
+        "link": "https://www.c5n.com/politica/javier-milei-visita-bahia-blanca-agenda-actividades-viernes-18-septiembre-2026",
+        "imagen": "https://media.c5n.com/p/6ea92437d1b6457066e2841a3b2fed32/adjuntos/326/imagenes/000/399/0000399292/1200x675/smart/javier-milei.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 10:08:00 -0300"
+      },
+      {
+        "titulo": "Advierten que la ley por Malvinas incluye amenazas a la libertad de expresión y riesgos de censura",
+        "link": "https://www.infobae.com/politica/2026/09/18/advierten-que-la-ley-por-malvinas-incluye-amenazas-a-la-libertad-de-expresion-y-riesgos-de-censura/",
+        "imagen": "https://www.infobae.com/resizer/v2/X4HXLAB4VZAOBBOOD2MHSEVTJI.jpg?auth=55c2656f334e6612ab89456a5f7a5607bf7201e2a4d1dbc2272f43724908954d&smart=true&width=1280&height=720",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 13:27:27 +0000"
+      },
+      {
+        "titulo": "El Consejo para defender la soberanía en Malvinas que propone Milei pone a la oposición en estado de alerta",
+        "link": "https://www.tiempoar.com.ar/ta_article/malvinas-soberania-milei-oposicion/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Fri, 18 Sep 2026 13:16:12 +0000"
+      },
+      {
+        "titulo": "Promulgan dos tratados de cooperación judicial con Chile y otros países",
+        "link": "https://www.ambito.com/politica/promulgan-dos-tratados-cooperacion-judicial-chile-y-otros-paises-n6323825",
+        "imagen": "https://media.ambito.com/p/2851d9f11bc66e3eb111e12c40646b56/adjuntos/239/imagenes/043/383/0043383167/antonio-kast-chile.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 18 Sep 2026 07:27:00 -0300"
+      },
+      {
+        "titulo": "La nueva encuesta que le llegó a Javier Milei con datos clave para su reelección",
+        "link": "https://www.clarin.com/politica/nueva-encuesta-llego-javier-milei-datos-clave-reeleccion_0_omBKtjbbmv.html",
+        "imagen": "https://www.clarin.com/img/2026/09/03/zVbLy0D06_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 09:00:15 +0000"
       },
       {
         "titulo": "Corridas, empujones y disparos al aire durante el traslado de miles de migrantes en Ceuta",
@@ -43,48 +85,6 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Fri, 18 Sep 2026 12:25:28 +0000"
-      },
-      {
-        "titulo": "Promulgan dos tratados de cooperación judicial con Chile y otros países",
-        "link": "https://www.ambito.com/politica/promulgan-dos-tratados-cooperacion-judicial-chile-y-otros-paises-n6323825",
-        "imagen": "https://media.ambito.com/p/2851d9f11bc66e3eb111e12c40646b56/adjuntos/239/imagenes/043/383/0043383167/antonio-kast-chile.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 07:27:00 -0300"
-      },
-      {
-        "titulo": "La nueva encuesta que le llegó a Javier Milei con datos clave para su reelección",
-        "link": "https://www.clarin.com/politica/nueva-encuesta-llego-javier-milei-datos-clave-reeleccion_0_omBKtjbbmv.html",
-        "imagen": "https://www.clarin.com/img/2026/09/03/zVbLy0D06_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 09:00:15 +0000"
-      },
-      {
-        "titulo": "Donald Trump sobre la guerra con Irán: \"¿Quiero entrar y aniquilarlos, o no?\"",
-        "link": "https://www.ambito.com/mundo/donald-trump-la-guerra-iran-quiero-entrar-y-aniquilarlos-o-no-n6323799",
-        "imagen": "https://media.ambito.com/p/d6c13e7e8e1253182efe879d9bb2d856/adjuntos/239/imagenes/043/634/0043634475/1200x675/738x388:758x408/trump1.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Thu, 17 Sep 2026 23:10:00 -0300"
-      },
-      {
-        "titulo": "Javier Milei viaja a Bahía Blanca para respaldar inversiones y reunirse con militantes",
-        "link": "https://www.c5n.com/politica/javier-milei-viaja-bahia-blanca-respaldar-inversiones-y-reunirse-militantes-n249252",
-        "imagen": "https://media.c5n.com/p/97300b327111d58869818420ba345131/adjuntos/326/imagenes/000/388/0000388297/1200x675/smart/javier-milei-diego-santilli-y-karina.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 23:16:00 -0300"
-      },
-      {
-        "titulo": "Tras 8 años de distancia, los hermanos Rodríguez Saá coquetean con unirse para volver al poder en San Luis",
-        "link": "https://www.infobae.com/politica/2026/09/18/tras-8-anos-de-distancia-los-hermanos-rodriguez-saa-coquetean-con-unirse-para-volver-al-poder-en-san-luis/",
-        "imagen": "https://www.infobae.com/resizer/v2/4ITALOCRGZDG5LTGJ4BBR2LP3Q.jpg?auth=b7ef03e80ad7bf4df2363ea5042217a878fe6044a0e4c0c52ba5989d65fea20b&smart=true&width=1980&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 10:20:34 +0000"
-      },
-      {
-        "titulo": "La falta de votos en el Congreso paraliza al Gobierno y reabre las internas",
-        "link": "https://www.tiempoar.com.ar/ta_article/votos-internas-politica/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 17 Sep 2026 23:06:18 +0000"
       }
     ],
     "economia": [
@@ -110,11 +110,11 @@
         "fecha": "Fri, 18 Sep 2026 09:39:00 -0300"
       },
       {
-        "titulo": "ARBA y Banco Provincia lanzan cuentas sin retenciones para inmobiliarias",
-        "link": "https://www.infobae.com/economia/2026/09/18/arba-y-banco-provincia-lanzan-cuentas-sin-retenciones-para-inmobiliarias/",
-        "imagen": "https://www.infobae.com/resizer/v2/IZPHXECR65DSHHRX4A6PXB2PKQ.jpg?auth=4d780fcce85efad15f6ddf31eb9ed60ab6a24a62049ecb08c1bff078411d8151&smart=true&width=1920&height=1080",
+        "titulo": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este viernes 18 de septiembre",
+        "link": "https://www.infobae.com/economia/2026/09/18/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-viernes-18-de-septiembre/",
+        "imagen": "https://www.infobae.com/resizer/v2/MIPCSSOZ3JG6BJG6MP2EPIYMPM.jpg?auth=04097573f6be54a71ab02aa90989ca48c0062cea2328904c6fb269929b24c6f2&smart=true&width=4500&height=2999",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:06:18 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:27:42 +0000"
       },
       {
         "titulo": "El Indec confirmó la caída de la economía y toma cuerpo el fantasma de la recesión",
@@ -145,11 +145,11 @@
         "fecha": "Fri, 18 Sep 2026 09:34:00 -0300"
       },
       {
-        "titulo": "La Justicia ordenó desalojar el predio de Fate ocupado por los trabajadores y devolverlo a la empresa",
-        "link": "https://www.infobae.com/economia/2026/09/18/la-justicia-ordeno-desalojar-el-predio-de-fate-ocupado-por-trabajadores-y-devolverlo-a-la-empresa/",
-        "imagen": "https://www.infobae.com/resizer/v2/VFJJFBWKLFDCRCTTBQD4FCLVEQ.JPG?auth=065691ffc76700e44ee3ce02da904d660abc5fdf47a949905b6894b7680e1b87&smart=true&width=4032&height=3024",
+        "titulo": "ARBA y Banco Provincia lanzan cuentas sin retenciones para inmobiliarias",
+        "link": "https://www.infobae.com/economia/2026/09/18/arba-y-banco-provincia-lanzan-cuentas-sin-retenciones-para-inmobiliarias/",
+        "imagen": "https://www.infobae.com/resizer/v2/IZPHXECR65DSHHRX4A6PXB2PKQ.jpg?auth=4d780fcce85efad15f6ddf31eb9ed60ab6a24a62049ecb08c1bff078411d8151&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 12:41:38 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:06:18 +0000"
       },
       {
         "titulo": "Ordenan el desalojo de FATE y el sindicato convocó a defender la fábrica",
@@ -196,11 +196,11 @@
         "fecha": "Thu, 17 Sep 2026 19:54:00 -0300"
       },
       {
-        "titulo": "De changador en Lanús a pelear por un título internacional en Italia: la historia de Kevin Ramírez",
-        "link": "https://www.infobae.com/deportes/2026/09/18/de-changador-en-lanus-a-pelear-por-un-titulo-internacional-en-italia-la-historia-de-kevin-ramirez/",
-        "imagen": "https://www.infobae.com/resizer/v2/7QV7HTJ5KVASDE5BCZOA6C6QAU.jpg?auth=edd39a28fcc2f69b74a6cebe1f7206fb004d9c19fd57304dd48b64e502a9766b&smart=true&width=1920&height=1080",
+        "titulo": "Quiénes armaron la lista de 30 nominados al Balón de Oro y cómo se elegirá al ganador del trofeo en 2026: el peso clave que tendrá el Mundial",
+        "link": "https://www.infobae.com/deportes/2026/09/18/los-organizadores-del-balon-de-oro-detallaron-quienes-armaron-la-lista-de-30-nominados-y-adelantaron-como-se-elegira-al-ganador-del-2026/",
+        "imagen": "https://www.infobae.com/resizer/v2/ECCFJY6VGVBHDJ76ISDPX3NG74.jpg?auth=752b45453ed43071bda0941f9502cbb824cc5f746767b613c74263aaf58611ff&smart=true&width=5154&height=2899",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 12:15:33 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:27:35 +0000"
       },
       {
         "titulo": "River, hoy EN VIVO: la lista de Ponzio, lo que dejó la reunión de CD y todas las noticias del viernes 18 de septiembre",
@@ -275,11 +275,11 @@
         "fecha": "Fri, 18 Sep 2026 08:26:00 -0300"
       },
       {
-        "titulo": "Un carpintero le disparó en la cara a su socio mientras dormía y lo quiso ahorcar con un cable: le dictaron prisión preventiva",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/un-carpintero-le-disparo-en-la-cara-a-su-socio-mientras-dormia-y-lo-quiso-ahorcar-con-un-cable-le-dictaron-prision-preventiva/",
-        "imagen": "https://www.infobae.com/resizer/v2/XC7WQWDMIRA5FP2PPX74ISG5QA.jpg?auth=3acafc538ec9136b2e3242618d945ebcf0f09c9f6e23933e0e47189781ce4148&smart=true&width=1200&height=800",
+        "titulo": "Detuvieron al ex manager de Callejero Fino por amenazar al cantante",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/detuvieron-al-ex-manager-de-callejero-fino-por-amenazar-al-cantante/",
+        "imagen": "https://www.infobae.com/resizer/v2/RPNV6Q55YJHLPDO74TE3J3MA7E.png?auth=c8d4523d10f68d8cf5c162d0e4702cec3b96cb1e3e8af561f5487451547fd22b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:13:46 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:21:45 +0000"
       },
       {
         "titulo": "De las pasarelas a la cárcel: condenan a perpetua a una exprofesora de modelos por matar a hachazos al hombre que cuidaba para quedarse con su casa",
@@ -296,11 +296,11 @@
         "fecha": "Fri, 18 Sep 2026 07:28:00 -0300"
       },
       {
-        "titulo": "Detuvieron al ex manager de Callejero Fino por amenazar al cantante",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/detuvieron-al-ex-manager-de-callejero-fino-por-amenazar-al-cantante/",
-        "imagen": "https://www.infobae.com/resizer/v2/RPNV6Q55YJHLPDO74TE3J3MA7E.png?auth=c8d4523d10f68d8cf5c162d0e4702cec3b96cb1e3e8af561f5487451547fd22b&smart=true&width=1920&height=1080",
+        "titulo": "Un carpintero le disparó en la cara a su socio mientras dormía y lo quiso ahorcar con un cable: le dictaron prisión preventiva",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/un-carpintero-le-disparo-en-la-cara-a-su-socio-mientras-dormia-y-lo-quiso-ahorcar-con-un-cable-le-dictaron-prision-preventiva/",
+        "imagen": "https://www.infobae.com/resizer/v2/XC7WQWDMIRA5FP2PPX74ISG5QA.jpg?auth=3acafc538ec9136b2e3242618d945ebcf0f09c9f6e23933e0e47189781ce4148&smart=true&width=1200&height=800",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:04:55 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:15:20 +0000"
       },
       {
         "titulo": "Un perito de Leopoldo Luque contradijo a la Junta Médica oficial: \"Maradona murió inesperadamente, de golpe\"",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Corridas, empujones y disparos al aire durante el traslado de miles de migrantes en Ceuta",
-        "link": "https://www.ambito.com/mundo/corridas-empujones-y-disparos-al-aire-el-traslado-miles-migrantes-ceuta-n6323865",
-        "imagen": "https://media.ambito.com/p/fdbb50c279e9375a11af192208a8e6c8/adjuntos/239/imagenes/043/650/0043650695/ceuta.jpg",
+        "titulo": "EEUU recompensará a quienes den información sobre la evasión de sanciones de Irán",
+        "link": "https://www.ambito.com/mundo/eeuu-recompensara-quienes-den-informacion-la-evasion-sanciones-iran-n6323860",
+        "imagen": "https://media.ambito.com/p/0a3af146b1ee7a0cb5292bbc6c5d6401/adjuntos/239/imagenes/043/316/0043316460/1200x675/585x351:605x371/estados-unidos-iran-donald-trump-mojtaba-jamenei.jpg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 09:58:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 10:16:00 -0300"
       },
       {
         "titulo": "Donald Trump habló sobre la guerra con Irán: \"¿Quiero entrar y aniquilarlos? ¿o no?\"",
@@ -361,25 +361,25 @@
         "fecha": "Fri, 18 Sep 2026 08:32:00 -0300"
       },
       {
-        "titulo": "¿Qué es E1, donde Israel impulsa un plan de solución a una disputa territorial?",
-        "link": "https://www.clarin.com/new-york-times-international-weekly/e1-israel-impulsa-plan-solucion-disputa-territorial_0_5t5UlNUcUj.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/yL_u7Vb79_1200x630__1.jpg",
+        "titulo": "Panorama Internacional: crisis global, elecciones y la \"varita mágica\" de Donald Trump",
+        "link": "https://www.clarin.com/opinion/panorama-internacional-crisis-global-elecciones-varita-magica-donald-trump_0_Q0FC2YGkAq.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/OGUHTqad0_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 12:01:51 +0000"
+        "fecha": "Fri, 18 Sep 2026 09:00:20 +0000"
       },
       {
-        "titulo": "Rusia renueva la Duma en medio de la guerra: manipulación estatal, oposición proscripta y un mecanismo para medir la lealtad a Putin",
-        "link": "https://www.infobae.com/america/mundo/2026/09/18/rusia-renueva-la-duma-en-medio-de-la-guerra-manipulacion-estatal-oposicion-proscripta-y-un-mecanismo-para-medir-la-lealtad-a-putin/",
-        "imagen": "https://www.infobae.com/resizer/v2/BAWCLTLHS5GYFA5HZNDF4OV4NI.jpg?auth=af31b1c020bbbea95e47dffd3725d0a3fdeb75a67ec7f18e65a26dcdc78e05c3&smart=true&width=5537&height=3692",
+        "titulo": "Una mujer sola, acosada en Europa: la española que, en 1917, anticipó el debate de hoy",
+        "link": "https://www.infobae.com/cultura/2026/09/18/una-mujer-sola-acosada-en-europa-la-espanola-que-en-1917-anticipo-el-debate-de-hoy/",
+        "imagen": "https://www.infobae.com/resizer/v2/PDTR76J57RB2BNWA2D5DIKN36Q.jpg?auth=a3dfddbff6f8f7ce62906a1d583fdad3abb0770aa162ac1f024a884054efeae2&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:03:40 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:26:35 +0000"
       },
       {
-        "titulo": "Donald Trump sobre la guerra con Irán: \"¿Quiero entrar y aniquilarlos, o no?\"",
-        "link": "https://www.ambito.com/mundo/donald-trump-la-guerra-iran-quiero-entrar-y-aniquilarlos-o-no-n6323799",
-        "imagen": "https://media.ambito.com/p/d6c13e7e8e1253182efe879d9bb2d856/adjuntos/239/imagenes/043/634/0043634475/1200x675/738x388:758x408/trump1.jpg",
+        "titulo": "Corridas, empujones y disparos al aire durante el traslado de miles de migrantes en Ceuta",
+        "link": "https://www.ambito.com/mundo/corridas-empujones-y-disparos-al-aire-el-traslado-miles-migrantes-ceuta-n6323865",
+        "imagen": "https://media.ambito.com/p/fdbb50c279e9375a11af192208a8e6c8/adjuntos/239/imagenes/043/650/0043650695/ceuta.jpg",
         "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 23:10:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 09:58:00 -0300"
       },
       {
         "titulo": "\"Leopardus tilcayo\", se descubrió una nueva especie de gato salvaje por primera vez en 100 años",
@@ -389,25 +389,25 @@
         "fecha": "Thu, 17 Sep 2026 17:42:00 -0300"
       },
       {
-        "titulo": "Ataque suicida en una mezquita en Pakistán en pleno viernes de oración: hay al menos 16 muertos",
-        "link": "https://www.clarin.com/mundo/ataque-mezquita-pakistan-pleno-viernes-oracion-16-muertos_0_eEJz9lKjQs.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/L7QsVWUWl_1200x630__1.jpg",
+        "titulo": "Irán ataca un petrolero de Togo en el estrecho de Ormuz y acusa a Estados Unidos de provocación",
+        "link": "https://www.clarin.com/mundo/tension-estrecho-ormuz-iran-ataca-petrolero-togo-acusa-estados-unidos-provocacion_0_xTK7BVy4JA.html",
+        "imagen": "https://www.clarin.com/img/2026/07/09/LlBYs4hvb_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 11:16:32 +0000"
+        "fecha": "Fri, 18 Sep 2026 00:51:20 +0000"
       },
       {
-        "titulo": "Firpo cayó 3-0 ante Olimpia y El Salvador se queda sin representantes en la Copa Centroamericana 2026",
-        "link": "https://www.infobae.com/el-salvador/2026/09/18/firpo-cayo-3-0-ante-olimpia-y-el-salvador-se-queda-sin-representantes-en-la-copa-centroamericana-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/A3TXA3EOMJDFFAY3WSZ5RABRXE.jpg?auth=6af61de3f4a50bc630233f528a8fcd3bbc0f8c5bbb6895b055bfe1c1d35867db&smart=true&width=1304&height=869",
+        "titulo": "Qué leer el fin de semana: volver a los clásicos para escribirlos de nuevo",
+        "link": "https://www.infobae.com/cultura/2026/09/18/que-leer-el-fin-de-semana-volver-a-los-clasicos-para-escribirlos-de-nuevo/",
+        "imagen": "https://www.infobae.com/resizer/v2/D5Z3Q4VUDFBXPLH6LGNBCVGOYQ.png?auth=2e02d9ece6bc709eefdb4f91a7da96d4df3ed7cf6d962da04109ff85bc0947a8&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:02:32 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:13:07 +0000"
       },
       {
-        "titulo": "EEUU autorizó el ingreso de la delegación de Irán para asistir a la Asamblea General de la ONU en Nueva York",
-        "link": "https://www.ambito.com/mundo/eeuu-autorizo-el-ingreso-la-delegacion-iran-asistir-la-asamblea-general-la-onu-nueva-york-n6323764",
-        "imagen": "https://media.ambito.com/p/4f3ec05818d93539a3d9ab1b514f1dd2/adjuntos/239/imagenes/043/650/0043650411/1200x675/944x397:964x417/masud-pezeshkian.jpg",
+        "titulo": "Donald Trump sobre la guerra con Irán: \"¿Quiero entrar y aniquilarlos, o no?\"",
+        "link": "https://www.ambito.com/mundo/donald-trump-la-guerra-iran-quiero-entrar-y-aniquilarlos-o-no-n6323799",
+        "imagen": "https://media.ambito.com/p/d6c13e7e8e1253182efe879d9bb2d856/adjuntos/239/imagenes/043/634/0043634475/1200x675/738x388:758x408/trump1.jpg",
         "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 20:33:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 23:10:00 -0300"
       },
       {
         "titulo": "Elecciones en Brasil: una encuesta adelantó un empate técnico entre Lula da Silva y Bolsonaro en un eventual balotaje",
@@ -417,18 +417,18 @@
         "fecha": "Thu, 17 Sep 2026 15:51:00 -0300"
       },
       {
-        "titulo": "Crisis en Ceuta: caótico traslado y avalancha de migrantes hacia un nuevo centro de alojamiento",
-        "link": "https://www.clarin.com/mundo/crisis-ceuta-caotico-traslado-avalancha-migrantes-nuevo-centro-alojamiento_0_s0jVSQE2mO.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/vRa6je-yu_1200x630__1.jpg",
+        "titulo": "La Eurocámara pide suspender el diálogo con Cuba por la represión contra los opositores al régimen",
+        "link": "https://www.clarin.com/mundo/eurocamara-pide-suspender-dialogo-cuba-represion-opositores-regimen_0_9r40endRu9.html",
+        "imagen": "https://www.clarin.com/img/2026/05/22/Cq0WEhfyY_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 11:12:45 +0000"
+        "fecha": "Thu, 17 Sep 2026 22:40:07 +0000"
       },
       {
-        "titulo": "El 62.8% de los propietarios de MYPE salvadoreñas vive en una vivienda propia",
-        "link": "https://www.infobae.com/el-salvador/2026/09/18/el-628-de-los-propietarios-de-mype-salvadorenas-vive-en-una-vivienda-propia/",
-        "imagen": "https://www.infobae.com/resizer/v2/TCJPNU3HZ5A6PES3T2AYI4BC24.jpg?auth=1cbe7d37381b7080e4f68829adee42c89e56566d0263ababe44b284e0f36e091&smart=true&width=1280&height=974",
+        "titulo": "Rusia renueva la Duma en medio de la guerra: manipulación estatal, oposición proscripta y un mecanismo para medir la lealtad a Putin",
+        "link": "https://www.infobae.com/america/mundo/2026/09/18/rusia-renueva-la-duma-en-medio-de-la-guerra-manipulacion-estatal-oposicion-proscripta-y-un-mecanismo-para-medir-la-lealtad-a-putin/",
+        "imagen": "https://www.infobae.com/resizer/v2/BAWCLTLHS5GYFA5HZNDF4OV4NI.jpg?auth=af31b1c020bbbea95e47dffd3725d0a3fdeb75a67ec7f18e65a26dcdc78e05c3&smart=true&width=5537&height=3692",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 12:59:04 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:03:40 +0000"
       }
     ],
     "espectaculos": [
@@ -440,6 +440,34 @@
         "fecha": "Fri, 18 Sep 2026 09:39:00 -0300"
       },
       {
+        "titulo": "La historia real en la que se basa la miniserie Cautiva: el caso de las monjas de Nogoyá",
+        "link": "https://www.c5n.com/ratingcero/la-historia-real-la-que-se-basa-la-miniserie-cautiva-el-caso-las-monjas-nogoya-n249267",
+        "imagen": "https://media.c5n.com/p/f790bd3a7ef4a684275435a93c9699bb/adjuntos/326/imagenes/000/399/0000399452/1200x675/smart/cautiva.png",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 10:15:00 -0300"
+      },
+      {
+        "titulo": "Lo más visto en Netflix Panamá: las 10 películas más exitosas del momento, con “¿Por qué me casé, entonces?” a la cabeza",
+        "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-panama-las-10-peliculas-mas-exitosas-del-momento-con-por-que-me-case-entonces-a-la-cabeza_0_AgNgbMFyJF.html",
+        "imagen": "https://www.clarin.com/img/2022/05/10/4MeKLP9oi_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 11:41:14 +0000"
+      },
+      {
+        "titulo": "La misión de la soprano Verónica Cangemi: conectar a los jóvenes del mundo a través de la ópera",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/la-mision-de-la-soprano-veronica-cangemi-conectar-a-los-jovenes-del-mundo-a-traves-de-la-opera/",
+        "imagen": "https://www.infobae.com/resizer/v2/K5Z4MLT7P5E45M7GHONFH2S7EA.jpg?auth=8cf5a01d9935ad7d98f7799dfc3acf6531613cf16dc5eb19d015a2a4acf1ecad&smart=true&width=1280&height=720",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 13:19:33 +0000"
+      },
+      {
+        "titulo": "Historias de hijos de represores, amores y desamores llegan al cine argentino",
+        "link": "https://www.ambito.com/espectaculos/historias-hijos-amores-y-desamores-llegan-al-cine-argentino-n6323788",
+        "imagen": "https://media.ambito.com/p/a963be9fd20b62f4d84f0135c4b2736f/adjuntos/239/imagenes/043/650/0043650528/1200x675/smart/desobediente-2.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Thu, 17 Sep 2026 21:44:00 -0300"
+      },
+      {
         "titulo": "Luto en las redes: murió una reconocida influencer tras someterse a una cirugía estética",
         "link": "https://www.c5n.com/ratingcero/luto-las-redes-murio-una-reconocida-influencer-someterse-una-cirugia-estetica-n249258",
         "imagen": "https://media.c5n.com/p/af123a73574b5f670e7aed8c697ac3fb/adjuntos/326/imagenes/000/399/0000399444/1200x675/smart/luto-redes.png",
@@ -447,9 +475,9 @@
         "fecha": "Fri, 18 Sep 2026 08:39:00 -0300"
       },
       {
-        "titulo": "Lo más visto en Netflix Panamá: las 10 películas más exitosas del momento, con “¿Por qué me casé, entonces?” a la cabeza",
-        "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-panama-las-10-peliculas-mas-exitosas-del-momento-con-por-que-me-case-entonces-a-la-cabeza_0_AgNgbMFyJF.html",
-        "imagen": "https://www.clarin.com/img/2022/05/10/4MeKLP9oi_1200x630__1.jpg",
+        "titulo": "Lo más visto en Netflix Uruguay: las 10 películas más exitosas del momento, con “Gracias, equipo” a la cabeza",
+        "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-uruguay-las-10-peliculas-mas-exitosas-del-momento-con-gracias-equipo-a-la-cabeza_0_jxAjHSq0m2.html",
+        "imagen": "https://www.clarin.com/img/2024/07/10/UXfssf0CN_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Fri, 18 Sep 2026 11:41:14 +0000"
       },
@@ -461,11 +489,11 @@
         "fecha": "Fri, 18 Sep 2026 12:30:22 +0000"
       },
       {
-        "titulo": "Historias de hijos de represores, amores y desamores llegan al cine argentino",
-        "link": "https://www.ambito.com/espectaculos/historias-hijos-amores-y-desamores-llegan-al-cine-argentino-n6323788",
-        "imagen": "https://media.ambito.com/p/a963be9fd20b62f4d84f0135c4b2736f/adjuntos/239/imagenes/043/650/0043650528/1200x675/smart/desobediente-2.jpg",
+        "titulo": "El \"Efecto Céline Dion\": cómo sus 26 conciertos generarán hasta €1.000 millones en París",
+        "link": "https://www.ambito.com/espectaculos/el-efecto-celine-dion-como-sus-26-conciertos-generaran-1000-millones-paris-n6323152",
+        "imagen": "https://media.ambito.com/p/d0dd6af3e0ed1847ca489a7187dd7971/adjuntos/239/imagenes/043/647/0043647219/1200x675/1672x371:1692x391/celine-dion.jpg",
         "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 21:44:00 -0300"
+        "fecha": "Thu, 17 Sep 2026 20:00:00 -0300"
       },
       {
         "titulo": "La inesperada decisión de Tini Stoessel que involucra a Emilia Mernes y Lali Espósito",
@@ -475,34 +503,6 @@
         "fecha": "Thu, 17 Sep 2026 23:34:00 -0300"
       },
       {
-        "titulo": "Lo más visto en Netflix Uruguay: las 10 películas más exitosas del momento, con “Gracias, equipo” a la cabeza",
-        "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-uruguay-las-10-peliculas-mas-exitosas-del-momento-con-gracias-equipo-a-la-cabeza_0_jxAjHSq0m2.html",
-        "imagen": "https://www.clarin.com/img/2024/07/10/UXfssf0CN_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 11:41:14 +0000"
-      },
-      {
-        "titulo": "Ceferino Reato criticó la edición de Gran Hermano Generación Dorada: “Fue muy larga y cansadora”",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/ceferino-reato-critico-la-edicion-de-gran-hermano-generacion-dorada-fue-muy-larga-y-cansadora/",
-        "imagen": "https://www.infobae.com/resizer/v2/TRN6FNUZKRBHFHOUN6X6U7NBQA.jpg?auth=c1ac1407f9c06fbda709f87214feea2fd94b5fc7e6782cd71bc8d2c62d98d296&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 12:02:28 +0000"
-      },
-      {
-        "titulo": "El \"Efecto Céline Dion\": cómo sus 26 conciertos generarán hasta €1.000 millones en París",
-        "link": "https://www.ambito.com/espectaculos/el-efecto-celine-dion-como-sus-26-conciertos-generaran-1000-millones-paris-n6323152",
-        "imagen": "https://media.ambito.com/p/d0dd6af3e0ed1847ca489a7187dd7971/adjuntos/239/imagenes/043/647/0043647219/1200x675/1672x371:1692x391/celine-dion.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 17 Sep 2026 20:00:00 -0300"
-      },
-      {
-        "titulo": "La mamá de Wanda Nara destrozó a la China Suárez: \"No puedo soportar lo que le hace a mis nietas\"",
-        "link": "https://www.c5n.com/ratingcero/la-mama-wanda-nara-destrozo-la-china-suarez-no-puedo-soportar-lo-que-le-hace-mis-nietas-n249250",
-        "imagen": "https://media.c5n.com/p/57e921e0166211ef1104ecfe0c9c3432/adjuntos/326/imagenes/000/399/0000399433/1200x675/smart/nora-colosimo-contra-la-china-suarez.png",
-        "fuente": "C5N",
-        "fecha": "Thu, 17 Sep 2026 22:14:00 -0300"
-      },
-      {
         "titulo": "Lo más visto en Netflix España: las 10 películas más exitosas del momento, con “Gracias, equipo” a la cabeza",
         "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-espana-las-10-peliculas-mas-exitosas-del-momento-con-gracias-equipo-a-la-cabeza_0_kBzz2mUtWx.html",
         "imagen": "https://www.clarin.com/img/2022/07/20/Fg9OhzZzE_1200x630__1.jpg",
@@ -510,11 +510,11 @@
         "fecha": "Fri, 18 Sep 2026 11:41:13 +0000"
       },
       {
-        "titulo": "La madre de Wanda Nara volvió a criticar a la China Suárez: “¿Por qué no se ocupa de escolarizar a sus hijos?”",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/la-madre-de-wanda-nara-volvio-a-criticar-a-la-china-suarez-por-que-no-se-ocupa-de-escolarizar-a-sus-hijos/",
-        "imagen": "https://www.infobae.com/resizer/v2/GLVONYH3DVFE5A3KCRCRT4QSIA.png?auth=d5fe0c507f52cc8898aeb098051cbe24ce8e936a565729e51d92c7637a7358f5&smart=true&width=1280&height=720",
+        "titulo": "Ceferino Reato criticó la edición de Gran Hermano Generación Dorada: “Fue muy larga y cansadora”",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/ceferino-reato-critico-la-edicion-de-gran-hermano-generacion-dorada-fue-muy-larga-y-cansadora/",
+        "imagen": "https://www.infobae.com/resizer/v2/TRN6FNUZKRBHFHOUN6X6U7NBQA.jpg?auth=c1ac1407f9c06fbda709f87214feea2fd94b5fc7e6782cd71bc8d2c62d98d296&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 11:07:27 +0000"
+        "fecha": "Fri, 18 Sep 2026 12:02:28 +0000"
       }
     ],
     "tecnologia": [
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "Apple inicia la venta oficial del iPhone 18 Pro y iPhone 18 Pro Max: John Ternus, nuevo CEO de Apple es el protagonista",
+        "link": "https://www.infobae.com/tecno/2026/09/18/apple-inicia-la-venta-oficial-del-iphone-18-pro-y-iphone-18-pro-max-john-ternus-lo-celebra-a-lo-grande/",
+        "imagen": "https://www.infobae.com/resizer/v2/EJPG5E6WK5CKXOIXCHL5HUDUS4.jpg?auth=d9859cd95ade0b15c5141aee6cdd612727f2d55897995681389806d85674315a&smart=true&width=980&height=654",
+        "fuente": "Infobae Tecno",
+        "fecha": "Fri, 18 Sep 2026 12:51:24 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -777,9 +777,16 @@
     ],
     "vida_sana": [
       {
-        "titulo": "Qué puede causar un cambio repentino en el ritmo intestinal y cuándo es necesario consultar a un médico",
-        "link": "https://www.infobae.com/salud/2026/09/18/que-puede-causar-un-cambio-repentino-en-el-ritmo-intestinal-y-cuando-es-necesario-consultar-a-un-medico/",
-        "imagen": "https://www.infobae.com/resizer/v2/TQDTOMT3RFHLPBAFRKITYQ3VXU.png?auth=7b643b0dd1a6b4daf65079a6881fbfc080384f051b4fe939afdf03bac7f1a8e7&smart=true&width=2752&height=1536",
+        "titulo": "Qué beneficios de la miel tienen respaldo científico y cuáles aún no",
+        "link": "https://www.infobae.com/salud/2026/09/18/que-beneficios-de-la-miel-tienen-respaldo-cientifico-y-cuales-aun-no/",
+        "imagen": "https://www.infobae.com/resizer/v2/WDTDMZCOORFKFFMOCMHE2IM3KU.png?auth=80e4ae190f4b0651b9755c98de1c6bd2f74c89e98cb003be8f41c84ad9d76aa0&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
+      },
+      {
+        "titulo": "5 claves para saber si la alimentación aporta suficiente proteína sin usar suplementos",
+        "link": "https://www.infobae.com/salud/2026/09/18/5-claves-para-saber-si-la-alimentacion-aporta-suficiente-proteina-sin-usar-suplementos/",
+        "imagen": "https://www.infobae.com/resizer/v2/HLLZGWUJR5F3LIJ5ITEWWU6BGE.png?auth=4fc09a6ff1d843a00a91b5e9f7c55c10565df47eb9606cb34a1021516cb89702&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
@@ -798,23 +805,16 @@
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "Qué beneficios de la miel tienen respaldo científico y cuáles aún no",
-        "link": "https://www.infobae.com/salud/2026/09/18/que-beneficios-de-la-miel-tienen-respaldo-cientifico-y-cuales-aun-no/",
-        "imagen": "https://www.infobae.com/resizer/v2/WDTDMZCOORFKFFMOCMHE2IM3KU.png?auth=80e4ae190f4b0651b9755c98de1c6bd2f74c89e98cb003be8f41c84ad9d76aa0&smart=true&width=2752&height=1536",
+        "titulo": "Qué puede causar un cambio repentino en el ritmo intestinal y cuándo es necesario consultar a un médico",
+        "link": "https://www.infobae.com/salud/2026/09/18/que-puede-causar-un-cambio-repentino-en-el-ritmo-intestinal-y-cuando-es-necesario-consultar-a-un-medico/",
+        "imagen": "https://www.infobae.com/resizer/v2/TQDTOMT3RFHLPBAFRKITYQ3VXU.png?auth=7b643b0dd1a6b4daf65079a6881fbfc080384f051b4fe939afdf03bac7f1a8e7&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "5 claves para saber si la alimentación aporta suficiente proteína sin usar suplementos",
-        "link": "https://www.infobae.com/salud/2026/09/18/5-claves-para-saber-si-la-alimentacion-aporta-suficiente-proteina-sin-usar-suplementos/",
-        "imagen": "https://www.infobae.com/resizer/v2/HLLZGWUJR5F3LIJ5ITEWWU6BGE.png?auth=4fc09a6ff1d843a00a91b5e9f7c55c10565df47eb9606cb34a1021516cb89702&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
-      },
-      {
-        "titulo": "Saltarse el desayuno se asocia con un menor rendimiento escolar en niños y adolescentes, alerta la ciencia",
-        "link": "https://www.infobae.com/salud/2026/09/18/saltarse-el-desayuno-se-asocia-con-un-menor-rendimiento-escolar-en-ninos-y-adolescentes-alerta-la-ciencia/",
-        "imagen": "https://www.infobae.com/resizer/v2/I427URJPERBXNLPKH57HMWELTI.png?auth=eefa103efb288badd3e1db6f6df53ebee09ed861e4b96317051a9ab3a3f87c6a&smart=true&width=2752&height=1536",
+        "titulo": "Cara de cortisol: qué es y cuándo es una señal de alarma",
+        "link": "https://www.infobae.com/salud/2026/09/18/cara-de-cortisol-que-es-y-cuando-es-una-senal-de-alarma/",
+        "imagen": "https://www.infobae.com/resizer/v2/P6LIEM5YJ5DPJNX2BA6KX6QZH4.png?auth=31e354c0e02d651a5d3535be1f8765b0b535a94852d8dee854dc4b60bc74bc73&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       }
@@ -842,11 +842,11 @@
         "fecha": "Fri, 18 Sep 2026 09:49:00 -0300"
       },
       {
-        "titulo": "Choque y vuelco en La Plata: una mujer fue trasladada al hospital",
-        "link": "https://www.eldia.com/policiales/choque-y-vuelco-en-la-plata-una-mujer-fue-trasladada-al-hospital-policiales_1789734600",
+        "titulo": "Impuesto a las Ganancias: nuevas fechas que deben tener en cuenta los contribuyentes",
+        "link": "https://www.eldia.com/politica-y-economia/impuesto-a-las-ganancias-nuevas-fechas-que-deben-tener-en-cuenta-los-contribuyentes-politica-y-economia_1789736820",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 12:40:33 GMT"
+        "fecha": "Fri, 18 Sep 2026 13:23:47 GMT"
       },
       {
         "titulo": "Los últimos pasos de Julio López antes de su segunda desaparición",
@@ -870,11 +870,11 @@
         "fecha": "Thu, 17 Sep 2026 19:23:00 -0300"
       },
       {
-        "titulo": "Apaga incendios y rescata personas en altura: así es el nuevo dron bombero probado en La Plata",
-        "link": "https://www.eldia.com/la-ciudad/el-bombero-drone-llega-a-la-plata-apaga-el-fuego-y-rescata-victimas-en-edificios-de-dificil-acceso-la-ciudad_1789734060",
+        "titulo": "Choque y vuelco en La Plata: una mujer fue trasladada al hospital",
+        "link": "https://www.eldia.com/policiales/choque-y-vuelco-en-la-plata-una-mujer-fue-trasladada-al-hospital-policiales_1789734600",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 12:43:52 GMT"
+        "fecha": "Fri, 18 Sep 2026 12:40:33 GMT"
       },
       {
         "titulo": "Las actividades a 20 años de la desaparición de Julio López: marcha, muestras y conversatorio",
@@ -898,11 +898,11 @@
         "fecha": "Thu, 17 Sep 2026 18:38:00 -0300"
       },
       {
-        "titulo": "Luisa Albinoni defendió a Jorge Porcel: “Se degeneró, es un hombre como cualquiera”",
-        "link": "https://www.eldia.com/espectaculos/luisa-albinoni-defendio-a-jorge-porcel-se-degenero-es-un-hombre-como-cualquiera-espectaculos_1789731000",
+        "titulo": "Apaga incendios y rescata personas en altura: así es el nuevo dron bombero probado en La Plata",
+        "link": "https://www.eldia.com/la-ciudad/el-bombero-drone-llega-a-la-plata-apaga-el-fuego-y-rescata-victimas-en-edificios-de-dificil-acceso-la-ciudad_1789734060",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 11:41:35 GMT"
+        "fecha": "Fri, 18 Sep 2026 12:43:52 GMT"
       }
     ]
   }
