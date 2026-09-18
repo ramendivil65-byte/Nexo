@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T08:43:36.968693+00:00",
+  "actualizado": "2026-09-18T08:57:17.232109+00:00",
   "categorias": {
     "politica": [
       {
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "SpaceX exploraría comprar información de clientes de empresas emergentes en bancarrota para su IA",
+        "link": "https://www.infobae.com/tecno/2026/09/18/spacex-exploraria-comprar-informacion-de-clientes-de-empresas-emergentes-en-bancarrota-para-su-ia/",
+        "imagen": "https://www.infobae.com/resizer/v2/AN5EH2Q3RBDJRK4TLRK24L3W3Q.JPG?auth=758c0c5bc6fb21e8cf48fed762d784743a4c6e6b3b7663904eab7445dbea5c95&smart=true&width=3000&height=2001",
+        "fuente": "Infobae Tecno",
+        "fecha": "Fri, 18 Sep 2026 03:35:15 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -654,9 +654,9 @@
         "fecha": "Thu, 17 Sep 2026 13:49:05 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Volkswagen Tera en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuanto-cuesta-llenar-el-tanque-del-volkswagen-tera-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/P5TXOXR4DBHBNCOOTG5UO5ZCKQ.jpg?auth=b9511b7eda08fe3ee0b192ee8a19bc3b237e6f32b2a49e8e3bead59cd8d0ebd2",
+        "titulo": "Los precios de Chery en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/17/los-precios-de-chery-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/OPLILQPZENHD3KTB4RK4JZQUEU.jpg?auth=65adc7fc5654c5c605ab90058e8394de0a44f50b0b1b8910014d3d441c01ac24",
         "fuente": "TN Autos",
         "fecha": "2026-09-17T06:00:00-03:00"
       },
@@ -668,9 +668,9 @@
         "fecha": "Thu, 17 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Los precios de Chery en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/17/los-precios-de-chery-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/OPLILQPZENHD3KTB4RK4JZQUEU.jpg?auth=65adc7fc5654c5c605ab90058e8394de0a44f50b0b1b8910014d3d441c01ac24",
+        "titulo": "Cuánto cuesta llenar el tanque del Volkswagen Tera en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuanto-cuesta-llenar-el-tanque-del-volkswagen-tera-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/P5TXOXR4DBHBNCOOTG5UO5ZCKQ.jpg?auth=b9511b7eda08fe3ee0b192ee8a19bc3b237e6f32b2a49e8e3bead59cd8d0ebd2",
         "fuente": "TN Autos",
         "fecha": "2026-09-17T06:00:00-03:00"
       },
