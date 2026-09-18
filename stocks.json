@@ -1,65 +1,70 @@
 {
-  "actualizado": "2026-09-18T18:05:56.438009+00:00",
+  "actualizado": "2026-09-18T21:05:05.433382+00:00",
   "merval": {
-    "subas": [],
+    "subas": [
+      {
+        "simbolo": "YPF",
+        "porcentaje": 0.81681436
+      }
+    ],
     "bajas": [
       {
         "simbolo": "SUPV",
-        "porcentaje": -3.52029
-      },
-      {
-        "simbolo": "BMA",
-        "porcentaje": -2.83965
+        "porcentaje": -3.93795
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": -2.69993
+        "porcentaje": -2.52905
       },
       {
-        "simbolo": "TX",
-        "porcentaje": -2.23791
+        "simbolo": "BMA",
+        "porcentaje": -2.27953
+      },
+      {
+        "simbolo": "PAM",
+        "porcentaje": -2.10727
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": -1.92398
+        "porcentaje": -2.01783
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "MCD",
-        "porcentaje": 0.2736656
-      },
-      {
         "simbolo": "CAT",
-        "porcentaje": 0.2454378
+        "porcentaje": 1.29857
       },
       {
         "simbolo": "NVDA",
-        "porcentaje": 0.043313424
+        "porcentaje": 1.25376
+      },
+      {
+        "simbolo": "KO",
+        "porcentaje": 0.10220755
+      },
+      {
+        "simbolo": "JPM",
+        "porcentaje": 0.010020802
       }
     ],
     "bajas": [
       {
-        "simbolo": "HD",
-        "porcentaje": -0.71072351
+        "simbolo": "MSFT",
+        "porcentaje": -0.86188017
       },
       {
-        "simbolo": "MSFT",
-        "porcentaje": -0.57659468
+        "simbolo": "HD",
+        "porcentaje": -0.84625218
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": -0.41988131
+        "porcentaje": -0.41839871
       },
       {
-        "simbolo": "JPM",
-        "porcentaje": -0.39363247
-      },
-      {
-        "simbolo": "KO",
-        "porcentaje": -0.1419459
+        "simbolo": "MCD",
+        "porcentaje": -0.044269403
       }
     ]
   }
