@@ -1,13 +1,55 @@
 {
-  "actualizado": "2026-09-18T14:56:58.302389+00:00",
+  "actualizado": "2026-09-18T15:17:43.208989+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "Patricia Bullrich publicó un video con una canción de Lali Espósito tras cuestionar al Gobierno y desató la polémica",
+        "link": "https://www.ambito.com/politica/patricia-bullrich-publico-un-video-una-cancion-lali-esposito-cuestionar-al-gobierno-y-desato-la-polemica-n6323953",
+        "imagen": "https://media.ambito.com/p/5047b8907d33919f2fd0eb3748439a76/adjuntos/239/imagenes/043/651/0043651128/bullrich-cancion-lali-captura.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 18 Sep 2026 11:49:00 -0300"
+      },
+      {
+        "titulo": "Condenaron a la ex vicegobernadora de Neuquén a pagar una indemnización millonaria por daño moral",
+        "link": "https://www.clarin.com/politica/condenaron-ex-vicegobernadora-neuquen-pagar-indemnizacion-millonaria-dano-moral_0_ukRIyAtUoO.html",
+        "imagen": "https://www.clarin.com/img/2024/11/25/7qX0woO1T_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 14:29:14 +0000"
+      },
+      {
+        "titulo": "Sin consenso entre EEUU y China, la ONU avanza en la elección del nuevo secretario general",
+        "link": "https://www.ambito.com/mundo/sin-consenso-eeuu-y-china-la-onu-avanza-la-eleccion-del-nuevo-secretario-general-n6323946",
+        "imagen": "https://media.ambito.com/p/5011913cddfc7ddbdd09d94a728a9e93/adjuntos/239/imagenes/042/398/0042398133/onu.png",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Fri, 18 Sep 2026 11:52:00 -0300"
+      },
+      {
+        "titulo": "Javier Milei viajará el lunes a Nueva York para participar de la Asamblea de la ONU",
+        "link": "https://www.c5n.com/politica/javier-milei-viajara-el-lunes-nueva-york-participar-la-asamblea-la-onu-n249274",
+        "imagen": "https://media.c5n.com/p/cde915244d8499293427c00507d1b6df/adjuntos/326/imagenes/000/349/0000349417/1200x675/smart/milei-onu.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 12:02:00 -0300"
+      },
+      {
+        "titulo": "Javier Milei visita Bahía Blanca para mostrar las inversiones del RIGI y se activa un operativo por su reelección",
+        "link": "https://www.infobae.com/politica/2026/09/18/javier-milei-visita-bahia-blanca-para-mostrar-las-inversiones-del-rigi-y-se-activa-un-operativo-por-su-reeleccion/",
+        "imagen": "https://www.infobae.com/resizer/v2/3WD4J4573OESK2Q7BAN56AZSBI.jpg?auth=db5c3316836d453b9511ea6bdad860944b9e916c5634ae5c732e993395d84495&smart=true&width=4820&height=3490",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 15:09:29 +0000"
+      },
+      {
+        "titulo": "Federalismo en serio",
+        "link": "https://www.tiempoar.com.ar/ta_article/federalismo-en-serio/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Fri, 18 Sep 2026 14:52:50 +0000"
+      },
       {
         "titulo": "Javier Milei viajará el lunes a Nueva York para participar de la Asamblea General de la ONU",
         "link": "https://www.ambito.com/javier-milei-viajara-el-lunes-nueva-york-participar-la-asamblea-general-la-onu-n6323932",
         "imagen": "https://media.ambito.com/p/1c6b351cdba4639f3f9345ccb9c2a07c/adjuntos/239/imagenes/042/671/0042671923/milei-viajando-avion-viajejpg.png",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:05:35 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:05:00 -0300"
       },
       {
         "titulo": "Aparece un nuevo video del allanamiento a Cristina Kirchner y del vestidor con la puerta blindada",
@@ -36,48 +78,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/X4HXLAB4VZAOBBOOD2MHSEVTJI.jpg?auth=55c2656f334e6612ab89456a5f7a5607bf7201e2a4d1dbc2272f43724908954d&smart=true&width=1280&height=720",
         "fuente": "Infobae",
         "fecha": "Fri, 18 Sep 2026 14:46:42 +0000"
-      },
-      {
-        "titulo": "Federalismo en serio",
-        "link": "https://www.tiempoar.com.ar/ta_article/federalismo-en-serio/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 14:52:50 +0000"
-      },
-      {
-        "titulo": "La tensión entre el ala política y el equipo económico empantana la estrategia electoral 2027",
-        "link": "https://www.ambito.com/politica/la-tension-el-ala-y-el-equipo-economico-empantana-la-estrategia-electoral-2027-n6323883",
-        "imagen": "https://media.ambito.com/p/ec2b7e8eda13b718674aba24a88d3ae5/adjuntos/239/imagenes/043/629/0043629378/1200x675/smart/mesa-politica.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 09:51:00 -0300"
-      },
-      {
-        "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente ya está en Bahía Blanca para reunirse con empresarios adheridos al RIGI",
-        "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-viaja-hoy-bahia-blanca-reunirse-empresarios-adhirieron-rigi_0_qyiG51pbP0.html",
-        "imagen": "https://www.clarin.com/img/2026/07/26/dGnoQiEqq_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 12:06:29 +0000"
-      },
-      {
-        "titulo": "Descubren al primer felino salvaje en 100 años y es más pequeño que un gato doméstico",
-        "link": "https://www.ambito.com/mundo/descubren-al-primer-felino-salvaje-100-anos-y-es-mas-pequeno-que-un-gato-domestico-n6323885",
-        "imagen": "https://media.ambito.com/p/6e7fc29017cdcaee1697e731ee2b0d01/adjuntos/239/imagenes/043/650/0043650826/felino-nuevo-bolivia.jpeg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
-      },
-      {
-        "titulo": "En plena interna, Patricia Bullrich le envió un irónico mensaje a Javier Milei con un tema de Lali Espósito",
-        "link": "https://www.c5n.com/politica/en-plena-interna-patricia-bullrich-le-envio-un-ironico-mensaje-javier-milei-un-tema-lali-esposito-n249272",
-        "imagen": "https://media.c5n.com/p/1ff4d515145a97c6985274c0c93bef13/adjuntos/326/imagenes/000/399/0000399473/1200x675/smart/bullrich-patricia-captura-18-9-26.png",
-        "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 11:48:00 -0300"
-      },
-      {
-        "titulo": "Provocativo gesto de Patricia Bullrich: publicó un video con una canción de Lali Espósito tras sus críticas al interior del Gobierno",
-        "link": "https://www.infobae.com/politica/2026/09/18/provocativo-gesto-de-patricia-bullrich-publico-un-video-con-una-cancion-de-lali-esposito-tras-sus-criticas-al-interior-del-gobierno/",
-        "imagen": "https://www.infobae.com/resizer/v2/FJ2QONDN6VDZDEGFBGI7HWVXZY.jpg?auth=989bc2899b2574a203102bcae379446ea80f39ee69d960f565c44e1519c43de8&smart=true&width=1580&height=852",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:40:58 +0000"
       },
       {
         "titulo": "El regreso de Keynes: el disparador para discutir la economía libertaria",
@@ -182,11 +182,11 @@
         "fecha": "Fri, 18 Sep 2026 11:34:00 -0300"
       },
       {
-        "titulo": "Brutal colisión en la MLB: el momento en que Jared Young, de los Mets, recibe un rodillazo en la cabeza de su propio compañero y sale en camilla ante los Phillies",
-        "link": "https://www.clarin.com/estados-unidos/brutal-colision-mlb-momento-jared-young-mets-recibe-rodillazo-cabeza-propio-companero-sale-camilla-phillies_0_j3W1cD4neq.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/lGGkxMn4l_1200x630__1.jpg",
+        "titulo": "Crisis en Ceuta: Luis de la Fuente presentó la primera lista de España tras ganar el Mundial con un fuerte gesto dedicado al enclave",
+        "link": "https://www.clarin.com/deportes/crisis-ceuta-luis-fuente-presento-primera-lista-espana-ganar-mundial-fuerte-gesto-dedicado-enclave_0_4kt9RejFsl.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/2vDgn3TN-_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 13:58:46 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:25:35 +0000"
       },
       {
         "titulo": "Marcelo Gallardo asumió como DT de Ecuador y fue contundente: \"Venimos a competir para ganar\"",
@@ -196,11 +196,11 @@
         "fecha": "Thu, 17 Sep 2026 19:54:00 -0300"
       },
       {
-        "titulo": "El entrenador de Lazio explicó por qué rechazó el fichaje de Mauro Icardi: la teoría del “equilibrio del vestuario” que aplicó",
-        "link": "https://www.infobae.com/deportes/2026/09/18/el-entrenador-de-lazio-explico-por-que-rechazo-el-fichaje-de-mauro-icardi-la-teoria-del-equilibrio-del-vestuario-que-aplico/",
-        "imagen": "https://www.infobae.com/resizer/v2/7DYHIGLUYJHCVHTPT4HXX24FBU.jpg?auth=b41dbe8918ffe0b927509e425a0dcf1d531f62168ee31d16319853059b0591f9&smart=true&width=1685&height=948",
+        "titulo": "Harry Kane habló sobre la derrota ante Argentina en el Mundial y reveló qué le dijo a Lionel Messi",
+        "link": "https://www.infobae.com/deportes/2026/09/18/harry-kane-hablo-sobre-la-derrota-ante-argentina-en-el-mundial-y-revelo-que-le-dijo-a-lionel-messi/",
+        "imagen": "https://www.infobae.com/resizer/v2/WFD3CWZMMRHZRDNNBS2TTMCAQI.JPG?auth=616a799dbd9245edc406394f59d306acc18dca56c1c6db455a69f8c924d0f691&smart=true&width=1972&height=1109",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:39:58 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:10:28 +0000"
       },
       {
         "titulo": "La reunión del presidente de River que generó una gran expectativa en Uruguay",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Fiyi declaró una emergencia por VIH luego de confirmar que 1 de cada 60 habitantes está infectado",
-        "link": "https://www.ambito.com/mundo/fiyi-declaro-una-emergencia-vih-luego-confirmar-que-1-cada-60-habitantes-esta-infectado-n6323925",
-        "imagen": "https://media.ambito.com/p/37dac9206117f6f6a1a360c5c8f7dfc2/adjuntos/239/imagenes/041/586/0041586147/test-autodiagnostico-vihjpg.jpg",
+        "titulo": "Sin consenso entre EEUU y China, la ONU avanza en la elección del nuevo secretario general",
+        "link": "https://www.ambito.com/mundo/sin-consenso-eeuu-y-china-la-onu-avanza-la-eleccion-del-nuevo-secretario-general-n6323946",
+        "imagen": "https://media.ambito.com/p/5011913cddfc7ddbdd09d94a728a9e93/adjuntos/239/imagenes/042/398/0042398133/onu.png",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:46:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:52:00 -0300"
       },
       {
         "titulo": "Donald Trump habló sobre la guerra con Irán: \"¿Quiero entrar y aniquilarlos? ¿o no?\"",
@@ -368,18 +368,18 @@
         "fecha": "Fri, 18 Sep 2026 13:38:27 +0000"
       },
       {
-        "titulo": "El Salvador impulsará un Censo Económico con un crédito de USD 50 millones del BID",
-        "link": "https://www.infobae.com/el-salvador/2026/09/18/el-salvador-impulsara-un-censo-economico-con-un-credito-de-usd-50-millones-del-bid/",
-        "imagen": "https://www.infobae.com/resizer/v2/BBJLNPZDBZFGZPJXIYUZBLCFXY.jpg?auth=16c20e67cb4c2cb5ebba91b9c0c086837cea12d0aaded530778d95217f299634&smart=true&width=1280&height=720",
+        "titulo": "El Ministerio Público lleva a juicio al exministro de Hacienda de República Dominicana por supuesta defraudación millonaria",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/18/el-ministerio-publico-lleva-a-juicio-al-exministro-de-hacienda-de-republica-dominicana-por-supuesta-defraudacion-millonaria/",
+        "imagen": "https://www.infobae.com/resizer/v2/OARYEVKNVVEHNCMOKK4AIBVPZM.png?auth=ace0bfbbe25d003fa6d7d456ba79606e9ffa81b9ec19b21f41ea3c9b88608d42&smart=true&width=954&height=639",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:35:00 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:15:18 +0000"
       },
       {
-        "titulo": "Descubren al primer felino salvaje en 100 años y es más pequeño que un gato doméstico",
-        "link": "https://www.ambito.com/mundo/descubren-al-primer-felino-salvaje-100-anos-y-es-mas-pequeno-que-un-gato-domestico-n6323885",
-        "imagen": "https://media.ambito.com/p/6e7fc29017cdcaee1697e731ee2b0d01/adjuntos/239/imagenes/043/650/0043650826/felino-nuevo-bolivia.jpeg",
+        "titulo": "Fiyi declaró una emergencia por VIH luego de confirmar que 1 de cada 60 habitantes está infectado",
+        "link": "https://www.ambito.com/mundo/fiyi-declaro-una-emergencia-vih-luego-confirmar-que-1-cada-60-habitantes-esta-infectado-n6323925",
+        "imagen": "https://media.ambito.com/p/37dac9206117f6f6a1a360c5c8f7dfc2/adjuntos/239/imagenes/041/586/0041586147/test-autodiagnostico-vihjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:46:00 -0300"
       },
       {
         "titulo": "\"Leopardus tilcayo\", se descubrió una nueva especie de gato salvaje por primera vez en 100 años",
@@ -396,18 +396,18 @@
         "fecha": "Fri, 18 Sep 2026 13:09:18 +0000"
       },
       {
-        "titulo": "¿Ortega prepara el camino al poder para Murillo? Esto dicen los expertos",
-        "link": "https://www.infobae.com/nicaragua/2026/09/18/ortega-prepara-el-camino-al-poder-para-murillo-esto-dicen-los-expertos/",
-        "imagen": "https://www.infobae.com/resizer/v2/QRBZ45RDYNCWZKZCYAJITLYHZY.png?auth=6d5af6324c5ee19c1e02749a693e1725a96296a723dd4a36b95e20707de2e734&smart=true&width=2752&height=1536",
+        "titulo": "Cuatro operadores internacionales están interesados en administrar los aeropuertos panameños de Río Hato y David",
+        "link": "https://www.infobae.com/panama/2026/09/18/cuatro-operadores-internacionales-estan-interesados-en-administrar-los-aeropuertos-panamenos-de-rio-hato-y-david/",
+        "imagen": "https://www.infobae.com/resizer/v2/MMFLN3BQ5RAFRF2X2AUEONM4J4.jpg?auth=5b6b45f1a6d62ffbf1a637b9edbdf8abc1f7804d148b9fb754bab517d6b49a79&smart=true&width=1024&height=683",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:31:05 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:13:39 +0000"
       },
       {
-        "titulo": "Un banquero ligado a la realeza muerto, un ataque inexplicable y un video viral: el misterio del \"Putney Pusher\" en Londres",
-        "link": "https://www.ambito.com/mundo/un-banquero-ligado-la-realeza-muerto-un-ataque-inexplicable-y-un-video-viral-el-misterio-del-putney-pusher-londres-n6323879",
-        "imagen": "https://media.ambito.com/p/e64445059cd7504570fd343ac5ab1cc0/adjuntos/239/imagenes/043/650/0043650761/1200x675/634x351:654x371/nicolas.jpeg",
+        "titulo": "Descubren al primer felino salvaje en 100 años y es más pequeño que un gato doméstico",
+        "link": "https://www.ambito.com/mundo/descubren-al-primer-felino-salvaje-100-anos-y-es-mas-pequeno-que-un-gato-domestico-n6323885",
+        "imagen": "https://media.ambito.com/p/6e7fc29017cdcaee1697e731ee2b0d01/adjuntos/239/imagenes/043/650/0043650826/felino-nuevo-bolivia.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 10:55:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:26:00 -0300"
       },
       {
         "titulo": "Elecciones en Brasil: una encuesta adelantó un empate técnico entre Lula da Silva y Bolsonaro en un eventual balotaje",
@@ -424,27 +424,27 @@
         "fecha": "Fri, 18 Sep 2026 12:49:41 +0000"
       },
       {
-        "titulo": "Atenciones de emergencia por sarna aumentaron más de 500% en Costa Rica en cinco años",
-        "link": "https://www.infobae.com/costa-rica/2026/09/18/atenciones-de-emergencia-por-sarna-aumentaron-mas-de-500-en-costa-rica-en-cinco-anos/",
-        "imagen": "https://www.infobae.com/resizer/v2/FXNLZWXUZFEJLG7ZMANY54RHRY.jpg?auth=19b789ed1b6d4496c15e9cfc65dc2018cb8b0298ffd04ef46a1473b879f95d2d&smart=true&width=7999&height=5332",
+        "titulo": "República Dominicana registró cuatro muertes maternas y 30 fallecimientos infantiles en una semana, según reportes epidemiológicos",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/18/republica-dominicana-registro-cuatro-muertes-maternas-y-30-fallecimientos-infantiles-en-una-semana/",
+        "imagen": "https://www.infobae.com/resizer/v2/CP6B6FK5JNBTJDHOHQK3YOYO6I.png?auth=1aab187311805a6f3eae591d7034e3a554b032d95f46ac14701cdee3b6ded708&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:29:27 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:11:41 +0000"
       }
     ],
     "espectaculos": [
       {
-        "titulo": "Paulo Londra anunció la fecha de \"entre CIELOS\", su nuevo álbum de estudio",
-        "link": "https://www.ambito.com/espectaculos/paulo-londra-anuncio-la-fecha-entre-cielos-su-nuevo-album-estudio-n6323937",
-        "imagen": "",
+        "titulo": "El fuerte comunicado de la familia del Indio Solari: \"Desde que se fue no paran de usarlo\"",
+        "link": "https://www.ambito.com/espectaculos/el-fuerte-comunicado-la-familia-del-indio-solari-desde-que-se-fue-no-paran-usarlo-n6323957",
+        "imagen": "https://media.ambito.com/p/f8eb898dafb0e823ec11a26c73c0720e/adjuntos/239/imagenes/043/651/0043651174/indio-solari-1.jpg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:42:32 -0300"
+        "fecha": "Fri, 18 Sep 2026 12:02:00 -0300"
       },
       {
-        "titulo": "Luto en Los Beatles: murió un artista que dejó una marca importante en la banda",
-        "link": "https://www.c5n.com/ratingcero/luto-los-beatles-murio-un-artista-que-dejo-una-marca-importante-la-banda-n249271",
-        "imagen": "https://media.c5n.com/p/2dbc4942725928f0891486afe7f9976c/adjuntos/326/imagenes/000/226/0000226438/1200x675/smart/the-beatles-2-11-23-1png.png",
+        "titulo": "Tenía cáncer de colon y era muy querida: falleció una reconocida actriz con 30 años de trayectoria",
+        "link": "https://www.c5n.com/ratingcero/tenia-cancer-colon-y-era-muy-querida-fallecio-una-reconocida-actriz-30-anos-trayectoria-n249275",
+        "imagen": "https://media.c5n.com/p/331374064a6e6df7ece6f229db7df7db/adjuntos/326/imagenes/000/392/0000392651/1200x675/smart/luto-cine.png",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 11:23:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:53:00 -0300"
       },
       {
         "titulo": "Visitando al Sr. Green: Facundo Arana y Jorge Suárez, en una obra entrañable sobre los prejuicios, la paternidad y la religión",
@@ -454,25 +454,25 @@
         "fecha": "Fri, 18 Sep 2026 13:26:43 +0000"
       },
       {
-        "titulo": "Juan Otero se tatuó una frase viral de Nicole Neumann y sorprendió a la modelo: “No lo puedo creer”",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/juan-otero-se-tatuo-una-frase-viral-de-nicole-neumann-y-sorprendio-a-la-modelo-no-lo-puedo-creer/",
-        "imagen": "https://www.infobae.com/resizer/v2/7SBZXW725BDBBL6PZLKDH7U4PY.png?auth=ad6a043b9c95e6f504b917dca69ec4244db10b0d1ea689d2eb1b544170d6841e&smart=true&width=2752&height=1536",
+        "titulo": "La China Suárez respondió a quienes la criticaron por mostrarse en bikini: “No tengo cintura, pero estoy buenísima”",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/la-china-suarez-respondio-a-quienes-la-criticaron-por-mostrarse-en-bikini-no-tengo-cintura-pero-estoy-buenisima/",
+        "imagen": "https://www.infobae.com/resizer/v2/NIM4SQNKZBBPDIXAJMUJI2PTTI.png?auth=a9a8268a1c5507f984015aaa517b85b284cd87b0651753550201c476f5198da5&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 14:16:15 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:07:48 +0000"
       },
       {
-        "titulo": "Llega el Batman Day 2026: cómo y cuándo será la celebración global dedicada al superhéroe",
-        "link": "https://www.ambito.com/espectaculos/llega-el-batman-day-2026-como-y-cuando-sera-la-celebracion-global-dedicada-al-superheroe-n6323913",
-        "imagen": "",
+        "titulo": "Inspirada en la historia real de un infame asesino, esta película llega pronto a Netflix y no te la podés perder",
+        "link": "https://www.ambito.com/espectaculos/inspirada-la-historia-real-un-infame-asesino-esta-pelicula-llega-pronto-netflix-y-no-te-la-podes-perder-n6323172",
+        "imagen": "https://media.ambito.com/p/99fb5b5fdbe6af4eae98c840d69c333d/adjuntos/239/imagenes/043/647/0043647433/1200x675/758x445:778x465/unabomber-1500-x-1000-2.png",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:13:54 -0300"
+        "fecha": "Fri, 18 Sep 2026 12:00:00 -0300"
       },
       {
-        "titulo": "La historia real en la que se basa la miniserie Cautiva: el caso de las monjas de Nogoyá",
-        "link": "https://www.c5n.com/ratingcero/la-historia-real-la-que-se-basa-la-miniserie-cautiva-el-caso-las-monjas-nogoya-n249267",
-        "imagen": "https://media.c5n.com/p/f790bd3a7ef4a684275435a93c9699bb/adjuntos/326/imagenes/000/399/0000399452/1200x675/smart/cautiva.png",
+        "titulo": "Luto en Los Beatles: murió un artista que dejó una marca importante en la banda",
+        "link": "https://www.c5n.com/ratingcero/luto-los-beatles-murio-un-artista-que-dejo-una-marca-importante-la-banda-n249271",
+        "imagen": "https://media.c5n.com/p/2dbc4942725928f0891486afe7f9976c/adjuntos/326/imagenes/000/226/0000226438/1200x675/smart/the-beatles-2-11-23-1png.png",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 10:15:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:23:00 -0300"
       },
       {
         "titulo": "Cultura Profética celebra sus 30 años: del reggae de protesta a las canciones de amor sin perder su identidad",
@@ -482,25 +482,25 @@
         "fecha": "Fri, 18 Sep 2026 13:08:34 +0000"
       },
       {
-        "titulo": "Se filtró la lista de famosos invitados a la boda de Tini Stoessel y Rodrigo De Paul",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/se-filtro-la-lista-de-famosos-invitados-a-la-boda-de-tini-stoessel-y-rodrigo-de-paul/",
-        "imagen": "https://www.infobae.com/resizer/v2/QC6NI7INTVFN3ADABK2TDE34WY.jpg?auth=815e7aa1556759a7db0fb7c2ac64b0bf34de44e45477a9df0f6ce8697b393dfe&smart=true&width=1080&height=608",
+        "titulo": "Las vacaciones de Cami Homs junto a su hija Aitana en Estados Unidos: playa, compras y relax",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/las-vacaciones-de-cami-homs-junto-a-su-hija-aitana-en-estados-unidos-playa-compras-y-relax/",
+        "imagen": "https://www.infobae.com/resizer/v2/UEOKQWDOWRFNRLBQENZZ3IPTFE.jpg?auth=40befddd27fd5069eef595a525cb2644c951ea7dac5d37c4b968cdaca9044532&smart=true&width=3264&height=1836",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:55:48 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:04:40 +0000"
       },
       {
-        "titulo": "Netflix presentó el tráiler de \"Lo dejamos acá\", la nueva película con Ricardo Darín y Diego Peretti",
-        "link": "https://www.ambito.com/espectaculos/netflix-presento-el-trailer-lo-dejamos-aca-la-nueva-pelicula-ricardo-darin-y-diego-peretti-n6323890",
-        "imagen": "",
+        "titulo": "Paulo Londra anunció la fecha de \"entre CIELOS\", su nuevo álbum de estudio",
+        "link": "https://www.ambito.com/espectaculos/paulo-londra-anuncio-la-fecha-entre-cielos-su-nuevo-album-estudio-n6323937",
+        "imagen": "https://media.ambito.com/p/bba12cf54d83b3de19500ae727c8f359/adjuntos/239/imagenes/043/651/0043651083/paulo-londra.jpg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:08:32 -0300"
+        "fecha": "Fri, 18 Sep 2026 11:19:00 -0300"
       },
       {
-        "titulo": "Luto en las redes: murió una reconocida influencer tras someterse a una cirugía estética",
-        "link": "https://www.c5n.com/ratingcero/luto-las-redes-murio-una-reconocida-influencer-someterse-una-cirugia-estetica-n249258",
-        "imagen": "https://media.c5n.com/p/af123a73574b5f670e7aed8c697ac3fb/adjuntos/326/imagenes/000/399/0000399444/1200x675/smart/luto-redes.png",
+        "titulo": "La historia real en la que se basa la miniserie Cautiva: el caso de las monjas de Nogoyá",
+        "link": "https://www.c5n.com/ratingcero/la-historia-real-la-que-se-basa-la-miniserie-cautiva-el-caso-las-monjas-nogoya-n249267",
+        "imagen": "https://media.c5n.com/p/f790bd3a7ef4a684275435a93c9699bb/adjuntos/326/imagenes/000/399/0000399452/1200x675/smart/cautiva.png",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 08:39:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 10:15:00 -0300"
       },
       {
         "titulo": "Las claves de Catedrales, la nueva serie basada en la novela de Claudia Piñeiro",
@@ -510,11 +510,11 @@
         "fecha": "Fri, 18 Sep 2026 13:00:15 +0000"
       },
       {
-        "titulo": "La misión de la soprano Verónica Cangemi: conectar a los jóvenes del mundo a través de la ópera",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/la-mision-de-la-soprano-veronica-cangemi-conectar-a-los-jovenes-del-mundo-a-traves-de-la-opera/",
-        "imagen": "https://www.infobae.com/resizer/v2/K5Z4MLT7P5E45M7GHONFH2S7EA.jpg?auth=8cf5a01d9935ad7d98f7799dfc3acf6531613cf16dc5eb19d015a2a4acf1ecad&smart=true&width=1280&height=720",
+        "titulo": "Juan Otero se tatuó una frase viral de Nicole Neumann y sorprendió a la modelo: “No lo puedo creer”",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/juan-otero-se-tatuo-una-frase-viral-de-nicole-neumann-y-sorprendio-a-la-modelo-no-lo-puedo-creer/",
+        "imagen": "https://www.infobae.com/resizer/v2/7SBZXW725BDBBL6PZLKDH7U4PY.png?auth=ad6a043b9c95e6f504b917dca69ec4244db10b0d1ea689d2eb1b544170d6841e&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:48:00 +0000"
+        "fecha": "Fri, 18 Sep 2026 14:16:15 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Thu, 17 Sep 2026 20:58:00 -0300"
       },
       {
-        "titulo": "Android Auto mejora Google Maps: ahora mostrará tu velocidad y alertas sin iniciar una ruta",
-        "link": "https://www.infobae.com/tecno/2026/09/18/android-auto-mejora-google-maps-ahora-mostrara-tu-velocidad-y-alertas-sin-iniciar-una-ruta/",
-        "imagen": "https://www.infobae.com/resizer/v2/HZQLED3ZQNDZRBDN2ACHCNEFN4.png?auth=3ca428b8b0187dac492a9ce7a59b0b9752a63047d0272832d0a979df014d6c8c&smart=true&width=1920&height=1080",
+        "titulo": "Cuánto valen los iPhone 18 Pro y iPhone 18 Pro Max de Apple que ya están a la venta",
+        "link": "https://www.infobae.com/tecno/2026/09/18/cuanto-valen-los-iphone-18-pro-y-iphone-18-pro-max-de-apple-que-ya-estan-a-la-venta/",
+        "imagen": "https://www.infobae.com/resizer/v2/HXJVXHLVHBBCPDYXIY6D7MPEFE.JPG?auth=c0cc1b85bee321acc405a2ff0780ccd571fa8068172978ee40582af2aba1e7f8&smart=true&width=4647&height=3098",
         "fuente": "Infobae Tecno",
-        "fecha": "Fri, 18 Sep 2026 14:30:30 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:15:20 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,13 +545,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
-      },
-      {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -568,11 +561,11 @@
         "fecha": "Thu, 17 Sep 2026 20:43:00 -0300"
       },
       {
-        "titulo": "La nueva apuesta de Anthropic: utilizar la IA para automatizar experimentos y desarrollar tratamientos para enfermedades raras",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/18/la-nueva-apuesta-de-anthropic-utilizar-la-ia-para-automatizar-experimentos-y-desarrollar-tratamientos-para-enfermedades-raras/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZOFB42EJJZAD7AP3H2SS2ZQTEE.jpeg?auth=aea9cc5c422485c590318358da69ef7d3195efb52c73016a673ea6822ccb04bd&smart=true&width=1600&height=893",
+        "titulo": "Amazon pide que los modelos de IA lleguen al público solo cuando “estén listos y sean seguros”",
+        "link": "https://www.infobae.com/tecno/2026/09/18/amazon-pide-que-los-modelos-de-ia-lleguen-al-publico-solo-cuando-esten-listos-y-sean-seguros/",
+        "imagen": "https://www.infobae.com/resizer/v2/LRFTGWHG75AODC6FYWBAOTVZQA.JPG?auth=9ed016eb11897c24e060690a6e7a40f3177a58626a814bcda65c145ab8cee6e7&smart=true&width=2814&height=1876",
         "fuente": "Infobae Tecno",
-        "fecha": "Fri, 18 Sep 2026 14:27:26 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:00:19 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -580,13 +573,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
-      },
-      {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "Nuevo CEO de Apple inaugura la venta del iPhone 18 Pro y Pro Max en la tienda de la Quinta Avenida en Nueva York",
+        "link": "https://www.infobae.com/tecno/2026/09/18/nuevo-ceo-de-apple-inaugura-la-venta-del-iphone-18-pro-y-pro-max-en-la-tienda-de-la-quinta-avenida-en-nueva-york/",
+        "imagen": "https://www.infobae.com/resizer/v2/5BKH2ZBHNBDQFOX4OR6C7TH5BE.JPG?auth=54a54f65d0ac33d3fbd956a02d7a84786d4d10fda05c3b3cb9e40ab34a83a89f&smart=true&width=3374&height=2249",
+        "fuente": "Infobae Tecno",
+        "fecha": "Fri, 18 Sep 2026 14:56:58 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -626,9 +626,9 @@
         "fecha": "Fri, 18 Sep 2026 11:08:35 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
+        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -640,9 +640,9 @@
         "fecha": "Fri, 18 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
+        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -777,6 +777,13 @@
     ],
     "vida_sana": [
       {
+        "titulo": "Falta de hierro: establecen nuevas directrices para detectar la deficiencia antes de que se transforme en anemia",
+        "link": "https://www.infobae.com/salud/2026/09/18/falta-de-hierro-establecen-nuevas-directrices-para-detectar-la-deficiencia-antes-de-que-se-transforme-en-anemia/",
+        "imagen": "https://www.infobae.com/resizer/v2/7AO4RHF7MNCPPPM62EBBMGZNO4.png?auth=8022d9aff6f05b3587ee88bdf421e6b96e2df47eaea080423d8eefc29dea3605&smart=true&width=1408&height=768",
+        "fuente": "Infobae Salud",
+        "fecha": "Fri, 18 Sep 2026 15:02:16 +0000"
+      },
+      {
         "titulo": "Por qué consumir proteína en exceso no ayuda a ganar músculo y favorece el aumento de peso: los siete errores que advierten expertos",
         "link": "https://www.infobae.com/salud/2026/09/18/por-que-consumir-proteina-en-exceso-no-ayuda-a-ganar-musculo-y-favorece-el-aumento-de-peso-los-siete-errores-que-advierten-expertos/",
         "imagen": "https://www.infobae.com/resizer/v2/LB6CSYNNI5HRRHBR6UUUNE4474.jpg?auth=137092add02cb81703a3767b811f00a7368632c313b2f4f55ad04284d2a80d8a&smart=true&width=1536&height=864",
@@ -810,13 +817,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/TQDTOMT3RFHLPBAFRKITYQ3VXU.png?auth=7b643b0dd1a6b4daf65079a6881fbfc080384f051b4fe939afdf03bac7f1a8e7&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
-      },
-      {
-        "titulo": "Del infarto al stent: qué es la rehabilitación cardíaca y por qué es clave para prevenir nuevos eventos",
-        "link": "https://www.infobae.com/salud/2026/09/18/del-infarto-al-stent-que-es-la-rehabilitacion-cardiaca-y-por-que-es-clave-para-prevenir-nuevos-eventos/",
-        "imagen": "https://www.infobae.com/resizer/v2/3O6GORW6WBHAPOMIK3I7RXZ5UM.png?auth=eb0497571eda762134b65759b5b9af3e598670f65ab6d5f965a10de8c721ea86&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       }
     ],
     "local": [
@@ -842,11 +842,11 @@
         "fecha": "Fri, 18 Sep 2026 09:49:00 -0300"
       },
       {
-        "titulo": "Loteos ilegales en La Plata: una detenida y hay orden de arresto para otras tres personas",
-        "link": "https://www.eldia.com/policiales/loteos-ilegales-en-la-plata-una-detenida-y-hay-orden-de-arresto-para-otras-tres-personas-policiales_1789740720",
+        "titulo": "Un video muestra que Cristina Kirchner tenía un vestidor con puerta blindada",
+        "link": "https://www.eldia.com/politica-y-economia/un-video-muestra-que-cristina-kirchner-tenia-un-vestidor-con-puerta-blindada-politica-y-economia_1789741980",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 14:53:29 GMT"
+        "fecha": "Fri, 18 Sep 2026 15:06:22 GMT"
       },
       {
         "titulo": "Mientras se desarrolla el paro universitario habrá una clase pública en el centro de La Plata",
@@ -870,11 +870,11 @@
         "fecha": "Thu, 17 Sep 2026 19:23:00 -0300"
       },
       {
-        "titulo": "Intendentes en búsqueda del enroque: 80 de los 135 no podrán ser reelectos en la Provincia",
-        "link": "https://www.eldia.com/politica-y-economia/intendentes-en-busqueda-del-enroque-80-de-los-135-no-podran-ser-reelectos-en-la-provincia-politica-y-economia_1789737600",
+        "titulo": "Tensión en Ceuta: más de 4000 migrantes buscan lugar en campamento con capacidad para 1700",
+        "link": "https://www.eldia.com/el-mundo/tension-en-ceuta-mas-de-4000-migrantes-buscan-lugar-en-campamento-con-capacidad-para-1700-el-mundo_1789739460",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 13:40:03 GMT"
+        "fecha": "Fri, 18 Sep 2026 14:43:54 GMT"
       },
       {
         "titulo": "Los últimos pasos de Julio López antes de su segunda desaparición",
@@ -898,11 +898,11 @@
         "fecha": "Thu, 17 Sep 2026 18:38:00 -0300"
       },
       {
-        "titulo": "Vecinos denuncian un basural a cielo abierto en La Plata: \"Los camiones pasan y siguen de largo\"",
-        "link": "https://www.eldia.com/la-ciudad/vecinos-denuncian-un-basural-a-cielo-abierto-en-la-plata-los-camiones-pasan-y-siguen-de-largo-la-ciudad_1789737540",
+        "titulo": "Nuevas isputas por las obras en construcción en La Plata: SITRAIC plantó base en \"territorio UOCRA\"",
+        "link": "https://www.eldia.com/politica-y-economia/disputas-por-las-obras-en-construccion-en-la-plata-sitraic-planto-base-en-territorio-uocra-politica-y-economia_1789740240",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 13:31:32 GMT"
+        "fecha": "Fri, 18 Sep 2026 14:28:46 GMT"
       }
     ]
   }
