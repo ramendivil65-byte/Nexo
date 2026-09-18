@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T04:42:42.711420+00:00",
+  "actualizado": "2026-09-18T04:56:05.756898+00:00",
   "categorias": {
     "politica": [
       {
@@ -31,11 +31,11 @@
         "fecha": "Thu, 17 Sep 2026 23:16:00 -0300"
       },
       {
-        "titulo": "Murió el papá de Victoria Tolosa Paz: \"Vi tu lucha hasta el final\"",
-        "link": "https://www.infobae.com/politica/2026/09/18/murio-el-papa-de-victoria-tolosa-paz-vi-tu-lucha-hasta-el-final/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZA2BRZ2WS5G2BAT3NE6MAGZHLY.jpg?auth=e4faa8abb13d28eeed958aa2b1eb7ab9a08e2caacefdfe5d385b9066972ca0a5&smart=true&width=1920&height=1080",
+        "titulo": "Tras 8 años de distancia, los hermanos Rodríguez Saá coquetean con unirse para volver al poder en San Luis",
+        "link": "https://www.infobae.com/politica/2026/09/18/tras-8-anos-de-distancia-los-hermanos-rodriguez-saa-coquetean-con-unirse-para-volver-al-poder-en-san-luis/",
+        "imagen": "https://www.infobae.com/resizer/v2/4ITALOCRGZDG5LTGJ4BBR2LP3Q.jpg?auth=b7ef03e80ad7bf4df2363ea5042217a878fe6044a0e4c0c52ba5989d65fea20b&smart=true&width=1980&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 02:25:30 +0000"
+        "fecha": "Fri, 18 Sep 2026 04:42:27 +0000"
       },
       {
         "titulo": "La falta de votos en el Congreso paraliza al Gobierno y reabre las internas",
@@ -73,11 +73,11 @@
         "fecha": "Thu, 17 Sep 2026 22:17:00 -0300"
       },
       {
-        "titulo": "Con cambios de último minuto, el Senado aprobó un nuevo régimen de biocombustibles",
-        "link": "https://www.infobae.com/politica/2026/09/18/con-cambios-de-ultimo-minuto-el-senado-aprobo-un-nuevo-regimen-de-biocombustibles/",
-        "imagen": "https://www.infobae.com/resizer/v2/EXBKPSWF5ZAN7MUDWGR6MGH4PA.jpg?auth=62a005770268bf8711235f3f484982fbd83be7b3499982694fb1fbc682100138&smart=true&width=1920&height=1280",
+        "titulo": "En plena interna con CFK, Kicillof ultima detalles del acto del sábado: quiere reunir a todas las provincias",
+        "link": "https://www.infobae.com/politica/2026/09/18/en-plena-interna-con-cfk-kicillof-ultima-detalles-del-acto-del-sabado-quiere-reunir-a-todas-las-provincias/",
+        "imagen": "https://www.infobae.com/resizer/v2/2R5KAFACWVBJNHFXEAPBUW4DNE.jfif?auth=40af30ddafabbd4d36a7ebb9f21afd7e37c93b7a2a18c25296b7619fa51adb9d&smart=true&width=4096&height=2724",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 02:15:45 +0000"
+        "fecha": "Fri, 18 Sep 2026 04:42:06 +0000"
       },
       {
         "titulo": "El Senado aprobó la nueva Ley de inocencia fiscal con la que Caputo espera absorber los “dólares del colchón”",
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "Elon Musk revela video de paciente comunicándose gracias a implante cerebral de Neuralink",
+        "link": "https://www.infobae.com/tecno/2026/09/18/elon-musk-revela-video-de-paciente-comunicandose-gracias-a-implante-cerebral-de-neuralink/",
+        "imagen": "https://www.infobae.com/resizer/v2/GFEVMNGGVELNNT3LRTUWFHPATM.jpg?auth=084ade702e3ab37682f2dcc35197d065eed4e876b90be22ed3524dc409d68df8&smart=true&width=4000&height=2780",
+        "fuente": "Infobae Tecno",
+        "fecha": "Fri, 18 Sep 2026 03:11:52 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -654,9 +654,9 @@
         "fecha": "Thu, 17 Sep 2026 13:49:05 GMT"
       },
       {
-        "titulo": "Los precios de Chery en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/17/los-precios-de-chery-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/OPLILQPZENHD3KTB4RK4JZQUEU.jpg?auth=65adc7fc5654c5c605ab90058e8394de0a44f50b0b1b8910014d3d441c01ac24",
+        "titulo": "Cuánto cuesta llenar el tanque del Volkswagen Tera en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuanto-cuesta-llenar-el-tanque-del-volkswagen-tera-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/P5TXOXR4DBHBNCOOTG5UO5ZCKQ.jpg?auth=b9511b7eda08fe3ee0b192ee8a19bc3b237e6f32b2a49e8e3bead59cd8d0ebd2",
         "fuente": "TN Autos",
         "fecha": "2026-09-17T06:00:00-03:00"
       },
@@ -668,9 +668,9 @@
         "fecha": "Thu, 17 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Volkswagen Tera en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/17/cuanto-cuesta-llenar-el-tanque-del-volkswagen-tera-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/P5TXOXR4DBHBNCOOTG5UO5ZCKQ.jpg?auth=b9511b7eda08fe3ee0b192ee8a19bc3b237e6f32b2a49e8e3bead59cd8d0ebd2",
+        "titulo": "Los precios de Chery en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/17/los-precios-de-chery-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/OPLILQPZENHD3KTB4RK4JZQUEU.jpg?auth=65adc7fc5654c5c605ab90058e8394de0a44f50b0b1b8910014d3d441c01ac24",
         "fuente": "TN Autos",
         "fecha": "2026-09-17T06:00:00-03:00"
       },
@@ -842,11 +842,11 @@
         "fecha": "Thu, 17 Sep 2026 19:23:00 -0300"
       },
       {
-        "titulo": "La Plata celebrará la \"Semana Coreana\" con música, baile y demás tradiciones",
-        "link": "https://www.eldia.com/la-ciudad/la-plata-celebrara-la-semana-coreana-con-musica-baile-y-demas-tradiciones-la-ciudad_1789663200",
+        "titulo": "Pedido de preventiva por un presunto megafraude",
+        "link": "https://www.eldia.com/policiales/megaestafa-en-la-plata-prision-preventiva-para-albertina-mangini-y-los-otros-imputados-policiales_1789686960",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 04:37:56 GMT"
+        "fecha": "Fri, 18 Sep 2026 04:54:17 GMT"
       },
       {
         "titulo": "El Instituto Provincial de Lotería y Casinos entregó materiales deportivos a un club de barrio de La Plata",
@@ -870,11 +870,11 @@
         "fecha": "Thu, 17 Sep 2026 18:38:00 -0300"
       },
       {
-        "titulo": "Opinan los lectores",
-        "link": "https://www.eldia.com/opinion/opinan-los-lectores-opinion_1789706100",
+        "titulo": "Kicillof arma las valijas para viajar a los EE. UU.",
+        "link": "https://www.eldia.com/politica-y-economia/kicillof-arma-las-valijas-para-viajar-a-los-ee-uu-politica-y-economia_1789707069",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 04:35:00 GMT"
+        "fecha": "Fri, 18 Sep 2026 04:51:09 GMT"
       },
       {
         "titulo": "Anunciaron la Semana de la Cultura Coreana en La Plata con actividades, música y gastronomía típica",
@@ -898,11 +898,11 @@
         "fecha": "Thu, 17 Sep 2026 09:18:00 -0300"
       },
       {
-        "titulo": "Universitarios extienden los paros: hoy y el martes 22",
-        "link": "https://www.eldia.com/la-ciudad/no-hubo-acuerdo-en-la-paritaria-universitaria-anunciarian-mas-paros-y-preparan-la-marcha-federal-politica-y-economia-la-ciudad_1789666140",
+        "titulo": "El riesgo país subió otra vez y cerró en los 515 puntos",
+        "link": "https://www.eldia.com/politica-y-economia/el-riesgo-pais-subio-otra-vez-y-cerro-en-los-515-puntos-politica-y-economia_1789706829",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 04:32:01 GMT"
+        "fecha": "Fri, 18 Sep 2026 04:47:09 GMT"
       }
     ]
   }
