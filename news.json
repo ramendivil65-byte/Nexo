@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-18T17:55:00.870917+00:00",
+  "actualizado": "2026-09-18T18:17:29.071520+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "Malvinas: Reino Unido respaldó a empresas y cuestionó las sanciones de Argentina",
+        "link": "https://www.ambito.com/politica/malvinas-reino-unido-respaldo-empresas-y-cuestiono-las-sanciones-argentina-n6324068",
+        "imagen": "https://media.ambito.com/p/68f5694780f770cd31066ff8c7b92b73/adjuntos/239/imagenes/030/929/0030929942/1200x675/smart/tres-companias-britanicas-dicen-que-descubrieron-petroleo-al-norte-malvinas.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 18 Sep 2026 14:59:00 -0300"
+      },
+      {
+        "titulo": "Conflicto por el petróleo en Malvinas: el gobierno británico volvió a cruzar a la Argentina por la presión a las empresas que operan en las islas",
+        "link": "https://www.clarin.com/politica/conflicto-petroleo-malvinas-gobierno-britanico-volvio-cruzar-argentina-presion-empresas-operan-islas_0_jjFYpDNIj4.html",
+        "imagen": "https://www.clarin.com/img/2012/01/28/HJb1ofvRQg_1200x630.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 17:42:56 +0000"
+      },
+      {
+        "titulo": "Buscan que un hombre de 119 años de Costa Rica sea declarado como el más longevo de la historia",
+        "link": "https://www.ambito.com/mundo/buscan-que-un-hombre-119-anos-costa-rica-sea-declarado-como-el-mas-longevo-la-historia-n6323990",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Fri, 18 Sep 2026 14:20:00 -0300"
+      },
+      {
+        "titulo": "La reacción de Javier Milei al provocativo video de Patricia Bullrich con música de Lali Espósito",
+        "link": "https://www.c5n.com/politica/la-reaccion-javier-milei-al-provocativo-video-patricia-bullrich-musica-lali-esposito-n249295",
+        "imagen": "https://media.c5n.com/p/c987e5001e93bf27faea77c7c2e02fd5/adjuntos/326/imagenes/000/396/0000396625/1200x675/smart/milei-y-bullrich-se-tienen-que-ir.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 14:54:00 -0300"
+      },
+      {
+        "titulo": "Hugo Moyano volvió a firmar un acuerdo salarial alineado con la pauta del Gobierno, que regirá durante 6 meses",
+        "link": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
+        "imagen": "https://www.infobae.com/resizer/v2/6E6LXGZX7BFJHCJON4KAWQVQDY.jpg?auth=0a9a2b3a58598c4745094128c93f92fff804cadcccfd9dcbd828d4178e123be8&smart=true&width=1440&height=962",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 17:38:56 +0000"
+      },
+      {
+        "titulo": "La Provincia incrementó la recompensa para quien aporte datos por la segunda desaparición de Jorge Julio López",
+        "link": "https://www.tiempoar.com.ar/ta_article/la-provincia-incremento-la-recompensa-para-quien-aporte-datos-por-la-segunda-desaparicion-de-jorge-julio-lopez/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Fri, 18 Sep 2026 18:11:48 +0000"
+      },
       {
         "titulo": "París, nueva escala de Javier Milei para promocionar el RIGI a los inversores europeos",
         "link": "https://www.ambito.com/politica/paris-nueva-escala-javier-milei-promocionar-el-rigi-los-inversores-europeos-n6324012",
@@ -17,11 +59,11 @@
         "fecha": "Fri, 18 Sep 2026 16:56:51 +0000"
       },
       {
-        "titulo": "Buscan que un hombre de 119 años de Costa Rica sea declarado como el más longevo de la historia",
-        "link": "https://www.ambito.com/mundo/buscan-que-un-hombre-119-anos-costa-rica-sea-declarado-como-el-mas-longevo-la-historia-n6323990",
+        "titulo": "Votación en la ONU: Rafael Grossi pierde terreno mientras Rebeca Grynspan y Carolyn Rodrigues-Birkett figuran como las favoritas",
+        "link": "https://www.ambito.com/mundo/sin-consenso-eeuu-y-china-la-onu-avanza-la-eleccion-del-nuevo-secretario-general-n6323946",
         "imagen": "",
         "fuente": "Ámbito Mundo",
-        "fecha": "Fri, 18 Sep 2026 14:20:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 14:19:00 -0300"
       },
       {
         "titulo": "Javier Milei recorrió una planta industrial en Bahía Blanca y destacó las inversiones impulsadas por el RIGI",
@@ -31,48 +73,6 @@
         "fecha": "Fri, 18 Sep 2026 12:28:00 -0300"
       },
       {
-        "titulo": "Hugo Moyano volvió a firmar un acuerdo salarial alineado con la pauta del Gobierno, que regirá durante 6 meses",
-        "link": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
-        "imagen": "https://www.infobae.com/resizer/v2/6E6LXGZX7BFJHCJON4KAWQVQDY.jpg?auth=0a9a2b3a58598c4745094128c93f92fff804cadcccfd9dcbd828d4178e123be8&smart=true&width=1440&height=962",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 17:38:56 +0000"
-      },
-      {
-        "titulo": "Patricia Bullrich tensa la relación con Milei: subió un video con la canción “No me importa” de Lali",
-        "link": "https://www.tiempoar.com.ar/ta_article/patricia-bullrich-tensa-la-relacion-con-milei-subio-un-video-con-la-cancion-no-me-importa-de-lali/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 17:51:54 +0000"
-      },
-      {
-        "titulo": "Patricia Bullrich publicó un video con una canción de Lali Espósito tras cuestionar al Gobierno y desató la polémica",
-        "link": "https://www.ambito.com/politica/patricia-bullrich-publico-un-video-una-cancion-lali-esposito-cuestionar-al-gobierno-y-desato-la-polemica-n6323953",
-        "imagen": "https://media.ambito.com/p/5047b8907d33919f2fd0eb3748439a76/adjuntos/239/imagenes/043/651/0043651128/bullrich-cancion-lali-captura.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 11:49:00 -0300"
-      },
-      {
-        "titulo": "Confirmaron el procesamiento del ex titular de ARSAT por la droga que le encontraron en su casa",
-        "link": "https://www.clarin.com/politica/confirmaron-procesamiento-ex-titular-arsat-droga-encontraron-casa_0_d4jqODsj5I.html",
-        "imagen": "https://www.clarin.com/img/2026/05/30/Wu-KOgvzV_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 15:34:42 +0000"
-      },
-      {
-        "titulo": "Votación en la ONU: Rafael Grossi pierde terreno mientras Rebeca Grynspan y Carolyn Rodrigues-Birkett figuran como las favoritas",
-        "link": "https://www.ambito.com/mundo/sin-consenso-eeuu-y-china-la-onu-avanza-la-eleccion-del-nuevo-secretario-general-n6323946",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Fri, 18 Sep 2026 14:19:00 -0300"
-      },
-      {
-        "titulo": "Javier Milei viajará el lunes a Nueva York para participar de la Asamblea de la ONU",
-        "link": "https://www.c5n.com/politica/javier-milei-viajara-el-lunes-nueva-york-participar-la-asamblea-la-onu-n249274",
-        "imagen": "https://media.c5n.com/p/cde915244d8499293427c00507d1b6df/adjuntos/326/imagenes/000/349/0000349417/1200x675/smart/milei-onu.jpg",
-        "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 12:02:00 -0300"
-      },
-      {
         "titulo": "Una nueva encuesta mostró un deterioro de la imagen de Milei y una aprobación estancada en 42%",
         "link": "https://www.infobae.com/politica/2026/09/18/una-nueva-encuesta-mostro-un-deterioro-de-la-imagen-de-milei-y-una-aprobacion-estancada-en-42/",
         "imagen": "https://www.infobae.com/resizer/v2/XQT4NJG3L5DCLBK23ON54W6TCQ.png?auth=8731e8e6e54b80f8a1b209f50482ee6fc5b492b39dae9e8c469da9b28062164d&smart=true&width=2752&height=1536",
@@ -80,11 +80,11 @@
         "fecha": "Fri, 18 Sep 2026 17:12:13 +0000"
       },
       {
-        "titulo": "Roedores y negocios: el nuevo protocolo del gobierno porteño para sostener empresas aliadas",
-        "link": "https://www.tiempoar.com.ar/ta_article/roedor-gobierno-porteno-empresas/",
+        "titulo": "Patricia Bullrich tensa la relación con Milei: subió un video con la canción “No me importa” de Lali",
+        "link": "https://www.tiempoar.com.ar/ta_article/patricia-bullrich-tensa-la-relacion-con-milei-subio-un-video-con-la-cancion-no-me-importa-de-lali/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 15:27:23 +0000"
+        "fecha": "Fri, 18 Sep 2026 17:51:54 +0000"
       }
     ],
     "economia": [
@@ -110,11 +110,11 @@
         "fecha": "Fri, 18 Sep 2026 13:04:00 -0300"
       },
       {
-        "titulo": "El acuerdo automotriz con México sigue trabado y hay marcas que evalúan mandar a destruir partidas completas de vehículos",
-        "link": "https://www.infobae.com/economia/2026/09/18/el-acuerdo-automotriz-con-mexico-sigue-trabado-y-hay-marcas-que-evaluan-mandar-a-destruir-partidas-completas-de-vehiculos/",
-        "imagen": "https://www.infobae.com/resizer/v2/5EKLTQ6LVZDMPKXGMHCURUVER4.png?auth=425a04d3bbb279cdd707a3e797811f4c3f411763df26fdf03c1d5cc3bbb0f19d&smart=true&width=1408&height=768",
+        "titulo": "Mercados: el riesgo país trepa a 521 puntos en medio de bajas de acciones y bonos argentinos",
+        "link": "https://www.infobae.com/economia/2026/09/18/mercados-el-riesgo-pais-trepa-a-521-puntos-en-medio-de-bajas-de-acciones-y-bonos-argentinos/",
+        "imagen": "https://www.infobae.com/resizer/v2/QWKEUC2ASBETHAYW6B4XLQNV5M.JPG?auth=0ca9a9e4af930ee92a08b35f2cd304e00eff3a084c4d9c2a0ef02e95269680e7&smart=true&width=4784&height=3189",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 17:07:35 +0000"
+        "fecha": "Fri, 18 Sep 2026 17:51:12 +0000"
       },
       {
         "titulo": "El Indec confirmó la caída de la economía y toma cuerpo el fantasma de la recesión",
@@ -145,11 +145,11 @@
         "fecha": "Fri, 18 Sep 2026 11:24:00 -0300"
       },
       {
-        "titulo": "El nuevo mapa de la desocupación: cuáles son las ciudades con más personas sin trabajo",
-        "link": "https://www.infobae.com/economia/2026/09/18/el-nuevo-mapa-de-la-desocupacion-cuales-son-las-ciudades-con-mas-personas-sin-trabajo/",
-        "imagen": "https://www.infobae.com/resizer/v2/HFPMO7EV4VE5LDPI2FHSAKUH6E.png?auth=56eefaeaccdd4fedf100ce44fc72fdabd2617779e3bca257438276736f1eca5b&smart=true&width=2752&height=1536",
+        "titulo": "El acuerdo automotriz con México sigue trabado y hay marcas que evalúan mandar a destruir partidas completas de vehículos",
+        "link": "https://www.infobae.com/economia/2026/09/18/el-acuerdo-automotriz-con-mexico-sigue-trabado-y-hay-marcas-que-evaluan-mandar-a-destruir-partidas-completas-de-vehiculos/",
+        "imagen": "https://www.infobae.com/resizer/v2/5EKLTQ6LVZDMPKXGMHCURUVER4.png?auth=425a04d3bbb279cdd707a3e797811f4c3f411763df26fdf03c1d5cc3bbb0f19d&smart=true&width=1408&height=768",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 16:43:41 +0000"
+        "fecha": "Fri, 18 Sep 2026 17:07:35 +0000"
       },
       {
         "titulo": "Ordenan el desalojo de FATE y el sindicato convocó a defender la fábrica",
@@ -189,32 +189,39 @@
         "fecha": "Fri, 18 Sep 2026 17:25:11 +0000"
       },
       {
-        "titulo": "El nuevo comunicado de la AFA por los amistosos de la Selección y la despedida de Lionel Messi",
-        "link": "https://www.c5n.com/deportes/el-nuevo-comunicado-la-afa-los-amistosos-la-seleccion-y-la-despedida-lionel-messi-n249287",
-        "imagen": "https://media.c5n.com/p/cf7a29b570995ca5db5e007ba09e6829/adjuntos/326/imagenes/000/390/0000390274/1200x675/smart/argentina-seleccion-messi.png",
+        "titulo": "Un exjugador de Racing reconoció su pasado como alcohólico: \"Tomaba para emborracharme y dormir\"",
+        "link": "https://www.c5n.com/deportes/un-exjugador-racing-reconocio-su-pasado-como-alcoholico-tomaba-emborracharme-y-dormir-n249290",
+        "imagen": "https://media.c5n.com/p/18cbbf95f7a223e4b53ed505609b1bc9/adjuntos/326/imagenes/000/399/0000399496/1200x675/smart/racing.png",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 14:19:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 15:00:00 -0300"
       },
       {
         "titulo": "Se conocerán las peleas del Párense de Manos IV: hora y todo lo que tenés que saber",
         "link": "https://www.infobae.com/deportes/2026/09/18/se-conoceran-las-peleas-del-parense-de-manos-iv-hora-y-todo-lo-que-tenes-que-saber/",
         "imagen": "https://www.infobae.com/resizer/v2/XDYBIHNHDRAA7BV3KFP3IJYYYA.png?auth=a261d98b7c4ea2515998673d1b811c2efa9d74781f192019a971a9f51c13b8af&smart=true&width=1659&height=881",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 16:40:24 +0000"
+        "fecha": "Fri, 18 Sep 2026 18:01:54 +0000"
       },
       {
-        "titulo": "El ex jugador de Huracán que le arruinó dos títulos a River en el Monumental y le dio una alegría a San Lorenzo",
-        "link": "https://www.ole.com.ar/river-plate/river-plate-derlis-soto-huracan-verdugo-titulos_0_dqrPaItx1k.html",
-        "imagen": "https://www.ole.com.ar/images/2020/04/03/cph-wrQso_1200x630__1.jpg",
+        "titulo": "Quiénes son las joyas de Vélez por las que River se aseguró una prioridad de negociación",
+        "link": "https://www.ole.com.ar/river-plate/river-plate-velez-simon-prima-thiago-villalba-prioridad-negociacion_0_0TBCGlHPb2.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/18/StKHifO54_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Fri, 18 Sep 2026 13:42:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 14:53:19 -0300"
+      },
+      {
+        "titulo": "Estudiantes confirmó la lesión del Tucu Correa y esperan saber si llega a Flamengo",
+        "link": "https://www.eldia.com/deportes/estudiantes-confirmo-la-lesion-de-joaquin-correa-y-esperan-saber-si-llega-a-flamengo-deportes_1789754100",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Fri, 18 Sep 2026 18:00:50 GMT"
       },
       {
         "titulo": "Objetivo Libertadores: el Pincha sueña despierto",
         "link": "https://www.eldia.com/deportes/objetivo-libertadores-el-pincha-suena-despierto-deportes_1789708712",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Fri, 18 Sep 2026 05:18:32 GMT"
+        "fecha": "Fri, 18 Sep 2026 18:02:38 GMT"
       },
       {
         "titulo": "Estudiantes: dos bajas ante Flamengo y la chance de repetir la fórmula 2009",
@@ -222,13 +229,6 @@
         "imagen": "",
         "fuente": "El Día Deportes",
         "fecha": "Fri, 18 Sep 2026 12:52:26 GMT"
-      },
-      {
-        "titulo": "Correa lesionado y a la espera de los resultados",
-        "link": "https://www.eldia.com/deportes/correa-lesionado-y-a-la-espera-de-los-resultados-deportes_1789708592",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Fri, 18 Sep 2026 05:16:32 GMT"
       },
       {
         "titulo": "Estudiantes busca un defensor: ¿cuáles son las condiciones y cuántas competencias puede jugar?",
@@ -275,11 +275,11 @@
         "fecha": "Fri, 18 Sep 2026 13:27:00 -0300"
       },
       {
-        "titulo": "El truco criminal del celular gratis: la insólita estafa a una empresa de celulares que empezó con un secuestro virtual",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/el-truco-criminal-del-celular-gratis-la-insolita-estafa-a-una-empresa-de-celulares-que-empezo-con-un-secuestro-virtual/",
-        "imagen": "https://www.infobae.com/resizer/v2/OGSNGKHFPRGLDJL6VHEGNBFSCY.png?auth=561a1aeaa581dfdbd85324dfca2c535661dfe343fa7fbf225dbcd6fc6483c962&smart=true&width=1290&height=756",
+        "titulo": "Indagan a “Tomate”, el nuevo detenido del triple crimen narco: su prontuario y su macabro rol en el caso",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/indagaran-hoy-a-tomate-el-nuevo-detenido-del-triple-crimen-narco-su-prontuario-y-su-macabro-rol-en-el-caso/",
+        "imagen": "https://www.infobae.com/resizer/v2/M6V3WPKIFNCPTIYDD6SKSSA26U.jpg?auth=81e702b6b9db9272ec48a08a05fa1bad73ed268ff0434e470e82499f646ade02&smart=true&width=933&height=525",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 16:27:35 +0000"
+        "fecha": "Fri, 18 Sep 2026 18:16:31 +0000"
       },
       {
         "titulo": "De las pasarelas a la cárcel: condenan a perpetua a una exprofesora de modelos por matar a hachazos al hombre que cuidaba para quedarse con su casa",
@@ -296,11 +296,11 @@
         "fecha": "Fri, 18 Sep 2026 11:08:00 -0300"
       },
       {
-        "titulo": "El gobierno de Axel Kicillof elevó a $10 millones la recompensa por información sobre Jorge Julio López",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/el-gobierno-de-axel-kicillof-elevo-a-10-millones-la-recompensa-por-informacion-sobre-jorge-julio-lopez/",
-        "imagen": "https://www.infobae.com/resizer/v2/MIRRTWMMPJDAZEMCYOVZU2NP3Y.jpg?auth=0c18a586deb48304e1aa67c6430321e8adaaa480e4b412260b45fe35a778d058&smart=true&width=1920&height=1077",
+        "titulo": "El truco criminal del celular gratis: la insólita estafa a una empresa de celulares que empezó con un secuestro virtual",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/el-truco-criminal-del-celular-gratis-la-insolita-estafa-a-una-empresa-de-celulares-que-empezo-con-un-secuestro-virtual/",
+        "imagen": "https://www.infobae.com/resizer/v2/OGSNGKHFPRGLDJL6VHEGNBFSCY.png?auth=561a1aeaa581dfdbd85324dfca2c535661dfe343fa7fbf225dbcd6fc6483c962&smart=true&width=1290&height=756",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 15:59:28 +0000"
+        "fecha": "Fri, 18 Sep 2026 16:27:35 +0000"
       },
       {
         "titulo": "Un perito de Leopoldo Luque contradijo a la Junta Médica oficial: \"Maradona murió inesperadamente, de golpe\"",
@@ -317,11 +317,11 @@
         "fecha": "Fri, 18 Sep 2026 08:26:00 -0300"
       },
       {
-        "titulo": "Detuvieron al ex manager de Callejero Fino por amenazar al cantante: tenía una condena por narco",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/detuvieron-al-ex-manager-de-callejero-fino-por-amenazar-al-cantante/",
-        "imagen": "https://www.infobae.com/resizer/v2/RPNV6Q55YJHLPDO74TE3J3MA7E.png?auth=c8d4523d10f68d8cf5c162d0e4702cec3b96cb1e3e8af561f5487451547fd22b&smart=true&width=1920&height=1080",
+        "titulo": "El gobierno de Axel Kicillof elevó a $10 millones la recompensa por información sobre Jorge Julio López",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/el-gobierno-de-axel-kicillof-elevo-a-10-millones-la-recompensa-por-informacion-sobre-jorge-julio-lopez/",
+        "imagen": "https://www.infobae.com/resizer/v2/MIRRTWMMPJDAZEMCYOVZU2NP3Y.jpg?auth=0c18a586deb48304e1aa67c6430321e8adaaa480e4b412260b45fe35a778d058&smart=true&width=1920&height=1077",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:52:16 +0000"
+        "fecha": "Fri, 18 Sep 2026 15:59:28 +0000"
       },
       {
         "titulo": "Triple crimen de Florencio Varela: a días cumplirse un año del caso hay un nuevo acusado preso",
@@ -338,11 +338,11 @@
         "fecha": "Fri, 18 Sep 2026 07:28:00 -0300"
       },
       {
-        "titulo": "Un carpintero le disparó en la cara a su socio mientras dormía y lo quiso ahorcar con un cable: le dictaron prisión preventiva",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/un-carpintero-le-disparo-en-la-cara-a-su-socio-mientras-dormia-y-lo-quiso-ahorcar-con-un-cable-le-dictaron-prision-preventiva/",
-        "imagen": "https://www.infobae.com/resizer/v2/XC7WQWDMIRA5FP2PPX74ISG5QA.jpg?auth=3acafc538ec9136b2e3242618d945ebcf0f09c9f6e23933e0e47189781ce4148&smart=true&width=1200&height=800",
+        "titulo": "Detuvieron al ex manager de Callejero Fino por amenazar al cantante: tenía una condena por narco",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/detuvieron-al-ex-manager-de-callejero-fino-por-amenazar-al-cantante/",
+        "imagen": "https://www.infobae.com/resizer/v2/RPNV6Q55YJHLPDO74TE3J3MA7E.png?auth=c8d4523d10f68d8cf5c162d0e4702cec3b96cb1e3e8af561f5487451547fd22b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 13:15:20 +0000"
+        "fecha": "Fri, 18 Sep 2026 13:52:16 +0000"
       }
     ],
     "internacional": [
@@ -368,11 +368,11 @@
         "fecha": "Fri, 18 Sep 2026 16:49:53 +0000"
       },
       {
-        "titulo": "El Poder Judicial dominicano reduce en 86% el tiempo para emitir sentencias por prescripción de multas de tránsito",
-        "link": "https://www.infobae.com/republica-dominicana/2026/09/18/el-poder-judicial-dominicano-reduce-en-86-el-tiempo-para-emitir-sentencias-por-prescripcion-de-multas-de-transito/",
-        "imagen": "https://www.infobae.com/resizer/v2/VD3VNU7DSFDG3JW6JPZUEBPGY4.png?auth=746a815bb2b13311257f401cfce7606af8e9a5f4de68a2166c6c26ae02302888&smart=true&width=2752&height=1536",
+        "titulo": "La ONU denunció más de 1.000 casos de violencia sexual durante la ofensiva rusa contra Ucrania",
+        "link": "https://www.infobae.com/america/mundo/2026/09/18/la-onu-denuncio-mas-de-1000-casos-de-violencia-sexual-durante-ofensiva-rusa-contra-ucrania/",
+        "imagen": "https://www.infobae.com/resizer/v2/L7PFZJSJR5GCTJQZCWXFOXQ6WE.jpg?auth=d3db64ae35e51e3ce6e4d04b5bda180b5700ca19398ec2a2a03373b8d490f97e&smart=true&width=8640&height=5760",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 17:52:36 +0000"
+        "fecha": "Fri, 18 Sep 2026 18:04:09 +0000"
       },
       {
         "titulo": "Votación en la ONU: Rafael Grossi pierde terreno mientras Rebeca Grynspan y Carolyn Rodrigues-Birkett figuran como las favoritas",
@@ -396,11 +396,11 @@
         "fecha": "Fri, 18 Sep 2026 15:51:42 +0000"
       },
       {
-        "titulo": "Panamá registra 4,599 denuncias por delitos sexuales hasta agosto",
-        "link": "https://www.infobae.com/panama/2026/09/18/panama-registra-4599-denuncias-por-delitos-sexuales-hasta-agosto/",
-        "imagen": "https://www.infobae.com/resizer/v2/XBDASJC3EZAEVCIZYQQNYGOKXU.png?auth=b7ebc36dab05a3547f36a87542b25d007fbbf6b6a24185561cdf650d235bfa27&smart=true&width=2752&height=1536",
+        "titulo": "De la playa Maculís al extranjero: Andrea Herrera y su apuesta por la investigación de tiburones en El Salvador",
+        "link": "https://www.infobae.com/el-salvador/2026/09/18/de-la-playa-maculis-al-extranjero-andrea-herrera-y-su-apuesta-por-la-investigacion-de-tiburones-en-el-salvador/",
+        "imagen": "https://www.infobae.com/resizer/v2/NUSKK7ZEH5AFPPMM3GZ3TP6HPY.jpg?auth=6d7f0fd56868633d52e0604c3869bdb9a0d2bfd282f9b65b8a153526341fb394&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 17:52:23 +0000"
+        "fecha": "Fri, 18 Sep 2026 17:54:18 +0000"
       },
       {
         "titulo": "El curioso sarcófago de Harald V: tiene forma de barco y capacidad de absorber CO2",
@@ -424,11 +424,11 @@
         "fecha": "Fri, 18 Sep 2026 14:29:15 +0000"
       },
       {
-        "titulo": "Estas playas de EEUU albergan algunas de las serpientes más venenosas",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/18/estas-playas-de-eeuu-albergan-algunas-de-las-serpientes-mas-venenosas/",
-        "imagen": "https://www.infobae.com/resizer/v2/F6CMWMFSZNBOFBUBCDBR2BD6D4.png?auth=2de1f6ef664c4362faf8ff3050669eb95ef5f00d581a35cf9a889c7bc4eb2105&smart=true&width=1536&height=1024",
+        "titulo": "El Poder Judicial dominicano reduce en 86% el tiempo para emitir sentencias por prescripción de multas de tránsito",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/18/el-poder-judicial-dominicano-reduce-en-86-el-tiempo-para-emitir-sentencias-por-prescripcion-de-multas-de-transito/",
+        "imagen": "https://www.infobae.com/resizer/v2/VD3VNU7DSFDG3JW6JPZUEBPGY4.png?auth=746a815bb2b13311257f401cfce7606af8e9a5f4de68a2166c6c26ae02302888&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 17:46:23 +0000"
+        "fecha": "Fri, 18 Sep 2026 17:52:36 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Fri, 18 Sep 2026 14:41:00 -0300"
       },
       {
-        "titulo": "Una actriz argentina reveló un encuentro secreto con Jamiroquai",
-        "link": "https://www.c5n.com/ratingcero/una-actriz-argentina-revelo-un-encuentro-secreto-jamiroquai-n249288",
-        "imagen": "https://media.c5n.com/p/e4a4f8629eb4bc0c4299d3ea7a7fc076/adjuntos/326/imagenes/000/399/0000399495/1200x675/smart/jamiroquai.jpg",
+        "titulo": "Cazzu frenó su gira por problemas de salud y hay preocupación en sus seguidores",
+        "link": "https://www.c5n.com/ratingcero/cazzu-freno-su-gira-problemas-salud-y-hay-preocupacion-sus-seguidores-n249292",
+        "imagen": "https://media.c5n.com/p/0d32299858424b31106ad6b1bd275d5b/adjuntos/326/imagenes/000/374/0000374997/1200x675/smart/cazzu.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 14:34:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 15:07:00 -0300"
       },
       {
         "titulo": "La familia del Indio Solari hizo una fuerte denuncia en las redes: “Desde que se fue no paran de usarlo”",
@@ -468,11 +468,11 @@
         "fecha": "Fri, 18 Sep 2026 13:53:52 -0300"
       },
       {
-        "titulo": "La familia de Tini Stoessel salió al cruce tras filtrarse el supuesto acuerdo millonario con la cantante",
-        "link": "https://www.c5n.com/ratingcero/la-familia-tini-stoessel-salio-al-cruce-filtrarse-el-supuesto-acuerdo-millonario-la-cantante-n249289",
-        "imagen": "https://media.c5n.com/p/55d920c37d63b7e94b2854a90efc86d2/adjuntos/326/imagenes/000/393/0000393492/1200x675/smart/tini-stoessel.png",
+        "titulo": "MasterChef echó a L-Gante: la explosiva declaración del padre del cantante que salpica a Wanda Nara",
+        "link": "https://www.c5n.com/ratingcero/masterchef-echo-l-gante-la-explosiva-declaracion-del-padre-del-cantante-que-salpica-wanda-nara-n249298",
+        "imagen": "",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 14:19:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 14:56:00 -0300"
       },
       {
         "titulo": "Principio de éxtasis, en el Colón, y una duda que genera polémica: ¿por qué un teatro con la mejor acústica y una orquesta formidable eligió poner música grabada?",
@@ -496,11 +496,11 @@
         "fecha": "Fri, 18 Sep 2026 12:57:55 -0300"
       },
       {
-        "titulo": "La inesperada confesión de una famosa cantante argentina: \"Casi me desgracio en el escenario\"",
-        "link": "https://www.c5n.com/ratingcero/la-inesperada-confesion-una-famosa-cantante-argentina-casi-me-desgracio-el-escenario-n249285",
-        "imagen": "https://media.c5n.com/p/f1cf0b2357f130b072560fb1b377f607/adjuntos/326/imagenes/000/399/0000399492/1200x675/smart/natalie-perez-1lanzo-la-mitad-de-mi-vida-su-nuevo-disco-foto-de-prensa-lvklya3rajfdfdifmm5uoj4ytu1.jpg",
+        "titulo": "Una actriz argentina reveló un encuentro secreto con Jamiroquai",
+        "link": "https://www.c5n.com/ratingcero/una-actriz-argentina-revelo-un-encuentro-secreto-jamiroquai-n249288",
+        "imagen": "https://media.c5n.com/p/e4a4f8629eb4bc0c4299d3ea7a7fc076/adjuntos/326/imagenes/000/399/0000399495/1200x675/smart/jamiroquai.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 14:02:15 -0300"
+        "fecha": "Fri, 18 Sep 2026 14:34:00 -0300"
       },
       {
         "titulo": "La muerte de un hermano menor y cómo canalizarla a través del baile",
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "Cuánto valen los iPhone 18 Pro y iPhone 18 Pro Max de Apple que ya están a la venta",
+        "link": "https://www.infobae.com/tecno/2026/09/18/cuanto-valen-los-iphone-18-pro-y-iphone-18-pro-max-de-apple-que-ya-estan-a-la-venta/",
+        "imagen": "https://www.infobae.com/resizer/v2/HXJVXHLVHBBCPDYXIY6D7MPEFE.JPG?auth=c0cc1b85bee321acc405a2ff0780ccd571fa8068172978ee40582af2aba1e7f8&smart=true&width=4647&height=3098",
+        "fuente": "Infobae Tecno",
+        "fecha": "Fri, 18 Sep 2026 15:15:20 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -798,16 +798,16 @@
         "fecha": "Fri, 18 Sep 2026 14:01:37 +0000"
       },
       {
-        "titulo": "Cara de cortisol: qué es y cuándo es una señal de alarma",
-        "link": "https://www.infobae.com/salud/2026/09/18/cara-de-cortisol-que-es-y-cuando-es-una-senal-de-alarma/",
-        "imagen": "https://www.infobae.com/resizer/v2/P6LIEM5YJ5DPJNX2BA6KX6QZH4.png?auth=31e354c0e02d651a5d3535be1f8765b0b535a94852d8dee854dc4b60bc74bc73&smart=true&width=2752&height=1536",
+        "titulo": "Qué beneficios de la miel tienen respaldo científico y cuáles aún no",
+        "link": "https://www.infobae.com/salud/2026/09/18/que-beneficios-de-la-miel-tienen-respaldo-cientifico-y-cuales-aun-no/",
+        "imagen": "https://www.infobae.com/resizer/v2/WDTDMZCOORFKFFMOCMHE2IM3KU.png?auth=80e4ae190f4b0651b9755c98de1c6bd2f74c89e98cb003be8f41c84ad9d76aa0&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "Por qué bajar de peso no depende solamente de comer menos",
-        "link": "https://www.infobae.com/salud/2026/09/18/por-que-bajar-de-peso-no-depende-solamente-de-comer-menos/",
-        "imagen": "https://www.infobae.com/resizer/v2/PN3NPE45YNA7VEIVLOJPAFLVCI.png?auth=27f504c80d49b8c87a73d5a7d80f7fe0cb83bca3ecdf75261ecb780116f04ee0&smart=true&width=2752&height=1536",
+        "titulo": "5 claves para saber si la alimentación aporta suficiente proteína sin usar suplementos",
+        "link": "https://www.infobae.com/salud/2026/09/18/5-claves-para-saber-si-la-alimentacion-aporta-suficiente-proteina-sin-usar-suplementos/",
+        "imagen": "https://www.infobae.com/resizer/v2/HLLZGWUJR5F3LIJ5ITEWWU6BGE.png?auth=4fc09a6ff1d843a00a91b5e9f7c55c10565df47eb9606cb34a1021516cb89702&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 18 Sep 2026 09:00:01 +0000"
       },
@@ -849,8 +849,8 @@
         "fecha": "Fri, 18 Sep 2026 17:47:55 GMT"
       },
       {
-        "titulo": "Loteos ilegales en La Plata: hay una detenida y buscan a otros tres imputados",
-        "link": "https://www.0221.com.ar/la-plata/loteos-ilegales-la-plata-una-detenida-y-buscan-otros-tres-imputados-n134410",
+        "titulo": "Loteos ilegales en La Plata: hay una detenida y buscan al dueño del Grupo Del Sud junto a otros imputados",
+        "link": "https://www.0221.com.ar/la-plata/loteos-ilegales-la-plata-hay-una-detenida-y-buscan-al-dueno-del-grupo-del-sud-junto-otros-imputados-n134410",
         "imagen": "https://media.0221.com.ar/p/4becadfa6f268dac750402ab52fb9811/adjuntos/357/imagenes/100/227/0100227831/1200x630/1751x2469:1771x2489/loteos-ilegales-privados-23jpg.jpg",
         "fuente": "0221",
         "fecha": "Fri, 18 Sep 2026 12:54:00 -0300"
