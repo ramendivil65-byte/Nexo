@@ -338,16 +338,16 @@ footer p { color: #9CA3AF; font-size: 12px; }
 @media (max-width: 600px) {
   .logo-banner {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 10px;
     padding: 10px 14px;
   }
 
-  .logo-banner img { height: 90px !important; width: auto !important; }
+  .logo-banner img { height: auto !important; width: 100% !important; max-width: 400px; }
 
   .header-widgets {
     width: 100%;
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 10px;
   }
