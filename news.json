@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T07:56:00.039400+00:00",
+  "actualizado": "2026-09-18T08:18:17.908115+00:00",
   "categorias": {
     "politica": [
       {
@@ -91,7 +91,7 @@
       {
         "titulo": "Agroindustriales celebraron la media sanción a la ley de Biocombustibles y proyectan inversiones por u$s1.000 millones",
         "link": "https://www.ambito.com/economia/agroindustriales-celebraron-la-media-sancion-la-ley-biocombustibles-y-proyectan-inversiones-us1000-millones-n6323803",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/ec9e0cd399486766f97b90475d2b60cb/adjuntos/239/imagenes/042/802/0042802485/1200x675/smart/biocombustibles.jpg",
         "fuente": "Ámbito",
         "fecha": "Thu, 17 Sep 2026 23:27:00 -0300"
       },
@@ -126,7 +126,7 @@
       {
         "titulo": "Fondos FAL para indemnizaciones: la UIF simplificó los controles antilavado para acelerar su puesta en marcha",
         "link": "https://www.ambito.com/economia/fondos-fal-indemnizaciones-la-uif-simplifico-los-controles-antilavado-acelerar-su-puesta-marcha-n6323773",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/61307d0f136d24ccf19578e343116575/adjuntos/239/imagenes/043/650/0043650501/1200x675/smart/uil-fal.jpg",
         "fuente": "Ámbito",
         "fecha": "Thu, 17 Sep 2026 21:27:00 -0300"
       },
@@ -161,7 +161,7 @@
       {
         "titulo": "El PBI cayó 0,6% en el segundo trimestre, ante deterioro en el consumo y la inversión",
         "link": "https://www.ambito.com/economia/el-pbi-cayo-06-el-segundo-trimestre-deterioro-el-consumo-y-la-inversion-n6323646",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/fce40973fc991f7ce27e4bd9d6281109/adjuntos/239/imagenes/043/429/0043429946/1200x675/smart/industria-argentina-manufactura.jpg",
         "fuente": "Ámbito",
         "fecha": "Thu, 17 Sep 2026 17:05:00 -0300"
       },
@@ -368,9 +368,9 @@
         "fecha": "Fri, 18 Sep 2026 00:51:20 +0000"
       },
       {
-        "titulo": "Rusia renueva la Duma en medio de la guerra: manipulación estatal, oposición proscripta y un mecanismo para medir la lealtad a Putin",
-        "link": "https://www.infobae.com/america/mundo/2026/09/18/rusia-renueva-la-duma-en-medio-de-la-guerra-manipulacion-estatal-oposicion-proscripta-y-un-mecanismo-para-medir-la-lealtad-a-putin/",
-        "imagen": "https://www.infobae.com/resizer/v2/BAWCLTLHS5GYFA5HZNDF4OV4NI.jpg?auth=af31b1c020bbbea95e47dffd3725d0a3fdeb75a67ec7f18e65a26dcdc78e05c3&smart=true&width=5537&height=3692",
+        "titulo": "Urnas bajo ocupación: por qué lo que se vote en el este y el sur de Ucrania no tendrá valor legal",
+        "link": "https://www.infobae.com/america/opinion/2026/09/18/urnas-bajo-ocupacion-por-que-lo-que-se-vote-en-el-este-y-el-sur-de-ucrania-no-tendra-valor-legal/",
+        "imagen": "https://www.infobae.com/resizer/v2/HZEIMTBBEZBQBHZDS7MKYJV3GQ.png?auth=563f4b6f2556684f87b58eccb261766320312dd9bc75f2cadb20554c9c566f04&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
         "fecha": "Fri, 18 Sep 2026 07:00:00 +0000"
       },
@@ -396,9 +396,9 @@
         "fecha": "Thu, 17 Sep 2026 22:40:07 +0000"
       },
       {
-        "titulo": "Urnas bajo ocupación: por qué lo que se vote en el este y el sur de Ucrania no tendrá valor legal",
-        "link": "https://www.infobae.com/america/opinion/2026/09/18/urnas-bajo-ocupacion-por-que-lo-que-se-vote-en-el-este-y-el-sur-de-ucrania-no-tendra-valor-legal/",
-        "imagen": "https://www.infobae.com/resizer/v2/HZEIMTBBEZBQBHZDS7MKYJV3GQ.png?auth=563f4b6f2556684f87b58eccb261766320312dd9bc75f2cadb20554c9c566f04&smart=true&width=1536&height=1024",
+        "titulo": "Rusia renueva la Duma en medio de la guerra: manipulación estatal, oposición proscripta y un mecanismo para medir la lealtad a Putin",
+        "link": "https://www.infobae.com/america/mundo/2026/09/18/rusia-renueva-la-duma-en-medio-de-la-guerra-manipulacion-estatal-oposicion-proscripta-y-un-mecanismo-para-medir-la-lealtad-a-putin/",
+        "imagen": "https://www.infobae.com/resizer/v2/BAWCLTLHS5GYFA5HZNDF4OV4NI.jpg?auth=af31b1c020bbbea95e47dffd3725d0a3fdeb75a67ec7f18e65a26dcdc78e05c3&smart=true&width=5537&height=3692",
         "fuente": "Infobae",
         "fecha": "Fri, 18 Sep 2026 07:00:00 +0000"
       },
@@ -547,6 +547,13 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
+      },
+      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -575,6 +582,13 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
+      },
+      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
-      },
-      {
-        "titulo": "SpaceX exploraría comprar información de clientes de empresas emergentes en bancarrota para su IA",
-        "link": "https://www.infobae.com/tecno/2026/09/18/spacex-exploraria-comprar-informacion-de-clientes-de-empresas-emergentes-en-bancarrota-para-su-ia/",
-        "imagen": "https://www.infobae.com/resizer/v2/AN5EH2Q3RBDJRK4TLRK24L3W3Q.JPG?auth=758c0c5bc6fb21e8cf48fed762d784743a4c6e6b3b7663904eab7445dbea5c95&smart=true&width=3000&height=2001",
-        "fuente": "Infobae Tecno",
-        "fecha": "Fri, 18 Sep 2026 03:35:15 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
