@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T20:15:13.905147+00:00",
+  "actualizado": "2026-09-18T20:31:59.650486+00:00",
   "categorias": {
     "politica": [
       {
@@ -31,11 +31,11 @@
         "fecha": "Fri, 18 Sep 2026 14:54:00 -0300"
       },
       {
-        "titulo": "La lectura de Tenembaum sobre la interna libertaria: qué busca Bullrich y por qué tomó distancia de Milei",
-        "link": "https://www.infobae.com/politica/2026/09/18/la-lectura-de-tenembaum-sobre-la-interna-libertaria-que-busca-bullrich-y-por-que-tomo-distancia-de-milei/",
-        "imagen": "https://www.infobae.com/resizer/v2/MJON3UPLJJHRVHUCQEGBXBQDBE.png?auth=af1e139a5b6c308b49bf321af7c8dcad51dc88c5dd64e6203288759ebfe777b7&smart=true&width=1212&height=721",
+        "titulo": "La oposición reclama una comisión del Congreso para intervenir en la política sobre Malvinas",
+        "link": "https://www.infobae.com/politica/2026/09/18/la-oposicion-reclama-una-comision-del-congreso-para-intervenir-en-la-politica-sobre-malvinas/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZUMQ53TSZ5GAFA3NKWT7J2QRHQ.JPG?auth=e414e82d838fcfd915789d50dc7436a8c050b61cc311378c89c863ab9f7f9d48&smart=true&width=3000&height=2000",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 18:37:05 +0000"
+        "fecha": "Fri, 18 Sep 2026 20:26:11 +0000"
       },
       {
         "titulo": "El Reino Unido ratificó su postura sobre Malvinas y calificó de “inaceptables” las sanciones impuestas por el Gobierno",
@@ -73,11 +73,11 @@
         "fecha": "Fri, 18 Sep 2026 12:28:00 -0300"
       },
       {
-        "titulo": "Hugo Moyano volvió a firmar un acuerdo salarial alineado con la pauta del Gobierno, que regirá durante 6 meses",
-        "link": "https://www.infobae.com/politica/2026/09/18/hugo-moyano-volvio-a-firmar-un-acuerdo-salarial-alineado-con-la-pauta-del-gobierno-que-regira-durante-6-meses/",
-        "imagen": "https://www.infobae.com/resizer/v2/6E6LXGZX7BFJHCJON4KAWQVQDY.jpg?auth=0a9a2b3a58598c4745094128c93f92fff804cadcccfd9dcbd828d4178e123be8&smart=true&width=1440&height=962",
+        "titulo": "La lectura de Tenembaum sobre la interna libertaria: qué busca Bullrich y por qué tomó distancia de Milei",
+        "link": "https://www.infobae.com/politica/2026/09/18/la-lectura-de-tenembaum-sobre-la-interna-libertaria-que-busca-bullrich-y-por-que-tomo-distancia-de-milei/",
+        "imagen": "https://www.infobae.com/resizer/v2/MJON3UPLJJHRVHUCQEGBXBQDBE.png?auth=af1e139a5b6c308b49bf321af7c8dcad51dc88c5dd64e6203288759ebfe777b7&smart=true&width=1212&height=721",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 17:38:56 +0000"
+        "fecha": "Fri, 18 Sep 2026 18:37:05 +0000"
       },
       {
         "titulo": "La Provincia incrementó la recompensa para quien aporte datos por la segunda desaparición de Jorge Julio López",
@@ -91,9 +91,44 @@
       {
         "titulo": "El superávit comercial se aceleró a u$s2.187 millones en agosto, pese a repunte en las importaciones",
         "link": "https://www.ambito.com/economia/el-superavit-comercial-se-acelero-us2187-millones-agosto-pese-repunte-las-importaciones-n6324111",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/d67aba4df54060e6f6a7464f14f603d9/adjuntos/239/imagenes/043/446/0043446813/comercio-exterior-importaciones-exportaciones-contenedores-containers.jpg",
         "fuente": "Ámbito",
         "fecha": "Fri, 18 Sep 2026 16:30:00 -0300"
+      },
+      {
+        "titulo": "Las exportaciones siguen en alza: crecieron 12,4% en agosto y acumulan US$ US$ 67.248 millones en lo que va del año",
+        "link": "https://www.clarin.com/economia/exportaciones-siguen-alza-crecieron-124-agosto-acumulan-us-us-67248-millones-va-ano_0_6uViN5Vd17.html",
+        "imagen": "https://www.clarin.com/img/2026/08/28/ENwYK1PeD_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 19:55:14 +0000"
+      },
+      {
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 18 de septiembre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-18-septiembre-n249262",
+        "imagen": "https://media.c5n.com/p/deb78e936cd3bb582e5cab29a0e2a965/adjuntos/326/imagenes/000/304/0000304058/1200x675/smart/dolar-blue-billetes-divisas-dolares.png",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 17:14:00 -0300"
+      },
+      {
+        "titulo": "Oficial: la mora batió un nuevo récord y alcanzó a casi el 13% del crédito a las familias",
+        "link": "https://www.infobae.com/economia/2026/09/18/oficial-la-mora-batio-un-nuevo-record-y-alcanzo-a-casi-el-13-del-creditos-a-las-familias/",
+        "imagen": "https://www.infobae.com/resizer/v2/MJ3SSUC7ZZBE7KS3VFMO6RDUUQ.jpg?auth=8b2e6433ea22d0ed75d3d7cb0d08169fd8adf3e233747941ab317cb38ba2b528&smart=true&width=1456&height=816",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 20:26:34 +0000"
+      },
+      {
+        "titulo": "El Indec confirmó la caída de la economía y toma cuerpo el fantasma de la recesión",
+        "link": "https://www.tiempoar.com.ar/ta_article/indec-caida-economia-recesion/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Fri, 18 Sep 2026 11:00:00 +0000"
+      },
+      {
+        "titulo": "¿Cuánto cuesta una casa prefabricada de 2 dormitorios en Argentina en septiembre 2026?",
+        "link": "https://www.ambito.com/economia/cuanto-cuesta-una-casa-prefabricada-2-dormitorios-argentina-septiembre-2026-n6323359",
+        "imagen": "https://media.ambito.com/p/f63a7e21cca383451caf92d59dd203d1/adjuntos/239/imagenes/043/648/0043648237/1200x675/579x286:599x306/casa-familia.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 18 Sep 2026 16:00:00 -0300"
       },
       {
         "titulo": "Más de 500 líderes empresarios se reunirán en Nueva York para debatir el futuro de los negocios",
@@ -110,46 +145,11 @@
         "fecha": "Fri, 18 Sep 2026 16:29:00 -0300"
       },
       {
-        "titulo": "Con un fuerte repunte de las exportaciones, la balanza comercial dejó un superávit de USD 2.187 millones en agosto",
-        "link": "https://www.infobae.com/economia/2026/09/18/con-un-fuerte-repunte-de-las-exportaciones-la-balanza-comercial-dejo-un-superavit-de-usd-2187-millones-en-agosto/",
-        "imagen": "https://www.infobae.com/resizer/v2/UXMQPHEVLZBPNE5AB3M2B5ZJPU.png?auth=b5a76e5c76c33f221db968b4b048b62571a4cfe74192ab625e1bb814f8c3ee72&smart=true&width=1408&height=768",
+        "titulo": "Mercados: subió el riesgo país en medio de las bajas de acciones y bonos argentinos",
+        "link": "https://www.infobae.com/economia/2026/09/18/mercados-el-riesgo-pais-trepa-a-521-puntos-en-medio-de-bajas-de-acciones-y-bonos-argentinos/",
+        "imagen": "https://www.infobae.com/resizer/v2/QWKEUC2ASBETHAYW6B4XLQNV5M.JPG?auth=0ca9a9e4af930ee92a08b35f2cd304e00eff3a084c4d9c2a0ef02e95269680e7&smart=true&width=4784&height=3189",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 20:12:21 +0000"
-      },
-      {
-        "titulo": "El Indec confirmó la caída de la economía y toma cuerpo el fantasma de la recesión",
-        "link": "https://www.tiempoar.com.ar/ta_article/indec-caida-economia-recesion/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 11:00:00 +0000"
-      },
-      {
-        "titulo": "¿Cuánto cuesta una casa prefabricada de 2 dormitorios en Argentina en septiembre 2026?",
-        "link": "https://www.ambito.com/economia/cuanto-cuesta-una-casa-prefabricada-2-dormitorios-argentina-septiembre-2026-n6323359",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 16:00:00 -0300"
-      },
-      {
-        "titulo": "Caputo reunió a las principales mineras y pide una mayor integración de proveedores nacionales",
-        "link": "https://www.clarin.com/energia-y-mineria/caputo-reunio-principales-mineras-pide-mayor-integracion-proveedores-nacionales_0_bQX0U17XpS.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/_s7IZul4R_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 18:39:26 +0000"
-      },
-      {
-        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 18 de septiembre",
-        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-18-septiembre-n249262",
-        "imagen": "https://media.c5n.com/p/deb78e936cd3bb582e5cab29a0e2a965/adjuntos/326/imagenes/000/304/0000304058/1200x675/smart/dolar-blue-billetes-divisas-dolares.png",
-        "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 15:37:00 -0300"
-      },
-      {
-        "titulo": "El dólar retomó la suba y tocó un nuevo récord nominal",
-        "link": "https://www.infobae.com/economia/2026/09/18/el-dolar-retomo-la-suba-y-toco-un-nuevo-record-nominal/",
-        "imagen": "https://www.infobae.com/resizer/v2/6EISDH6H6ZFQ5BHK7AUB25UPBM.JPG?auth=f4eba1afa712b7c87245ff70a86dfe368c1ac3f35f2611b257e3f716ce82b4aa&smart=true&width=5500&height=3667",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 19:17:26 +0000"
+        "fecha": "Fri, 18 Sep 2026 20:21:35 +0000"
       },
       {
         "titulo": "Ordenan el desalojo de FATE y el sindicato convocó a defender la fábrica",
@@ -161,16 +161,16 @@
       {
         "titulo": "Cumbre Trump-Xi Jinping: aranceles, acuerdos millonarios y la geopolítica de la IA en una cita histórica en Washington",
         "link": "https://www.ambito.com/economia/cumbre-trump-xi-jinping-aranceles-acuerdos-millonarios-y-la-geopolitica-la-ia-una-cita-historica-washington-n6324044",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/a13d847812aa8ce4776d0d4cbdca6877/adjuntos/239/imagenes/037/941/0037941955/1200x675/smart/trump-y-xi.jpg",
         "fuente": "Ámbito",
         "fecha": "Fri, 18 Sep 2026 15:36:00 -0300"
       },
       {
-        "titulo": "El riesgo país sube a 525 puntos básicos y llega al nivel más alto en los últimos 30 días",
-        "link": "https://www.clarin.com/economia/riesgo-pais-sube-525-puntos-basicos-llega-nivel-alto-ultimos-30-dias_0_bCZnsAG9Nz.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/YD_EQlnC3_1200x630__1.jpg",
+        "titulo": "Caputo reunió a las principales mineras y pide una mayor integración de proveedores nacionales",
+        "link": "https://www.clarin.com/energia-y-mineria/caputo-reunio-principales-mineras-pide-mayor-integracion-proveedores-nacionales_0_bQX0U17XpS.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/_s7IZul4R_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 17:39:59 +0000"
+        "fecha": "Fri, 18 Sep 2026 18:39:26 +0000"
       }
     ],
     "deportes": [
@@ -203,11 +203,11 @@
         "fecha": "Fri, 18 Sep 2026 20:07:47 +0000"
       },
       {
-        "titulo": "Unión vs. Independiente, por el Torneo Clausura 2026: día, horario y por dónde ver",
-        "link": "https://www.ole.com.ar/futbol-primera/union-vs-independiente-partido-fecha10-torneo-clausura-2026-dia-horario-ver_0_68O6J7Cd9m.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/18/-zdn1Tpmo_1200x630__1.jpg",
+        "titulo": "Instituto vs. Talleres, por el Torneo Clausura 2026: día, horario y por dónde ver",
+        "link": "https://www.ole.com.ar/futbol-primera/instituto-vs-talleres-clasico-cordobes-torneo-clausura-2026-fecha10-dia-horario-ver_0_pYduQipR1z.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/18/rzhIEZ0R6_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Fri, 18 Sep 2026 16:57:54 -0300"
+        "fecha": "Fri, 18 Sep 2026 17:12:26 -0300"
       },
       {
         "titulo": "Estudiantes - Flamengo \"se jugará sí o sí en UNO\": el plan del Pincha para ubicar al público visitante",
@@ -368,11 +368,11 @@
         "fecha": "Fri, 18 Sep 2026 19:28:42 +0000"
       },
       {
-        "titulo": "Las abejas melíferas silvestres entran por primera vez en la Lista Roja de la Unión Europea",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/09/18/las-abejas-meliferas-silvestres-entran-por-primera-vez-en-la-lista-roja-de-la-union-europea/",
-        "imagen": "https://www.infobae.com/resizer/v2/3EWXB7GB5ZHADINNR5TC7YP33M.jpeg?auth=023b2b24d2c44955a9d2e49a14d4a966f02eb7d62ae889d1afd8b5c62c2dfffe&smart=true&width=740&height=415",
+        "titulo": "Estas playas de EEUU albergan algunas de las serpientes más venenosas",
+        "link": "https://www.infobae.com/estados-unidos/2026/09/18/estas-playas-de-eeuu-albergan-algunas-de-las-serpientes-mas-venenosas/",
+        "imagen": "https://www.infobae.com/resizer/v2/F6CMWMFSZNBOFBUBCDBR2BD6D4.png?auth=2de1f6ef664c4362faf8ff3050669eb95ef5f00d581a35cf9a889c7bc4eb2105&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 20:10:50 +0000"
+        "fecha": "Fri, 18 Sep 2026 20:19:15 +0000"
       },
       {
         "titulo": "Buscan que un hombre de 119 años de Costa Rica sea declarado como el más longevo de la historia",
@@ -396,11 +396,11 @@
         "fecha": "Fri, 18 Sep 2026 19:09:54 +0000"
       },
       {
-        "titulo": "Tensión en Cayos Cochinos: comunidad garífuna de Honduras denuncia intento de desalojo mientras exige cumplir fallo de la Corte IDH",
-        "link": "https://www.infobae.com/honduras/2026/09/18/tension-en-cayos-cochinos-comunidad-garifuna-de-honduras-denuncia-intento-de-desalojo-mientras-exige-cumplir-fallo-de-la-corte-idh/",
-        "imagen": "https://www.infobae.com/resizer/v2/WFQ3JZ4Z5JACPIIW3I23OA474Y.jpeg?auth=8969f058c4384f85501e3a36e3cdeeb637e86b3779e2e89997be26d7fa68c827&smart=true&width=1280&height=720",
+        "titulo": "Las abejas melíferas silvestres entran por primera vez en la Lista Roja de la Unión Europea",
+        "link": "https://www.infobae.com/america/ciencia-america/2026/09/18/las-abejas-meliferas-silvestres-entran-por-primera-vez-en-la-lista-roja-de-la-union-europea/",
+        "imagen": "https://www.infobae.com/resizer/v2/3EWXB7GB5ZHADINNR5TC7YP33M.jpeg?auth=023b2b24d2c44955a9d2e49a14d4a966f02eb7d62ae889d1afd8b5c62c2dfffe&smart=true&width=740&height=415",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 19:54:41 +0000"
+        "fecha": "Fri, 18 Sep 2026 20:10:50 +0000"
       },
       {
         "titulo": "Votación en la ONU: Rafael Grossi pierde terreno mientras Rebeca Grynspan y Carolyn Rodrigues-Birkett figuran como las favoritas",
@@ -424,14 +424,42 @@
         "fecha": "Fri, 18 Sep 2026 18:39:09 +0000"
       },
       {
-        "titulo": "Panamá registra casi 14.000 infecciones respiratorias graves en 2026",
-        "link": "https://www.infobae.com/panama/2026/09/18/panama-registra-casi-14000-infecciones-respiratorias-graves-en-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/UP4QTE2Z5BEELKJ7WKNA44CTKA.jpg?auth=5356b8ef48ee214a377c78c1907f10cd8edb6bd263cd397076b6048440407ce5&smart=true&width=1536&height=768",
+        "titulo": "Tensión en Cayos Cochinos: comunidad garífuna de Honduras denuncia intento de desalojo mientras exige cumplir fallo de la Corte IDH",
+        "link": "https://www.infobae.com/honduras/2026/09/18/tension-en-cayos-cochinos-comunidad-garifuna-de-honduras-denuncia-intento-de-desalojo-mientras-exige-cumplir-fallo-de-la-corte-idh/",
+        "imagen": "https://www.infobae.com/resizer/v2/WFQ3JZ4Z5JACPIIW3I23OA474Y.jpeg?auth=8969f058c4384f85501e3a36e3cdeeb637e86b3779e2e89997be26d7fa68c827&smart=true&width=1280&height=720",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 19:54:26 +0000"
+        "fecha": "Fri, 18 Sep 2026 19:54:41 +0000"
       }
     ],
     "espectaculos": [
+      {
+        "titulo": "The Pitt: por qué la comunidad médica considera este drama como el más realista de la televisión",
+        "link": "https://www.ambito.com/espectaculos/the-pitt-que-la-comunidad-medica-considera-este-drama-como-el-mas-realista-la-television-n6323427",
+        "imagen": "https://media.ambito.com/p/022b72ad7abd22a5868383e6c8127d66/adjuntos/239/imagenes/043/648/0043648441/1200x675/1225x556:1245x576/the-pitt.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 18 Sep 2026 17:00:00 -0300"
+      },
+      {
+        "titulo": "Revelan cuánto ganó Solange Abraham en Gran Hermano: la comparación con el 2001",
+        "link": "https://www.c5n.com/ratingcero/revelan-cuanto-gano-solange-abraham-gran-hermano-la-comparacion-el-2001-n249299",
+        "imagen": "https://media.c5n.com/p/30d414270035244d715c0564e3fca127/adjuntos/326/imagenes/000/399/0000399517/1200x675/smart/gran-hermano.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 17:15:00 -0300"
+      },
+      {
+        "titulo": "Mirtha Legrand fue nuevamente internada a cinco días del alta médica",
+        "link": "https://www.clarin.com/espectaculos/mirtha-legrand-nuevamente-internada-dias-alta-medica_0_ZuErsmSS9q.html",
+        "imagen": "https://www.clarin.com/img/2026/09/04/pGy1V1p-5_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 18 Sep 2026 19:35:52 +0000"
+      },
+      {
+        "titulo": "Emilia Attias defendió a China Suárez tras las críticas por sus fotos en \"La Casa de los Sueños\": \"La tienen que dejar un poco más tranquila\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/emilia-attias-defendio-a-china-suarez-tras-las-criticas-por-sus-fotos-en-la-casa-de-los-suenos-la-tienen-que-dejar-un-poco-mas-tranquila/",
+        "imagen": "https://www.infobae.com/resizer/v2/YTHFKZIH7RDOHGNC3L43L6KMHM.png?auth=a5dfe2c98def4d0cdfbdec6eb6383d895660dcbc32fdaf4cb76a66163ff82926&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Fri, 18 Sep 2026 20:10:54 +0000"
+      },
       {
         "titulo": "Mirtha Legrand fue internada nuevamente a días de recibir el alta",
         "link": "https://www.ambito.com/espectaculos/mirtha-legrand-fue-internada-nuevamente-dias-recibir-el-alta-n6324114",
@@ -454,18 +482,18 @@
         "fecha": "Fri, 18 Sep 2026 18:43:55 +0000"
       },
       {
-        "titulo": "Emilia Attias defendió a China Suárez tras las críticas por sus fotos en \"La Casa de los Sueños\": \"La tienen que dejar un poco más tranquila\"",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/emilia-attias-defendio-a-china-suarez-tras-las-criticas-por-sus-fotos-en-la-casa-de-los-suenos-la-tienen-que-dejar-un-poco-mas-tranquila/",
-        "imagen": "https://www.infobae.com/resizer/v2/YTHFKZIH7RDOHGNC3L43L6KMHM.png?auth=a5dfe2c98def4d0cdfbdec6eb6383d895660dcbc32fdaf4cb76a66163ff82926&smart=true&width=1920&height=1080",
+        "titulo": "Mirtha Legrand sufrió una recaída de su cuadro bronquial y volvió a ser internada en el Sanatorio Mater Dei: el parte médico",
+        "link": "https://www.infobae.com/teleshow/2026/09/18/mirtha-legrand-sufrio-una-recaida-de-su-cuadro-bronquial-y-volvio-a-ser-internada-en-el-sanatorio-mater-dei/",
+        "imagen": "https://www.infobae.com/resizer/v2/MAGOMCW7GZFGBNBUQ4K7WM7UOI.png?auth=2c16bfecb336a86123ac53d53606ba2bfa23e52dd0bbd7987cb1e01d6b6fc633&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 20:10:54 +0000"
+        "fecha": "Fri, 18 Sep 2026 19:48:09 +0000"
       },
       {
-        "titulo": "El Teatro Colón transmitirá en vivo la última función de \"Principio de Éxtasis\" este domingo por streaming",
-        "link": "https://www.ambito.com/espectaculos/el-teatro-colon-transmitira-vivo-la-ultima-funcion-principio-extasis-este-domingo-streaming-n6324038",
-        "imagen": "https://media.ambito.com/p/c9a38f340f62b4e8bc4b846a2a6bd3b2/adjuntos/239/imagenes/043/651/0043651722/principio-extasis.JPG",
+        "titulo": "Brad Pitt regresará para la secuela de \"Guerra Mundial Z\" producida por Paramount",
+        "link": "https://www.ambito.com/brad-pitt-regresara-la-secuela-guerra-mundial-z-producida-paramount-n6324062",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 14:41:00 -0300"
+        "fecha": "Fri, 18 Sep 2026 15:07:00 -0300"
       },
       {
         "titulo": "La alarmante situación del hermano de Tini Stoessel tras el escándalo familiar",
@@ -480,34 +508,6 @@
         "imagen": "https://www.clarin.com/img/2026/09/16/xCTBAmltj_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Fri, 18 Sep 2026 17:53:01 +0000"
-      },
-      {
-        "titulo": "Mirtha Legrand sufrió una recaída de su cuadro bronquial y volvió a ser internada en el Sanatorio Mater Dei: el parte médico",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/mirtha-legrand-sufrio-una-recaida-de-su-cuadro-bronquial-y-volvio-a-ser-internada-en-el-sanatorio-mater-dei/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAGOMCW7GZFGBNBUQ4K7WM7UOI.png?auth=2c16bfecb336a86123ac53d53606ba2bfa23e52dd0bbd7987cb1e01d6b6fc633&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 19:48:09 +0000"
-      },
-      {
-        "titulo": "Jamiroquai en Argentina: una noche cargada de hits a puro groove y sofisticación",
-        "link": "https://www.ambito.com/espectaculos/jamiroquai-argentina-una-noche-cargada-hits-puro-groove-y-sofisticacion-n6324015",
-        "imagen": "https://media.ambito.com/p/299e7ade8b236aec931e64a525965198/adjuntos/239/imagenes/043/651/0043651473/jamiroquai-argentina.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 18 Sep 2026 13:22:31 -0300"
-      },
-      {
-        "titulo": "Volvieron a internar a Mirtha Legrand: tuvo una recaída gripal",
-        "link": "https://www.c5n.com/ratingcero/volvieron-internar-mirtha-legrand-tuvo-una-recaida-gripal-n249304",
-        "imagen": "https://media.c5n.com/p/2a7e44e604e18984b87c29010a90a3a2/adjuntos/326/imagenes/000/398/0000398394/1200x675/smart/mirtha-legrand.jpg",
-        "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 16:04:00 -0300"
-      },
-      {
-        "titulo": "Antes del \"Conde Drácula\", existió la \"Condesa Sangrienta\": la historia real de Erzsébet Báthory, la aristócrata húngara que aparece en \"Monstruo: La historia de Lizzie Borden\" de Netflix",
-        "link": "https://www.clarin.com/estados-unidos/conde-dracula-existio-condesa-sangrienta-historia-real-erzsebet-bathory-aristocrata-hungara-aparece-monstruo-historia-lizzie-borden-netflix_0_gghX0rXd24.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/gqSBcRPIx_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 17:42:19 +0000"
       },
       {
         "titulo": "Rafael Ferro recordó con Mario Pergolini el freno de sus hijos ante una etapa de su vida: “Papá, sos un mamarracho”",
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "OpenAI descubre que sus modelos de IA dejaban notas a sus sucesores para que oculten su mal comportamiento",
+        "link": "https://www.infobae.com/tecno/2026/09/18/openai-descubre-que-sus-modelos-de-ia-dejaban-notas-a-sus-sucesores-para-que-oculten-su-mal-comportamiento/",
+        "imagen": "https://www.infobae.com/resizer/v2/NXQHUVLVSJG5HFKNQT324ZBHUM.png?auth=954a7c529ad51d6d5ede96e1196e6c97bacee0d20ed71b7bffd9860b6c503e28&smart=true&width=1920&height=1080",
+        "fuente": "Infobae Tecno",
+        "fecha": "Fri, 18 Sep 2026 18:59:00 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -626,9 +626,9 @@
         "fecha": "Fri, 18 Sep 2026 11:08:35 GMT"
       },
       {
-        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
+        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -640,9 +640,9 @@
         "fecha": "Fri, 18 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
+        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -842,11 +842,11 @@
         "fecha": "Fri, 18 Sep 2026 16:01:00 -0300"
       },
       {
-        "titulo": "AMC presenta un especial con las mejores películas de Will Smith: cuándo y a qué hora",
-        "link": "https://www.eldia.com/espectaculos/amc-presenta-un-especial-con-las-mejores-peliculas-de-will-smith-cuando-y-a-que-hora-espectaculos_1789762200",
+        "titulo": "Estudiantes - Flamengo \"se jugará sí o sí en UNO\": el plan del Pincha para ubicar al público visitante",
+        "link": "https://www.eldia.com/deportes/estudiantes-flamengo-se-jugara-si-o-si-en-uno-el-plan-del-pincha-para-ubicar-al-publico-visitante-deportes_1789761720",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 20:10:29 GMT"
+        "fecha": "Fri, 18 Sep 2026 20:14:38 GMT"
       },
       {
         "titulo": "Loteos ilegales en La Plata: hay una detenida y buscan al dueño del Grupo Del Sud junto a otros imputados",
@@ -870,11 +870,11 @@
         "fecha": "Fri, 18 Sep 2026 09:49:00 -0300"
       },
       {
-        "titulo": "Loteos ilegales en La Plata: una detenida, tres prófugos y las claves de la causa que investiga presuntas estafas",
-        "link": "https://www.eldia.com/policiales/loteos-ilegales-en-la-plata-una-detenida-y-hay-orden-de-arresto-para-otras-tres-personas-policiales_1789740720",
+        "titulo": "Candela Arizaga confirmó su separación de Facundo Moyano: “Me bloqueó de las redes”",
+        "link": "https://www.eldia.com/espectaculos/candela-arizaga-confirmo-su-separacion-de-facundo-moyano-me-bloqueo-de-las-redes-espectaculos_1789761360",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 19:34:56 GMT"
+        "fecha": "Fri, 18 Sep 2026 20:29:32 GMT"
       },
       {
         "titulo": "Puente comercial con Oriente: Viviana Yacoub participó de la cumbre estratégica con el embajador chino",
@@ -898,11 +898,11 @@
         "fecha": "Thu, 17 Sep 2026 19:23:00 -0300"
       },
       {
-        "titulo": "“No paran de usarlo”: la familia del Indio Solari advirtió por el contenido falso que circula en redes sociales",
-        "link": "https://www.eldia.com/espectaculos/no-paran-de-usarlo-la-familia-del-indio-solari-advirtio-por-el-contenido-falso-que-circula-en-redes-sociales-espectaculos_1789757460",
+        "titulo": "Internaron nuevamente a Mirtha Legrand por un cuadro de neumopatía",
+        "link": "https://www.eldia.com/espectaculos/internaron-nuevamente-a-mirta-legrand-espectaculos_1789758660",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 18 Sep 2026 18:52:18 GMT"
+        "fecha": "Fri, 18 Sep 2026 20:12:19 GMT"
       }
     ]
   }
