@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T05:13:48.668378+00:00",
+  "actualizado": "2026-09-19T05:29:58.207222+00:00",
   "categorias": {
     "politica": [
       {
@@ -91,7 +91,7 @@
       {
         "titulo": "Los precios del comercio exterior ya superan a los de 2003-2012: ¿por qué la economía no aprovecha el \"viento de cola\"?",
         "link": "https://www.ambito.com/economia/los-precios-del-comercio-exterior-ya-superan-los-2003-2012-por-que-la-no-aprovecha-el-viento-cola-n6324093",
-        "imagen": "https://media.ambito.com/p/e423fb35b51cafb789274bba855392fe/adjuntos/239/imagenes/043/446/0043446844/comercio-exterior-importaciones-exportaciones-contenedores-containers.jpg",
+        "imagen": "https://media.ambito.com/p/ce7807dd3b15c497c278f5916784cc1a/adjuntos/239/imagenes/043/644/0043644846/1200x675/smart/commodities.png",
         "fuente": "Ámbito",
         "fecha": "Fri, 18 Sep 2026 21:57:00 -0300"
       },
@@ -217,18 +217,18 @@
         "fecha": "Sat, 19 Sep 2026 04:49:46 GMT"
       },
       {
+        "titulo": "Pedro Troglio vuelve al Bosque con otros colores",
+        "link": "https://www.eldia.com/deportes/pedro-troglio-vuelve-al-bosque-con-otros-colores-deportes_1789794334",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Sat, 19 Sep 2026 05:05:34 GMT"
+      },
+      {
         "titulo": "Semi en UNO: El Pincha quiere defender su localía",
         "link": "https://www.eldia.com/deportes/estudiantes-flamengo-se-jugara-si-o-si-en-uno-el-plan-del-pincha-para-ubicar-al-publico-visitante-deportes_1789761720",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Sat, 19 Sep 2026 04:58:37 GMT"
-      },
-      {
-        "titulo": "Golpe duro: cuántos partidos se pierde Correa",
-        "link": "https://www.eldia.com/deportes/estudiantes-confirmo-la-lesion-de-joaquin-correa-y-esperan-saber-si-llega-a-flamengo-deportes_1789754100",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Sat, 19 Sep 2026 04:56:45 GMT"
+        "fecha": "Sat, 19 Sep 2026 05:05:25 GMT"
       },
       {
         "titulo": "Gimnasia vs. Banfield por el Torneo Clausura: hora, TV y probables formaciones",
@@ -296,9 +296,9 @@
         "fecha": "Fri, 18 Sep 2026 18:42:00 -0300"
       },
       {
-        "titulo": "Cosechaban naranjas y les pagaban con cocaína: la historia de la pareja acusada de explotar a trabajadores en Entre Ríos",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/19/cosechaban-naranjas-y-les-pagaban-con-cocaina-la-historia-de-la-pareja-acusada-de-explotar-a-trabajadores-en-entre-rios/",
-        "imagen": "https://www.infobae.com/resizer/v2/FUTAGZQ63VBNBBBSTDH4OIVALM.jpg?auth=af445d52f6f8527efafbd59e05bacb7d19b3a2023cd18074fba832d1f6c089c9&smart=true&width=2479&height=1395",
+        "titulo": "A un año del triple femicidio de Florencio Varela: 16 detenidos, seis prófugos y una trama narco bajo investigación federal",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/19/a-un-ano-del-triple-femicidio-de-florencio-varela-16-detenidos-seis-profugos-y-una-trama-narco-bajo-investigacion-federal/",
+        "imagen": "https://www.infobae.com/resizer/v2/WFCZ2UFMPRACLDIWB23SCOWWIE.jpg?auth=8325be66bfa4f3cadaca909aca3157c8b42ff417f51851c0c7d53fdae5b9c332&smart=true&width=6000&height=4000",
         "fuente": "Infobae",
         "fecha": "Sat, 19 Sep 2026 03:30:00 +0000"
       },
@@ -317,9 +317,9 @@
         "fecha": "Fri, 18 Sep 2026 13:27:00 -0300"
       },
       {
-        "titulo": "A un año del triple femicidio de Florencio Varela: 16 detenidos, seis prófugos y una trama narco bajo investigación federal",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/19/a-un-ano-del-triple-femicidio-de-florencio-varela-16-detenidos-seis-profugos-y-una-trama-narco-bajo-investigacion-federal/",
-        "imagen": "https://www.infobae.com/resizer/v2/WFCZ2UFMPRACLDIWB23SCOWWIE.jpg?auth=8325be66bfa4f3cadaca909aca3157c8b42ff417f51851c0c7d53fdae5b9c332&smart=true&width=6000&height=4000",
+        "titulo": "Cosechaban naranjas y les pagaban con cocaína: la historia de la pareja acusada de explotar a trabajadores en Entre Ríos",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/19/cosechaban-naranjas-y-les-pagaban-con-cocaina-la-historia-de-la-pareja-acusada-de-explotar-a-trabajadores-en-entre-rios/",
+        "imagen": "https://www.infobae.com/resizer/v2/FUTAGZQ63VBNBBBSTDH4OIVALM.jpg?auth=af445d52f6f8527efafbd59e05bacb7d19b3a2023cd18074fba832d1f6c089c9&smart=true&width=2479&height=1395",
         "fuente": "Infobae",
         "fecha": "Sat, 19 Sep 2026 03:30:00 +0000"
       },
@@ -626,9 +626,9 @@
         "fecha": "Fri, 18 Sep 2026 11:08:35 GMT"
       },
       {
-        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
+        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -640,9 +640,9 @@
         "fecha": "Fri, 18 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
+        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
