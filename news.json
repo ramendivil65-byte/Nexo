@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T23:42:18.700403+00:00",
+  "actualizado": "2026-09-19T23:54:53.336756+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,7 +10,7 @@
         "fecha": "Sat, 19 Sep 2026 20:00:00 -0300"
       },
       {
-        "titulo": "Para mostrar apoyos y consensos, Javier Milei lleva una docena de gobernadores a su viaje a París",
+        "titulo": "Con el Congreso convulsionado y el fantasma del balotaje, Milei suma a más gobernadores a su viaje a París",
         "link": "https://www.clarin.com/politica/mostrar-apoyos-consensos-milei-lleva-docena-gobernadores-viaje-paris_0_vHePcLsci7.html",
         "imagen": "https://www.clarin.com/img/2026/08/27/d1j6dwWAW_1200x630__1.jpg",
         "fuente": "Clarín",
@@ -19,7 +19,7 @@
       {
         "titulo": "Dinamarca y Groenlandia le pusieron límites al acuerdo anunciado por Donald Trump",
         "link": "https://www.ambito.com/mundo/dinamarca-y-groenlandia-le-pusieron-limites-al-acuerdo-anunciado-donald-trump-n6324378",
-        "imagen": "https://media.ambito.com/p/40475a7328d0c455b6a0b7ce05f1e74b/adjuntos/239/imagenes/043/561/0043561293/1200x675/1578x664:1598x684/trump-hablando.jpg",
+        "imagen": "",
         "fuente": "Ámbito Mundo",
         "fecha": "Sat, 19 Sep 2026 20:03:00 -0300"
       },
@@ -38,11 +38,11 @@
         "fecha": "Sat, 19 Sep 2026 23:24:06 +0000"
       },
       {
-        "titulo": "Kicillof: «Cuenten conmigo para que Argentina tenga una alternativa a este modelo»",
-        "link": "https://www.tiempoar.com.ar/ta_article/kicillof-cuenten-conmigo-para-que-argentina-tenga-una-alternativa-a-este-modelo/",
+        "titulo": "Gildo Onorato respaldó a Axel Kicillof y llamó a construir una mayoría política para 2027",
+        "link": "https://www.tiempoar.com.ar/ta_article/gildo-onorato-respaldo-a-axel-kicillof-y-llamo-a-construir-una-mayoria-politica-para-2027/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Sat, 19 Sep 2026 23:33:52 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:45:14 +0000"
       },
       {
         "titulo": "Trazabilidad de la pesca: piden garantizar un sistema que prestigie la producción local",
@@ -61,7 +61,7 @@
       {
         "titulo": "Los envíos de crudo y GNL por Ormuz llegaron a su nivel más alto en seis meses, según comandante de EEUU",
         "link": "https://www.ambito.com/mundo/los-envios-crudo-y-gnl-ormuz-llegaron-su-nivel-mas-alto-seis-meses-segun-comandante-eeuu-n6324370",
-        "imagen": "https://media.ambito.com/p/d196e866f9f3ef0a40253c03c5932b26/adjuntos/239/imagenes/043/376/0043376628/1200x675/677x477:697x497/estrecho-ormuz.jpg",
+        "imagen": "",
         "fuente": "Ámbito Mundo",
         "fecha": "Sat, 19 Sep 2026 19:00:00 -0300"
       },
@@ -80,11 +80,11 @@
         "fecha": "Sat, 19 Sep 2026 23:01:25 +0000"
       },
       {
-        "titulo": "El detrás de escena del Distrito de Inteligencia Artificial de Jorge Macri",
-        "link": "https://www.tiempoar.com.ar/ta_article/el-detras-de-escena-del-distrito-de-inteligencia-artificial-de-jorge-macri/",
+        "titulo": "Sergio Massa: «Se viene una etapa de renovación en el peronismo»",
+        "link": "https://www.tiempoar.com.ar/ta_article/sergio-massa-se-viene-una-etapa-de-renovacion-en-el-peronismo/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Sat, 19 Sep 2026 23:22:46 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:39:42 +0000"
       }
     ],
     "economia": [
@@ -196,18 +196,18 @@
         "fecha": "Sat, 19 Sep 2026 20:09:00 -0300"
       },
       {
-        "titulo": "River Plate empata con Huracán en el Monumental y no puede acercarse a la cima de su zona en el Torneo Clausura",
+        "titulo": "River Plate pierde con Huracán en el Monumental y no puede acercarse a la cima de su zona en el Torneo Clausura",
         "link": "https://www.infobae.com/deportes/2026/09/19/river-plate-buscara-arrimarse-a-la-cima-de-la-zona-b-en-su-choque-ante-huracan-hora-tv-y-formaciones/",
         "imagen": "https://www.infobae.com/resizer/v2/2YRNCEISCVGR5M5IM73GQWYLQM.JPG?auth=1ec6bb815f7d3546da356046a06727f2bff2b4b0cdb66cba7c04cb2071a70e18&smart=true&width=2984&height=1679",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 23:33:43 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:49:29 +0000"
       },
       {
-        "titulo": "Video: la falta que reclamó River antes del gol de Huracán",
-        "link": "https://www.ole.com.ar/futbol-primera/falta-reclamo-river-gol-huracan-martinezquarta-jordycaicedo_0_gkHFdzFTYq.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/19/TY2VmQnqv_1200x630__1.jpg",
+        "titulo": "Instituto recibe a Talleres en un Clásico de Córdoba y de realidades opuestas",
+        "link": "https://www.ole.com.ar/futbol-primera/instituto-vs-talleres-clasico-cordoba-partido-torneo-clausura-fecha-10_0_JV4XCRXXE4.html",
+        "imagen": "https://www.ole.com.ar/images/2024/07/28/IJlNu58rx_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Sat, 19 Sep 2026 19:30:50 -0300"
+        "fecha": "Sat, 19 Sep 2026 20:38:49 -0300"
       },
       {
         "titulo": "Santa, un triunfo para la soledad en la punta y el pase a los playoffs",
@@ -224,11 +224,11 @@
         "fecha": "Sat, 19 Sep 2026 22:26:28 GMT"
       },
       {
-        "titulo": "River empata 1 a 1 contra Huracán por la décima fecha del Clausura",
+        "titulo": "Huracán sorprende a River en el Monumental y lo derrota por 2 a 1",
         "link": "https://www.eldia.com/deportes/river-buscara-el-cuarto-exito-al-hilo-ante-el-globo-deportes_1789794154",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Sat, 19 Sep 2026 23:32:55 GMT"
+        "fecha": "Sat, 19 Sep 2026 23:46:58 GMT"
       },
       {
         "titulo": "Franco Domínguez Ávila volvió a marcar para la Selección argentina Sub 19 y sueña con la clasificación",
@@ -349,7 +349,7 @@
       {
         "titulo": "Dinamarca y Groenlandia le pusieron límites al acuerdo anunciado por Donald Trump",
         "link": "https://www.ambito.com/mundo/dinamarca-y-groenlandia-le-pusieron-limites-al-acuerdo-anunciado-donald-trump-n6324378",
-        "imagen": "https://media.ambito.com/p/40475a7328d0c455b6a0b7ce05f1e74b/adjuntos/239/imagenes/043/561/0043561293/1200x675/1578x664:1598x684/trump-hablando.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Sat, 19 Sep 2026 20:03:00 -0300"
       },
@@ -368,16 +368,16 @@
         "fecha": "Sat, 19 Sep 2026 21:46:34 +0000"
       },
       {
-        "titulo": "El calentamiento del mar en Panamá enciende alertas por los corales y la pesca",
-        "link": "https://www.infobae.com/panama/2026/09/19/el-calentamiento-del-mar-en-panama-enciende-alertas-por-los-corales-y-la-pesca/",
-        "imagen": "https://www.infobae.com/resizer/v2/EQR7UXGBMVEYPCTSB5ZV2ARDNE.png?auth=4c0479c95717b7fc187e9393f4a5d20ea6244f5c7ac8c47bb908c83769bafc21&smart=true&width=2752&height=1536",
+        "titulo": "Panamá liberará moscas estériles para frenar la mosca del Mediterráneo",
+        "link": "https://www.infobae.com/panama/2026/09/19/panama-liberara-moscas-esteriles-para-frenar-la-mosca-del-mediterraneo/",
+        "imagen": "https://www.infobae.com/resizer/v2/N2YA5WKBQ5AM3IAV6K6KCZJNIM.jpeg?auth=6f8863e7cba1ce658d4ede7dd8b3af6f9b2a159ba03a3e0fb1ec362634c0775c&smart=true&width=1000&height=650",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 22:47:27 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:50:45 +0000"
       },
       {
         "titulo": "Los envíos de crudo y GNL por Ormuz llegaron a su nivel más alto en seis meses, según comandante de EEUU",
         "link": "https://www.ambito.com/mundo/los-envios-crudo-y-gnl-ormuz-llegaron-su-nivel-mas-alto-seis-meses-segun-comandante-eeuu-n6324370",
-        "imagen": "https://media.ambito.com/p/d196e866f9f3ef0a40253c03c5932b26/adjuntos/239/imagenes/043/376/0043376628/1200x675/677x477:697x497/estrecho-ormuz.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Sat, 19 Sep 2026 19:00:00 -0300"
       },
@@ -396,16 +396,16 @@
         "fecha": "Sat, 19 Sep 2026 21:12:03 +0000"
       },
       {
-        "titulo": "Los Astros de Houston rinden un homenaje a Mauricio Dubón en su regreso al Minute Maid Park",
-        "link": "https://www.infobae.com/honduras/2026/09/19/los-astros-de-houston-rinden-un-homenaje-a-mauricio-dubon-en-su-regreso-al-minute-maid-park/",
-        "imagen": "https://www.infobae.com/resizer/v2/KRO7YI6TSJCH5NZPMWPSAZ36DU.JPG?auth=c0073d9fa99919f262a21fc40e0d05f55ad3c47465847dc5fbc44544030d17d7&smart=true&width=2535&height=1690",
+        "titulo": "Primeras palabras del periodista nicaragüense Luis Galeano, detenido por ICE: “Vamos a salir de esto como de las otras”",
+        "link": "https://www.infobae.com/nicaragua/2026/09/19/primeras-palabras-del-periodista-nicaraguense-luis-galeano-detenido-por-ice-vamos-a-salir-de-esto-como-de-las-otras/",
+        "imagen": "https://www.infobae.com/resizer/v2/IK5E2FA4FVEIZMXIM64NINZDTI.jpg?auth=2c06c8d1ccb60d23532d774bab3505e4ea5e51c119979b090928304ec133f077&smart=true&width=1600&height=1200",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 22:47:05 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:49:16 +0000"
       },
       {
         "titulo": "La OTAN celebró el acuerdo entre Dinamarca y EEUU por Groenlandia: \"Contribuirá a estabilizar la región\"",
         "link": "https://www.ambito.com/mundo/la-otan-celebro-el-acuerdo-dinamarca-y-eeuu-groenlandia-contribuira-estabilizar-la-region-n6324333",
-        "imagen": "https://media.ambito.com/p/3712c1f427ceb3fe38124d527ec5c730/adjuntos/239/imagenes/043/122/0043122912/1200x675/1632x902:1652x922/pinguinos-groenlandia.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Sat, 19 Sep 2026 15:51:00 -0300"
       },
@@ -424,11 +424,11 @@
         "fecha": "Sat, 19 Sep 2026 20:20:09 +0000"
       },
       {
-        "titulo": "Gobierno de Honduras declara como terroristas a tres grupos criminales que operan en el país",
-        "link": "https://www.infobae.com/honduras/2026/09/19/gobierno-de-honduras-declara-como-terroristas-a-tres-grupos-criminales-que-operan-en-el-pais/",
-        "imagen": "https://www.infobae.com/resizer/v2/LJMN3O6RVJGAFBLWYGULHBPHIA.jpg?auth=f1e058fd02d32d2348fa262823aadd47cfa9fa56b87c3a6e3b8b4123f3690a16&smart=true&width=1922&height=1080",
+        "titulo": "El calentamiento del mar en Panamá enciende alertas por los corales y la pesca",
+        "link": "https://www.infobae.com/panama/2026/09/19/el-calentamiento-del-mar-en-panama-enciende-alertas-por-los-corales-y-la-pesca/",
+        "imagen": "https://www.infobae.com/resizer/v2/EQR7UXGBMVEYPCTSB5ZV2ARDNE.png?auth=4c0479c95717b7fc187e9393f4a5d20ea6244f5c7ac8c47bb908c83769bafc21&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 22:06:34 +0000"
+        "fecha": "Sat, 19 Sep 2026 22:47:27 +0000"
       }
     ],
     "espectaculos": [
@@ -454,11 +454,11 @@
         "fecha": "Sat, 19 Sep 2026 19:49:00 +0000"
       },
       {
-        "titulo": "Marley respondió los dichos de Santiago del Moro y contó cómo es su relación: \"Nunca le tiré nada\"",
-        "link": "https://www.infobae.com/teleshow/2026/09/19/marley-respondio-los-dichos-de-santiago-del-moro-y-conto-como-es-su-relacion-nunca-le-tire-nada/",
-        "imagen": "https://www.infobae.com/resizer/v2/JDDGZTPELBCN5NKYMAHQ75XFUQ.jpg?auth=8fc57e085880ecb2068d3c5a842fefab8eec43154d6e9f0dd59347903ad1143c&smart=true&width=1920&height=1080",
+        "titulo": "Así celebró Tamara Báez los cinco años de Jamaica, su hija con L-Gante: temática de Toy Story y un mensaje emotivo",
+        "link": "https://www.infobae.com/teleshow/2026/09/19/asi-celebro-tamara-baez-los-cinco-anos-de-jamaica-su-hija-con-l-gante-tematica-de-toy-story-y-un-mensaje-emotivo/",
+        "imagen": "https://www.infobae.com/resizer/v2/AXUEVZAON5AWLLFDRDGGKYRT2Y.png?auth=21f6ad3d8133e2fa75997bda3aa20ded6525ab6e94604ed2db3b5191ee858e72&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 23:02:34 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:37:30 +0000"
       },
       {
         "titulo": "Furor en Netflix: la nueva miniserie de 6 capítulos que se puede ver en pocos días",
@@ -482,11 +482,11 @@
         "fecha": "Sat, 19 Sep 2026 17:05:01 +0000"
       },
       {
-        "titulo": "La China Suárez compartió su tarde en familia junto a Mauro Icardi en La Casa de los Sueños: inflable gigante y guerra de espuma",
-        "link": "https://www.infobae.com/teleshow/2026/09/19/la-china-suarez-compartio-su-tarde-en-familia-junto-a-mauro-icardi-en-la-casa-de-los-suenos-inflable-gigante-y-guerra-de-espuma/",
-        "imagen": "https://www.infobae.com/resizer/v2/I7LYQ2SCGVBVPM7A6PDANPHUEA.png?auth=52c42cff83a2ada51ee3ae27b5d1e2abe972889909ce8d1e8bd4da4bdf35c18a&smart=true&width=1920&height=1080",
+        "titulo": "Marley respondió los dichos de Santiago del Moro y contó cómo es su relación: \"Nunca le tiré nada\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/19/marley-respondio-los-dichos-de-santiago-del-moro-y-conto-como-es-su-relacion-nunca-le-tire-nada/",
+        "imagen": "https://www.infobae.com/resizer/v2/JDDGZTPELBCN5NKYMAHQ75XFUQ.jpg?auth=8fc57e085880ecb2068d3c5a842fefab8eec43154d6e9f0dd59347903ad1143c&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 22:28:04 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:02:34 +0000"
       },
       {
         "titulo": "La serie hecha con IA y sin actores que triunfa en el 'prime time' de la televisión china",
@@ -510,11 +510,11 @@
         "fecha": "Sat, 19 Sep 2026 16:51:45 +0000"
       },
       {
-        "titulo": "La salud de Mirtha Legrand: “Encontraron la bacteria, lograron hidratar a la diva y preparan una batería de antibióticos”",
-        "link": "https://www.infobae.com/teleshow/2026/09/19/como-paso-la-noche-mirtha-legrand-luego-de-ser-internada-por-una-recaida-en-su-cuadro-bronquial/",
-        "imagen": "https://www.infobae.com/resizer/v2/GLO666HV2BDGJBEVB2LTEWZ644.png?auth=667ba00c9645892054c0e58ed95fdda39a64771d46445bc673a3af67b2dd7b1e&smart=true&width=1920&height=1080",
+        "titulo": "La China Suárez compartió su tarde en familia junto a Mauro Icardi en La Casa de los Sueños: inflable gigante y guerra de espuma",
+        "link": "https://www.infobae.com/teleshow/2026/09/19/la-china-suarez-compartio-su-tarde-en-familia-junto-a-mauro-icardi-en-la-casa-de-los-suenos-inflable-gigante-y-guerra-de-espuma/",
+        "imagen": "https://www.infobae.com/resizer/v2/I7LYQ2SCGVBVPM7A6PDANPHUEA.png?auth=52c42cff83a2ada51ee3ae27b5d1e2abe972889909ce8d1e8bd4da4bdf35c18a&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 22:26:47 +0000"
+        "fecha": "Sat, 19 Sep 2026 22:28:04 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Sat, 19 Sep 2026 07:46:12 -0300"
       },
       {
-        "titulo": "Así es la amnesia digital, el fenómeno por el que ya no recordamos ningún número de teléfono",
-        "link": "https://www.infobae.com/tecno/2026/09/19/asi-es-la-amnesia-digital-el-fenomeno-por-el-que-ya-no-recordamos-ningun-numero-de-telefono/",
-        "imagen": "https://www.infobae.com/resizer/v2/V7454XEKANHN7ILT3N24WWCUYY.JPG?auth=83cfae90b1e5e331e3c1fb2da1a3eb04092f0689ad7e6c983a78738be4cf9435&smart=true&width=3492&height=2328",
+        "titulo": "Pasos para convertir un teléfono viejo en router y dar internet a varios dispositivos",
+        "link": "https://www.infobae.com/tecno/2026/09/19/pasos-para-convertir-un-telefono-viejo-en-router-y-dar-internet-a-varios-dispositivos/",
+        "imagen": "https://www.infobae.com/resizer/v2/XFRBP3ER7ZFNTICGSI4H2AUP2Y.jpg?auth=fa62f955aeefe32dd5f6fc01d1db9953552215a290b7137cd78abf8b2216cc1c&smart=true&width=4608&height=3072",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 23:12:59 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:46:02 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -561,11 +561,11 @@
         "fecha": "Thu, 17 Sep 2026 20:58:00 -0300"
       },
       {
-        "titulo": "Cofundador de Anthropic afirma que las carreras de humanidades triunfarán en la era de la IA",
-        "link": "https://www.infobae.com/tecno/2026/09/19/cofundador-de-anthropic-afirma-que-las-carreras-de-humanidades-triunfaran-en-la-era-de-la-ia/",
-        "imagen": "https://www.infobae.com/resizer/v2/UPWEKBPDZZB3HBL3SFIGPBP6SU.png?auth=eba00b046a0f36dcf54058076eb49d0533ec6df6afe32d6a7f7243f4760a006b&smart=true&width=1920&height=1080",
+        "titulo": "Así es la amnesia digital, el fenómeno por el que ya no recordamos ningún número de teléfono",
+        "link": "https://www.infobae.com/tecno/2026/09/19/asi-es-la-amnesia-digital-el-fenomeno-por-el-que-ya-no-recordamos-ningun-numero-de-telefono/",
+        "imagen": "https://www.infobae.com/resizer/v2/V7454XEKANHN7ILT3N24WWCUYY.JPG?auth=83cfae90b1e5e331e3c1fb2da1a3eb04092f0689ad7e6c983a78738be4cf9435&smart=true&width=3492&height=2328",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 22:39:43 +0000"
+        "fecha": "Sat, 19 Sep 2026 23:12:59 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -589,11 +589,11 @@
         "fecha": "Thu, 17 Sep 2026 20:43:00 -0300"
       },
       {
-        "titulo": "Disney+ lanza función para que no pierdas tiempo buscando nuevas películas o series",
-        "link": "https://www.infobae.com/tecno/2026/09/19/disney-lanza-funcion-para-que-no-pierdas-tiempo-buscando-nuevas-peliculas-o-series/",
-        "imagen": "https://www.infobae.com/resizer/v2/DXGE2UJHKNF27PVE7XRNBJXUIM.jpg?auth=cda797be2b5070527873792e8294aeda60e4b0bb5ffb4b9c0993b2a8b9ce4448&smart=true&width=1920&height=1280",
+        "titulo": "Cofundador de Anthropic afirma que las carreras de humanidades triunfarán en la era de la IA",
+        "link": "https://www.infobae.com/tecno/2026/09/19/cofundador-de-anthropic-afirma-que-las-carreras-de-humanidades-triunfaran-en-la-era-de-la-ia/",
+        "imagen": "https://www.infobae.com/resizer/v2/UPWEKBPDZZB3HBL3SFIGPBP6SU.png?auth=eba00b046a0f36dcf54058076eb49d0533ec6df6afe32d6a7f7243f4760a006b&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 21:13:53 +0000"
+        "fecha": "Sat, 19 Sep 2026 22:39:43 +0000"
       },
       {
         "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
@@ -821,11 +821,11 @@
     ],
     "local": [
       {
-        "titulo": "Una nena de 8 años fue atropellada en La Plata por un motociclista que iba por la vereda y huyó",
-        "link": "https://www.0221.com.ar/la-plata/una-nena-8-anos-fue-atropellada-la-plata-un-motociclista-que-iba-la-vereda-y-huyo-n134465",
-        "imagen": "https://media.0221.com.ar/p/fa3c09c02676b3079703d3525ef2d9bf/adjuntos/357/imagenes/100/273/0100273729/1200x630/1798x1088:1818x1108/guardia-hospital-ninos-2.JPG",
+        "titulo": "Crónica del emotivo recorrido para recordar a Jorge Julio López en Los Hornos",
+        "link": "https://www.0221.com.ar/la-plata/cronica-del-emotivo-recorrido-recordar-jorge-julio-lopez-los-hornos-n134471",
+        "imagen": "https://media.0221.com.ar/p/9e596ff74ec2f25dd762f80ab4024c7a/adjuntos/357/imagenes/100/296/0100296581/1200x630/smart/julio-lopez-caminata-los-hornos-7.jpg",
         "fuente": "0221",
-        "fecha": "Sat, 19 Sep 2026 17:17:00 -0300"
+        "fecha": "Sat, 19 Sep 2026 20:47:00 -0300"
       },
       {
         "titulo": "Un astrónomo de la UNLP participó en el hallazgo del planeta más joven",
@@ -849,11 +849,11 @@
         "fecha": "Sat, 19 Sep 2026 23:09:35 GMT"
       },
       {
-        "titulo": "Un feroz incendio destruyó por completo un PH en Villa Elvira durante la madrugada",
-        "link": "https://www.0221.com.ar/la-plata/un-feroz-incendio-destruyo-completo-un-ph-villa-elvira-la-madrugada-n134457",
-        "imagen": "https://media.0221.com.ar/p/78e589c7139787e2ab49e67476c405d0/adjuntos/357/imagenes/100/238/0100238394/1200x630/1600x1146:1620x1166/bomberos-generica-2.jpg",
+        "titulo": "Una nena de 8 años fue atropellada en La Plata por un motociclista que iba por la vereda y huyó",
+        "link": "https://www.0221.com.ar/la-plata/una-nena-8-anos-fue-atropellada-la-plata-un-motociclista-que-iba-la-vereda-y-huyo-n134465",
+        "imagen": "https://media.0221.com.ar/p/fa3c09c02676b3079703d3525ef2d9bf/adjuntos/357/imagenes/100/273/0100273729/1200x630/1798x1088:1818x1108/guardia-hospital-ninos-2.JPG",
         "fuente": "0221",
-        "fecha": "Sat, 19 Sep 2026 14:33:00 -0300"
+        "fecha": "Sat, 19 Sep 2026 17:17:00 -0300"
       },
       {
         "titulo": "Los docentes y trabajadores de la UNLP se suman a los paros nacionales y en La Plata tampoco habrá clases",
@@ -877,11 +877,11 @@
         "fecha": "Sat, 19 Sep 2026 23:10:30 GMT"
       },
       {
-        "titulo": "Crece la angustia en La Plata por Marito, el joven con retraso madurativo desaparecido hace cinco días",
-        "link": "https://www.0221.com.ar/la-plata/crece-la-angustia-la-plata-marito-el-joven-retraso-madurativo-desaparecido-hace-cinco-dias-n134453",
-        "imagen": "https://media.0221.com.ar/p/db7c2443c242d147d896fe0ba6dc3bd7/adjuntos/357/imagenes/100/296/0100296417/1200x630/smart/mario-hernan-sotelo-busqueda-personas.png",
+        "titulo": "Un feroz incendio destruyó por completo un PH en Villa Elvira durante la madrugada",
+        "link": "https://www.0221.com.ar/la-plata/un-feroz-incendio-destruyo-completo-un-ph-villa-elvira-la-madrugada-n134457",
+        "imagen": "https://media.0221.com.ar/p/78e589c7139787e2ab49e67476c405d0/adjuntos/357/imagenes/100/238/0100238394/1200x630/1600x1146:1620x1166/bomberos-generica-2.jpg",
         "fuente": "0221",
-        "fecha": "Sat, 19 Sep 2026 12:49:00 -0300"
+        "fecha": "Sat, 19 Sep 2026 14:33:00 -0300"
       },
       {
         "titulo": "Docentes universitarios anunciaron paros y una nueva Marcha Federal para el 15 de octubre",
