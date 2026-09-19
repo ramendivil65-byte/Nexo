@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T02:53:26.126861+00:00",
+  "actualizado": "2026-09-19T03:15:00.738543+00:00",
   "categorias": {
     "politica": [
       {
@@ -38,11 +38,11 @@
         "fecha": "Sat, 19 Sep 2026 00:55:53 +0000"
       },
       {
-        "titulo": "Kicillof federaliza la construcción de su movimiento con un plenario nacional",
-        "link": "https://www.tiempoar.com.ar/ta_article/kicillof-massa/",
+        "titulo": "No nos quedamos en el 45: qué pensaría John William Cooke del peronismo actual",
+        "link": "https://www.tiempoar.com.ar/ta_article/no-nos-quedamos-en-el-45-que-pensaria-john-william-cooke-del-peronismo-actual/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 22:07:08 +0000"
+        "fecha": "Sat, 19 Sep 2026 02:58:54 +0000"
       },
       {
         "titulo": "La fuerte reacción de Javier Milei al video que publicó Patricia Bullrich con una canción de Lali",
@@ -80,11 +80,11 @@
         "fecha": "Fri, 18 Sep 2026 23:26:03 +0000"
       },
       {
-        "titulo": "La Marcha de la Bronca sale a la calle con consignas contra Milei y de huelga general",
-        "link": "https://www.tiempoar.com.ar/ta_article/marcha-bronca-milei/",
+        "titulo": "Kicillof federaliza la construcción de su movimiento con un plenario nacional",
+        "link": "https://www.tiempoar.com.ar/ta_article/kicillof-massa/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 18 Sep 2026 22:06:18 +0000"
+        "fecha": "Fri, 18 Sep 2026 22:07:08 +0000"
       }
     ],
     "economia": [
@@ -261,6 +261,27 @@
     ],
     "policiales_actualidad": [
       {
+        "titulo": "Tras el rechazo de la Fiscalía sobre el pedido de Federico Moyano para acercarse a Candela Arizaga, le renunciaron sus abogados",
+        "link": "https://www.clarin.com/policiales/rechazo-fiscalia-pedido-federico-moyano-acercarse-candela-arizaga-renunciaron-abogados_0_zOd2usqQ6v.html",
+        "imagen": "https://www.clarin.com/img/2026/08/10/6IqKqQPnH_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Sat, 19 Sep 2026 01:52:38 +0000"
+      },
+      {
+        "titulo": "Es bailarín e hijo de sordos y sus originales videos se viralizaron: combina danza con Lengua de Señas",
+        "link": "https://www.c5n.com/sociedad/es-bailarin-e-hijo-de-sordos-combina-lengua-de-senas-con-la-danza-19-septiembre-2026",
+        "imagen": "https://media.c5n.com/p/a186c098ff688ecf7c29f9af70c67f92/adjuntos/326/imagenes/000/399/0000399533/1200x675/smart/christian-gonzalez-costa-coreo-ego.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 18 Sep 2026 23:47:00 -0300"
+      },
+      {
+        "titulo": "Renunciaron los abogados de Facundo Moyano en la causa por presunta violencia de género",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/renunciaron-los-abogados-de-facundo-moyano-en-la-causa-por-presunta-violencia-de-genero/",
+        "imagen": "https://www.infobae.com/resizer/v2/KAM2KK4E2ZARNKS3ZTE5JG62YY.jpg?auth=7f0418a35ace73ad0c2ec29b01eadba64174ed8fe4086145207438a2b11ccc4f&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Sat, 19 Sep 2026 01:04:07 +0000"
+      },
+      {
         "titulo": "\"Dale, gato, ponelo\": la dramática secuencia en la que un gasista recibió cuatro balazos al enfrentarse a motochorros en Mar del Plata",
         "link": "https://www.clarin.com/policiales/dale-gato-ponelo-dramatica-secuencia-gasista-recibio-balazos-enfrentarse-motochorros-mar-plata_0_1XwatbBy0J.html",
         "imagen": "https://www.clarin.com/img/2026/09/18/dqYgPQlbG_1200x630__1.jpg",
@@ -275,11 +296,11 @@
         "fecha": "Fri, 18 Sep 2026 18:42:00 -0300"
       },
       {
-        "titulo": "Renunciaron los abogados de Facundo Moyano en la causa por presunta violencia de género",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/renunciaron-los-abogados-de-facundo-moyano-en-la-causa-por-presunta-violencia-de-genero/",
-        "imagen": "https://www.infobae.com/resizer/v2/KAM2KK4E2ZARNKS3ZTE5JG62YY.jpg?auth=7f0418a35ace73ad0c2ec29b01eadba64174ed8fe4086145207438a2b11ccc4f&smart=true&width=1920&height=1080",
+        "titulo": "Video: se resistió a que le robaran el auto y un motochorro le disparó cuatro veces en Mar del Plata",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/19/video-se-resistio-a-que-le-robaran-el-auto-y-un-motochorro-le-disparo-cuatro-veces-en-mar-del-plata/",
+        "imagen": "https://www.infobae.com/resizer/v2/4Q5NWUXUBJHBJB2YJZHJZCIKCE.jpg?auth=9ac60f0d73c27c7a2ea8159a1706fe5f38835e549c083270102017f3989c16c7&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 01:04:07 +0000"
+        "fecha": "Sat, 19 Sep 2026 00:35:25 +0000"
       },
       {
         "titulo": "\"Ninguna sentencia judicial nos devolverá a Fede\": la dramática declaración de la viuda del ex puma Aramburú",
@@ -296,11 +317,11 @@
         "fecha": "Fri, 18 Sep 2026 13:27:00 -0300"
       },
       {
-        "titulo": "Video: se resistió a que le robaran el auto y un motochorro le disparó cuatro veces en Mar del Plata",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/19/video-se-resistio-a-que-le-robaran-el-auto-y-un-motochorro-le-disparo-cuatro-veces-en-mar-del-plata/",
-        "imagen": "https://www.infobae.com/resizer/v2/4Q5NWUXUBJHBJB2YJZHJZCIKCE.jpg?auth=9ac60f0d73c27c7a2ea8159a1706fe5f38835e549c083270102017f3989c16c7&smart=true&width=1920&height=1080",
+        "titulo": "Una adolescente fue apuñalada por la espalda con una tijera mientras estaba con amigas en el patio de una escuela de Neuquén",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/una-adolescente-fue-apunalada-por-la-espalda-con-una-tijera-mientras-estaba-con-amigas-en-el-patio-de-una-escuela-de-neuquen/",
+        "imagen": "https://www.infobae.com/resizer/v2/JFLOKHTSR5HUTI6UGY6PGXY3PI.jpeg?auth=2f8f5bb15771af8f402f2b7f6160080b440d61ff93d0862eb04afb7451c0e0ae&smart=true&width=800&height=500",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 00:35:25 +0000"
+        "fecha": "Fri, 18 Sep 2026 23:08:50 +0000"
       },
       {
         "titulo": "El femicidio de Camila Vecchiarello: el dolor de la familia de la gendarme asesinada y la insólita versión del principal sospechoso",
@@ -315,27 +336,6 @@
         "imagen": "https://media.c5n.com/p/0f4879ccc70a765280aae828aecefa2f/adjuntos/326/videos/000/399/0000399461/1200x675/smart/hostias.png",
         "fuente": "C5N",
         "fecha": "Fri, 18 Sep 2026 11:08:00 -0300"
-      },
-      {
-        "titulo": "Una adolescente fue apuñalada por la espalda con una tijera mientras estaba con amigas en el patio de una escuela de Neuquén",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/18/una-adolescente-fue-apunalada-por-la-espalda-con-una-tijera-mientras-estaba-con-amigas-en-el-patio-de-una-escuela-de-neuquen/",
-        "imagen": "https://www.infobae.com/resizer/v2/JFLOKHTSR5HUTI6UGY6PGXY3PI.jpeg?auth=2f8f5bb15771af8f402f2b7f6160080b440d61ff93d0862eb04afb7451c0e0ae&smart=true&width=800&height=500",
-        "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 23:08:50 +0000"
-      },
-      {
-        "titulo": "\"Ya vas a tener noticias mías\": detuvieron al ex manager de Callejero Fino por amenazar al músico",
-        "link": "https://www.clarin.com/policiales/vas-tener-noticias-detuvieron-ex-manager-callejero-fino-amenazar-musico_0_S5WAfKpsfD.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/EFz8zxCGj_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 17:56:58 +0000"
-      },
-      {
-        "titulo": "La Justicia ordenó el desalojo de FATE: los trabajadores continúan con la protesta",
-        "link": "https://www.c5n.com/sociedad/la-justicia-ordeno-el-desalojo-fate-los-trabajadores-continuan-la-protesta-n249259",
-        "imagen": "https://media.c5n.com/p/a7ca5df59058dc78d7fbcc0537ec9287/adjuntos/326/imagenes/000/372/0000372037/1200x675/smart/fate-planta-san-fernando.jpg",
-        "fuente": "C5N",
-        "fecha": "Fri, 18 Sep 2026 08:26:00 -0300"
       },
       {
         "titulo": "Video: así operaba la “ventanita narco” de Ciudad Evita",
@@ -361,18 +361,18 @@
         "fecha": "Fri, 18 Sep 2026 22:14:00 -0300"
       },
       {
-        "titulo": "El caos migratorio en Ceuta acorrala cada vez más a Pedro Sánchez y escala la batalla política en España",
-        "link": "https://www.clarin.com/mundo/caos-migratorio-ceuta-acorrala-vez-pedro-sanchez-escala-batalla-politica-espana_0_9vVeVpDang.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/5SNZH0zmS_1200x630__1.jpg",
+        "titulo": "Lula da Silva denuncia orgías con jueces de la Corte y crece el escándalo en Brasil",
+        "link": "https://www.clarin.com/mundo/lula-da-silva-denuncia-orgias-jueces-corte-crece-escandalo-brasil_0_ZoCebBICLX.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/7M7XHf-C5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 19:09:54 +0000"
+        "fecha": "Fri, 18 Sep 2026 22:47:36 +0000"
       },
       {
         "titulo": "El Ministerio Público allana el campus central de la Universidad de San Carlos de Guatemala por denuncias sobre registros académicos eliminados",
         "link": "https://www.infobae.com/guatemala/2026/09/19/el-ministerio-publico-allana-el-campus-central-de-la-universidad-de-san-carlos-de-guatemala-por-denuncias-sobre-registros-academicos-eliminados/",
         "imagen": "https://www.infobae.com/resizer/v2/GGYOMGPCBBFWDIKNQTJHSSTD2M.jpeg?auth=51d15eaddf1737e49df72574080a4dd546dc78accee9955112034e800ba08d8c&smart=true&width=3024&height=1326",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 02:29:57 +0000"
+        "fecha": "Sat, 19 Sep 2026 03:04:57 +0000"
       },
       {
         "titulo": "Donald Trump le prohibió el ingreso a la Casa Blanca a tres importantes medios de EEUU",
@@ -389,18 +389,18 @@
         "fecha": "Fri, 18 Sep 2026 14:41:00 -0300"
       },
       {
-        "titulo": "Crisis energética en Cuba: la isla sufre su octavo apagón del año",
-        "link": "https://www.clarin.com/mundo/crisis-energetica-cuba-isla-sufre-septimo-apagon-ano_0_RdyejwbS2B.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/LIZjEYHG2_1200x630__1.jpg",
+        "titulo": "Confirmado por la Casa Blanca: Trump se reunirá con Delcy Rodríguez en Nueva York",
+        "link": "https://www.clarin.com/mundo/confirmado-casa-blanca-trump-reunira-delcy-rodriguez-nueva-york_0_ZXj363eNYU.html",
+        "imagen": "https://www.clarin.com/img/2026/09/16/QoopvzTIA_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 18:39:09 +0000"
+        "fecha": "Fri, 18 Sep 2026 22:29:10 +0000"
       },
       {
-        "titulo": "FFAA incautan 8,250 arbustos de presunta hoja de coca en Honduras",
-        "link": "https://www.infobae.com/honduras/2026/09/19/ffaa-incautan-8250-arbustos-de-presunta-hoja-de-coca-en-honduras/",
-        "imagen": "https://www.infobae.com/resizer/v2/BOHZNSDHMJGWFANEA3XCKO2TCM.jpeg?auth=51e71251cb718d2747d2d84a3c190ec06667b305214e848452f62dbef36bf225&smart=true&width=1280&height=720",
+        "titulo": "El Salvador disputará eliminatoria de Copa Davis este finde semana ante Portugal",
+        "link": "https://www.infobae.com/el-salvador/2026/09/19/el-salvador-disputara-eliminatoria-de-copa-davis-este-finde-semana-ante-portugal/",
+        "imagen": "https://www.infobae.com/resizer/v2/D7H3JXNJ7ZG4ZET5O76VK4FANI.jpg?auth=f2f8936b44fe5dfdce7a2b85bf77956519a1ef826e94b94cdfbafc74cdac49ad&smart=true&width=1024&height=644",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 02:11:07 +0000"
+        "fecha": "Sat, 19 Sep 2026 03:03:40 +0000"
       },
       {
         "titulo": "Donald Trump anunció un acuerdo para ampliar la presencia militar de EEUU en Groenlandia",
@@ -417,18 +417,18 @@
         "fecha": "Fri, 18 Sep 2026 08:32:00 -0300"
       },
       {
-        "titulo": "El argentino Rafael Grossi sigue entre los candidatos favoritos para liderar la ONU, pero pierde apoyos en una tercera votación",
-        "link": "https://www.clarin.com/mundo/argentino-rafael-grossi-candidatos-favoritos-liderar-onu-luego-tercera-votacion_0_DSGwtmPH7o.html",
-        "imagen": "https://www.clarin.com/img/2026/09/18/s7vVNrX4y_1200x630__1.jpg",
+        "titulo": "El insólito acuerdo con su padre, un pasado como sheriff y su vida fuera de Wall Street: así es Howard Buffett, el nuevo presidente de Berkshire Hathaway",
+        "link": "https://www.clarin.com/mundo/insolito-acuerdo-padre-pasado-sheriff-vida-wall-street-howard-buffett-nuevo-presidente-berkshire-hathaway_0_WkRoYFvSt2.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/q2Nq2BIm5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 18 Sep 2026 16:49:53 +0000"
+        "fecha": "Fri, 18 Sep 2026 22:24:33 +0000"
       },
       {
-        "titulo": "Capturaron en México a alias “El Muerto”, uno de los 100 más buscados de El Salvador",
-        "link": "https://www.infobae.com/el-salvador/2026/09/19/capturaron-en-mexico-a-alias-el-muerto-uno-de-los-100-mas-buscados-de-el-salvador/",
-        "imagen": "https://www.infobae.com/resizer/v2/5U4KY42V5NAZ3OGUB2ROLHKLXM.jpg?auth=9e984cf58166232fe5277aaec087e3ed100755c5f410488970bee39e8cd48494&smart=true&width=790&height=450",
+        "titulo": "El Salvador abrirá la Liga de Naciones con un duelo ante Martinica el 25 de septiembre",
+        "link": "https://www.infobae.com/el-salvador/2026/09/19/el-salvador-abrira-la-liga-de-naciones-con-un-duelo-ante-martinica-el-25-de-septiembre/",
+        "imagen": "https://www.infobae.com/resizer/v2/43RAIDT4KFBCFBUMF2DLNFVF2M.jpg?auth=410e90c3385109e69ea765ef9fd10b292305024f627ddf4ca369c2550d2fd405&smart=true&width=1200&height=900",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 02:10:27 +0000"
+        "fecha": "Sat, 19 Sep 2026 03:02:15 +0000"
       }
     ],
     "espectaculos": [
@@ -533,11 +533,11 @@
         "fecha": "Thu, 17 Sep 2026 20:58:00 -0300"
       },
       {
-        "titulo": "Mentor de Steam: así se pueden encontrar más de 100 juegos gratis",
-        "link": "https://www.infobae.com/tecno/2026/09/19/mentor-de-steam-asi-se-pueden-encontrar-mas-de-100-juegos-gratis/",
-        "imagen": "https://www.infobae.com/resizer/v2/6TP3YYQLKVBIJOGDBLBNFVZ2G4.jpg?auth=0b888b2e1bc385463bce216e2894929b3510f873368ccf8ef0c747af873ef5a4&smart=true&width=1920&height=1080",
+        "titulo": "Microsoft afirma que Windows 11 ya funciona más rápido y prepara nuevas mejoras",
+        "link": "https://www.infobae.com/tecno/2026/09/19/microsoft-afirma-que-windows-11-ya-funciona-mas-rapido-y-prepara-nuevas-mejoras/",
+        "imagen": "https://www.infobae.com/resizer/v2/OSJQUTK5SVCTPBQVENIABZVUGM.jpg?auth=a0eb91f518b800878f528f4e4bcc3c3aed03fc2f6e4e500b322cde1a777e807f&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 02:14:31 +0000"
+        "fecha": "Sat, 19 Sep 2026 03:02:35 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -561,11 +561,11 @@
         "fecha": "Thu, 17 Sep 2026 20:43:00 -0300"
       },
       {
-        "titulo": "Lista de códigos de Free Fire para 19 y 20 de septiembre de 2026",
-        "link": "https://www.infobae.com/tecno/2026/09/19/lista-de-codigos-de-free-fire-para-19-y-20-de-septiembre-de-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/7C46YZCZE5CEDFUPCGDTKMDES4.jpeg?auth=5de4961ca87e39a36864164c8b05572637dfc4562c06e0c180be6a002ad9529b&smart=true&width=1920&height=1080",
+        "titulo": "Mentor de Steam: así se pueden encontrar más de 100 juegos gratis",
+        "link": "https://www.infobae.com/tecno/2026/09/19/mentor-de-steam-asi-se-pueden-encontrar-mas-de-100-juegos-gratis/",
+        "imagen": "https://www.infobae.com/resizer/v2/6TP3YYQLKVBIJOGDBLBNFVZ2G4.jpg?auth=0b888b2e1bc385463bce216e2894929b3510f873368ccf8ef0c747af873ef5a4&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 01:53:15 +0000"
+        "fecha": "Sat, 19 Sep 2026 02:14:31 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -589,11 +589,11 @@
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
       },
       {
-        "titulo": "Antes de comprar un iPhone 18 Pro o iPhone 18 Pro Max, revisa estas diferencias clave",
-        "link": "https://www.infobae.com/tecno/2026/09/19/antes-de-comprar-un-iphone-18-pro-o-iphone-18-pro-max-revisa-estas-diferencias-clave/",
-        "imagen": "https://www.infobae.com/resizer/v2/64S23V4RKBHRZHOG3PBKY2V47A.JPG?auth=e26ce257cafa779e5b22d289e7419790e39bd8c2b9b3b8f6ef042164dd7db910&smart=true&width=6000&height=4000",
+        "titulo": "Lista de códigos de Free Fire para 19 y 20 de septiembre de 2026",
+        "link": "https://www.infobae.com/tecno/2026/09/19/lista-de-codigos-de-free-fire-para-19-y-20-de-septiembre-de-2026/",
+        "imagen": "https://www.infobae.com/resizer/v2/7C46YZCZE5CEDFUPCGDTKMDES4.jpeg?auth=5de4961ca87e39a36864164c8b05572637dfc4562c06e0c180be6a002ad9529b&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 00:56:58 +0000"
+        "fecha": "Sat, 19 Sep 2026 01:53:15 +0000"
       },
       {
         "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
@@ -626,9 +626,9 @@
         "fecha": "Fri, 18 Sep 2026 11:08:35 GMT"
       },
       {
-        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
+        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
@@ -640,9 +640,9 @@
         "fecha": "Fri, 18 Sep 2026 03:01:00 GMT"
       },
       {
-        "titulo": "Cuánto cuesta llenar el tanque del Toyota Corolla Cross en septiembre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/09/18/cuanto-cuesta-llenar-el-tanque-del-toyota-corolla-cross-en-septiembre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/NBV2TEMMLBGD5M56DOXROUP7VE.jpg?auth=821e1b1330ec2e20004629eb85f3dcf0f0ce149bc47591e2a7a7d896d7ef248d",
+        "titulo": "Los precios de DS Automobiles en septiembre 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/09/18/los-precios-de-ds-automobiles-en-septiembre-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/YGXORUUG7FEP3HNEEX7K5NDGAA.jpg?auth=3c6c0927ed4b593006fdabf95f3db1b26f5da8c774a9d1f1a099a0e347b0abfc",
         "fuente": "TN Autos",
         "fecha": "2026-09-18T06:00:00-03:00"
       },
