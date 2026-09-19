@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T01:53:49.408483+00:00",
+  "actualizado": "2026-09-19T02:15:04.120810+00:00",
   "categorias": {
     "politica": [
       {
@@ -91,7 +91,7 @@
       {
         "titulo": "Los precios del comercio exterior ya superan a los de 2003-2012: ¿por qué la economía no aprovecha el \"viento de cola\"?",
         "link": "https://www.ambito.com/economia/los-precios-del-comercio-exterior-ya-superan-los-2003-2012-por-que-la-no-aprovecha-el-viento-cola-n6324093",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/e423fb35b51cafb789274bba855392fe/adjuntos/239/imagenes/043/446/0043446844/comercio-exterior-importaciones-exportaciones-contenedores-containers.jpg",
         "fuente": "Ámbito",
         "fecha": "Fri, 18 Sep 2026 21:57:00 -0300"
       },
@@ -126,7 +126,7 @@
       {
         "titulo": "Cómo recorrer Europa en tren con poco presupuesto",
         "link": "https://www.ambito.com/economia/como-recorrer-europa-tren-poco-presupuesto-n6323874",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/7c5a920acdddd9a458a96c9f60ce6717/adjuntos/239/imagenes/043/650/0043650706/1200x675/696x291:716x311/viajar.jpg",
         "fuente": "Ámbito",
         "fecha": "Fri, 18 Sep 2026 19:00:00 -0300"
       },
@@ -161,7 +161,7 @@
       {
         "titulo": "El BCRA confirmó un nuevo récord de la mora en las familias durante julio, mientras crece refinanciamiento de deudas",
         "link": "https://www.ambito.com/economia/el-bcra-confirmo-un-nuevo-record-la-mora-las-familias-julio-mientras-crece-refinanciamiento-deudas-n6323609",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/ca56082c14800e203db8789fce436e61/adjuntos/239/imagenes/043/578/0043578335/1200x675/582x742:602x762/creditos-anses-1500-x-1000.png",
         "fuente": "Ámbito",
         "fecha": "Fri, 18 Sep 2026 18:50:00 -0300"
       },
@@ -182,11 +182,11 @@
         "fecha": "Fri, 18 Sep 2026 21:17:00 -0300"
       },
       {
-        "titulo": "Vuelve el clásico más violento de Inglaterra: Millwall y West Ham se vuelven a enfrentar tras 14 años y hay riesgo de suspensión",
-        "link": "https://www.clarin.com/deportes/vuelve-clasico-violento-inglaterra-millwall-west-ham-vuelven-enfrentar-14-anos-riesgo-suspension_0_CD1iLbPGwE.html",
-        "imagen": "https://www.clarin.com/img/2026/03/14/y3AEiRraUG_1200x630__1.jpg",
+        "titulo": "Los puntajes de Clarín de la fecha 10 de la Liga Profesional de Fútbol",
+        "link": "https://www.clarin.com/deportes/puntajes-clarin-fecha-10-liga-profesional-futbol_0_FEzqmacMCp.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/dxoMGg02M_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 19 Sep 2026 01:01:01 +0000"
+        "fecha": "Sat, 19 Sep 2026 01:24:23 +0000"
       },
       {
         "titulo": "Juegos Suramericanos 2026: quién es Catalina Serio, la atleta de 16 años que ganó el oro y es furor",
@@ -196,18 +196,18 @@
         "fecha": "Fri, 18 Sep 2026 21:53:00 -0300"
       },
       {
-        "titulo": "En medio de la crisis, Racing le gana a Sarmiento de Junín por la fecha 10 del Torneo Clausura",
+        "titulo": "Racing venció 2-1 a Sarmiento de Junín y volvió a ganar después de ocho fechas en el Torneo Clausura",
         "link": "https://www.infobae.com/deportes/2026/09/18/racing-intentara-salir-de-su-crisis-ante-sarmiento-por-la-fecha-10-del-torneo-clausura-hora-tv-y-formaciones/",
         "imagen": "https://www.infobae.com/resizer/v2/ZBX5DSXXXJC2PPUKNRE2LFVMQI.JPG?auth=139b8b87c990860b55daf6e82054cbb22f33d49d90bc52642ed35e1877e894fa&smart=true&width=5286&height=2973",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 01:42:22 +0000"
+        "fecha": "Sat, 19 Sep 2026 02:12:37 +0000"
       },
       {
-        "titulo": "Atento Tigre: la racha negativa de Dabove ante Vélez",
-        "link": "https://www.ole.com.ar/tigre/tigre-diegodabove-velez-estadiojoseamalfitani-playoffs-felipezenobio-joaquinlaso-ignaciorusso-torneoclausura-guillermobarrosschelotto_0_jIUGN1EtQG.html",
-        "imagen": "https://www.ole.com.ar/images/2026/07/27/UTZp6ZJ5O_1200x630__1.jpg",
+        "titulo": "Independiente visita a Unión: los lesionados y el rompecabezas de Viera",
+        "link": "https://www.ole.com.ar/futbol-primera/independiente-union-equipo-rojo-palais-parmo_0_j8CJiKJcXE.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/03/St0XndRUx_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Fri, 18 Sep 2026 22:00:35 -0300"
+        "fecha": "Fri, 18 Sep 2026 20:57:55 -0300"
       },
       {
         "titulo": "Gimnasia recibe a Banfield y busca seguir con la racha: hora, formaciones y TV",
@@ -368,11 +368,11 @@
         "fecha": "Fri, 18 Sep 2026 22:47:36 +0000"
       },
       {
-        "titulo": "Bogotá-Cundinamarca busca dar el salto hacia nuevos mercados: empresas, inversión e IA estarán en el centro",
-        "link": "https://www.infobae.com/america/inhouse/2026/09/19/bogota-cundinamarca-busca-dar-el-salto-hacia-nuevos-mercados-empresas-inversion-e-ia-estaran-en-el-centro/",
-        "imagen": "https://www.infobae.com/resizer/v2/2VKLC6SEXNAD3LEST3WZGKXAFY.png?auth=2cc0dcbcc9749b94d180def1cd34bdbd8cdf25dfcab6dbf5a6e28bfdd126059b&smart=true&width=1200&height=700",
+        "titulo": "FFAA incautan 8,250 arbustos de presunta hoja de coca en Honduras",
+        "link": "https://www.infobae.com/honduras/2026/09/19/ffaa-incautan-8250-arbustos-de-presunta-hoja-de-coca-en-honduras/",
+        "imagen": "https://www.infobae.com/resizer/v2/BOHZNSDHMJGWFANEA3XCKO2TCM.jpeg?auth=51e71251cb718d2747d2d84a3c190ec06667b305214e848452f62dbef36bf225&smart=true&width=1280&height=720",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 01:24:22 +0000"
+        "fecha": "Sat, 19 Sep 2026 02:11:07 +0000"
       },
       {
         "titulo": "Donald Trump anunció un acuerdo para ampliar la presencia militar de EEUU en Groenlandia",
@@ -396,11 +396,11 @@
         "fecha": "Fri, 18 Sep 2026 22:29:10 +0000"
       },
       {
-        "titulo": "Arrestan a la historiadora Alina Bárbara López por exigir libertad para los presos políticos en Cuba",
-        "link": "https://www.infobae.com/cuba/2026/09/19/arrestan-a-la-historiadora-alina-barbara-lopez-por-exigir-libertad-para-los-presos-politicos-en-cuba/",
-        "imagen": "https://www.infobae.com/resizer/v2/GFXSOCLNS5C7HOG3TMFZZDN4GA.jpg?auth=4002c27c727f1583240d5dc1f6c860f1ea969c0b220f2f557032c9987a09ba9b&smart=true&width=790&height=450",
+        "titulo": "Capturaron en México a alias “El Muerto”, uno de los 100 más buscados de El Salvador",
+        "link": "https://www.infobae.com/el-salvador/2026/09/19/capturaron-en-mexico-a-alias-el-muerto-uno-de-los-100-mas-buscados-de-el-salvador/",
+        "imagen": "https://www.infobae.com/resizer/v2/5U4KY42V5NAZ3OGUB2ROLHKLXM.jpg?auth=9e984cf58166232fe5277aaec087e3ed100755c5f410488970bee39e8cd48494&smart=true&width=790&height=450",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 01:23:10 +0000"
+        "fecha": "Sat, 19 Sep 2026 02:10:27 +0000"
       },
       {
         "titulo": "EEUU: Uber deberá pagar u$s40 millones por la muerte de una pasajera abandonada en una autopista",
@@ -424,11 +424,11 @@
         "fecha": "Fri, 18 Sep 2026 22:24:33 +0000"
       },
       {
-        "titulo": "El Consejo de Transporte Público de Costa Rica no renueva el permiso de Transnica para la ruta Managua-San José",
-        "link": "https://www.infobae.com/nicaragua/2026/09/19/el-consejo-de-transporte-publico-de-costa-rica-no-renueva-el-permiso-de-transnica-para-la-ruta-managua-san-jose/",
-        "imagen": "https://www.infobae.com/resizer/v2/MHCILMEK75EZ3FPGWHLMQJN65A.jpg?auth=be7f2c91ad1bbc71377114f22dad94200a066c7882e8bc46473b509af33f4cf2&smart=true&width=1280&height=720",
+        "titulo": "Bogotá-Cundinamarca busca dar el salto hacia nuevos mercados: empresas, inversión e IA estarán en el centro",
+        "link": "https://www.infobae.com/america/inhouse/2026/09/19/bogota-cundinamarca-busca-dar-el-salto-hacia-nuevos-mercados-empresas-inversion-e-ia-estaran-en-el-centro/",
+        "imagen": "https://www.infobae.com/resizer/v2/2VKLC6SEXNAD3LEST3WZGKXAFY.png?auth=2cc0dcbcc9749b94d180def1cd34bdbd8cdf25dfcab6dbf5a6e28bfdd126059b&smart=true&width=1200&height=700",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 01:03:57 +0000"
+        "fecha": "Sat, 19 Sep 2026 01:24:22 +0000"
       }
     ],
     "espectaculos": [
@@ -454,11 +454,11 @@
         "fecha": "Fri, 18 Sep 2026 19:35:52 +0000"
       },
       {
-        "titulo": "Nora Colosimo volvió a apuntar contra la China Suárez: “Copió e imitó a Wanda, como mamá me preocupé”",
-        "link": "https://www.infobae.com/teleshow/2026/09/19/nora-colosimo-volvio-a-apuntar-contra-la-china-suarez-copio-e-imito-a-wanda-como-mama-me-preocupe/",
-        "imagen": "https://www.infobae.com/resizer/v2/PXWRV3TIFNEVNIGLXPCWXTGEXI.png?auth=5a7ff8090ff0fd0ce9ffa13328e0c9a309a6325aa8c3289ca4a98d009c9d80ae&smart=true&width=2752&height=1536",
+        "titulo": "Murió Eugenio Zanetti: la figura del teatro, la ópera y el cine que llevó su arte a Hollywood",
+        "link": "https://www.infobae.com/teleshow/2026/09/19/murio-eugenio-zanetti-figura-del-teatro-y-la-opera-que-llevo-su-arte-a-hollywood/",
+        "imagen": "https://www.infobae.com/resizer/v2/EZFA37RORJEODPJEUSKTR2AGQM.jpg?auth=02217a574d8e1ee4caffb3161b90f08f77990959d696588cc8fa40a7823f6a0f&smart=true&width=911&height=513",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 01:46:07 +0000"
+        "fecha": "Sat, 19 Sep 2026 02:07:42 +0000"
       },
       {
         "titulo": "The Pitt: por qué la comunidad médica considera este drama como el más realista de la televisión",
@@ -482,11 +482,11 @@
         "fecha": "Fri, 18 Sep 2026 18:43:55 +0000"
       },
       {
-        "titulo": "Axel criticó la falta de humildad de las nuevas generaciones de artistas: \"Salen de las redes y creen que son famosos\"",
-        "link": "https://www.infobae.com/teleshow/2026/09/19/axel-critico-la-falta-de-humildad-de-las-nuevas-generaciones-de-artistas-salen-de-las-redes-y-creen-que-son-famosos/",
-        "imagen": "https://www.infobae.com/resizer/v2/YORNFEFA25AXRD4D6MPRYG52OI.jpg?auth=adce8972fa8621b5a4cdc83e216d73f2b0cc46ff01fd6a3462b496a1c237224b&smart=true&width=1920&height=1080",
+        "titulo": "Nora Colosimo volvió a apuntar contra la China Suárez: “Copió e imitó a Wanda, como mamá me preocupé”",
+        "link": "https://www.infobae.com/teleshow/2026/09/19/nora-colosimo-volvio-a-apuntar-contra-la-china-suarez-copio-e-imito-a-wanda-como-mama-me-preocupe/",
+        "imagen": "https://www.infobae.com/resizer/v2/PXWRV3TIFNEVNIGLXPCWXTGEXI.png?auth=5a7ff8090ff0fd0ce9ffa13328e0c9a309a6325aa8c3289ca4a98d009c9d80ae&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Sat, 19 Sep 2026 00:11:30 +0000"
+        "fecha": "Sat, 19 Sep 2026 01:46:07 +0000"
       },
       {
         "titulo": "Mirtha Legrand fue internada nuevamente a días de recibir el alta",
@@ -510,11 +510,11 @@
         "fecha": "Fri, 18 Sep 2026 17:53:01 +0000"
       },
       {
-        "titulo": "El paseo de la China Suárez y Mauro Icardi tras las críticas: radios vintage, cuadros antiguos y look militar",
-        "link": "https://www.infobae.com/teleshow/2026/09/18/el-paseo-de-la-china-suarez-y-mauro-icardi-tras-las-criticas-radios-vintage-cuadros-antiguos-y-look-militar/",
-        "imagen": "https://www.infobae.com/resizer/v2/H4IZOEFGJJE6FMZYSHZ4PA6DLQ.png?auth=5fa4055967bdca430a56caa312359b116cdd929b68dd4f25f01da7880aa01406&smart=true&width=1920&height=1080",
+        "titulo": "Axel criticó la falta de humildad de las nuevas generaciones de artistas: \"Salen de las redes y creen que son famosos\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/19/axel-critico-la-falta-de-humildad-de-las-nuevas-generaciones-de-artistas-salen-de-las-redes-y-creen-que-son-famosos/",
+        "imagen": "https://www.infobae.com/resizer/v2/YORNFEFA25AXRD4D6MPRYG52OI.jpg?auth=adce8972fa8621b5a4cdc83e216d73f2b0cc46ff01fd6a3462b496a1c237224b&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 18 Sep 2026 23:20:16 +0000"
+        "fecha": "Sat, 19 Sep 2026 00:11:30 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Thu, 17 Sep 2026 20:58:00 -0300"
       },
       {
-        "titulo": "Antes de comprar un iPhone 18 Pro o iPhone 18 Pro Max, revisa estas diferencias clave",
-        "link": "https://www.infobae.com/tecno/2026/09/19/antes-de-comprar-un-iphone-18-pro-o-iphone-18-pro-max-revisa-estas-diferencias-clave/",
-        "imagen": "https://www.infobae.com/resizer/v2/64S23V4RKBHRZHOG3PBKY2V47A.JPG?auth=e26ce257cafa779e5b22d289e7419790e39bd8c2b9b3b8f6ef042164dd7db910&smart=true&width=6000&height=4000",
+        "titulo": "Lista de códigos de Free Fire para 19 y 20 de septiembre de 2026",
+        "link": "https://www.infobae.com/tecno/2026/09/19/lista-de-codigos-de-free-fire-para-19-y-20-de-septiembre-de-2026/",
+        "imagen": "https://www.infobae.com/resizer/v2/7C46YZCZE5CEDFUPCGDTKMDES4.jpeg?auth=5de4961ca87e39a36864164c8b05572637dfc4562c06e0c180be6a002ad9529b&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 00:56:58 +0000"
+        "fecha": "Sat, 19 Sep 2026 01:53:15 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -545,13 +545,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
-      },
-      {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
@@ -568,11 +561,11 @@
         "fecha": "Thu, 17 Sep 2026 20:43:00 -0300"
       },
       {
-        "titulo": "Así es el HONOR Robot Phone: un celular que mueve su cámara para seguirte y grabar como un profesional",
-        "link": "https://www.infobae.com/tecno/2026/09/19/asi-es-el-honor-robot-phone-un-celular-que-mueve-su-camara-para-seguirte-y-grabar-como-un-profesional/",
-        "imagen": "https://www.infobae.com/resizer/v2/ERBVUDNK75AMHL2Y3E6TXP5XR4.png?auth=35198f634f949841691dfdfc5883abfb1e2aa88219665dd9780e58e39cc7fd8d&smart=true&width=1200&height=700",
+        "titulo": "Antes de comprar un iPhone 18 Pro o iPhone 18 Pro Max, revisa estas diferencias clave",
+        "link": "https://www.infobae.com/tecno/2026/09/19/antes-de-comprar-un-iphone-18-pro-o-iphone-18-pro-max-revisa-estas-diferencias-clave/",
+        "imagen": "https://www.infobae.com/resizer/v2/64S23V4RKBHRZHOG3PBKY2V47A.JPG?auth=e26ce257cafa779e5b22d289e7419790e39bd8c2b9b3b8f6ef042164dd7db910&smart=true&width=6000&height=4000",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 19 Sep 2026 00:52:13 +0000"
+        "fecha": "Sat, 19 Sep 2026 00:56:58 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -580,13 +573,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
-      },
-      {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "Así es el HONOR Robot Phone: un celular que mueve su cámara para seguirte y grabar como un profesional",
+        "link": "https://www.infobae.com/tecno/2026/09/19/asi-es-el-honor-robot-phone-un-celular-que-mueve-su-camara-para-seguirte-y-grabar-como-un-profesional/",
+        "imagen": "https://www.infobae.com/resizer/v2/ERBVUDNK75AMHL2Y3E6TXP5XR4.png?auth=35198f634f949841691dfdfc5883abfb1e2aa88219665dd9780e58e39cc7fd8d&smart=true&width=1200&height=700",
+        "fuente": "Infobae Tecno",
+        "fecha": "Sat, 19 Sep 2026 00:52:13 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
