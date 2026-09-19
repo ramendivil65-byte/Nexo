@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T07:29:52.845117+00:00",
+  "actualizado": "2026-09-19T07:44:15.285670+00:00",
   "categorias": {
     "politica": [
       {
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/c8b71e3bcafbee68c5de164a627aee1f/adjuntos/326/imagenes/000/399/0000399410/1200x675/smart/aeropuerto-viajes.JPG",
         "fuente": "C5N",
         "fecha": "Thu, 17 Sep 2026 19:31:00 -0300"
+      },
+      {
+        "titulo": "Mentor de Steam: así se pueden encontrar más de 100 juegos gratis",
+        "link": "https://www.infobae.com/tecno/2026/09/19/mentor-de-steam-asi-se-pueden-encontrar-mas-de-100-juegos-gratis/",
+        "imagen": "https://www.infobae.com/resizer/v2/6TP3YYQLKVBIJOGDBLBNFVZ2G4.jpg?auth=0b888b2e1bc385463bce216e2894929b3510f873368ccf8ef0c747af873ef5a4&smart=true&width=1920&height=1080",
+        "fuente": "Infobae Tecno",
+        "fecha": "Sat, 19 Sep 2026 02:14:31 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
