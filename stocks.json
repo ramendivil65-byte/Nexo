@@ -1,32 +1,32 @@
 {
-  "actualizado": "2026-09-21T12:06:16.493964+00:00",
+  "actualizado": "2026-09-21T15:05:14.690196+00:00",
   "merval": {
     "subas": [
       {
-        "simbolo": "YPF",
-        "porcentaje": 0.88105644
+        "simbolo": "SUPV",
+        "porcentaje": 0.31094575
       }
     ],
     "bajas": [
       {
-        "simbolo": "SUPV",
-        "porcentaje": -4.057281
+        "simbolo": "YPF",
+        "porcentaje": -2.76565
       },
       {
-        "simbolo": "BBAR",
-        "porcentaje": -2.5974
+        "simbolo": "TX",
+        "porcentaje": -1.45029
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": -0.94044065
       },
       {
         "simbolo": "PAM",
-        "porcentaje": -2.35871
-      },
-      {
-        "simbolo": "BMA",
-        "porcentaje": -2.22743
+        "porcentaje": -0.91968488
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": -2.017833
+        "porcentaje": -0.45497684
       }
     ]
   },
@@ -34,37 +34,37 @@
     "subas": [
       {
         "simbolo": "NVDA",
-        "porcentaje": 1.33583
+        "porcentaje": 1.3632
       },
       {
         "simbolo": "CAT",
-        "porcentaje": 1.30483
-      },
-      {
-        "simbolo": "KO",
-        "porcentaje": 0.21576476
+        "porcentaje": 1.18543
       },
       {
         "simbolo": "JPM",
-        "porcentaje": 0.10306486
+        "porcentaje": 0.45757043
+      },
+      {
+        "simbolo": "AAPL",
+        "porcentaje": 0.25287689
       }
     ],
     "bajas": [
       {
         "simbolo": "HD",
-        "porcentaje": -0.83633556
+        "porcentaje": -0.9400663
       },
       {
-        "simbolo": "MSFT",
-        "porcentaje": -0.7975894
-      },
-      {
-        "simbolo": "AAPL",
-        "porcentaje": -0.25815879
+        "simbolo": "KO",
+        "porcentaje": -0.48725212
       },
       {
         "simbolo": "MCD",
-        "porcentaje": -0.096583322
+        "porcentaje": -0.32629934
+      },
+      {
+        "simbolo": "MSFT",
+        "porcentaje": -0.1093602
       }
     ]
   }
