@@ -1,13 +1,55 @@
 {
-  "actualizado": "2026-09-21T14:57:43.666405+00:00",
+  "actualizado": "2026-09-21T15:17:16.812419+00:00",
   "categorias": {
     "politica": [
       {
         "titulo": "Pablo Quirno aclaró qué pasará con la Marcha del Orgullo 2026 previa a la visita del papa León XIV a la Argentina",
         "link": "https://www.ambito.com/politica/pablo-quirno-aclaro-que-pasara-la-marcha-del-orgullo-2026-previa-la-visita-del-papa-leon-xiv-la-argentina-n6324756",
-        "imagen": "https://media.ambito.com/p/93e8654214850aef2a4acea4290fe4be/adjuntos/239/imagenes/043/654/0043654870/1200x675/1804x619:1824x639/pablo-quirno.jpeg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Mon, 21 Sep 2026 11:48:21 -0300"
+      },
+      {
+        "titulo": "Una nueva encuesta midió a 26 políticos: a todos les fue entre mal y muy mal (y ganó Bullrich)",
+        "link": "https://www.clarin.com/politica/nueva-encuesta-midio-26-politicos-mal-mal-gano-bullrich_0_NTQcfbzFVx.html",
+        "imagen": "https://www.clarin.com/img/2025/09/24/geSfM6Rgt_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 21 Sep 2026 14:28:22 +0000"
+      },
+      {
+        "titulo": "Alerta en Japón por una invasión de osos: uno cayó al mar desde un barco y otro fue atropellado por un tren",
+        "link": "https://www.ambito.com/mundo/alerta-japon-una-invasion-osos-uno-cayo-al-mar-un-barco-y-otro-fue-atropellado-un-tren-n6324734",
+        "imagen": "https://media.ambito.com/p/5c8e6c5392ed229e97b807cc0d024b32/adjuntos/239/imagenes/043/654/0043654774/1200x675/smart/osos-japon.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Mon, 21 Sep 2026 11:56:00 -0300"
+      },
+      {
+        "titulo": "El Gobierno prepara \"el operativo de seguridad más grande de la historia\" para recibir al Papa en Argentina",
+        "link": "https://www.c5n.com/politica/el-gobierno-prepara-el-operativo-seguridad-mas-grande-la-historia-recibir-al-papa-argentina-n249465",
+        "imagen": "https://media.c5n.com/p/2d40c73ad179a6970675b2e980588e80/adjuntos/326/imagenes/000/399/0000399760/1200x675/smart/monteoliva.jpeg",
+        "fuente": "C5N",
+        "fecha": "Mon, 21 Sep 2026 11:02:00 -0300"
+      },
+      {
+        "titulo": "El Gobierno prepara el operativo de seguridad “más grande de la historia” para la visita del Papa: qué pasará con los feriados y con la Marcha del Orgullo",
+        "link": "https://www.infobae.com/politica/2026/09/21/el-gobierno-prepara-el-operativo-de-seguridad-mas-grande-de-la-historia-para-la-visita-del-papa-que-pasara-con-los-feriados-y-con-la-marcha-del-orgullo/",
+        "imagen": "https://www.infobae.com/resizer/v2/5TW52HNR7RFPZD4IXQQTT3TIDQ.jpg?auth=f9953576ebd1f570836d1ca1590112d064fce46c3a6c85186283adc976777b74&smart=true&width=7381&height=4921",
+        "fuente": "Infobae",
+        "fecha": "Mon, 21 Sep 2026 15:11:12 +0000"
+      },
+      {
+        "titulo": "Experto en Bitcoin: Adorni justificó su patrimonio ante la Justicia asegurando que tenía 600 mil dólares en criptomonedas",
+        "link": "https://www.tiempoar.com.ar/ta_article/experto-en-bitcoin-adorni-justifico-su-patrimonio-ante-la-justicia-asegurando-que-tenia-600-mil-dolares-en-criptomonedas/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 21 Sep 2026 15:03:40 +0000"
+      },
+      {
+        "titulo": "El Gobierno espera que se movilicen 7 millones de personas por la visita de León XIV a la Argentina y definirá si decreta feriado",
+        "link": "https://www.ambito.com/politica/alejandra-monteoliva-esperamos-que-se-movilicen-7-millones-personas-la-visita-leon-xiv-n6324710",
+        "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Mon, 21 Sep 2026 10:35:00 -0300"
       },
       {
         "titulo": "En modo candidato, Axel Kicillof convocó a los sectores \"agredidos por esta política\" para hacerle frente a Milei en 2027",
@@ -24,11 +66,11 @@
         "fecha": "Mon, 21 Sep 2026 11:48:00 -0300"
       },
       {
-        "titulo": "El Gobierno prepara \"el operativo de seguridad más grande de la historia\" para recibir al Papa en Argentina",
-        "link": "https://www.c5n.com/politica/el-gobierno-prepara-el-operativo-seguridad-mas-grande-la-historia-recibir-al-papa-argentina-n249465",
-        "imagen": "https://media.c5n.com/p/2d40c73ad179a6970675b2e980588e80/adjuntos/326/imagenes/000/399/0000399760/1200x675/smart/monteoliva.jpeg",
+        "titulo": "De cara a 2027, Axel Kicillof advirtió que \"la reconstrucción de una alternativa tiene que ser amplia\"",
+        "link": "https://www.c5n.com/politica/de-cara-2027-axel-kicillof-advirtio-que-la-reconstruccion-una-alternativa-tiene-que-ser-amplia-n249459",
+        "imagen": "https://media.c5n.com/p/6e70b2647653c9c223699934fd5ffe0f/adjuntos/326/imagenes/000/399/0000399631/1200x675/smart/axel-kicillof-o.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 11:02:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 10:24:00 -0300"
       },
       {
         "titulo": "Milei viaja a New York para ratificar su compromiso con Malvinas, profundizar la relación con EEUU y defender el programa de ajuste",
@@ -43,48 +85,6 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Mon, 21 Sep 2026 13:35:33 +0000"
-      },
-      {
-        "titulo": "El Gobierno espera que se movilicen 7 millones de personas por la visita de León XIV a la Argentina y definirá si decreta feriado",
-        "link": "https://www.ambito.com/politica/alejandra-monteoliva-esperamos-que-se-movilicen-7-millones-personas-la-visita-leon-xiv-n6324710",
-        "imagen": "https://media.ambito.com/p/9e8803f8154c90051dbeb7d22a7ac2c9/adjuntos/239/imagenes/043/654/0043654875/1200x675/2217x1037:2237x1057/pablo-quirno.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 10:35:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno espera que 7 millones de personas se movilicen por la visita de León XIV y evalúa declarar asueto: \"Santo Padre, la Argentina lo espera\"",
-        "link": "https://www.clarin.com/politica/gobierno-brinda-detalles-visita-papa-leon-xiv-argentina_0_IqSVktohUW.html",
-        "imagen": "https://www.clarin.com/img/2026/09/16/DbIbeP_2q_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 12:56:56 +0000"
-      },
-      {
-        "titulo": "Revelan que EEUU deportó a más de 25.000 personas a terceros países mediante acuerdos secretos",
-        "link": "https://www.ambito.com/mundo/revelan-que-eeuu-deporto-mas-25000-personas-terceros-paises-acuerdos-secretos-n6324684",
-        "imagen": "https://media.ambito.com/p/9e7a6d0afc49aee7724b626bfe62985a/adjuntos/239/imagenes/041/044/0041044510/repatriacionjpg.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Mon, 21 Sep 2026 10:00:00 -0300"
-      },
-      {
-        "titulo": "De cara a 2027, Axel Kicillof advirtió que \"la reconstrucción de una alternativa tiene que ser amplia\"",
-        "link": "https://www.c5n.com/politica/de-cara-2027-axel-kicillof-advirtio-que-la-reconstruccion-una-alternativa-tiene-que-ser-amplia-n249459",
-        "imagen": "https://media.c5n.com/p/6e70b2647653c9c223699934fd5ffe0f/adjuntos/326/imagenes/000/399/0000399631/1200x675/smart/axel-kicillof-o.jpg",
-        "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 10:24:00 -0300"
-      },
-      {
-        "titulo": "Se lanzó Axel Kicillof para el 2027: “Estamos trabajando para ganarle a Milei”",
-        "link": "https://www.infobae.com/politica/2026/09/21/axel-kicillof-estamos-trabajando-para-ganarle-a-milei/",
-        "imagen": "https://www.infobae.com/resizer/v2/TZ476YJITREYFNK4ID4DZUWFY4.jpg?auth=ea39829b5c244c12a8ea97014765ab355dea656caa6f3bae2a9de0bbf124d389&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 13:45:15 +0000"
-      },
-      {
-        "titulo": "Conferencia de prensa del gobierno bonaerense",
-        "link": "https://www.tiempoar.com.ar/ta_article/conferencia-prensa-bonaerense-9/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 21 Sep 2026 12:27:29 +0000"
       }
     ],
     "economia": [
@@ -110,11 +110,11 @@
         "fecha": "Mon, 21 Sep 2026 10:33:00 -0300"
       },
       {
-        "titulo": "Galperin íntimo: habló de sus inicios, su pasión por el rugby y por qué Mercado Libre no fue tan grande como esperaba",
-        "link": "https://www.infobae.com/economia/2026/09/21/galperin-intimo-hablo-de-sus-inicios-su-pasion-por-el-rugby-y-por-que-mercado-libre-no-fue-tan-grande-como-esperaba/",
-        "imagen": "https://www.infobae.com/resizer/v2/6ZL6ZINZBJAGDEQR6XINOLGFDU.jpg?auth=1e4c869f5d389a8b03bf0a005537038d345bcaff6ae05ca0f4b6f64b9b7a7ff2&smart=true&width=1920&height=1080",
+        "titulo": "La morosidad de las familias llegó al 12,9% y los menores de 35 años concentran la mayor cantidad de deudores",
+        "link": "https://www.infobae.com/economia/2026/09/21/la-morosidad-de-las-familias-llego-al-129-y-los-menores-de-35-anos-concentran-la-mayor-cantidad-de-deudores/",
+        "imagen": "https://www.infobae.com/resizer/v2/TA3VCAQN6ZDUZJ5OM6FTI3HKD4.png?auth=3f624f2d0ecc8432dd26961f9c33d4ba56ed3cda112f1a47821d12cee33aad60&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 14:49:03 +0000"
+        "fecha": "Mon, 21 Sep 2026 15:08:22 +0000"
       },
       {
         "titulo": "Granja Tres Arroyos: la empresa ofrece pagar parte de los salarios con pollos en medio de los 1200 despidos",
@@ -145,11 +145,11 @@
         "fecha": "Mon, 21 Sep 2026 09:17:00 -0300"
       },
       {
-        "titulo": "“No cumple con los criterios mínimos de razonabilidad y transparencia”: diputados de UP se quejaron ante el FMI por Presupuesto 2007",
-        "link": "https://www.infobae.com/economia/2026/09/21/no-cumple-con-los-criterios-minimos-de-razonabilidad-y-transparencia-diputados-de-up-se-quejaron-ante-el-fmi-por-presupuesto-2007/",
-        "imagen": "https://www.infobae.com/resizer/v2/XW5F3OIXKZFVJAC5LRNA5LIKAM.jpg?auth=3ba6ee8eaad39c331172d647c94c5da21e395a43483da1b2f9913ca993bd4719&smart=true&width=3000&height=2000",
+        "titulo": "Galperin íntimo: habló de sus inicios, su pasión por el rugby y por qué Mercado Libre no fue tan grande como esperaba",
+        "link": "https://www.infobae.com/economia/2026/09/21/galperin-intimo-hablo-de-sus-inicios-su-pasion-por-el-rugby-y-por-que-mercado-libre-no-fue-tan-grande-como-esperaba/",
+        "imagen": "https://www.infobae.com/resizer/v2/6ZL6ZINZBJAGDEQR6XINOLGFDU.jpg?auth=1e4c869f5d389a8b03bf0a005537038d345bcaff6ae05ca0f4b6f64b9b7a7ff2&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 14:17:00 +0000"
+        "fecha": "Mon, 21 Sep 2026 14:49:03 +0000"
       },
       {
         "titulo": "La recesión no perdona a las librerías: desplome de ventas y reclamo urgente de emergencia nacional",
@@ -175,11 +175,11 @@
     ],
     "deportes": [
       {
-        "titulo": "Las cargadas de Boca a San Lorenzo en las redes sociales por el triunfo en el clásico",
-        "link": "https://www.ambito.com/deportes/las-cargadas-boca-san-lorenzo-las-redes-sociales-el-triunfo-el-clasico-n6324724",
-        "imagen": "https://media.ambito.com/p/f12ac946b7aede36cf70af7726320593/adjuntos/239/imagenes/043/654/0043654743/boca-festejo.png",
+        "titulo": "A lo Terminator: un robot enfrentó a un humano en una pelea oficial por primera vez",
+        "link": "https://www.ambito.com/deportes/a-lo-terminator-un-robot-enfrento-un-humano-una-pelea-oficial-primera-vez-n6324751",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 11:15:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 11:57:00 -0300"
       },
       {
         "titulo": "Nico Tagliafico se sumó a la Selección pero insistió en cerrar su ciclo tras la despedida de Lionel Messi: \"Es mi etapa final\"",
@@ -210,11 +210,11 @@
         "fecha": "Mon, 21 Sep 2026 11:29:08 -0300"
       },
       {
-        "titulo": "Confirmaron días y horarios para las semifinales de Estudiantes - Flamengo por Copa Libertadores",
+        "titulo": "CONMEBOL confirmó días y horarios para Estudiantes - Flamengo por Copa Libertadores",
         "link": "https://www.eldia.com/deportes/confirmaron-dias-y-horarios-para-las-semifinales-de-estudiantes-flamengo-por-copa-libertadores-deportes_1790001420",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Mon, 21 Sep 2026 14:49:57 GMT"
+        "fecha": "Mon, 21 Sep 2026 14:55:52 GMT"
       },
       {
         "titulo": "El DT de Argentinos estalló por el arbitraje contra Rosario Central: \"Nos robaron\"",
@@ -235,14 +235,14 @@
         "link": "https://www.0221.com.ar/estudiantes/cuando-juega-estudiantes-la-copa-libertadores-2026-n125366",
         "imagen": "https://media.0221.com.ar/p/45c9a7fa9b1a50b85dcd243ada72d55b/adjuntos/357/imagenes/100/296/0100296275/1200x630/1009x228:1029x248/estudiantes-corinthians-festejo-rodriguez-cetre.jpg",
         "fuente": "0221 Deportes",
-        "fecha": "Mon, 21 Sep 2026 11:44:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 11:52:00 -0300"
       },
       {
         "titulo": "El motivo por el que Rosario Central pierde a dos figuras para la Supercopa Internacional ante Estudiantes",
         "link": "https://www.0221.com.ar/estudiantes/el-motivo-el-que-rosario-central-pierde-dos-figuras-la-supercopa-internacional-estudiantes-n134526",
         "imagen": "https://media.0221.com.ar/p/04d1116cc8c4565bc727801cf1f71ba1/adjuntos/357/imagenes/100/296/0100296699/1200x630/1108x480:1128x500/formacion-rosario-central.png",
         "fuente": "0221 Deportes",
-        "fecha": "Mon, 21 Sep 2026 11:31:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 11:35:00 -0300"
       },
       {
         "titulo": "Agustín Auzmendi está intratable y sostiene a Gimnasia en plena pelea",
@@ -252,11 +252,11 @@
         "fecha": "Mon, 21 Sep 2026 10:27:00 -0300"
       },
       {
-        "titulo": "Copa Davis: Argentina le ganó a Turquía y mantuvo la permanencia en el Grupo Mundial",
-        "link": "https://www.ambito.com/deportes/copa-davis-argentina-le-gano-turquia-y-mantuvo-la-permanencia-el-grupo-mundial-n6324689",
-        "imagen": "https://media.ambito.com/p/8b6d736e199096505e4a254d2ea9663c/adjuntos/239/imagenes/043/654/0043654555/copa-davis-argentina.png",
+        "titulo": "Las cargadas de Boca a San Lorenzo en las redes sociales por el triunfo en el clásico",
+        "link": "https://www.ambito.com/deportes/las-cargadas-boca-san-lorenzo-las-redes-sociales-el-triunfo-el-clasico-n6324724",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 10:15:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 11:15:00 -0300"
       }
     ],
     "policiales_actualidad": [
@@ -289,8 +289,8 @@
         "fecha": "Mon, 21 Sep 2026 09:00:57 +0000"
       },
       {
-        "titulo": "Asesinaron a un hombre en una plaza de Colegiales: hay un hombre detenido",
-        "link": "https://www.c5n.com/sociedad/asesinaron-un-hombre-una-plaza-colegiales-hay-un-hombre-detenido-n249461",
+        "titulo": "Asesinaron a un profesor de boxeo en una plaza de Colegiales: hay un detenido",
+        "link": "https://www.c5n.com/sociedad/asesinaron-un-profesor-boxeo-una-plaza-colegiales-hay-un-detenido-n249461",
         "imagen": "https://media.c5n.com/p/c52c38b357c6639aae5689540407bc23/adjuntos/326/videos/000/399/0000399753/1200x675/smart/asesinaron-un-hombre-una-plaza-colegiales-hay-un-hombre.jpg",
         "fuente": "C5N",
         "fecha": "Mon, 21 Sep 2026 09:51:00 -0300"
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Los drones de Amazon saturan los cielos de Texas y provocan quejas entre los vecinos",
-        "link": "https://www.ambito.com/mundo/los-drones-amazon-saturan-los-cielos-texas-y-provocan-quejas-los-vecinos-n6324753",
-        "imagen": "https://media.ambito.com/p/79634705c89482e0f9b5bab6c17ed9ad/adjuntos/239/imagenes/043/654/0043654868/amazon-drones.jpg",
+        "titulo": "Alerta en Japón por una invasión de osos: uno cayó al mar desde un barco y otro fue atropellado por un tren",
+        "link": "https://www.ambito.com/mundo/alerta-japon-una-invasion-osos-uno-cayo-al-mar-un-barco-y-otro-fue-atropellado-un-tren-n6324734",
+        "imagen": "https://media.ambito.com/p/5c8e6c5392ed229e97b807cc0d024b32/adjuntos/239/imagenes/043/654/0043654774/1200x675/smart/osos-japon.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 11:48:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 11:56:00 -0300"
       },
       {
         "titulo": "Impactante video: un carguero chocó contra un pesquero chino en el estrecho de Singapur",
@@ -368,18 +368,18 @@
         "fecha": "Mon, 21 Sep 2026 14:07:42 +0000"
       },
       {
-        "titulo": "Costa Rica convocó a 30 jugadores para la Liga de Naciones de la Concacaf",
-        "link": "https://www.infobae.com/costa-rica/2026/09/21/costa-rica-convoco-a-30-jugadores-para-la-liga-de-naciones-de-la-concacaf/",
-        "imagen": "https://www.infobae.com/resizer/v2/FU4PXDSH5BHQNFV6K2YSCD57LA.jpg?auth=e8306775a7ee09444ff9b426c7dccc3b83af8c2fcc7f887f416774c3b4f766f0&smart=true&width=3046&height=2031",
+        "titulo": "El expresidente boliviano Gonzalo Sánchez de Lozada hace un llamado a la unidad de su partido",
+        "link": "https://www.infobae.com/america/america-latina/2026/09/21/el-expresidente-boliviano-gonzalo-sanchez-de-lozada-hace-un-llamado-a-la-unidad-de-su-partido/",
+        "imagen": "https://www.infobae.com/resizer/v2/QIVELPGBNBEXVMDTNACUHKYNXA.jpg?auth=c4b9c3648936f68c0c73c21e97af46f0a894a952e7052e5278be0d603e092118&smart=true&width=2048&height=1353",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 14:24:13 +0000"
+        "fecha": "Mon, 21 Sep 2026 14:59:55 +0000"
       },
       {
-        "titulo": "Revelan que EEUU deportó a más de 25.000 personas a terceros países mediante acuerdos secretos",
-        "link": "https://www.ambito.com/mundo/revelan-que-eeuu-deporto-mas-25000-personas-terceros-paises-acuerdos-secretos-n6324684",
-        "imagen": "https://media.ambito.com/p/9e7a6d0afc49aee7724b626bfe62985a/adjuntos/239/imagenes/041/044/0041044510/repatriacionjpg.jpg",
+        "titulo": "Los drones de Amazon saturan los cielos de Texas y provocan quejas entre los vecinos",
+        "link": "https://www.ambito.com/mundo/los-drones-amazon-saturan-los-cielos-texas-y-provocan-quejas-los-vecinos-n6324753",
+        "imagen": "https://media.ambito.com/p/79634705c89482e0f9b5bab6c17ed9ad/adjuntos/239/imagenes/043/654/0043654868/amazon-drones.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 10:00:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 11:48:00 -0300"
       },
       {
         "titulo": "Inundaciones en Nepal: ya hay más de 1.400 muertos, 5.700 desaparecidos y siguen las tareas de rescate",
@@ -396,18 +396,18 @@
         "fecha": "Mon, 21 Sep 2026 13:26:54 +0000"
       },
       {
-        "titulo": "Operativos contra el microtráfico dejaron más de 30 detenidos y más de dos kilos de drogas en cuatro provincias de República Dominicana",
-        "link": "https://www.infobae.com/republica-dominicana/2026/09/21/operativos-contra-el-microtrafico-dejaron-mas-de-30-detenidos-y-mas-de-dos-kilos-de-drogas-en-cuatro-provincias-de-republica-dominicana/",
-        "imagen": "https://www.infobae.com/resizer/v2/DNWHGAZHMBAXXKQI2Z2UVMZJ5E.png?auth=4c25ee28bc0796f2246418b51d67fc504e5ba1686588254c502acdeb7d0c4a81&smart=true&width=1080&height=711",
+        "titulo": "Costa Rica convocó a 30 jugadores para la Liga de Naciones de la Concacaf",
+        "link": "https://www.infobae.com/costa-rica/2026/09/21/costa-rica-convoco-a-30-jugadores-para-la-liga-de-naciones-de-la-concacaf/",
+        "imagen": "https://www.infobae.com/resizer/v2/FU4PXDSH5BHQNFV6K2YSCD57LA.jpg?auth=e8306775a7ee09444ff9b426c7dccc3b83af8c2fcc7f887f416774c3b4f766f0&smart=true&width=3046&height=2031",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 14:21:18 +0000"
+        "fecha": "Mon, 21 Sep 2026 14:24:13 +0000"
       },
       {
-        "titulo": "Xi Jinping visitará EEUU en plena tensión con Donald Trump por aranceles e inteligencia artificial",
-        "link": "https://www.ambito.com/mundo/xi-jinping-visitara-eeuu-plena-tension-donald-trump-aranceles-e-inteligencia-artificial-n6324665",
-        "imagen": "https://media.ambito.com/p/c74aa72c4008bfcfd5364cca74c423d5/adjuntos/239/imagenes/029/723/0029723440/1200x675/smart/xi-jinping-y-trump-las-puertas-una-nueva-guerra-comercial.jpg",
+        "titulo": "Revelan que EEUU deportó a más de 25.000 personas a terceros países mediante acuerdos secretos",
+        "link": "https://www.ambito.com/mundo/revelan-que-eeuu-deporto-mas-25000-personas-terceros-paises-acuerdos-secretos-n6324684",
+        "imagen": "https://media.ambito.com/p/9e7a6d0afc49aee7724b626bfe62985a/adjuntos/239/imagenes/041/044/0041044510/repatriacionjpg.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 09:46:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 10:00:00 -0300"
       },
       {
         "titulo": "Descontrol en Ceuta: manifestantes destrozaron el auto de una diputada y quisieron linchar a sus ocupantes",
@@ -424,11 +424,11 @@
         "fecha": "Mon, 21 Sep 2026 13:10:11 +0000"
       },
       {
-        "titulo": "Por qué Centroamérica avanza en turismo internacional mucho más rápido que el resto de las Américas en 2026",
-        "link": "https://www.infobae.com/el-salvador/2026/09/21/por-que-centroamerica-avanza-en-turismo-internacional-mucho-mas-rapido-que-el-resto-de-las-americas-en-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/CZJ2DA6XKNHVHKKPYMLKNKM4ZQ.png?auth=a1d817b62ff0e391b5b66470a7d9a288e8e514d5c619fca0a3d4f62523cb1029&smart=true&width=1404&height=892",
+        "titulo": "Operativos contra el microtráfico dejaron más de 30 detenidos y más de dos kilos de drogas en cuatro provincias de República Dominicana",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/21/operativos-contra-el-microtrafico-dejaron-mas-de-30-detenidos-y-mas-de-dos-kilos-de-drogas-en-cuatro-provincias-de-republica-dominicana/",
+        "imagen": "https://www.infobae.com/resizer/v2/DNWHGAZHMBAXXKQI2Z2UVMZJ5E.png?auth=4c25ee28bc0796f2246418b51d67fc504e5ba1686588254c502acdeb7d0c4a81&smart=true&width=1080&height=711",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 14:18:19 +0000"
+        "fecha": "Mon, 21 Sep 2026 14:21:18 +0000"
       }
     ],
     "espectaculos": [
@@ -447,11 +447,11 @@
         "fecha": "Mon, 21 Sep 2026 11:43:00 -0300"
       },
       {
-        "titulo": "De Lali a Mercedes Morán, cómo fue el paso de los argentinos por San Sebastián, atravesado por la política y las Malvinas",
-        "link": "https://www.clarin.com/espectaculos/lali-mercedes-moran-paso-argentinos-san-sebastian-atravesado-politica-malvinas_0_QmiCWF9MqV.html",
-        "imagen": "https://www.clarin.com/img/2026/09/17/YKrgQiYte_1200x630__1.jpg",
+        "titulo": "La salud de Mirtha Legrand: el nuevo parte médico indica que seguirá internada al menos hasta el miércoles",
+        "link": "https://www.clarin.com/espectaculos/salud-mirtha-legrand-nuevo-parte-medico-indica-seguira-internada-miercoles_0_JdfMMiWOqI.html",
+        "imagen": "https://www.clarin.com/img/2026/05/07/jmZLhzTdQ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 14:06:12 +0000"
+        "fecha": "Mon, 21 Sep 2026 14:48:33 +0000"
       },
       {
         "titulo": "El periodista Santiago Martella contó por primera vez el problema de salud que vivió: “Esta era mi realidad”",
@@ -475,11 +475,11 @@
         "fecha": "Mon, 21 Sep 2026 11:29:00 -0300"
       },
       {
-        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este lunes 21 de septiembre de 2026 en Argentina",
-        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-lunes-21-de-septiembre-de-2026-en-argentina_0_q4Dbp6G0JT.html",
-        "imagen": "https://www.clarin.com/img/2022/08/12/j6gArTZPB_1200x630__1.jpg",
+        "titulo": "De Lali a Mercedes Morán, cómo fue el paso de los argentinos por San Sebastián, atravesado por la política y las Malvinas",
+        "link": "https://www.clarin.com/espectaculos/lali-mercedes-moran-paso-argentinos-san-sebastian-atravesado-politica-malvinas_0_QmiCWF9MqV.html",
+        "imagen": "https://www.clarin.com/img/2026/09/17/YKrgQiYte_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 10:15:02 +0000"
+        "fecha": "Mon, 21 Sep 2026 14:06:12 +0000"
       },
       {
         "titulo": "Difundieron un nuevo parte médico sobre la salud de Mirtha Legrand",
@@ -503,11 +503,11 @@
         "fecha": "Mon, 21 Sep 2026 08:20:00 -0300"
       },
       {
-        "titulo": "Fabio Di Tomaso: su pasado como colectivero, su vida después de Floricienta, la relación “tóxica” con la actuación y el aprendizaje de ser padre",
-        "link": "https://www.clarin.com/espectaculos/fabio-di-tomaso-pasado-colectivero-vida-despues-floricienta-relacion-toxica-actuacion-aprendizaje-padre_0_s7O0tgbxXv.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/1vwF_i34B_1200x630__1.jpg",
+        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este lunes 21 de septiembre de 2026 en Argentina",
+        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-lunes-21-de-septiembre-de-2026-en-argentina_0_q4Dbp6G0JT.html",
+        "imagen": "https://www.clarin.com/img/2022/08/12/j6gArTZPB_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 09:00:56 +0000"
+        "fecha": "Mon, 21 Sep 2026 10:15:02 +0000"
       },
       {
         "titulo": "Benjamín Vicuña coincidió con la China Suárez y Mauro Icardi en el debut de Amancio: el primer encuentro público",
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/51914def7b32e26eb1052fa29a3f132e/adjuntos/326/imagenes/000/399/0000399705/1200x675/smart/samsung-vs-apple.jpg",
         "fuente": "C5N",
         "fecha": "Sun, 20 Sep 2026 15:03:00 -0300"
+      },
+      {
+        "titulo": "Expertos comparan el avance de la IA con el inicio de la pandemia del COVID-19: rl “febrero de 2020”",
+        "link": "https://www.infobae.com/tecno/2026/09/21/expertos-comparan-el-avance-de-la-ia-con-el-inicio-de-la-pandemia-del-covid-19-rl-febrero-de-2020/",
+        "imagen": "https://www.infobae.com/resizer/v2/SS67QMBPOFBLPNNBQVZDYB2Q3M.JPG?auth=6671b1b81f55cdf995403476c48be7a878ac3bba901c9bbc4b7dff18ee2159db&smart=true&width=6720&height=4480",
+        "fuente": "Infobae Tecno",
+        "fecha": "Mon, 21 Sep 2026 14:30:00 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -791,16 +791,16 @@
         "fecha": "Mon, 21 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "Los tres ejercicios de salto que Harvard recomienda para ganar fuerza, potencia y agilidad sin lesionarte",
-        "link": "https://www.infobae.com/salud/2026/09/21/los-tres-ejercicios-de-salto-que-harvard-recomienda-para-ganar-fuerza-potencia-y-agilidad-sin-lesionarte/",
-        "imagen": "https://www.infobae.com/resizer/v2/FG5447NSDJG7RN7FS3LIEMBGRE.jpg?auth=1860e694e954a049e2a0b78befb71a27b372837247edbf6519fb410a2f16dc08&smart=true&width=1920&height=1080",
+        "titulo": "La cúrcuma se asocia con posibles beneficios para la salud intestinal, según una nutricionista",
+        "link": "https://www.infobae.com/salud/2026/09/21/la-curcuma-se-asocia-con-posibles-beneficios-para-la-salud-intestinal-segun-una-nutricionista/",
+        "imagen": "https://www.infobae.com/resizer/v2/UP4MFIG2LBHPVLHALNC74DJPMM.png?auth=a307ba4a6c1731aa6683a276dbeb45c6379b13c0b0655dce978f47e043578ff2&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Mon, 21 Sep 2026 09:00:00 +0000"
       },
       {
-        "titulo": "¿Un reloj inteligente puede detectar señales de ansiedad? Qué dice la ciencia",
-        "link": "https://www.infobae.com/salud/2026/09/21/un-reloj-inteligente-puede-detectar-senales-de-ansiedad-que-dice-la-ciencia/",
-        "imagen": "https://www.infobae.com/resizer/v2/CSJEKIOJY5ARNODIKN4QG65NXI.png?auth=1fca4b1d37d06b9b9cc3a1c9a47c5d3f64b2bc316ca9915c4540599b827ff246&smart=true&width=2752&height=1536",
+        "titulo": "Dolor en el costado de la rodilla o la cadera: 7 estiramientos para aflojar la tensión",
+        "link": "https://www.infobae.com/salud/2026/09/21/siete-estiramientos-para-aliviar-el-dolor-de-rodilla-y-cadera-provocado-por-la-banda-iliotibial/",
+        "imagen": "https://www.infobae.com/resizer/v2/FTYM7ICPVVEARIIJBCV2XG4SKI.png?auth=77188a7a65f842d6fe99ec8de96945dd1c03e1cda74492334e6ceb0e413d1fed&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Mon, 21 Sep 2026 09:00:00 +0000"
       }
@@ -828,11 +828,11 @@
         "fecha": "Sun, 20 Sep 2026 07:50:00 -0300"
       },
       {
-        "titulo": "Qué dice el nuevo parte médico sobre la salud de Mirtha Legrand, que sigue internada",
-        "link": "https://www.eldia.com/espectaculos/la-salud-de-mirtha-legrand-que-dice-el-nuevo-parte-medico-de-este-lunes-21-de-septiembre-espectaculos_1790000820",
+        "titulo": "Suspendido el festejo del Día de la Primavera en La Plata por el alerta meteorológico",
+        "link": "https://www.eldia.com/la-ciudad/suspendido-el-festejo-del-dia-de-la-primavera-en-la-plata-por-el-alerta-meteorologico-la-ciudad_1790002500",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 14:34:30 GMT"
+        "fecha": "Mon, 21 Sep 2026 15:15:48 GMT"
       },
       {
         "titulo": "Melman's suma un nuevo local en La Plata y consolida su crecimiento",
@@ -856,11 +856,11 @@
         "fecha": "Sat, 19 Sep 2026 12:42:00 -0300"
       },
       {
-        "titulo": "Matan de un tiro a un preparador físico en plena madrugada en Colegiales: ¿quién era?",
-        "link": "https://www.eldia.com/policiales/matan-de-un-tiro-a-un-preparador-fisico-en-plena-madrugada-en-colegiales-quien-era-policiales_1790000100",
+        "titulo": "Qué dice el nuevo parte médico sobre la salud de Mirtha Legrand, que sigue internada",
+        "link": "https://www.eldia.com/espectaculos/la-salud-de-mirtha-legrand-que-dice-el-nuevo-parte-medico-de-este-lunes-21-de-septiembre-espectaculos_1790000820",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 14:20:15 GMT"
+        "fecha": "Mon, 21 Sep 2026 14:34:30 GMT"
       },
       {
         "titulo": "Se entregó la última de las imputadas por la causa de los loteos ilegales en La Plata",
@@ -884,11 +884,11 @@
         "fecha": "Sat, 19 Sep 2026 12:25:00 -0300"
       },
       {
-        "titulo": "Kicillof avanza con la candidatura: \"Tenemos la obligacion de terminar con esta pesadilla\"",
-        "link": "https://www.eldia.com/politica-y-economia/kicillof-avanza-con-la-idea-de-ser-candidato-a-presidente-tenemos-la-obligacion-de-terminar-con-esta-pesadilla-politica-y-economia_1789998060",
+        "titulo": "Matan de un tiro a un preparador físico en plena madrugada en Colegiales: ¿quién era?",
+        "link": "https://www.eldia.com/policiales/matan-de-un-tiro-a-un-preparador-fisico-en-plena-madrugada-en-colegiales-quien-era-policiales_1790000100",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 14:24:23 GMT"
+        "fecha": "Mon, 21 Sep 2026 14:20:15 GMT"
       }
     ]
   }
