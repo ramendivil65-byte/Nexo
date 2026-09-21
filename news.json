@@ -1,25 +1,25 @@
 {
-  "actualizado": "2026-09-21T12:21:24.739821+00:00",
+  "actualizado": "2026-09-21T12:44:56.811810+00:00",
   "categorias": {
     "politica": [
       {
         "titulo": "Manuel Adorni dio detalles de su patrimonio y atribuyó los dólares a la venta de Bitcoin",
         "link": "https://www.ambito.com/politica/manuel-adorni-presento-su-declaracion-jurada-n6324635",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/e82643e1b8bad4858061194bdcc3e80b/adjuntos/239/imagenes/043/345/0043345838/manuel-adorni-diputados.jpg",
         "fuente": "Ámbito",
         "fecha": "Mon, 21 Sep 2026 08:38:00 -0300"
       },
       {
-        "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente viaja a Estados Unidos para asistir a la Asamblea General de las Naciones Unidas",
-        "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-viaja-estados-unidos-asistir-asamblea-general-naciones-unidas_0_TOlhPyki2q.html",
-        "imagen": "https://www.clarin.com/img/2025/09/26/oCzyftQx0_1200x630__1.jpg",
+        "titulo": "Tras los cambios en la Quinta de Olivos, renunció María Belén Agudiez, la mano derecha de Karina Milei",
+        "link": "https://www.clarin.com/politica/cambios-quinta-olivos-renuncio-maria-belen-agudiez-mano-derecha-karina-milei_0_R3PtX2grph.html",
+        "imagen": "https://www.clarin.com/img/2026/09/21/0-cDzJ3k2_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 10:49:24 +0000"
+        "fecha": "Mon, 21 Sep 2026 11:54:02 +0000"
       },
       {
         "titulo": "Comienza la 81° Asamblea General de la ONU, marcada por la guerra en Irán, Gaza y el debate por la IA",
         "link": "https://www.ambito.com/mundo/comienza-la-81-asamblea-general-la-onu-marcada-la-guerra-iran-gaza-y-el-debate-la-ia-n6324622",
-        "imagen": "https://media.ambito.com/p/9541ebe53f97a684931be855358cd142/adjuntos/239/imagenes/040/503/0040503734/1200x675/smart/asamblea-onujpg.jpg",
+        "imagen": "",
         "fuente": "Ámbito Mundo",
         "fecha": "Mon, 21 Sep 2026 08:14:00 -0300"
       },
@@ -29,6 +29,48 @@
         "imagen": "https://media.c5n.com/p/178e03eb374d1411c3671ce27a8eec56/adjuntos/326/imagenes/000/388/0000388241/1200x675/714x255:734x275/manuel-adorni.jpg",
         "fuente": "C5N",
         "fecha": "Mon, 21 Sep 2026 09:01:00 -0300"
+      },
+      {
+        "titulo": "Tras la visita de Milei, el intendente de Bahía Blanca reclamó a Nación por las obras pendientes: “No llegó un solo centavo”",
+        "link": "https://www.infobae.com/politica/2026/09/21/tras-la-visita-de-milei-el-intendente-de-bahia-blanca-reclamo-a-nacion-por-las-obras-pendientes-no-llego-un-solo-centavo/",
+        "imagen": "https://www.infobae.com/resizer/v2/RMHBJVEAONDZVLUCS6XZAIPIP4.jpg?auth=b8cc01ef46eb1325a7435ecbbe6caef02739eb40651dd2c0434bf5d5dd2bc1d6&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Mon, 21 Sep 2026 12:24:50 +0000"
+      },
+      {
+        "titulo": "Conferencia de prensa del gobierno bonaerense",
+        "link": "https://www.tiempoar.com.ar/ta_article/conferencia-prensa-bonaerense-9/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 21 Sep 2026 12:27:29 +0000"
+      },
+      {
+        "titulo": "Javier Milei y el papa León XIV, cara a cara: cuándo será el encuentro en la Casa Rosada",
+        "link": "https://www.ambito.com/politica/javier-milei-y-el-papa-leon-xiv-cara-cara-el-vaticano-confirmo-el-encuentro-el-8-noviembre-la-casa-rosada-n6324627",
+        "imagen": "https://media.ambito.com/p/dd5d0513b8f8e8e8fe383439c42b0d7c/adjuntos/239/imagenes/042/488/0042488081/milei-leonjpg.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Mon, 21 Sep 2026 07:46:00 -0300"
+      },
+      {
+        "titulo": "Manuel Adorni presentó la justificación de su crecimiento patrimonial: dice que su enriquecimiento tiene \"un sustento razonable y verificable\"",
+        "link": "https://www.clarin.com/politica/manuel-adorni-presento-justificacion-crecimiento-patrimonial-dice-enriquecimiento-sustento-razonable-verificable_0_tTsGUUzliW.html",
+        "imagen": "https://www.clarin.com/img/2026/06/29/5rZPaW8_N_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 21 Sep 2026 11:51:21 +0000"
+      },
+      {
+        "titulo": "Elecciones en Alemania: la ultraderecha de AfD avanza y deja a la CDU fuera del Parlamento en un estado",
+        "link": "https://www.ambito.com/mundo/otro-golpe-friedrich-merz-la-ultraderecha-afd-crece-y-saca-ventaja-dos-elecciones-clave-alemania-n6324511",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Sun, 20 Sep 2026 23:20:00 -0300"
+      },
+      {
+        "titulo": "El Vaticano confirmó la agenda del papa León XIV en Argentina: una por una, todas sus actividades",
+        "link": "https://www.c5n.com/politica/el-vaticano-confirmo-la-agenda-del-papa-leon-xiv-argentina-una-una-todas-sus-actividades-n249451",
+        "imagen": "",
+        "fuente": "C5N",
+        "fecha": "Mon, 21 Sep 2026 07:48:00 -0300"
       },
       {
         "titulo": "Renunció María Belén Agudiez, la funcionaria de confianza de Karina Milei que tenía a su cargo la Quinta de Olivos",
@@ -43,57 +85,15 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Sun, 20 Sep 2026 23:44:45 +0000"
-      },
-      {
-        "titulo": "Javier Milei y el papa León XIV, cara a cara: cuándo será el encuentro en la Casa Rosada",
-        "link": "https://www.ambito.com/politica/javier-milei-y-el-papa-leon-xiv-cara-cara-el-vaticano-confirmo-el-encuentro-el-8-noviembre-la-casa-rosada-n6324627",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 07:46:00 -0300"
-      },
-      {
-        "titulo": "El Vaticano confirmó la agenda de León XIV en la Argentina: día por día, los lugares que visitará el Papa",
-        "link": "https://www.clarin.com/politica/vaticano-confirmo-agenda-leon-xiv-argentina-dia-dia-lugares-visitara-papa_0_ZFlCmaLWAw.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/zepmtah5w_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 10:43:55 +0000"
-      },
-      {
-        "titulo": "Elecciones en Alemania: la ultraderecha de AfD avanza y deja a la CDU fuera del Parlamento en un estado",
-        "link": "https://www.ambito.com/mundo/otro-golpe-friedrich-merz-la-ultraderecha-afd-crece-y-saca-ventaja-dos-elecciones-clave-alemania-n6324511",
-        "imagen": "https://media.ambito.com/p/d18f77f0540828904807fb77a3a0dc02/adjuntos/239/imagenes/043/626/0043626103/1200x675/smart/afd-alemania.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Sun, 20 Sep 2026 23:20:00 -0300"
-      },
-      {
-        "titulo": "El Vaticano confirmó la agenda del papa León XIV en Argentina: una por una, todas sus actividades",
-        "link": "https://www.c5n.com/politica/el-vaticano-confirmo-la-agenda-del-papa-leon-xiv-argentina-una-una-todas-sus-actividades-n249451",
-        "imagen": "",
-        "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 07:48:00 -0300"
-      },
-      {
-        "titulo": "Milei viaja a New York para ratificar su compromiso con Malvinas, profundizar la relación con EEUU y defender el programa de ajuste",
-        "link": "https://www.infobae.com/politica/2026/09/21/milei-viaja-a-new-york-para-ratificar-su-compromiso-con-malvinas-profundizar-la-relacion-con-eeuu-y-defender-el-programa-de-ajuste/",
-        "imagen": "https://www.infobae.com/resizer/v2/XN3522W6GFCKDIDZH4GJ4266IY.jpg?auth=ad8cc33765122259727ab93f7e00cb933971a0977e3c37866a486ec03eb7e762&smart=true&width=1920&height=1280",
-        "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 10:32:36 +0000"
-      },
-      {
-        "titulo": "Seguridad nacional: el gobierno presenta como novedad tareas que el Estado ya realiza",
-        "link": "https://www.tiempoar.com.ar/ta_article/seguridad-nacional-el-gobierno-presenta-como-novedad-tareas-que-el-estado-ya-realiza/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Sun, 20 Sep 2026 01:45:29 +0000"
       }
     ],
     "economia": [
       {
-        "titulo": "Morosidad: crece el estrés financiero y uno de cada cuatro endeudados toma crédito para pagar otras deudas",
-        "link": "https://www.ambito.com/economia/morosidad-crece-el-estres-financiero-y-uno-cada-cuatro-endeudados-toma-credito-pagar-otras-deudas-n6324642",
-        "imagen": "https://media.ambito.com/p/ca56082c14800e203db8789fce436e61/adjuntos/239/imagenes/043/578/0043578335/1200x675/582x742:602x762/creditos-anses-1500-x-1000.png",
+        "titulo": "Un \"paraíso fiscal\" de multimillonarios en EEUU: esconden u$s44.000 millones al fisco con seguros de vida",
+        "link": "https://www.ambito.com/economia/un-paraiso-fiscal-multimillonarios-eeuu-esconden-us44000-millones-al-fisco-seguros-vida-n6324643",
+        "imagen": "https://media.ambito.com/p/4f83c864da8bee0db41907e953221014/adjuntos/239/imagenes/043/654/0043654422/1200x675/smart/image-38.png",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 09:14:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 09:24:00 -0300"
       },
       {
         "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este lunes 21 de septiembre de 2026",
@@ -103,11 +103,11 @@
         "fecha": "Mon, 21 Sep 2026 10:45:13 +0000"
       },
       {
-        "titulo": "ARCA volvió a prorrogar el plazo para presentar Ganancias: cuál es la nueva fecha límite",
-        "link": "https://www.c5n.com/economia/arca-volvio-prorrogar-el-plazo-presentar-ganancias-cual-es-la-nueva-fecha-limite-n249449",
-        "imagen": "https://media.c5n.com/p/ae57d05b826571bbd85868a656230bde/adjuntos/326/imagenes/000/348/0000348447/1200x675/smart/contabilidad-impuesto-las-ganancias-impuestos-contador-arca.png",
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 21 de septiembre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-21-septiembre-n249456",
+        "imagen": "https://media.c5n.com/p/e43322d214cdeb13f9c07854f0a1e342/adjuntos/326/imagenes/000/375/0000375704/1200x675/smart/dolar-blue-billetes-divisas-dolares.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 07:27:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 09:17:00 -0300"
       },
       {
         "titulo": "Morosidad: las deudas de casi 900.000 personas pasaron de bancos y billeteras a manos de empresas de cobranza",
@@ -124,11 +124,11 @@
         "fecha": "Sat, 19 Sep 2026 23:14:22 +0000"
       },
       {
-        "titulo": "La economía mundial se queda sin margen de maniobra",
-        "link": "https://www.ambito.com/economia/la-mundial-se-queda-margen-maniobra-n6324548",
-        "imagen": "https://media.ambito.com/p/fea0df35c9d863f9a0dbc223b25d01c2/adjuntos/239/imagenes/043/653/0043653781/1200x675/smart/tractor-nyt.jpg",
+        "titulo": "Morosidad: crece el estrés financiero y uno de cada cuatro endeudados toma crédito para pagar otras deudas",
+        "link": "https://www.ambito.com/economia/morosidad-crece-el-estres-financiero-y-uno-cada-cuatro-endeudados-toma-credito-pagar-otras-deudas-n6324642",
+        "imagen": "https://media.ambito.com/p/ca56082c14800e203db8789fce436e61/adjuntos/239/imagenes/043/578/0043578335/1200x675/582x742:602x762/creditos-anses-1500-x-1000.png",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 08:07:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 09:14:00 -0300"
       },
       {
         "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este lunes 21 de septiembre de 2026",
@@ -138,11 +138,11 @@
         "fecha": "Mon, 21 Sep 2026 10:45:13 +0000"
       },
       {
-        "titulo": "Llega una nueva misión del FMI para revisar el programa económico, las reservas y las metas fiscales",
-        "link": "https://www.c5n.com/economia/llega-una-nueva-mision-del-fmi-revisar-el-programa-economico-las-reservas-y-las-metas-fiscales-n249168",
-        "imagen": "https://media.c5n.com/p/dc9210b8bc1ed37f69fa50db5c1f22d5/adjuntos/326/imagenes/000/376/0000376774/1200x675/smart/mile-fmi.jpg",
+        "titulo": "ARCA volvió a prorrogar el plazo para presentar Ganancias: cuál es la nueva fecha límite",
+        "link": "https://www.c5n.com/economia/arca-volvio-prorrogar-el-plazo-presentar-ganancias-cual-es-la-nueva-fecha-limite-n249449",
+        "imagen": "https://media.c5n.com/p/ae57d05b826571bbd85868a656230bde/adjuntos/326/imagenes/000/348/0000348447/1200x675/smart/contabilidad-impuesto-las-ganancias-impuestos-contador-arca.png",
         "fuente": "C5N",
-        "fecha": "Sun, 20 Sep 2026 19:26:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 07:27:00 -0300"
       },
       {
         "titulo": "Cuál es la provincia argentina que recibió más beneficios por las inversiones del RIGI",
@@ -159,11 +159,11 @@
         "fecha": "Sat, 19 Sep 2026 22:48:39 +0000"
       },
       {
-        "titulo": "ARCA prorrogó el plazo para presentar la declaración jurada del Impuesto a las Ganancias: hasta cuándo hay tiempo y qué pasa con los anticipos",
-        "link": "https://www.ambito.com/economia/arca-prorrogo-el-plazo-presentar-la-declaracion-jurada-del-impuesto-las-ganancias-cuando-hay-tiempo-y-que-pasa-los-anticipos-n6324618",
-        "imagen": "https://media.ambito.com/p/a7985f7d283626f33704560bdcbf274d/adjuntos/239/imagenes/043/400/0043400530/1200x675/636x285:656x305/fmi-monotributo-ganancias.jpg",
+        "titulo": "La economía mundial se queda sin margen de maniobra",
+        "link": "https://www.ambito.com/economia/la-mundial-se-queda-margen-maniobra-n6324548",
+        "imagen": "https://media.ambito.com/p/fea0df35c9d863f9a0dbc223b25d01c2/adjuntos/239/imagenes/043/653/0043653781/1200x675/smart/tractor-nyt.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 07:30:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 08:07:00 -0300"
       },
       {
         "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este lunes 21 de septiembre de 2026",
@@ -182,11 +182,11 @@
         "fecha": "Mon, 21 Sep 2026 08:06:08 -0300"
       },
       {
-        "titulo": "La increíble doble vida del argentino que ganó el oro en lucha en los Suramericanos: \"En Europa y Asia soy una estrella, pero acá vendo pantalones\"",
-        "link": "https://www.clarin.com/deportes/increible-doble-vida-argentino-gano-oro-lucha-suramericanos-europa-asia-estrella-aca-vendo-pantalones_0_XcVTSnTaA5.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/zVcO2whNOG_1200x630__1.jpg",
+        "titulo": "Escándalo en la Selección de Suiza, rival de Argentina en el Mundial 2026: apartaron al capitán por truchar un certificado de vacunación y podría ir preso",
+        "link": "https://www.clarin.com/deportes/escandalo-seleccion-suiza-rival-argentina-mundial-2026-apartaron-capitan-truchar-certificado-vacunacion-podria-ir-preso_0_E2ZWJg7JmM.html",
+        "imagen": "https://www.clarin.com/img/2026/09/21/KwsimpuMV_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 09:00:57 +0000"
+        "fecha": "Mon, 21 Sep 2026 11:37:23 +0000"
       },
       {
         "titulo": "Con un gol de Messi y otro de Luis Suárez, Inter Miami empató 2-2 con San Diego",
@@ -196,11 +196,11 @@
         "fecha": "Sun, 20 Sep 2026 23:56:00 -0300"
       },
       {
-        "titulo": "El traje estilo “Gatúbela” para todo el cuerpo que utilizó una figura del atletismo y dio que hablar: “Siento que no llevo nada puesto”",
-        "link": "https://www.infobae.com/deportes/2026/09/21/el-traje-estilo-gatubela-para-todo-el-cuerpo-que-utilizo-una-figura-del-atletismo-y-dio-que-hablar-siento-que-no-llevo-nada-puesto/",
-        "imagen": "https://www.infobae.com/resizer/v2/R4DIHDPEERDQNF23CUTVO7LUR4.jpg?auth=d04a46ce5325cdd3dff13fad06b67399cb3b0bdbd0b379de6b4661f3a6cca3a2&smart=true&width=1127&height=634",
+        "titulo": "Estalló el conflicto en Inglaterra: una figura que no jugó el Mundial se bajó de la selección tras volver a ser convocado",
+        "link": "https://www.infobae.com/deportes/2026/09/21/estallo-el-conflicto-en-inglaterra-una-figura-que-no-jugo-el-mundial-se-bajo-de-la-seleccion-tras-volver-a-ser-convocado/",
+        "imagen": "https://www.infobae.com/resizer/v2/4AXPVJUV5ZBP7P6DXDWRYRBGNA.JPG?auth=3c79256a550926a7f14b842f92218d10331f62ec5a219e5f73d07e169eee0910&smart=true&width=4143&height=2624",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 11:51:52 +0000"
+        "fecha": "Mon, 21 Sep 2026 12:32:08 +0000"
       },
       {
         "titulo": "Guillermo Barros Schelotto y el presente de Vélez: \"Este equipo está convencido de jugar de una determinada manera\"",
@@ -231,9 +231,16 @@
         "fecha": "Mon, 21 Sep 2026 08:01:41 GMT"
       },
       {
+        "titulo": "Los números que mantienen a Gimnasia en carrera pese a los últimos dos empates",
+        "link": "https://www.0221.com.ar/gimnasia/los-numeros-que-mantienen-gimnasia-carrera-pese-los-ultimos-dos-empates-n134515",
+        "imagen": "https://media.0221.com.ar/p/6340aab0f0220aa6fdb8fe989db22c26/adjuntos/357/imagenes/100/296/0100296537/1200x630/1983x1228:2003x1248/gimnasia-banfield-festejo-silva-torrejon-gol.jpeg",
+        "fuente": "0221 Deportes",
+        "fecha": "Mon, 21 Sep 2026 09:38:00 -0300"
+      },
+      {
         "titulo": "¿Cómo está Estudiantes en la pelea por las copas internacionales 2027 y qué posición ocupa?",
         "link": "https://www.0221.com.ar/estudiantes/como-esta-estudiantes-la-pelea-las-copas-internacionales-2027-y-que-posicion-ocupa-n127320",
-        "imagen": "https://media.0221.com.ar/p/77a3e92d302eed69f7c1d7102333d2b6/adjuntos/357/imagenes/100/295/0100295481/1200x630/1581x1047:1601x1067/gaich-festejo-gol-estudiantes.jpeg",
+        "imagen": "https://media.0221.com.ar/p/5ef852c7845e316b60f19acd04658591/adjuntos/357/imagenes/100/293/0100293756/1200x630/smart/estudiantes-newells-gaich-meza-benedetti-cetre-tobio-derrota.jpeg",
         "fuente": "0221 Deportes",
         "fecha": "Mon, 21 Sep 2026 09:14:00 -0300"
       },
@@ -245,13 +252,6 @@
         "fecha": "Mon, 21 Sep 2026 07:09:00 -0300"
       },
       {
-        "titulo": "Alexander Medina analiza cambios ante Lanús tras la clasificación de Estudiantes en la Copa Libertadores",
-        "link": "https://www.0221.com.ar/estudiantes/alexander-medina-analiza-cambios-lanus-la-clasificacion-estudiantes-la-copa-libertadores-n134500",
-        "imagen": "https://media.0221.com.ar/p/4c79f86878f7eaf2043b171ae1aeff7e/adjuntos/357/imagenes/100/293/0100293752/1200x630/smart/estudiantes-newells-medina-2.jpeg",
-        "fuente": "0221 Deportes",
-        "fecha": "Sun, 20 Sep 2026 17:43:00 -0300"
-      },
-      {
         "titulo": "Cuánto cuestan las entradas para la despedida de Lionel Messi de la Selección argentina",
         "link": "https://www.ambito.com/deportes/cuanto-cuestan-las-entradas-la-despedida-lionel-messi-la-seleccion-argentina-n6324366",
         "imagen": "",
@@ -261,11 +261,11 @@
     ],
     "policiales_actualidad": [
       {
-        "titulo": "Melisa, la mujer que acusa a su padrastro por abusos cuando era una nena: \"Mi madre me dio la espalda, nunca me creyó\"",
-        "link": "https://www.clarin.com/policiales/melisa-mujer-acusa-padrastro-abusos-nena-madre-dio-espalda-creyo_0_4b3NUam47L.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/Z_7GPj7CQ_1200x630__1.jpg",
+        "titulo": "Dos cajeros del Banco Nación fueron condenados por robarle dinero a sus clientes: los videos de la maniobra que hacían con los billetes",
+        "link": "https://www.clarin.com/policiales/cajeros-banco-nacion-condenados-robarle-dinero-clientes-videos-maniobra-hacian-billetes_0_muzUHAHp4S.html",
+        "imagen": "https://www.clarin.com/img/2026/09/20/JZLLAZKOt_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 09:00:57 +0000"
+        "fecha": "Sun, 20 Sep 2026 15:44:18 +0000"
       },
       {
         "titulo": "Confirmaron la agenda del papa León XIV en Argentina: a qué hora y en dónde será la masiva misa en CABA",
@@ -282,11 +282,11 @@
         "fecha": "Mon, 21 Sep 2026 12:20:33 +0000"
       },
       {
-        "titulo": "Dos cajeros del Banco Nación fueron condenados por robarle dinero a sus clientes: los videos de la maniobra que hacían con los billetes",
-        "link": "https://www.clarin.com/policiales/cajeros-banco-nacion-condenados-robarle-dinero-clientes-videos-maniobra-hacian-billetes_0_muzUHAHp4S.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/JZLLAZKOt_1200x630__1.jpg",
+        "titulo": "La insólita situación por la que cayó en Lugano un acusado de abuso sexual que tenía pedido de captura internacional",
+        "link": "https://www.clarin.com/policiales/insolita-situacion-cayo-lugano-acusado-abuso-sexual-pedido-captura-internacional_0_ozLWKYH7xW.html",
+        "imagen": "https://www.clarin.com/img/2026/09/20/9aDAU4XTj_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sun, 20 Sep 2026 15:44:18 +0000"
+        "fecha": "Sun, 20 Sep 2026 12:58:18 +0000"
       },
       {
         "titulo": "Día de la Primavera: cómo estará el tiempo en Buenos Aires y en las principales regiones del país",
@@ -303,11 +303,11 @@
         "fecha": "Mon, 21 Sep 2026 11:33:22 +0000"
       },
       {
-        "titulo": "La insólita situación por la que cayó en Lugano un acusado de abuso sexual que tenía pedido de captura internacional",
-        "link": "https://www.clarin.com/policiales/insolita-situacion-cayo-lugano-acusado-abuso-sexual-pedido-captura-internacional_0_ozLWKYH7xW.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/9aDAU4XTj_1200x630__1.jpg",
+        "titulo": "Caso Cristian Schaerer: secuestro, asesinato y un misterio de 23 años todavía sin resolver",
+        "link": "https://www.clarin.com/policiales/caso-cristian-schaerer-secuestro-asesinato-misterio-23-anos-todavia-resolver_0_NuL2fFrQgE.html",
+        "imagen": "https://www.clarin.com/img/2020/07/29/Yc8cx-Ymc_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sun, 20 Sep 2026 12:58:18 +0000"
+        "fecha": "Sun, 20 Sep 2026 09:00:43 +0000"
       },
       {
         "titulo": "Tensión en FATE por la orden de desalojo: trabajadores resisten en la planta de San Fernando",
@@ -324,11 +324,11 @@
         "fecha": "Mon, 21 Sep 2026 07:14:31 +0000"
       },
       {
-        "titulo": "Caso Cristian Schaerer: secuestro, asesinato y un misterio de 23 años todavía sin resolver",
-        "link": "https://www.clarin.com/policiales/caso-cristian-schaerer-secuestro-asesinato-misterio-23-anos-todavia-resolver_0_NuL2fFrQgE.html",
-        "imagen": "https://www.clarin.com/img/2020/07/29/Yc8cx-Ymc_1200x630__1.jpg",
+        "titulo": "\"Te hago la ducha en vivo\" y \"toda Bahía Blanca va a saber que sos un cochino\": la extorsión de \"La Pili\" que le valió una dura condena",
+        "link": "https://www.clarin.com/policiales/hago-ducha-vivo-toda-bahia-blanca-va-saber-sos-cochino-extorsion-pili-valio-dura-condena_0_8NxKpxGKbU.html",
+        "imagen": "https://www.clarin.com/img/2026/09/19/al3HtUorQ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sun, 20 Sep 2026 09:00:43 +0000"
+        "fecha": "Sun, 20 Sep 2026 09:00:42 +0000"
       },
       {
         "titulo": "Quini 6: los resultados del sorteo 3.410 del domingo 20 de septiembre de 2026",
@@ -349,7 +349,7 @@
       {
         "titulo": "Comienza la 81° Asamblea General de la ONU, marcada por la guerra en Irán, Gaza y el debate por la IA",
         "link": "https://www.ambito.com/mundo/comienza-la-81-asamblea-general-la-onu-marcada-la-guerra-iran-gaza-y-el-debate-la-ia-n6324622",
-        "imagen": "https://media.ambito.com/p/9541ebe53f97a684931be855358cd142/adjuntos/239/imagenes/040/503/0040503734/1200x675/smart/asamblea-onujpg.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Mon, 21 Sep 2026 08:14:00 -0300"
       },
@@ -361,23 +361,23 @@
         "fecha": "Mon, 21 Sep 2026 08:33:00 -0300"
       },
       {
-        "titulo": "Más revelaciones del hermano de Diana sobre la frase que le atribuye a Carlos tras la muerte de la princesa: \"Será rápidamente olvidada\"",
-        "link": "https://www.clarin.com/mundo/revelaciones-hermano-diana-frase-atribuye-carlos-muerte-princesa-rapidamente-olvidada_0_Ncn8jOTWMC.html",
-        "imagen": "https://www.clarin.com/img/2024/03/31/_BnLWWdcV_1200x630__1.jpg",
+        "titulo": "CNN, MS NOW y Politico notifican al gobierno de Trump que demandarán por negarles el acceso a la Casa Blanca",
+        "link": "https://www.clarin.com/mundo/cnn-ms-now-politico-notifican-gobierno-trump-demandaran-negarles-acceso-casa-blanca_0_zJuMnsiZEN.html",
+        "imagen": "https://www.clarin.com/img/2026/08/26/DXGzZEpx__1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sun, 20 Sep 2026 22:48:45 +0000"
+        "fecha": "Mon, 21 Sep 2026 11:22:41 +0000"
       },
       {
-        "titulo": "Murió Carlos Alonso, el gran pintor argentino que enfrentó a la dictadura con arte",
-        "link": "https://www.infobae.com/cultura/2026/09/21/murio-carlos-alonso-el-gran-pintor-argentino-que-enfrento-a-la-dictadura-con-arte/",
-        "imagen": "https://www.infobae.com/resizer/v2/ENAVTN435BFEVAMD434VUW56EU.jpg?auth=2785750ff44ee7d72b606f3722b213cef164b59c6e8b6ea6aeda2f4bca3afc89&smart=true&width=1920&height=1080",
+        "titulo": "Thomas Piketty, economista francés: “Queremos que el capitalismo y las fuerzas del mercado sean esclavos de la democracia, y no al revés”",
+        "link": "https://www.infobae.com/cultura/2026/09/21/thomas-piketty-economista-frances-queremos-que-el-capitalismo-y-las-fuerzas-del-mercado-sean-esclavos-de-la-democracia-y-no-al-reves/",
+        "imagen": "https://www.infobae.com/resizer/v2/XGLRJFXRBS2YTUYGQM23B7VWN4.jpg?auth=75ffa6918d01bfe68d1525215a9c816fd8311fd43fa1e65520011131d37077ed&smart=true&width=4928&height=3368",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 12:18:51 +0000"
+        "fecha": "Mon, 21 Sep 2026 12:33:11 +0000"
       },
       {
         "titulo": "Elecciones en Alemania: la ultraderecha de AfD avanza y deja a la CDU fuera del Parlamento en un estado",
         "link": "https://www.ambito.com/mundo/otro-golpe-friedrich-merz-la-ultraderecha-afd-crece-y-saca-ventaja-dos-elecciones-clave-alemania-n6324511",
-        "imagen": "https://media.ambito.com/p/d18f77f0540828904807fb77a3a0dc02/adjuntos/239/imagenes/043/626/0043626103/1200x675/smart/afd-alemania.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Sun, 20 Sep 2026 23:20:00 -0300"
       },
@@ -389,23 +389,23 @@
         "fecha": "Sun, 20 Sep 2026 22:00:00 -0300"
       },
       {
-        "titulo": "Elecciones en Alemania: entre recetas y gestos políticos que alimentan la agenda de los ultras",
-        "link": "https://www.clarin.com/mundo/elecciones-alemania-recetas-gestos-politicos-alimentan-agenda-ultras_0_yvNyNyBeFE.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/Qc3qSteyZ_1200x630__1.jpg",
+        "titulo": "Más revelaciones del hermano de Diana sobre la frase que le atribuye a Carlos tras la muerte de la princesa: \"Será rápidamente olvidada\"",
+        "link": "https://www.clarin.com/mundo/revelaciones-hermano-diana-frase-atribuye-carlos-muerte-princesa-rapidamente-olvidada_0_Ncn8jOTWMC.html",
+        "imagen": "https://www.clarin.com/img/2024/03/31/_BnLWWdcV_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sun, 20 Sep 2026 21:40:40 +0000"
+        "fecha": "Sun, 20 Sep 2026 22:48:45 +0000"
       },
       {
-        "titulo": "La purga anticorrupción de Xi Jinping dejó a la cúpula militar china reducida a solo dos miembros",
-        "link": "https://www.infobae.com/america/mundo/2026/09/21/la-purga-anticorrupcion-de-xi-jinping-dejo-a-la-cupula-militar-china-reducida-a-solo-dos-miembros/",
-        "imagen": "https://www.infobae.com/resizer/v2/CD26ATO2IY7IYGHFK5X2C5BHI4.jpg?auth=a27abbf1b9f0bc14c6e03522bcf2043bb7b5278453ac00bac1138739dc8384ca&smart=true&width=3356&height=2237",
+        "titulo": "El modelo carcelario de El Salvador impulsó 16 proyectos de megacárceles en 10 países",
+        "link": "https://www.infobae.com/el-salvador/2026/09/21/el-modelo-carcelario-de-el-salvador-impulso-16-proyectos-de-megacarceles-en-10-paises/",
+        "imagen": "https://www.infobae.com/resizer/v2/RG47XFS4XRARNE2SCASOCUDVFE.JPG?auth=19c6c29f427ff2d6aee53c1a6b3af048014acd43fb9e9fbe6f84786a5ee2471a&smart=true&width=4608&height=3072",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 12:10:19 +0000"
+        "fecha": "Mon, 21 Sep 2026 12:26:34 +0000"
       },
       {
         "titulo": "Rusia: el oficialismo de Vladimir Putin se impuso en las legislativas",
         "link": "https://www.ambito.com/mundo/rusia-el-oficialismo-vladimir-putin-se-impuso-las-legislativas-n6324571",
-        "imagen": "https://media.ambito.com/p/0e4fe213272c5019bbf03b32adb6e964/adjuntos/239/imagenes/043/359/0043359447/vladimir-putin.jpg",
+        "imagen": "",
         "fuente": "Ámbito",
         "fecha": "Sun, 20 Sep 2026 21:02:00 -0300"
       },
@@ -417,27 +417,27 @@
         "fecha": "Sun, 20 Sep 2026 21:59:00 -0300"
       },
       {
-        "titulo": "María Corina Machado se suma a un senador republicano y pide elecciones libres en Venezuela",
-        "link": "https://www.clarin.com/mundo/maria-corina-machado-suma-senador-republicano-pide-elecciones-libres-venezuela_0_ycoZD0Vx4f.html",
-        "imagen": "https://www.clarin.com/img/2026/09/20/5fSkZ06m2_1200x630__1.jpg",
+        "titulo": "Elecciones en Alemania: entre recetas y gestos políticos que alimentan la agenda de los ultras",
+        "link": "https://www.clarin.com/mundo/elecciones-alemania-recetas-gestos-politicos-alimentan-agenda-ultras_0_yvNyNyBeFE.html",
+        "imagen": "https://www.clarin.com/img/2026/09/20/Qc3qSteyZ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sun, 20 Sep 2026 21:00:49 +0000"
+        "fecha": "Sun, 20 Sep 2026 21:40:40 +0000"
       },
       {
-        "titulo": "Si la ONU logra consensuar una Convención de Derechos de las Personas Mayores, el mérito será de la Argentina",
-        "link": "https://www.infobae.com/generacion-silver/2026/09/21/si-la-onu-logra-consensuar-una-convencion-de-derechos-de-las-personas-mayores-sera-en-gran-parte-merito-de-la-argentina/",
-        "imagen": "https://www.infobae.com/resizer/v2/54EV37FWNREJPFNCOK45FIBMQM.jpg?auth=0996191256dd5ad08c091dac8f41e09a4bfc73f96afdd0010f85f9282526672a&smart=true&width=1920&height=1080",
+        "titulo": "Murió Carlos Alonso, el gran pintor argentino que enfrentó a la dictadura con arte",
+        "link": "https://www.infobae.com/cultura/2026/09/21/murio-carlos-alonso-el-gran-pintor-argentino-que-enfrento-a-la-dictadura-con-arte/",
+        "imagen": "https://www.infobae.com/resizer/v2/ENAVTN435BFEVAMD434VUW56EU.jpg?auth=2785750ff44ee7d72b606f3722b213cef164b59c6e8b6ea6aeda2f4bca3afc89&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 12:02:27 +0000"
+        "fecha": "Mon, 21 Sep 2026 12:21:42 +0000"
       }
     ],
     "espectaculos": [
       {
-        "titulo": "El Teatro Colón transmitirá en vivo la última función de \"Principio de Éxtasis\" por streaming",
-        "link": "https://www.ambito.com/espectaculos/el-teatro-colon-transmitira-vivo-la-ultima-funcion-principio-extasis-este-domingo-streaming-n6324038",
-        "imagen": "https://media.ambito.com/p/c9a38f340f62b4e8bc4b846a2a6bd3b2/adjuntos/239/imagenes/043/651/0043651722/principio-extasis.JPG",
+        "titulo": "Cómo sigue la salud de Mirtha Legrand tras su nueva internación: qué se sabe y el último parte médico",
+        "link": "https://www.ambito.com/espectaculos/como-sigue-la-salud-mirtha-legrand-su-nueva-internacion-que-se-sabe-y-el-ultimo-parte-medico-n6324442",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Sun, 20 Sep 2026 15:44:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 09:32:00 -0300"
       },
       {
         "titulo": "Conmoción por la muerte del joven hijo de una supermodelo internacional: tenía apenas 27 años",
@@ -454,18 +454,18 @@
         "fecha": "Mon, 21 Sep 2026 10:15:02 +0000"
       },
       {
-        "titulo": "Tini Stoessel sorprendió al hablar de su boda con Rodrigo De Paul en pleno show: “Será muy pronto”",
-        "link": "https://www.infobae.com/teleshow/2026/09/21/tini-stoessel-sorprendio-al-hablar-de-su-boda-con-rodrigo-de-paul-en-pleno-show-sera-muy-pronto/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZV335BGILBE2NAUPZIUUGMD6WM.jpg?auth=9350c388d2466d6af14cee57f8ef4267e000ecad3d934255ef158fa14816e2e4&smart=true&width=1980&height=1090",
+        "titulo": "Virginia Gallardo se quebró al hablar de las secuelas de una cirugía estética que cambió su vida: “Me empezó a doler”",
+        "link": "https://www.infobae.com/teleshow/2026/09/21/virginia-gallardo-se-quebro-al-hablar-de-las-secuelas-de-una-cirugia-estetica-que-cambio-su-vida-me-empezo-a-doler/",
+        "imagen": "https://www.infobae.com/resizer/v2/JZFMR3KWCVGNNCZRWLZ33IO5OY.png?auth=913cbe26896db62e59d86b3e1678f4597dae282d58b88704a39c085159d25ee6&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 11:47:01 +0000"
+        "fecha": "Mon, 21 Sep 2026 12:33:07 +0000"
       },
       {
-        "titulo": "Ed Sheeran rompió el silencio sobre Gaza tras la crisis en su gira: \"Estoy cometiendo errores y lo lamento mucho\"",
-        "link": "https://www.ambito.com/espectaculos/ed-sheeran-rompio-el-silencio-gaza-la-crisis-su-gira-estoy-cometiendo-errores-y-lo-lamento-mucho-n6324455",
-        "imagen": "https://media.ambito.com/p/54524dd7f1479f5cb7e381489aa451e9/adjuntos/239/imagenes/043/645/0043645785/1200x675/691x154:711x174/edsheeran2.jpg",
+        "titulo": "Murió Presley Gerber, el hijo de la supermodelo Cindy Crawford",
+        "link": "https://www.ambito.com/espectaculos/murio-presley-gerber-el-hijo-la-supermodelo-cindy-crawford-n6324649",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Sun, 20 Sep 2026 11:00:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 09:24:45 -0300"
       },
       {
         "titulo": "Bombazo: se filtró cuándo será lanzado el esperado modo multijugador de GTA VI",
@@ -482,18 +482,18 @@
         "fecha": "Mon, 21 Sep 2026 09:00:56 +0000"
       },
       {
-        "titulo": "Popstars lanzó su tema debut y el baile cambió el destino de tres concursantes: quiénes quedaron eliminadas",
-        "link": "https://www.infobae.com/teleshow/2026/09/21/popstars-lanzo-su-tema-debut-y-el-baile-cambio-el-destino-de-tres-concursantes-quienes-quedaron-eliminadas/",
-        "imagen": "https://www.infobae.com/resizer/v2/BJLVE3AO2FBI5NTBGDETJEE3PI.jpg?auth=7c15c28920a909ca55f5f67c3f94cbb55c7a6215587a7496c32f5dff83aa1447&smart=true&width=1920&height=1080",
+        "titulo": "Tini Stoessel sorprendió al hablar de su boda con Rodrigo De Paul en pleno show: “Será muy pronto”",
+        "link": "https://www.infobae.com/teleshow/2026/09/21/tini-stoessel-sorprendio-al-hablar-de-su-boda-con-rodrigo-de-paul-en-pleno-show-sera-muy-pronto/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZV335BGILBE2NAUPZIUUGMD6WM.jpg?auth=9350c388d2466d6af14cee57f8ef4267e000ecad3d934255ef158fa14816e2e4&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 11:10:57 +0000"
+        "fecha": "Mon, 21 Sep 2026 11:47:01 +0000"
       },
       {
-        "titulo": "Netflix estrenó la serie más esperada del año: de qué trata la producción de 8 capítulos basada en hechos reales",
-        "link": "https://www.ambito.com/espectaculos/netflix-estreno-la-serie-mas-esperada-del-ano-que-trata-la-produccion-8-capitulos-basada-hechos-reales-n6323802",
-        "imagen": "https://media.ambito.com/p/c84b23fc10b229fd8b21ddf2df46d519/adjuntos/239/imagenes/043/650/0043650544/1200x675/1248x475:1268x495/monstruo-la-historia-lizzie-borden.jpg",
+        "titulo": "Resident Evil: Noche Cero, la película que reinventa el universo de la icónica franquicia de terror",
+        "link": "https://www.ambito.com/espectaculos/resident-evil-noche-cero-la-pelicula-que-reinventa-el-universo-la-iconica-franquicia-terror-n6324147",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Sun, 20 Sep 2026 11:00:00 -0300"
+        "fecha": "Sun, 20 Sep 2026 23:00:00 -0300"
       },
       {
         "titulo": "\"Fue lo mejor para los dos\", la ganadora de Gran Hermano contó cómo descubrió que su marido era gay",
@@ -510,11 +510,11 @@
         "fecha": "Mon, 21 Sep 2026 09:00:02 +0000"
       },
       {
-        "titulo": "Lowrdez y Lissa de Bandana apuntaron contra Emilia Mernes: “No quiso cantar ‘Maldita noche’ con nosotras”",
-        "link": "https://www.infobae.com/teleshow/2026/09/21/lowrdez-y-lissa-de-bandana-apuntaron-contra-emilia-mernes-no-quiso-cantar-maldita-noche-con-nosotras/",
-        "imagen": "https://www.infobae.com/resizer/v2/2EDB7DCZ2JEWPDOEQQLVHGEAYI.png?auth=8de34bb69b34fc5bb8d15482bb7e812a9e11e7a61b895f6a436646fb80a821a6&smart=true&width=1280&height=720",
+        "titulo": "Popstars lanzó su tema debut y el baile cambió el destino de tres concursantes: quiénes quedaron eliminadas",
+        "link": "https://www.infobae.com/teleshow/2026/09/21/popstars-lanzo-su-tema-debut-y-el-baile-cambio-el-destino-de-tres-concursantes-quienes-quedaron-eliminadas/",
+        "imagen": "https://www.infobae.com/resizer/v2/BJLVE3AO2FBI5NTBGDETJEE3PI.jpg?auth=7c15c28920a909ca55f5f67c3f94cbb55c7a6215587a7496c32f5dff83aa1447&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 04:12:12 +0000"
+        "fecha": "Mon, 21 Sep 2026 11:10:57 +0000"
       }
     ],
     "tecnologia": [
@@ -547,13 +547,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -582,13 +575,6 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/51914def7b32e26eb1052fa29a3f132e/adjuntos/326/imagenes/000/399/0000399705/1200x675/smart/samsung-vs-apple.jpg",
         "fuente": "C5N",
         "fecha": "Sun, 20 Sep 2026 15:03:00 -0300"
+      },
+      {
+        "titulo": "Bill Gates revela que su padre murió de Alzheimer y así trabaja con Los Rogen para apoyar a personas con esta enfermedad",
+        "link": "https://www.infobae.com/tecno/2026/09/21/bill-gates-revela-que-su-padre-murio-de-alzheimer-y-asi-trabaja-con-los-rogen-para-apoyar-a-personas-con-esta-enfermedad/",
+        "imagen": "https://www.infobae.com/resizer/v2/5TMGTLUSRZDZJEOSVMPGMFAHUM.JPG?auth=c0039e4c567d3901f921b7da502e11812aede1c013376dfaa72c6621f38c0b24&smart=true&width=3032&height=2021",
+        "fuente": "Infobae Tecno",
+        "fecha": "Mon, 21 Sep 2026 03:53:42 +0000"
+      },
+      {
+        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
+        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -777,13 +777,6 @@
         "fecha": "Mon, 21 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "La cúrcuma se asocia con posibles beneficios para la salud intestinal, según una nutricionista",
-        "link": "https://www.infobae.com/salud/2026/09/21/la-curcuma-se-asocia-con-posibles-beneficios-para-la-salud-intestinal-segun-una-nutricionista/",
-        "imagen": "https://www.infobae.com/resizer/v2/UP4MFIG2LBHPVLHALNC74DJPMM.png?auth=a307ba4a6c1731aa6683a276dbeb45c6379b13c0b0655dce978f47e043578ff2&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Mon, 21 Sep 2026 09:00:00 +0000"
-      },
-      {
         "titulo": "Dolor en el costado de la rodilla o la cadera: 7 estiramientos para aflojar la tensión",
         "link": "https://www.infobae.com/salud/2026/09/21/siete-estiramientos-para-aliviar-el-dolor-de-rodilla-y-cadera-provocado-por-la-banda-iliotibial/",
         "imagen": "https://www.infobae.com/resizer/v2/FTYM7ICPVVEARIIJBCV2XG4SKI.png?auth=77188a7a65f842d6fe99ec8de96945dd1c03e1cda74492334e6ceb0e413d1fed&smart=true&width=2752&height=1536",
@@ -794,6 +787,13 @@
         "titulo": "Cómo mejorar el tránsito intestinal: qué dice la evidencia sobre la fibra, los fermentados y los probióticos",
         "link": "https://www.infobae.com/salud/2026/09/21/como-mejorar-el-transito-intestinal-el-rol-de-la-fibra-y-los-mitos-sobre-los-probioticos/",
         "imagen": "https://www.infobae.com/resizer/v2/TGHHB7RADJDNFF5YHNNIIGN42M.png?auth=07f17fdf20663923d6b023afe6cdb33df8499a6862fd020630d26691b6694322&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Mon, 21 Sep 2026 09:00:00 +0000"
+      },
+      {
+        "titulo": "La cúrcuma se asocia con posibles beneficios para la salud intestinal, según una nutricionista",
+        "link": "https://www.infobae.com/salud/2026/09/21/la-curcuma-se-asocia-con-posibles-beneficios-para-la-salud-intestinal-segun-una-nutricionista/",
+        "imagen": "https://www.infobae.com/resizer/v2/UP4MFIG2LBHPVLHALNC74DJPMM.png?auth=a307ba4a6c1731aa6683a276dbeb45c6379b13c0b0655dce978f47e043578ff2&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Mon, 21 Sep 2026 09:00:00 +0000"
       },
@@ -828,11 +828,11 @@
         "fecha": "Sun, 20 Sep 2026 07:50:00 -0300"
       },
       {
-        "titulo": "A los 27 años murió Presley Gerber, el hijo de la supermodelo Cindy Crawford",
-        "link": "https://www.eldia.com/espectaculos/a-los-27-anos-murio-presley-gerber-el-hijo-de-la-supermodelo-cindy-crawford-espectaculos_1789990560",
+        "titulo": "Una paliza histórica pone al Cervecero al borde del abismo",
+        "link": "https://www.eldia.com/quilmes/una-paliza-historica-pone-al-cervecero-al-borde-del-abismo-quilmes_1789993620",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 11:49:41 GMT"
+        "fecha": "Mon, 21 Sep 2026 12:35:08 GMT"
       },
       {
         "titulo": "La primavera empieza en La Plata con un alerta amarillo por vientos de hasta 78 km/h",
@@ -856,11 +856,11 @@
         "fecha": "Sat, 19 Sep 2026 12:42:00 -0300"
       },
       {
-        "titulo": "La Justicia Federal de La Plata puso en marcha hoy un nuevo sistema acusatorio: ¿qué cambia?",
-        "link": "https://www.eldia.com/policiales/la-justicia-federal-de-la-plata-estrena-hoy-un-nuevo-sistema-acusatorio-que-cambia-policiales_1789989960",
+        "titulo": "Renunció una funcionaria cercana a Karina Milei en medio de la reestructuración de Olivos",
+        "link": "https://www.eldia.com/politica-y-economia/renuncio-una-funcionaria-cercana-a-karina-milei-en-medio-de-la-reestructuracion-de-olivos-politica-y-economia_1789992900",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 11:33:53 GMT"
+        "fecha": "Mon, 21 Sep 2026 12:19:24 GMT"
       },
       {
         "titulo": "Arrancá la mañana con información y entretenimiento en el streaming de 0221 Play",
@@ -884,11 +884,11 @@
         "fecha": "Sat, 19 Sep 2026 12:25:00 -0300"
       },
       {
-        "titulo": "Primer dia de primavera ventoso y nublado en Quilmes",
-        "link": "https://www.eldia.com/quilmes/primer-dia-de-primavera-ventoso-y-nublado-en-quilmes-quilmes_1789988460",
+        "titulo": "En el Gobierno descartan que Patricia Bullrich vaya a romper con el oficialismo",
+        "link": "https://www.eldia.com/politica-y-economia/en-el-gobierno-descartan-que-patricia-bullrich-vaya-a-romper-con-el-oficialismo-politica-y-economia_1789991640",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 11:14:51 GMT"
+        "fecha": "Mon, 21 Sep 2026 12:08:04 GMT"
       }
     ]
   }
