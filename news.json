@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T09:43:01.172329+00:00",
+  "actualizado": "2026-09-21T09:56:53.388943+00:00",
   "categorias": {
     "politica": [
       {
@@ -182,11 +182,11 @@
         "fecha": "Sun, 20 Sep 2026 14:37:00 -0300"
       },
       {
-        "titulo": "Colapinto vuelve a Bakú, el circuito de su primera gran alegría en la Fórmula 1, para estirar su mejor racha",
-        "link": "https://www.clarin.com/deportes/colapinto-vuelve-baku-circuito-primera-gran-alegria-formula-1-estirar-mejor-racha_0_O5IT8L9Uwy.html",
-        "imagen": "https://www.clarin.com/img/2025/09/29/RC0_SOLI6f_1200x630__1.jpg",
+        "titulo": "La increíble doble vida del argentino que ganó el oro en lucha en los Suramericanos: \"En Europa y Asia soy una estrella, pero acá vendo pantalones\"",
+        "link": "https://www.clarin.com/deportes/increible-doble-vida-argentino-gano-oro-lucha-suramericanos-europa-asia-estrella-aca-vendo-pantalones_0_XcVTSnTaA5.html",
+        "imagen": "https://www.clarin.com/img/2026/09/20/zVcO2whNOG_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 08:44:54 +0000"
+        "fecha": "Mon, 21 Sep 2026 09:00:57 +0000"
       },
       {
         "titulo": "Con un gol de Messi y otro de Luis Suárez, Inter Miami empató 2-2 con San Diego",
@@ -547,6 +547,13 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
+      },
+      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -575,6 +582,13 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
+      },
+      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/51914def7b32e26eb1052fa29a3f132e/adjuntos/326/imagenes/000/399/0000399705/1200x675/smart/samsung-vs-apple.jpg",
         "fuente": "C5N",
         "fecha": "Sun, 20 Sep 2026 15:03:00 -0300"
-      },
-      {
-        "titulo": "Stellar Blade llega a Nintendo Switch 2 este 5 de noviembre con colaboración gratuita de Bayonetta",
-        "link": "https://www.infobae.com/tecno/2026/09/21/stellar-blade-llega-a-nintendo-switch-2-este-5-de-noviembre-con-colaboracion-gratuita-de-bayonetta/",
-        "imagen": "https://www.infobae.com/resizer/v2/UEAYPATVHVCSZEN7SH2B7FXDYM.png?auth=c1c34dc487d3287d0e9114b69a947e283408a996cbd6bdeb7de13e722160599b&smart=true&width=1920&height=1080",
-        "fuente": "Infobae Tecno",
-        "fecha": "Mon, 21 Sep 2026 02:07:45 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -842,11 +842,11 @@
         "fecha": "Sun, 20 Sep 2026 07:50:00 -0300"
       },
       {
-        "titulo": "Siguen los preparativos para la Supercopa",
+        "titulo": "En Estudiantes siguen los preparativos para la Supercopa",
         "link": "https://www.eldia.com/deportes/siguen-los-preparativos-para-la-supercopa-deportes_1789976689",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 08:01:32 GMT"
+        "fecha": "Mon, 21 Sep 2026 09:52:36 GMT"
       },
       {
         "titulo": "Video: batalla campal en un partido de la Liga Amateur Platense que terminó en escándalo",
