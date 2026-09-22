@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-09-22T11:42:40.914842+00:00",
+  "actualizado": "2026-09-22T11:55:15.242012+00:00",
   "categorias": {
     "politica": [
       {
-        "titulo": "En medio de la tensión, el gobierno británico extendió las licencias a petroleras que operan en Malvinas",
+        "titulo": "El gobierno británico de Malvinas extendió 5 años las licencias a petroleras, nuevo desafío a la Argentina",
         "link": "https://www.ambito.com/politica/en-medio-la-tension-el-gobierno-britanico-extendio-las-licencias-petroleras-que-operan-malvinas-n6325097",
-        "imagen": "https://media.ambito.com/p/9375ca45584915f22bfd89bfd7d327b1/adjuntos/239/imagenes/043/522/0043522936/1200x675/1552x1082:1572x1102/petroleo-offshore.jpg",
+        "imagen": "https://media.ambito.com/p/c1f4472de60ace0649f185074c15c6a0/adjuntos/239/imagenes/043/656/0043656792/1200x675/1528x1025:1548x1045/petroleo-offshore.jpg",
         "fuente": "Ámbito",
         "fecha": "Tue, 22 Sep 2026 08:17:00 -0300"
       },
@@ -89,16 +89,51 @@
     ],
     "economia": [
       {
-        "titulo": "El Gobierno creó una mesa de trabajo para revisar las tasas aeronáuticas y cargos de la aviación comercial",
-        "link": "https://www.ambito.com/economia/el-gobierno-creo-una-mesa-trabajo-revisar-las-tasas-aeronauticas-y-cargos-la-aviacion-comercial-n6325072",
-        "imagen": "https://media.ambito.com/p/1aa446124afb76c0ac5ba6b6ad8f7fbc/adjuntos/239/imagenes/043/654/0043654464/1200x675/695x300:715x320/avion-combustible.jpg",
+        "titulo": "Los líderes de la UIA se reúnen con el secretario Pablo Lavigne: qué planteos llevará la entidad",
+        "link": "https://www.ambito.com/economia/los-lideres-la-uia-se-reunen-el-secretario-pablo-lavigne-que-planteos-llevara-la-entidad-n6325087",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Tue, 22 Sep 2026 08:30:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 08:43:00 -0300"
       },
       {
         "titulo": "Euro hoy en Uruguay: precio y cotización de la divisa este martes 22 de septiembre de 2026",
         "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-martes-22-de-septiembre-de-2026_0_mi5a9e0rWv.html",
         "imagen": "https://www.clarin.com/img/2018/12/27/h_JN2Am_3_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 22 Sep 2026 10:45:12 +0000"
+      },
+      {
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 22 de septiembre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-22-septiembre-n249545",
+        "imagen": "",
+        "fuente": "C5N",
+        "fecha": "Tue, 22 Sep 2026 08:38:00 -0300"
+      },
+      {
+        "titulo": "La brecha de imaginación: por qué el verdadero obstáculo en la adopción de IA no es técnico, sino estratégico",
+        "link": "https://www.infobae.com/opinion/2026/09/22/la-brecha-de-imaginacion-por-que-el-verdadero-obstaculo-en-la-adopcion-de-ia-no-es-tecnico-sino-estrategico/",
+        "imagen": "https://www.infobae.com/resizer/v2/KOGVYBOF7FDCBBYS2CQEBXBGGU.png?auth=e9e58182c20cf244512972b576b0a53f2831274a6f8cd9a3606a7ab3ea1c664a&smart=true&width=2752&height=1536",
+        "fuente": "Infobae",
+        "fecha": "Tue, 22 Sep 2026 11:42:48 +0000"
+      },
+      {
+        "titulo": "Las expectativas de los empresarios sobre el destino de la economía siguen en caída libre",
+        "link": "https://www.tiempoar.com.ar/ta_article/las-expectativas-de-los-empresarios-sobre-el-destino-de-la-economia-siguen-en-caida-libre/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 21 Sep 2026 21:56:21 +0000"
+      },
+      {
+        "titulo": "El Gobierno creó una mesa de trabajo para revisar las tasas aeronáuticas y cargos de la aviación comercial",
+        "link": "https://www.ambito.com/economia/el-gobierno-creo-una-mesa-trabajo-revisar-las-tasas-aeronauticas-y-cargos-la-aviacion-comercial-n6325072",
+        "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 22 Sep 2026 08:30:00 -0300"
+      },
+      {
+        "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este martes 22 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-martes-22-de-septiembre-de-2026_0_XYchfn8E6C.html",
+        "imagen": "https://www.clarin.com/img/2013/01/23/rJ4kl9llW_1200x630.jpg",
         "fuente": "Clarín",
         "fecha": "Tue, 22 Sep 2026 10:45:12 +0000"
       },
@@ -117,41 +152,6 @@
         "fecha": "Tue, 22 Sep 2026 11:26:29 +0000"
       },
       {
-        "titulo": "Las expectativas de los empresarios sobre el destino de la economía siguen en caída libre",
-        "link": "https://www.tiempoar.com.ar/ta_article/las-expectativas-de-los-empresarios-sobre-el-destino-de-la-economia-siguen-en-caida-libre/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 21 Sep 2026 21:56:21 +0000"
-      },
-      {
-        "titulo": "Impuestos: ARBA amplía su sistema digital y acelera los trámites para recuperar saldos a favor",
-        "link": "https://www.ambito.com/economia/impuestos-arba-amplia-su-sistema-digital-y-acelera-los-tramites-recuperar-saldos-favor-n6325074",
-        "imagen": "https://media.ambito.com/p/5f344d8a1fa338c288e903a6a07bb1d1/adjuntos/239/imagenes/041/287/0041287166/1200x675/smart/arba-barcosjpg.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 22 Sep 2026 08:04:00 -0300"
-      },
-      {
-        "titulo": "Euro hoy en Venezuela: precio y cotización de la divisa este martes 22 de septiembre de 2026",
-        "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-martes-22-de-septiembre-de-2026_0_XYchfn8E6C.html",
-        "imagen": "https://www.clarin.com/img/2013/01/23/rJ4kl9llW_1200x630.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 10:45:12 +0000"
-      },
-      {
-        "titulo": "Luis Caputo llegó a Estados Unidos antes que Javier Milei y se reunió con inversores",
-        "link": "https://www.c5n.com/economia/luis-caputo-viaje-estados-unidos-reuniones-21-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/83231bb3a319935432d7dec4d106700a/adjuntos/326/imagenes/000/338/0000338790/1200x675/smart/luis-caputo.jpg",
-        "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 17:28:00 -0300"
-      },
-      {
-        "titulo": "ANSES: quiénes cobran hoy, martes 22 de septiembre de 2026",
-        "link": "https://www.infobae.com/economia/2026/09/22/anses-quienes-cobran-hoy-martes-22-de-septiembre-de-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/YC3M2ZN6QNC3LEMAJDL6WCKRWQ.JPG?auth=436ef0eda315bd3c3d9e4bd2f0036138b4a1149672162eeb16907b62ec7cdbbc&smart=true&width=5311&height=2987",
-        "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 09:00:01 +0000"
-      },
-      {
         "titulo": "Las metalúrgicas cayeron 6,1% en agosto y para 7 de cada 10 empresarios el 2026 está perdido",
         "link": "https://www.tiempoar.com.ar/ta_article/las-metalurgicas-cayeron-61-en-agosto-y-para-7-de-cada-10-empresarios-el-2026-esta-perdido/",
         "imagen": "",
@@ -159,11 +159,11 @@
         "fecha": "Mon, 21 Sep 2026 16:12:21 +0000"
       },
       {
-        "titulo": "El INDEC aumenta las multas por falsear o no entregar información estadística: cuánto se deberá pagar",
-        "link": "https://www.ambito.com/economia/el-indec-aumenta-las-multas-falsear-o-no-entregar-informacion-estadistica-cuanto-se-debera-pagar-n6325071",
-        "imagen": "https://media.ambito.com/p/7a23eefc828bc0aeb07de23e6e19e47f/adjuntos/239/imagenes/043/433/0043433845/indec-ipc-inflacion.jpg",
+        "titulo": "Impuestos: ARBA amplía su sistema digital y acelera los trámites para recuperar saldos a favor",
+        "link": "https://www.ambito.com/economia/impuestos-arba-amplia-su-sistema-digital-y-acelera-los-tramites-recuperar-saldos-favor-n6325074",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Tue, 22 Sep 2026 07:51:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 08:04:00 -0300"
       },
       {
         "titulo": "Euro hoy en Paraguay: precio y cotización de la divisa este martes 22 de septiembre de 2026",
@@ -175,11 +175,11 @@
     ],
     "deportes": [
       {
-        "titulo": "El último baile: Lionel Messi presentó la nueva camiseta de la Selección argentina que usará en su despedida",
-        "link": "https://www.ambito.com/deportes/el-ultimo-baile-lionel-messi-presento-la-nueva-camiseta-la-seleccion-argentina-que-usara-su-despedida-n6324988",
-        "imagen": "",
+        "titulo": "Gianni Infantino hace campaña y promete proteger la independencia de la FIFA",
+        "link": "https://www.ambito.com/deportes/gianni-infantino-hace-campana-y-promete-proteger-la-independencia-la-fifa-n6325079",
+        "imagen": "https://media.ambito.com/p/10b2428879711c67dad77577993b97d0/adjuntos/239/imagenes/043/656/0043656754/1200x675/smart/infantino.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 19:05:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 08:43:00 -0300"
       },
       {
         "titulo": "El plan de Ponzio para que River recargue energías en el parate de 20 días: se viene un sprint final a todo o nada",
@@ -203,11 +203,18 @@
         "fecha": "Tue, 22 Sep 2026 11:39:56 +0000"
       },
       {
-        "titulo": "En medio de la Fecha FIFA: días y horarios para la fecha 11 del Torneo Clausura",
-        "link": "https://www.ole.com.ar/futbol-primera/despues-fecha-fifa-dias-horariuos-fecha-11-torneo-clausura-liga-profesional_0_0cIwJUllRb.html",
-        "imagen": "https://www.ole.com.ar/images/2026/06/25/vnJlugx2V_1200x630__1.jpg",
+        "titulo": "Ricardo Gareca con Olé: por qué nunca se disculpó con el hincha de Boca, \"como DT soy paternalista\", el cariño de Maradona y su mirada sobre las SAD",
+        "link": "https://www.ole.com.ar/futbol-primera/ricardo-gareca-futbol-boca-ole-sad_0_PctHudK1mA.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/22/Ut-O2So2b_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Tue, 22 Sep 2026 06:19:40 -0300"
+        "fecha": "Tue, 22 Sep 2026 08:30:26 -0300"
+      },
+      {
+        "titulo": "Si Scaloni deja la Selección, revelan que Tapia eligió a un DT campeón con Estudiantes",
+        "link": "https://www.eldia.com/deportes/si-scaloni-deja-la-seleccion-revelan-que-chiqui-tapia-eligio-a-un-dt-campeon-con-estudiantes-deportes_1790075640",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Tue, 22 Sep 2026 11:32:14 GMT"
       },
       {
         "titulo": "VIDEOS. Estudiantes, otra vez con la pólvora mojada, perdió con Lanús",
@@ -222,13 +229,6 @@
         "imagen": "",
         "fuente": "El Día Deportes",
         "fecha": "Tue, 22 Sep 2026 08:50:58 GMT"
-      },
-      {
-        "titulo": "Alexander Medina: “El equipo me representó”",
-        "link": "https://www.eldia.com/deportes/alexander-medina-el-equipo-me-represento-deportes_1790063659",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Tue, 22 Sep 2026 08:51:06 GMT"
       },
       {
         "titulo": "Alexander Medina infló el pecho a pesar de la derrota de Estudiantes y afirmó que faltó \"lo más importante\"",
@@ -252,11 +252,11 @@
         "fecha": "Mon, 21 Sep 2026 23:24:00 -0300"
       },
       {
-        "titulo": "Agónica clasificación: la Selección argentina empató contra Venezuela y está en las semifinales de los Juegos Suramericanos",
-        "link": "https://www.ambito.com/deportes/agonica-clasificacion-la-seleccion-argentina-empato-contra-venezuela-y-esta-las-semifinales-los-juegos-suramericanos-n6324965",
-        "imagen": "",
+        "titulo": "Del escándalo a las piñas en Boca, jugar con Messi en la Selección y brillar en Asia",
+        "link": "https://www.ambito.com/deportes/del-escandalo-las-pinas-boca-jugar-messi-la-seleccion-y-brillar-asia-n6324873",
+        "imagen": "https://media.ambito.com/p/fe23ca606fda3355a77cf2681bbe733c/adjuntos/239/imagenes/043/655/0043655490/1200x675/819x357:839x377/copa-argentina.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 21 Sep 2026 18:14:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 22:00:00 -0300"
       }
     ],
     "policiales_actualidad": [
@@ -368,11 +368,11 @@
         "fecha": "Mon, 21 Sep 2026 22:51:04 +0000"
       },
       {
-        "titulo": "Sydney J. Harris, escritor estadounidense: “El verdadero peligro no es que las computadoras comiencen a pensar como los hombres, sino que los hombres comiencen a pensar como las computadoras”",
-        "link": "https://www.infobae.com/cultura/2026/09/22/sydney-j-harris-escritor-estadounidense-el-verdadero-peligro-no-es-que-las-computadoras-comiencen-a-pensar-como-los-hombres-sino-que-los-hombres-comiencen-a-pensar-como-las-computadoras/",
-        "imagen": "https://www.infobae.com/resizer/v2/QGHI2OC7OFFZLALMCQX7YIRHXM.png?auth=54c3520006f360f7632d060b175153ef80907a4675bb1d4bfd19bfe82e9f7523&smart=true&width=2752&height=1536",
+        "titulo": "Pablo Larraín, director de ‘Mis muertos tristes’: “Mi prioridad era trasladar la literatura de Mariana Enriquez a imágenes sugerentes y relevantes”",
+        "link": "https://www.infobae.com/espana/cultura/2026/09/22/pablo-larrain-director-de-mis-muertos-tristes-mi-prioridad-era-trasladar-la-literatura-de-mariana-enriquez-a-imagenes-sugerentes-y-relevantes/",
+        "imagen": "https://www.infobae.com/resizer/v2/RJCDCEHAZG7HZOVSPGT2LMVDIM.jpg?auth=558fc000453f406dc2795ce9f0299527b4e920b1d4e3e4e80b785e58aee4f305&smart=true&width=5500&height=3667",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 11:23:00 +0000"
+        "fecha": "Tue, 22 Sep 2026 11:49:57 +0000"
       },
       {
         "titulo": "El poder de tener alternativas",
@@ -396,11 +396,11 @@
         "fecha": "Mon, 21 Sep 2026 22:21:03 +0000"
       },
       {
-        "titulo": "Hallaron muertos a 10 leones en una reserva de Tanzania declarada Patrimonio de la Unesco y sospechan que fueron envenenados",
-        "link": "https://www.infobae.com/america/mundo/2026/09/22/hallaron-muertos-a-10-leones-en-una-reserva-de-tanzania-declarada-patrimonio-de-la-unesco-y-sospechan-que-fueron-envenenados/",
-        "imagen": "https://www.infobae.com/resizer/v2/343BOPIXG5DQFDRFU5YO6EQXJA.jpg?auth=edfb5519083566c130465e58c75b4fad8eb7472efd3fe96bf7a9a9fd71d1f80c&smart=true&width=1862&height=1048",
+        "titulo": "Sydney J. Harris, escritor estadounidense: “El verdadero peligro no es que las computadoras comiencen a pensar como los hombres, sino que los hombres comiencen a pensar como las computadoras”",
+        "link": "https://www.infobae.com/cultura/2026/09/22/sydney-j-harris-escritor-estadounidense-el-verdadero-peligro-no-es-que-las-computadoras-comiencen-a-pensar-como-los-hombres-sino-que-los-hombres-comiencen-a-pensar-como-las-computadoras/",
+        "imagen": "https://www.infobae.com/resizer/v2/QGHI2OC7OFFZLALMCQX7YIRHXM.png?auth=54c3520006f360f7632d060b175153ef80907a4675bb1d4bfd19bfe82e9f7523&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 11:22:50 +0000"
+        "fecha": "Tue, 22 Sep 2026 11:23:00 +0000"
       },
       {
         "titulo": "Donald Trump contra CNN: otras cadenas frenan su cobertura en respaldo al canal",
@@ -424,11 +424,11 @@
         "fecha": "Mon, 21 Sep 2026 21:04:03 +0000"
       },
       {
-        "titulo": "Uruguay detectó una “escuela criminal” de bandas brasileñas: cómo el PCC y Os Manos expanden su influencia",
-        "link": "https://www.infobae.com/america/america-latina/2026/09/22/uruguay-detecto-una-escuela-criminal-de-bandas-brasilenas-como-el-pcc-y-os-manos-expanden-su-influencia/",
-        "imagen": "https://www.infobae.com/resizer/v2/DQCE3J73FFDMRLOZ4RSTR4QQ3U.jpg?auth=0808880aaaa0b72ba8ce1044033d49ce212fee152ea3fbf04573626995412b53&smart=true&width=1920&height=1080",
+        "titulo": "Hallaron muertos a 10 leones en una reserva de Tanzania declarada Patrimonio de la Unesco y sospechan que fueron envenenados",
+        "link": "https://www.infobae.com/america/mundo/2026/09/22/hallaron-muertos-a-10-leones-en-una-reserva-de-tanzania-declarada-patrimonio-de-la-unesco-y-sospechan-que-fueron-envenenados/",
+        "imagen": "https://www.infobae.com/resizer/v2/343BOPIXG5DQFDRFU5YO6EQXJA.jpg?auth=edfb5519083566c130465e58c75b4fad8eb7472efd3fe96bf7a9a9fd71d1f80c&smart=true&width=1862&height=1048",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 10:39:38 +0000"
+        "fecha": "Tue, 22 Sep 2026 11:22:50 +0000"
       }
     ],
     "espectaculos": [
@@ -447,11 +447,11 @@
         "fecha": "Mon, 21 Sep 2026 23:42:00 -0300"
       },
       {
-        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 22 de septiembre de 2026 en Argentina",
-        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-22-de-septiembre-de-2026-en-argentina_0_PTuWGgAntM.html",
-        "imagen": "https://www.clarin.com/img/2024/08/21/7EQxdTEMz_1200x630__1.jpg",
+        "titulo": "Presley Gerber: qué determinó la autopsia y la hipótesis de la sobredosis en la muerte del hijo de Cindy Crawford",
+        "link": "https://www.clarin.com/espectaculos/presley-gerber-hipotesis-sobredosis-sigue-investigacion-muerte-hijo-cindy-crawford_0_DxKaMdaoUD.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/zJFC8nklP_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 10:15:02 +0000"
+        "fecha": "Tue, 22 Sep 2026 10:49:00 +0000"
       },
       {
         "titulo": "Diego Torres tuvo que frenar su show por un problema técnico y su reacción se volvió viral: “Son cosas que pasan”",
@@ -475,11 +475,11 @@
         "fecha": "Mon, 21 Sep 2026 23:01:00 -0300"
       },
       {
-        "titulo": "Se cumplen 100 años del nacimiento del genial saxofonista John Coltrane, otro gran hijo del viento",
-        "link": "https://www.clarin.com/espectaculos/cumplen-100-anos-nacimiento-genial-saxofonista-john-coltrane-gran-hijo-viento_0_IgcZhmrbfD.html",
-        "imagen": "https://www.clarin.com/img/2018/11/28/spDxqF50z_1200x630__1.jpg",
+        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 22 de septiembre de 2026 en Argentina",
+        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-22-de-septiembre-de-2026-en-argentina_0_PTuWGgAntM.html",
+        "imagen": "https://www.clarin.com/img/2024/08/21/7EQxdTEMz_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 09:01:13 +0000"
+        "fecha": "Tue, 22 Sep 2026 10:15:02 +0000"
       },
       {
         "titulo": "La fuerte advertencia que Nicole Neumann recibió de su hermana antes de comenzar su relación con Manu Urcera",
@@ -503,11 +503,11 @@
         "fecha": "Mon, 21 Sep 2026 21:54:00 -0300"
       },
       {
-        "titulo": "La carta que Sydney Sweeney le escribió a Charles Manson para quedarse con un papel en la última película de Tarantino",
-        "link": "https://www.clarin.com/espectaculos/carta-sydney-sweeney-escribio-charles-manson-quedarse-papel-ultima-pelicula-tarantino_0_BmHRmuxmWB.html",
-        "imagen": "https://www.clarin.com/img/2026/09/14/uto-zo9WL_1200x630__1.jpg",
+        "titulo": "Se cumplen 100 años del nacimiento del genial saxofonista John Coltrane, otro gran hijo del viento",
+        "link": "https://www.clarin.com/espectaculos/cumplen-100-anos-nacimiento-genial-saxofonista-john-coltrane-gran-hijo-viento_0_IgcZhmrbfD.html",
+        "imagen": "https://www.clarin.com/img/2018/11/28/spDxqF50z_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 09:01:11 +0000"
+        "fecha": "Tue, 22 Sep 2026 09:01:13 +0000"
       },
       {
         "titulo": "La furia de Mauro Icardi contra el Ministerio de Transporte tras la inhabilitación de su licencia",
@@ -547,6 +547,13 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
+      },
+      {
         "titulo": "Las cinco alertas de la IA que ponen en vilo al mundo: de la extinción humana al empleo, la salud y la seguridad",
         "link": "https://www.ambito.com/tecnologia/las-cinco-alertas-la-ia-que-ponen-al-mundo-vilo-la-extincion-humana-al-empleo-la-salud-y-la-seguridad-n6322018",
         "imagen": "https://media.ambito.com/p/98e29f404da94dfcadea86c5939a0943/adjuntos/239/imagenes/043/640/0043640843/1200x675/869x343:889x363/ia-apocalispsis.png",
@@ -575,6 +582,13 @@
         "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       },
       {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
+      },
+      {
         "titulo": "Cirugía robótica asistida: llega a la Argentina una nueva generación de equipos más flexibles",
         "link": "https://www.ambito.com/tecnologia/cirugia-robotica-asistida-llega-la-argentina-una-nueva-generacion-equipos-mas-flexibles-n6321764",
         "imagen": "https://media.ambito.com/p/4180765cf5134caa0801822967b31b7f/adjuntos/239/imagenes/043/639/0043639396/1200x675/smart/image.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/f9e5ee4c1a7ff44574897c3e7e4c1e3c/adjuntos/326/imagenes/000/399/0000399776/1200x675/smart/asi-funciona-commaai-el-dispositivo-viral-que-permite-que-tu-auto-sea-semiautonomo.jpg",
         "fuente": "C5N",
         "fecha": "Mon, 21 Sep 2026 12:57:00 -0300"
-      },
-      {
-        "titulo": "El ataque realizado con agentes de IA de OpenAI a Hugging Face evidencia riesgos de perder el control de esta tecnología, según la ONU",
-        "link": "https://www.infobae.com/tecno/2026/09/22/el-ataque-realizado-con-agentes-de-ia-de-openai-a-hugging-face-evidencia-riesgos-de-perder-el-control-de-esta-tecnologia-segun-la-onu/",
-        "imagen": "https://www.infobae.com/resizer/v2/B56HQMC5K5GB7B2RECXAIUS5VQ.JPG?auth=da5815e12ba55788aeb7cf776872a91be24c60704f322db70fd1b97484a2e70b&smart=true&width=5579&height=3720",
-        "fuente": "Infobae Tecno",
-        "fecha": "Tue, 22 Sep 2026 03:52:24 +0000"
-      },
-      {
-        "titulo": "“Nuestro software de genética forense colaboró para que hoy haya un violador menos en la calle y para que cuatro víctimas obtuvieran justicia”",
-        "link": "https://www.agenciacyta.org.ar/2026/08/nuestro-software-de-genetica-forense-colaboro-para-que-hoy-haya-un-violador-menos-en-la-calle-y-para-que-cuatro-victimas-obtuvieran-justicia/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 31 Aug 2026 13:56:10 +0000"
       }
     ],
     "autos": [
@@ -777,6 +777,13 @@
         "fecha": "Tue, 22 Sep 2026 09:00:01 +0000"
       },
       {
+        "titulo": "Skinimalismo: cómo armar una rutina facial simple y qué tener en cuenta al incorporar nuevos productos",
+        "link": "https://www.infobae.com/salud/2026/09/22/skinimalismo-como-armar-una-rutina-facial-simple-y-que-tener-en-cuenta-al-incorporar-nuevos-productos/",
+        "imagen": "https://www.infobae.com/resizer/v2/LP6U55DVQNBF5KFKV6HY4L3ZEQ.png?auth=6c7e58fcfc0f1df72918a799b0ecb8512b432b7faac0b0658926934310dc5f42&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Tue, 22 Sep 2026 09:00:01 +0000"
+      },
+      {
         "titulo": "Cómo impacta el consumo de cafeína en el descanso de los adolescentes",
         "link": "https://www.infobae.com/salud/2026/09/22/como-impacta-el-consumo-de-cafeina-en-el-descanso-de-los-adolescentes/",
         "imagen": "https://www.infobae.com/resizer/v2/JE56UMUICZF6VPZ5X72GVXD7RU.png?auth=1c13110311dbdbfe903eb6d2824ed78beb2c15c130229c82b9b82ff3a9b1a484&smart=true&width=2752&height=1536",
@@ -787,13 +794,6 @@
         "titulo": "Pasar más de 8 horas sentado eleva el riesgo de problemas en la próstata y la vejiga: las señales que no conviene ignorar",
         "link": "https://www.infobae.com/salud/2026/09/22/pasar-mas-de-8-horas-sentado-eleva-el-riesgo-de-problemas-en-la-prostata-y-la-vejiga-las-senales-que-no-conviene-ignorar/",
         "imagen": "https://www.infobae.com/resizer/v2/3JEKNHTJIVAMBPXM7N2H7K6O3U.png?auth=f3834325464f1c95c55e03ec44480f908caf75493251fb9f8243007f0b2cf81d&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 22 Sep 2026 09:00:01 +0000"
-      },
-      {
-        "titulo": "Skinimalismo: cómo armar una rutina facial simple y qué tener en cuenta al incorporar nuevos productos",
-        "link": "https://www.infobae.com/salud/2026/09/22/skinimalismo-como-armar-una-rutina-facial-simple-y-que-tener-en-cuenta-al-incorporar-nuevos-productos/",
-        "imagen": "https://www.infobae.com/resizer/v2/LP6U55DVQNBF5KFKV6HY4L3ZEQ.png?auth=6c7e58fcfc0f1df72918a799b0ecb8512b432b7faac0b0658926934310dc5f42&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Tue, 22 Sep 2026 09:00:01 +0000"
       },
@@ -828,11 +828,11 @@
         "fecha": "Sun, 20 Sep 2026 07:50:00 -0300"
       },
       {
-        "titulo": "El relato que complica al DT de hockey acusado de abuso: \"Entraba desnudo cuando me duchaba\"",
-        "link": "https://www.eldia.com/policiales/el-relato-que-complica-al-entrenador-de-hockey-acusado-de-abusar-de-ex-jugadora-de-las-leonas-policiales_1790075760",
+        "titulo": "Si Scaloni deja la Selección, revelan que Tapia eligió a un DT campeón con Estudiantes",
+        "link": "https://www.eldia.com/deportes/si-scaloni-deja-la-seleccion-revelan-que-chiqui-tapia-eligio-a-un-dt-campeon-con-estudiantes-deportes_1790075640",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 11:42:22 GMT"
+        "fecha": "Tue, 22 Sep 2026 11:32:14 GMT"
       },
       {
         "titulo": "Tras una semana de búsqueda, encontraron en La Plata a Marito y ya está con su familia",
@@ -856,11 +856,11 @@
         "fecha": "Sat, 19 Sep 2026 12:42:00 -0300"
       },
       {
-        "titulo": "Mauro Icardi filoso contra el Ministerio de Transporte por inhabilitar su licencia",
-        "link": "https://www.eldia.com/espectaculos/mauro-icardi-filoso-contra-el-ministerio-de-transporte-por-inhabilitar-su-licencia-espectaculos_1790074440",
+        "titulo": "Luis Miguel anunció el Tour 2027 en sus redes sociales, los detalles",
+        "link": "https://www.eldia.com/espectaculos/luis-miguel-anuncio-el-tour-2027-en-sus-redes-sociales-los-detalles-espectaculos_1790075100",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 11:14:00 GMT"
+        "fecha": "Tue, 22 Sep 2026 11:23:44 GMT"
       },
       {
         "titulo": "Arrancá la mañana con información y entretenimiento en el streaming de 0221 Play",
@@ -884,11 +884,11 @@
         "fecha": "Sat, 19 Sep 2026 12:25:00 -0300"
       },
       {
-        "titulo": "Reino Unido desafía a Argentina por el petróleo en Malvinas: extendió por 5 años las licencias offshore",
-        "link": "https://www.eldia.com/politica-y-economia/petroleo-en-malvinas-reino-unido-extendio-por-5-anos-las-licencias-offshore-politica-y-economia_1790074200",
+        "titulo": "Se mueve el rating: Telefe sufrió las consecuencias del final de Gran Hermano y El Trece lo aprovechó",
+        "link": "https://www.eldia.com/espectaculos/se-mueve-el-rating-telefe-sufrio-las-consecuencias-del-final-de-gran-hermano-y-el-trece-lo-aprovecho-espectaculos_1790073840",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 10:59:40 GMT"
+        "fecha": "Tue, 22 Sep 2026 10:53:40 GMT"
       }
     ]
   }
