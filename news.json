@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-22T23:13:33.793434+00:00",
+  "actualizado": "2026-09-22T23:29:22.849127+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "ATE convocó a una marcha por los despidos en IOSFA/OSFA",
+        "link": "https://www.ambito.com/politica/ate-convoco-una-marcha-los-despidos-iosfaosfa-n6325494",
+        "imagen": "https://media.ambito.com/p/0e319075eecd7e13a3aa240ec5ac9c07/adjuntos/239/imagenes/043/565/0043565135/1200x675/smart/ate-rodolfo-aguiar.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 22 Sep 2026 20:09:00 -0300"
+      },
+      {
+        "titulo": "Avanzan contra las juezas que fallaron contra el Régimen Penal Juvenil, con un jury en la Ciudad y un juicio político en Provincia",
+        "link": "https://www.clarin.com/politica/avanzan-juezas-fallaron-regimen-penal-juvenil-jury-ciudad-juicio-politico-provincia_0_sjhoiTiZss.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/69ejiCgYt_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 22 Sep 2026 22:25:32 +0000"
+      },
+      {
+        "titulo": "Malvinas: Andy Burnham confirmó que habló con Donald Trump sobre las islas y prepara fuerte respuesta a Javier Milei ante la ONU",
+        "link": "https://www.ambito.com/mundo/malvinas-andy-burnham-confirmo-que-hablo-donald-trump-las-islas-y-prepara-fuerte-respuesta-javier-milei-la-onu-n6325474",
+        "imagen": "https://media.ambito.com/p/6e0e97ff017537018c28d18b95de9e0f/adjuntos/239/imagenes/043/659/0043659065/1200x675/635x352:655x372/andy-burnham-y-donald-trump-onu-casa-blanca.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Tue, 22 Sep 2026 19:40:00 -0300"
+      },
+      {
+        "titulo": "Malvinas: el Gobierno presentó una protesta contra el Reino Unido antes del discurso de Javier Milei en la ONU",
+        "link": "https://www.c5n.com/politica/malvinas-el-gobierno-presento-una-protesta-contra-el-reino-unido-antes-del-discurso-javier-milei-la-onu-n249640",
+        "imagen": "https://media.c5n.com/p/2d8bac851452091e480ad747ba6a4006/adjuntos/326/imagenes/000/397/0000397557/1200x675/smart/sea-lion-malvinas.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 22 Sep 2026 20:18:00 -0300"
+      },
+      {
+        "titulo": "Kicillof abrió su gira en EEUU: se juntó con fondos de inversión para dar una señal a Wall Street",
+        "link": "https://www.infobae.com/politica/2026/09/22/kicillof-abrio-su-gira-en-eeuu-se-junto-con-fondos-de-inversion-para-dar-una-senal-a-wall-street/",
+        "imagen": "https://www.infobae.com/resizer/v2/PCSLTM776NEGDJI4TN5DTMWAEY.JPG?auth=056bbfacc37b8f0f7f8a5052cad35409d2e07117892e28cfdeca3c5f597ff2d8&smart=true&width=4587&height=3058",
+        "fuente": "Infobae",
+        "fecha": "Tue, 22 Sep 2026 23:24:20 +0000"
+      },
+      {
+        "titulo": "Menem se reunió con aliados para tratar de evitar otra derrota con el tema Discapacidad",
+        "link": "https://www.tiempoar.com.ar/ta_article/menem-se-reunio-con-aliados-para-tratar-de-evitar-otra-derrota-con-el-tema-discapacidad/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 22 Sep 2026 23:24:29 +0000"
+      },
       {
         "titulo": "Patricia Bullrich volvió a patear el tablero y divide aguas en su propio bloque de senadores",
         "link": "https://www.ambito.com/politica/patricia-bullrich-volvio-patear-el-tablero-y-divide-aguas-su-propio-bloque-senadores-n6325453",
@@ -10,18 +52,18 @@
         "fecha": "Tue, 22 Sep 2026 19:50:00 -0300"
       },
       {
-        "titulo": "Adorni sigue con custodia y auto oficial hasta diciembre por una decisión \"política\" del Gobierno",
-        "link": "https://www.clarin.com/politica/adorni-sigue-custodia-auto-oficial-diciembre-decision-politica-gobierno_0_RjGd87LaYR.html",
-        "imagen": "https://www.clarin.com/img/2026/06/30/bTKJ6eH32_1200x630__1.jpg",
+        "titulo": "Karina Milei valoró la reunión con la Provincia y la Ciudad por la visita del papa León XIV: \"Logró que se hayan juntado todas las fuerzas políticas\"",
+        "link": "https://www.clarin.com/politica/karina-milei-valoro-reunion-provincia-ciudad-visita-papa-leon-xiv-logro-juntado-todas-fuerzas-politicas_0_jEOj3m3k2X.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/jiFPdFALP_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 22:12:48 +0000"
+        "fecha": "Tue, 22 Sep 2026 22:21:00 +0000"
       },
       {
-        "titulo": "Malvinas: Andy Burnham confirmó que habló con Donald Trump sobre las islas y prepara fuerte respuesta a Javier Milei ante la ONU",
-        "link": "https://www.ambito.com/mundo/malvinas-andy-burnham-confirmo-que-hablo-donald-trump-las-islas-y-prepara-fuerte-respuesta-javier-milei-la-onu-n6325474",
-        "imagen": "https://media.ambito.com/p/6e0e97ff017537018c28d18b95de9e0f/adjuntos/239/imagenes/043/659/0043659065/1200x675/635x352:655x372/andy-burnham-y-donald-trump-onu-casa-blanca.jpg",
+        "titulo": "Donald Trump protagonizó un tenso cruce con una periodista de CNN",
+        "link": "https://www.ambito.com/mundo/donald-trump-protagonizo-un-tenso-cruce-una-periodista-cnn-n6325304",
+        "imagen": "https://media.ambito.com/p/3d9b745b697d34ec7ac75e09e575505e/adjuntos/239/imagenes/043/658/0043658138/trump-onu.jpg",
         "fuente": "Ámbito Mundo",
-        "fecha": "Tue, 22 Sep 2026 19:40:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 14:38:00 -0300"
       },
       {
         "titulo": "Discapacidad: tras el conflicto por el Presupuesto, el Gobierno presentó su propuesta \"superadora\"",
@@ -43,48 +85,6 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Tue, 22 Sep 2026 22:48:49 +0000"
-      },
-      {
-        "titulo": "Javier Milei coincidió con Donald Trump en la cumbre del Escudo de las Américas pero hubo foto",
-        "link": "https://www.ambito.com/politica/javier-milei-coincidio-donald-trump-la-cumbre-del-escudo-las-americas-pero-hubo-foto-n6325457",
-        "imagen": "https://media.ambito.com/p/b98ac496cde043fd81d788bfe188c72b/adjuntos/239/imagenes/043/658/0043658874/milei-escudo-las-americas.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 22 Sep 2026 19:31:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno decretará feriado nacional el 9 de noviembre por la visita de León XIV",
-        "link": "https://www.clarin.com/politica/gobierno-decretara-feriado-nacional-9-noviembre-visita-leon-xiv_0_ACoSweHuF6.html",
-        "imagen": "https://www.clarin.com/img/2026/09/22/jiFPdFALP_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 22:05:45 +0000"
-      },
-      {
-        "titulo": "Donald Trump protagonizó un tenso cruce con una periodista de CNN",
-        "link": "https://www.ambito.com/mundo/donald-trump-protagonizo-un-tenso-cruce-una-periodista-cnn-n6325304",
-        "imagen": "https://media.ambito.com/p/3d9b745b697d34ec7ac75e09e575505e/adjuntos/239/imagenes/043/658/0043658138/trump-onu.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Tue, 22 Sep 2026 14:38:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno confirmó que el día 9 de noviembre será feriado por la visita del papa León XIV",
-        "link": "https://www.c5n.com/politica/el-gobierno-confirmo-que-el-dia-9-noviembre-sera-feriado-la-visita-del-papa-leon-xiv-n249633",
-        "imagen": "https://media.c5n.com/p/b2bd85fa8138f99bcc6aee0310aae0cd/adjuntos/326/imagenes/000/400/0000400005/1200x675/smart/reunion-episcopado.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 22 Sep 2026 19:00:00 -0300"
-      },
-      {
-        "titulo": "Karina Milei: “El Papa es de todos los argentinos, no de un color político”",
-        "link": "https://www.infobae.com/politica/2026/09/22/karina-milei-el-papa-es-de-todos-los-argentinos-no-de-un-color-politico/",
-        "imagen": "https://www.infobae.com/resizer/v2/HM3TJIXAIRD5TLEAM2I7UMT3XU.jpg?auth=9af8092427c6f150e271dd3ec882ba7893a2ff0cf49c4464b940b69f66496ffb&smart=true&width=1280&height=854",
-        "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 22:52:51 +0000"
-      },
-      {
-        "titulo": "Milei en Nueva York: Malvinas como eje de su mensaje en la ONU y batalla cultural en el Citibank",
-        "link": "https://www.tiempoar.com.ar/ta_article/milei-en-nueva-york-malvinas-como-eje-de-su-mensaje-en-la-onu-y-batalla-cultural-en-el-citibank/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Tue, 22 Sep 2026 22:36:05 +0000"
       }
     ],
     "economia": [
@@ -114,7 +114,7 @@
         "link": "https://www.infobae.com/economia/2026/09/22/argentina-y-eeuu-firmaran-un-acuerdo-de-inversiones-para-infraestructura-incluye-usd-6000-millones-para-el-proyecto-exportador-de-gas/",
         "imagen": "https://www.infobae.com/resizer/v2/MYR64DPZERCLPLPTZHDHDWQI24.JPG?auth=5a257ae3e2e3babb1a571004c5a85855be34cf6954a3a8921de2285c8cd67d71&smart=true&width=2394&height=1596",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 23:05:02 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:24:38 +0000"
       },
       {
         "titulo": "Los servicios públicos se llevan casi el 15% del salario en septiembre",
@@ -231,6 +231,13 @@
         "fecha": "Tue, 22 Sep 2026 18:54:05 GMT"
       },
       {
+        "titulo": "Santiago Arzamendia contó cómo está tras su dura lesión y dejó una noticia esperada en Estudiantes",
+        "link": "https://www.0221.com.ar/estudiantes/santiago-arzamendia-conto-como-esta-su-dura-lesion-y-dejo-una-noticia-esperada-estudiantes-n134626",
+        "imagen": "https://media.0221.com.ar/p/8771f0d94411121e7fc7ec2741b805a7/adjuntos/357/imagenes/100/296/0100296933/1200x630/1329x788:1349x808/santiago-arzamendia-no-juegan-nadie-estudiantes.jpeg",
+        "fuente": "0221 Deportes",
+        "fecha": "Tue, 22 Sep 2026 20:14:00 -0300"
+      },
+      {
         "titulo": "Flamengo recibió otra mala noticia: Gonzalo Plata se lesionó y peligra su presencia ante Estudiantes",
         "link": "https://www.0221.com.ar/estudiantes/flamengo-recibio-otra-mala-noticia-gonzalo-plata-se-lesiono-y-peligra-su-presencia-estudiantes-n134634",
         "imagen": "https://media.0221.com.ar/p/92590cf7d2211a0250de3714f24c6820/adjuntos/357/imagenes/100/249/0100249175/1200x630/smart/gonzalo-plata-flamengo.png",
@@ -243,13 +250,6 @@
         "imagen": "https://media.0221.com.ar/p/d46dc75c70b95469d504aaa2ff0a0107/adjuntos/357/imagenes/100/275/0100275610/1200x630/690x460:710x480/estudiantes-gimnasia-reserva-lopez-garcia-pierani.png",
         "fuente": "0221 Deportes",
         "fecha": "Tue, 22 Sep 2026 19:49:00 -0300"
-      },
-      {
-        "titulo": "Cambio en la venta de entradas para la despedida de Lionel Messi: ¿cuándo y cómo se venderán?",
-        "link": "https://www.0221.com.ar/deportes/cambio-la-venta-entradas-la-despedida-lionel-messi-cuando-y-como-se-venderan-n134624",
-        "imagen": "https://media.0221.com.ar/p/d90a807d2023f94ad68a36d24b01b506/adjuntos/357/imagenes/100/287/0100287707/1200x630/smart/messi-mundial-2026-argentina.png",
-        "fuente": "0221 Deportes",
-        "fecha": "Tue, 22 Sep 2026 18:42:00 -0300"
       },
       {
         "titulo": "Selección argentina: se pospuso la venta de entradas para los partidos contra Burkina Faso y Benín en el Monumental",
@@ -268,11 +268,11 @@
         "fecha": "Tue, 22 Sep 2026 21:03:55 +0000"
       },
       {
-        "titulo": "Visita del papa León XIV a Córdoba: qué pasará con el feriado del martes 10 de noviembre",
-        "link": "https://www.c5n.com/sociedad/visita-del-papa-leon-xiv-cordoba-que-pasara-el-feriado-del-martes-10-noviembre-n249639",
-        "imagen": "https://media.c5n.com/p/3fd53fccbd95f1507e2e3a74b2818aff/adjuntos/326/imagenes/000/400/0000400010/1200x675/smart/catedral-cordoba.JPG",
+        "titulo": "Visita del papa León XIV: quiénes podrán viajar gratis con tarjeta SUBE",
+        "link": "https://www.c5n.com/sociedad/visita-del-papa-leon-xiv-quienes-podran-viajar-gratis-tarjeta-sube-n249636",
+        "imagen": "https://media.c5n.com/p/f22c9cc8acdc8853d104c57e4e01d14b/adjuntos/326/imagenes/000/282/0000282397/1200x675/smart/medios-pago-sube.png",
         "fuente": "C5N",
-        "fecha": "Tue, 22 Sep 2026 19:47:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 20:10:25 -0300"
       },
       {
         "titulo": "Conmoción en Córdoba: un adolescente de 16 años fue asesinado y detuvieron a su padrastro y a su hijo de 17 años",
@@ -289,11 +289,11 @@
         "fecha": "Tue, 22 Sep 2026 20:46:14 +0000"
       },
       {
-        "titulo": "Visita del papa León XIV: qué pasará con el feriado del miércoles 11 de noviembre en CABA y Provincia",
-        "link": "https://www.c5n.com/sociedad/visita-del-papa-leon-xiv-que-pasara-el-feriado-del-miercoles-11-noviembre-caba-y-provincia-n249637",
-        "imagen": "https://media.c5n.com/p/d2bcaf55724942ec32a2a919a7929967/adjuntos/326/imagenes/000/310/0000310250/1200x675/smart/basilica-lujan.png",
+        "titulo": "Visita del papa León XIV a Córdoba: qué pasará con el feriado del martes 10 de noviembre",
+        "link": "https://www.c5n.com/sociedad/visita-del-papa-leon-xiv-cordoba-que-pasara-el-feriado-del-martes-10-noviembre-n249639",
+        "imagen": "https://media.c5n.com/p/3fd53fccbd95f1507e2e3a74b2818aff/adjuntos/326/imagenes/000/400/0000400010/1200x675/smart/catedral-cordoba.JPG",
         "fuente": "C5N",
-        "fecha": "Tue, 22 Sep 2026 19:36:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 19:47:00 -0300"
       },
       {
         "titulo": "Tras el choque, la defensa de “Pity” Álvarez hizo una presentación urgente ante la Justicia: “No puede permanecer solo”",
@@ -310,11 +310,11 @@
         "fecha": "Tue, 22 Sep 2026 19:26:25 +0000"
       },
       {
-        "titulo": "Desesperada búsqueda de un joven de 18 años en Caballito: se fue de su casa con los ahorros de su mamá",
-        "link": "https://www.c5n.com/sociedad/desesperada-busqueda-un-joven-18-anos-caballito-se-fue-su-casa-los-ahorros-su-mama-n249625",
-        "imagen": "",
+        "titulo": "Visita del papa León XIV: qué pasará con el feriado del miércoles 11 de noviembre en CABA y Provincia",
+        "link": "https://www.c5n.com/sociedad/visita-del-papa-leon-xiv-que-pasara-el-feriado-del-miercoles-11-noviembre-caba-y-provincia-n249637",
+        "imagen": "https://media.c5n.com/p/d2bcaf55724942ec32a2a919a7929967/adjuntos/326/imagenes/000/310/0000310250/1200x675/smart/basilica-lujan.png",
         "fuente": "C5N",
-        "fecha": "Tue, 22 Sep 2026 18:19:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 19:36:00 -0300"
       },
       {
         "titulo": "Horror en Pergamino: encontraron muerta a una pareja e investigan un presunto femicidio seguido de suicidio",
@@ -331,11 +331,11 @@
         "fecha": "Tue, 22 Sep 2026 17:17:38 +0000"
       },
       {
-        "titulo": "\"Pedir justicia no debería ser una lucha\": el desgarrador reclamo de la mamá de una joven muerta tras ser atropellada",
-        "link": "https://www.c5n.com/sociedad/pedir-justicia-no-deberia-ser-una-lucha-el-desgarrador-reclamo-la-mama-una-joven-muerta-ser-atropellada-n249607",
-        "imagen": "https://media.c5n.com/p/d852a3f46436888036e23f0d49b431a4/adjuntos/326/imagenes/000/399/0000399966/1200x675/smart/stephanie-ailen-fonseca.jpg",
+        "titulo": "Desesperada búsqueda de un joven de 18 años en Caballito: se fue de su casa con los ahorros de su mamá",
+        "link": "https://www.c5n.com/sociedad/desesperada-busqueda-un-joven-18-anos-caballito-se-fue-su-casa-los-ahorros-su-mama-n249625",
+        "imagen": "",
         "fuente": "C5N",
-        "fecha": "Tue, 22 Sep 2026 18:12:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 18:19:00 -0300"
       },
       {
         "titulo": "Citaron a indagatoria al hombre que amenazó a Homero Pettinato en la puerta de su trabajo",
@@ -361,18 +361,18 @@
         "fecha": "Tue, 22 Sep 2026 15:49:00 -0300"
       },
       {
-        "titulo": "Asamblea de la ONU: Lula da Silva dijo que \"Brasil no es el patio trasero de nadie\" y evitó al canciller de Estados Unidos",
-        "link": "https://www.clarin.com/mundo/asamblea-onu-lula-da-silva-dijo-brasil-patio-trasero-nadie-evito-canciller-estados-unidos_0_b2Z2aQLG78.html",
-        "imagen": "https://www.clarin.com/img/2026/09/22/S2Ojze1oa_1200x630__1.jpg",
+        "titulo": "Italia: Giorgia Meloni vuelve a defender el tope para extranjeros en las aulas",
+        "link": "https://www.clarin.com/mundo/italia-giorgia-meloni-vuelve-defender-tope-extranjeros-aulas_0_VDPsoN5BS5.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/RdT33eiPX_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 21:01:17 +0000"
+        "fecha": "Tue, 22 Sep 2026 22:26:22 +0000"
       },
       {
-        "titulo": "Abelardo de la Espriella solicita a Laura Fernández eliminar el requisito de visa para que los colombianos ingresen a Costa Rica",
-        "link": "https://www.infobae.com/costa-rica/2026/09/22/abelardo-de-la-espriella-solicita-a-laura-fernandez-eliminar-el-requisito-de-visa-para-que-los-colombianos-ingresen-a-costa-rica/",
-        "imagen": "https://www.infobae.com/resizer/v2/O5ULPVQBBVE2ZHFPRXNVNLIHVY.png?auth=94d0bdd3180dffa3065959c68c31a59cbf6f3945f70828c99a003ededdbd6a92&smart=true&width=1940&height=1084",
+        "titulo": "México Digital Summit 2026: el encuentro que definirá la agenda tecnológica del país",
+        "link": "https://www.infobae.com/america/historia-america/2026/09/22/mexico-digital-summit-2026-el-encuentro-que-definira-la-agenda-tecnologica-del-pais/",
+        "imagen": "https://www.infobae.com/resizer/v2/ROBVTJHJ3NGQRB2NHJK2UOHYRU.JPG?auth=a17378dadf36f69f0c7df5c3ab8817bc24cdfadca450382fefb8c0413280b122&smart=true&width=1920&height=1081",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 23:07:57 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:20:43 +0000"
       },
       {
         "titulo": "Donald Trump protagonizó un tenso cruce con una periodista de CNN",
@@ -389,18 +389,18 @@
         "fecha": "Tue, 22 Sep 2026 14:30:00 -0300"
       },
       {
-        "titulo": "México: el huracán Polo ya alcanzó la categoría 5 y se convirtió en una tormenta \"extremadamente peligrosa\"",
-        "link": "https://www.clarin.com/mundo/mexico-huracan-polo-alcanzo-categoria-5-convirtio-tormenta-extremadamente-peligrosa_0_7rW8V2NDmb.html",
-        "imagen": "https://www.clarin.com/img/2026/09/22/uWKfNBGAC_1200x630__1.jpg",
+        "titulo": "Asamblea de la ONU: Lula da Silva dijo que \"Brasil no es el patio trasero de nadie\" y evitó al canciller de Estados Unidos",
+        "link": "https://www.clarin.com/mundo/asamblea-onu-lula-da-silva-dijo-brasil-patio-trasero-nadie-evito-canciller-estados-unidos_0_b2Z2aQLG78.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/S2Ojze1oa_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 20:36:15 +0000"
+        "fecha": "Tue, 22 Sep 2026 21:01:17 +0000"
       },
       {
-        "titulo": "Panamá expone ante Citi plan de $8,500 millones y recibe llamado para cuidar el grado de inversión",
-        "link": "https://www.infobae.com/panama/2026/09/22/panama-expone-ante-citi-plan-de-8500-millones-y-recibe-llamado-para-cuidar-el-grado-de-inversion/",
-        "imagen": "https://www.infobae.com/resizer/v2/GHZHKDCOXVA7DLO4LZQMZ7BIFQ.jpg?auth=29eb2ea94a67a901854ad52c0bd39100c41d70800e3eb7e367e487ead23baf64&smart=true&width=4096&height=2732",
+        "titulo": "Abelardo de la Espriella solicita a Laura Fernández eliminar el requisito de visa para que los colombianos ingresen a Costa Rica",
+        "link": "https://www.infobae.com/costa-rica/2026/09/22/abelardo-de-la-espriella-solicita-a-laura-fernandez-eliminar-el-requisito-de-visa-para-que-los-colombianos-ingresen-a-costa-rica/",
+        "imagen": "https://www.infobae.com/resizer/v2/O5ULPVQBBVE2ZHFPRXNVNLIHVY.png?auth=94d0bdd3180dffa3065959c68c31a59cbf6f3945f70828c99a003ededdbd6a92&smart=true&width=1940&height=1084",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 23:05:44 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:07:57 +0000"
       },
       {
         "titulo": "Corea del Norte prueba una nueva arma y Kim Jong-un amenaza con un \"dolor de cabeza incurable\" para sus enemigos",
@@ -417,18 +417,18 @@
         "fecha": "Tue, 22 Sep 2026 12:49:00 -0300"
       },
       {
-        "titulo": "Mark Coeckelbergh, filósofo y asesor de la ONU en Inteligencia Artificial: \"Los tecnócratas posicionan a la IA como un fenómeno apocalíptico para legitimarse ante la sociedad\"",
-        "link": "https://www.clarin.com/mundo/mark-coeckelbergh-filosofo-asesor-onu-inteligencia-artificial-tecnocratas-posicionan-ia-fenomeno-apocaliptico-legitimarse-sociedad_0_9OwIaaCxSY.html",
-        "imagen": "https://www.clarin.com/img/2026/09/22/1akDCixkO_1200x630__1.jpg",
+        "titulo": "México: el huracán Polo ya alcanzó la categoría 5 y se convirtió en una tormenta \"extremadamente peligrosa\"",
+        "link": "https://www.clarin.com/mundo/mexico-huracan-polo-alcanzo-categoria-5-convirtio-tormenta-extremadamente-peligrosa_0_7rW8V2NDmb.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/uWKfNBGAC_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 22 Sep 2026 19:31:16 +0000"
+        "fecha": "Tue, 22 Sep 2026 20:36:15 +0000"
       },
       {
-        "titulo": "El partido 500 de la historia de la Liga de Naciones Concacaf tendrá lugar en una pequeña isla del Caribe",
-        "link": "https://www.infobae.com/el-salvador/2026/09/22/el-partido-500-de-la-historia-de-la-liga-de-naciones-concacaf-tendra-lugar-en-una-pequena-isla-del-caribe/",
-        "imagen": "https://www.infobae.com/resizer/v2/NA6AE6EQHVGYZDN6QBUHB4DXDI.jpg?auth=b0b61686e749ee699a5454ea326625d27591a72925534ee4a55312f7ff570c2b&smart=true&width=832&height=468",
+        "titulo": "Panamá expone ante Citi plan de $8,500 millones y recibe llamado para cuidar el grado de inversión",
+        "link": "https://www.infobae.com/panama/2026/09/22/panama-expone-ante-citi-plan-de-8500-millones-y-recibe-llamado-para-cuidar-el-grado-de-inversion/",
+        "imagen": "https://www.infobae.com/resizer/v2/GHZHKDCOXVA7DLO4LZQMZ7BIFQ.jpg?auth=29eb2ea94a67a901854ad52c0bd39100c41d70800e3eb7e367e487ead23baf64&smart=true&width=4096&height=2732",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 23:02:22 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:05:44 +0000"
       }
     ],
     "espectaculos": [
@@ -454,11 +454,11 @@
         "fecha": "Tue, 22 Sep 2026 20:37:18 +0000"
       },
       {
-        "titulo": "La terrible amenaza que recibió Denisse González de una fanática de Bautista Mascia: “¿Cuándo te vas a morir?”",
-        "link": "https://www.infobae.com/teleshow/2026/09/22/la-terrible-amenaza-que-recibio-denisse-gonzalez-de-una-fanatica-de-bautista-mascia-cuando-te-vas-a-morir/",
-        "imagen": "https://www.infobae.com/resizer/v2/4644XGCYD5CPFBE34TEPT2ACDI.png?auth=05f20e90de109b83d10c7337bf49444c765407f5f332adb83ebda96fb40ef0d5&smart=true&width=1920&height=1080",
+        "titulo": "Evangelina Anderson contó que la persigue un acosador y Vero Lozano lo enfrentó al aire: “Sabemos quién sos”",
+        "link": "https://www.infobae.com/teleshow/2026/09/22/evangelina-anderson-conto-que-la-persigue-un-acosador-y-vero-lozano-lo-enfrento-al-aire-sabemos-quien-sos/",
+        "imagen": "https://www.infobae.com/resizer/v2/EKY7ZIRA7JGLNKDUNGVPXX5KRY.jpg?auth=0baf772316ba18694a7b4a6844d5bb81bdd490c213b126fa8866dd58f9f2bf1c&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 22:41:57 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:25:06 +0000"
       },
       {
         "titulo": "George Michael será homenajeado en los MTV Video Music Awards con un show tributo",
@@ -482,11 +482,11 @@
         "fecha": "Tue, 22 Sep 2026 19:30:12 +0000"
       },
       {
-        "titulo": "Habló un amigo del hombre que amenazó a Homero Pettinato: \"Cuando murió la madre, un tío lo internó\"",
-        "link": "https://www.infobae.com/teleshow/2026/09/22/hablo-un-amigo-del-hombre-que-amenazo-a-homero-pettinato-cuando-murio-la-madre-un-tio-lo-interno/",
-        "imagen": "https://www.infobae.com/resizer/v2/FEC3OGQQM5H35N464OWP222G6E.png?auth=b242014fa85bcdd5fb97091ff89dbb5075f0f05f5c51758ff415e701225a6a4d&smart=true&width=2752&height=1536",
+        "titulo": "La terrible amenaza que recibió Denisse González de una fanática de Bautista Mascia: “¿Cuándo te vas a morir?”",
+        "link": "https://www.infobae.com/teleshow/2026/09/22/la-terrible-amenaza-que-recibio-denisse-gonzalez-de-una-fanatica-de-bautista-mascia-cuando-te-vas-a-morir/",
+        "imagen": "https://www.infobae.com/resizer/v2/4644XGCYD5CPFBE34TEPT2ACDI.png?auth=05f20e90de109b83d10c7337bf49444c765407f5f332adb83ebda96fb40ef0d5&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 22:27:24 +0000"
+        "fecha": "Tue, 22 Sep 2026 22:41:57 +0000"
       },
       {
         "titulo": "Lionel Richie fue internado nuevamente: qué se sabe sobre la salud del cantante",
@@ -510,11 +510,11 @@
         "fecha": "Tue, 22 Sep 2026 18:18:45 +0000"
       },
       {
-        "titulo": "La reacción de Emilia Mernes con Bandana por el video de Maldita Noche que encendió la polémica: “Cómo les gusta”",
-        "link": "https://www.infobae.com/teleshow/2026/09/22/la-reaccion-de-emilia-mernes-con-bandana-por-el-video-de-maldita-noche-que-encendio-la-polemica-como-les-gusta/",
-        "imagen": "https://www.infobae.com/resizer/v2/BQ5F3XZ7JVBOHGDRZF4KBC6GUY.png?auth=e018bdfb492843eee543dfe43af698e6267157677a12db388ff496a5c317ff39&smart=true&width=1280&height=720",
+        "titulo": "Habló un amigo del hombre que amenazó a Homero Pettinato: \"Cuando murió la madre, un tío lo internó\"",
+        "link": "https://www.infobae.com/teleshow/2026/09/22/hablo-un-amigo-del-hombre-que-amenazo-a-homero-pettinato-cuando-murio-la-madre-un-tio-lo-interno/",
+        "imagen": "https://www.infobae.com/resizer/v2/FEC3OGQQM5H35N464OWP222G6E.png?auth=b242014fa85bcdd5fb97091ff89dbb5075f0f05f5c51758ff415e701225a6a4d&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 21:59:47 +0000"
+        "fecha": "Tue, 22 Sep 2026 22:27:24 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Tue, 22 Sep 2026 17:14:00 -0300"
       },
       {
-        "titulo": "Google lanza en preventa su nueva línea de laptops Googlebook con Gemini integrado desde USD 899",
-        "link": "https://www.infobae.com/tecno/2026/09/22/google-lanza-en-preventa-su-nueva-linea-de-laptops-googlebook-con-gemini-integrado-desde-usd-899/",
-        "imagen": "https://www.infobae.com/resizer/v2/4PRWVQUW5RBCPOCIVIRHGDDXUY.png?auth=cd09dfd46e38b2e0f47decbd5aa1bb2ea04b9cb1e99a5ee77d87f1b1bff2e84d&smart=true&width=658&height=428",
+        "titulo": "El 60% de las crisis en una empresa inicia por un comentario negativo de un empleado sobre política o temas sociales",
+        "link": "https://www.infobae.com/tecno/2026/09/22/el-60-de-las-crisis-en-una-empresa-inician-por-un-comentario-negativo-de-un-empleado-sobre-politica-o-temas-sociales/",
+        "imagen": "https://www.infobae.com/resizer/v2/G5H3B5FY6FFJZBBMH5ZBTABDTQ.png?auth=ed24221584ca299c6e2609b31a4103bee896713e513c79872948b8f01a61600b&smart=true&width=1672&height=941",
         "fuente": "Infobae Tecno",
-        "fecha": "Tue, 22 Sep 2026 23:12:13 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:21:43 +0000"
       },
       {
         "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
@@ -561,11 +561,11 @@
         "fecha": "Tue, 22 Sep 2026 16:11:00 -0300"
       },
       {
-        "titulo": "Elon Musk anuncia construcción de túnel Hyperloop para viajar a más de 300 km/h entre dos ciudades de EE. UU.",
-        "link": "https://www.infobae.com/tecno/2026/09/22/elon-musk-anuncia-construccion-de-tunel-hyperloop-para-viajar-a-mas-de-300-kmh-entre-dos-ciudades-de-ee-uu/",
-        "imagen": "https://www.infobae.com/resizer/v2/RMGIICICUNGQFNRRRYWYTROEH4.jpg?auth=6f6085e8834b809f70201245aca7d2661c8ce14e7b555edefd269ccbbb84d20f&smart=true&width=1280&height=720",
+        "titulo": "Google lanza en preventa su nueva línea de laptops Googlebook con Gemini integrado desde USD 899",
+        "link": "https://www.infobae.com/tecno/2026/09/22/google-lanza-en-preventa-su-nueva-linea-de-laptops-googlebook-con-gemini-integrado-desde-usd-899/",
+        "imagen": "https://www.infobae.com/resizer/v2/4PRWVQUW5RBCPOCIVIRHGDDXUY.png?auth=cd09dfd46e38b2e0f47decbd5aa1bb2ea04b9cb1e99a5ee77d87f1b1bff2e84d&smart=true&width=658&height=428",
         "fuente": "Infobae Tecno",
-        "fecha": "Tue, 22 Sep 2026 22:37:00 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:12:13 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -589,11 +589,11 @@
         "fecha": "Tue, 22 Sep 2026 15:49:55 -0300"
       },
       {
-        "titulo": "SpaceX AI de Elon Musk lanza Grok 4.7 con mejoras en programación, análisis legal y tareas de ingeniería",
-        "link": "https://www.infobae.com/tecno/2026/09/22/spacex-ai-de-elon-musk-lanza-grok-47-con-mejoras-en-programacion-analisis-legal-y-tareas-de-ingenieria/",
-        "imagen": "https://www.infobae.com/resizer/v2/AN5EH2Q3RBDJRK4TLRK24L3W3Q.JPG?auth=758c0c5bc6fb21e8cf48fed762d784743a4c6e6b3b7663904eab7445dbea5c95&smart=true&width=3000&height=2001",
+        "titulo": "Elon Musk anuncia construcción de túnel Hyperloop para viajar a más de 300 km/h entre dos ciudades de EE. UU.",
+        "link": "https://www.infobae.com/tecno/2026/09/22/elon-musk-anuncia-construccion-de-tunel-hyperloop-para-viajar-a-mas-de-300-kmh-entre-dos-ciudades-de-ee-uu/",
+        "imagen": "https://www.infobae.com/resizer/v2/RMGIICICUNGQFNRRRYWYTROEH4.jpg?auth=6f6085e8834b809f70201245aca7d2661c8ce14e7b555edefd269ccbbb84d20f&smart=true&width=1280&height=720",
         "fuente": "Infobae Tecno",
-        "fecha": "Tue, 22 Sep 2026 22:26:00 +0000"
+        "fecha": "Tue, 22 Sep 2026 22:37:00 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -821,11 +821,11 @@
     ],
     "local": [
       {
-        "titulo": "Un trabajador de La Plata sufrió quemaduras tras la explosión de una caldera en una hormigonera",
-        "link": "https://www.0221.com.ar/la-plata/un-trabajador-la-plata-sufrio-quemaduras-la-explosion-una-caldera-una-hormigonera-n134625",
-        "imagen": "https://media.0221.com.ar/p/c5b4f68a2fb000d464d63f026e0d3b5e/adjuntos/357/imagenes/100/296/0100296931/1200x630/1182x462:1202x482/diseno-titulo.png",
+        "titulo": "La oposición pide reforzar la seguridad en La Plata con más patrullajes, agentes y cámaras",
+        "link": "https://www.0221.com.ar/la-plata/la-oposicion-pide-reforzar-la-seguridad-la-plata-mas-patrullajes-agentes-y-camaras-n134595",
+        "imagen": "https://media.0221.com.ar/p/151b8512a9b34c08aa06495bf665f8b1/adjuntos/357/imagenes/100/189/0100189746/1200x630/2647x1758:2667x1778/operativo-contra-la-venta-ambulante-patrullas-municipales-agente-control-urbano-8jpg.jpg",
         "fuente": "0221",
-        "fecha": "Tue, 22 Sep 2026 19:52:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 20:14:00 -0300"
       },
       {
         "titulo": "La UCALP distinguió a los estudiantes con los mejores promedios del ciclo lectivo 2025",
@@ -842,18 +842,18 @@
         "fecha": "Sun, 20 Sep 2026 07:50:00 -0300"
       },
       {
-        "titulo": "Abrazo en la Escuela Agraria de Bavio: un centenar de personas acompañó a docentes",
-        "link": "https://www.eldia.com/la-ciudad/convocan-a-un-abrazo-en-la-escuela-agraria-de-bavio-la-ciudad_1790057763",
+        "titulo": "“Cuando los monos ganaron la guerra”: una historia familiar de secretos, infidelidades y heridas vuelve a La Plata",
+        "link": "https://www.eldia.com/espectaculos/cuando-los-monos-ganaron-la-guerra-una-historia-familiar-de-secretos-infidelidades-y-heridas-vuelve-a-la-plata-espectaculos_1790118300",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 22:39:09 GMT"
+        "fecha": "Tue, 22 Sep 2026 23:07:59 GMT"
       },
       {
-        "titulo": "Más del 90% de los productores del cordón frutihortícola de La Plata se endeudó para sostenerse",
-        "link": "https://www.0221.com.ar/la-plata/mas-del-90-los-productores-del-cordon-frutihorticola-la-plata-se-endeudo-sostenerse-n134617",
-        "imagen": "https://media.0221.com.ar/p/095e2ab62a105a1e9962d7b49cbd20a6/adjuntos/357/imagenes/100/233/0100233631/1200x630/1586x1020:1606x1040/productores-cordon-frutihorticola-horticola-1jpeg.jpeg",
+        "titulo": "Un trabajador de La Plata sufrió quemaduras tras la explosión de una caldera en una hormigonera",
+        "link": "https://www.0221.com.ar/la-plata/un-trabajador-la-plata-sufrio-quemaduras-la-explosion-una-caldera-una-hormigonera-n134625",
+        "imagen": "https://media.0221.com.ar/p/c5b4f68a2fb000d464d63f026e0d3b5e/adjuntos/357/imagenes/100/296/0100296931/1200x630/1182x462:1202x482/diseno-titulo.png",
         "fuente": "0221",
-        "fecha": "Tue, 22 Sep 2026 18:16:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 19:52:00 -0300"
       },
       {
         "titulo": "La UNLP avanza con el traslado de una sede del Comedor Universitario a Plaza Rocha",
@@ -870,18 +870,18 @@
         "fecha": "Sat, 19 Sep 2026 12:42:00 -0300"
       },
       {
-        "titulo": "Sin aumento en septiembre, estatales bonaerenses negocian tramos salariales para el último trimestre",
-        "link": "https://www.eldia.com/politica-y-economia/estatales-la-provincia-convoco-a-paritarias-con-el-pedido-de-aumento-salarial-sobre-la-mesa-politica-y-economia_1790084400",
+        "titulo": "El Gobierno confirmó que el lunes 9 de noviembre será feriado por la visita de León XIV",
+        "link": "https://www.eldia.com/politica-y-economia/el-gobierno-confirmo-que-el-lunes-9-de-noviembre-sera-feriado-por-la-visita-de-leon-xiv-politica-y-economia_1790114580",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 22:02:40 GMT"
+        "fecha": "Tue, 22 Sep 2026 22:35:04 GMT"
       },
       {
-        "titulo": "Testigos de Jehová lanzan una campaña en La Plata para mostrar cómo la Biblia puede ayudar en la vida diaria",
-        "link": "https://www.0221.com.ar/la-plata/testigos-jehova-lanzan-una-campana-la-plata-mostrar-como-la-biblia-puede-ayudar-la-vida-diaria-n134610",
-        "imagen": "",
+        "titulo": "Más del 90% de los productores del cordón frutihortícola de La Plata se endeudó para sostenerse",
+        "link": "https://www.0221.com.ar/la-plata/mas-del-90-los-productores-del-cordon-frutihorticola-la-plata-se-endeudo-sostenerse-n134617",
+        "imagen": "https://media.0221.com.ar/p/095e2ab62a105a1e9962d7b49cbd20a6/adjuntos/357/imagenes/100/233/0100233631/1200x630/1586x1020:1606x1040/productores-cordon-frutihorticola-horticola-1jpeg.jpeg",
         "fuente": "0221",
-        "fecha": "Tue, 22 Sep 2026 17:04:00 -0300"
+        "fecha": "Tue, 22 Sep 2026 18:16:00 -0300"
       },
       {
         "titulo": "La UNLP suma esta semana un nuevo paro en medio del conflicto docente universitario",
@@ -898,11 +898,11 @@
         "fecha": "Sat, 19 Sep 2026 12:25:00 -0300"
       },
       {
-        "titulo": "Explotó una caldera en una hormigonera de La Plata y operario sufrió quemaduras",
-        "link": "https://www.eldia.com/policiales/exploto-una-caldera-en-una-hormigonera-de-la-plata-y-operario-sufrio-quemaduras-policiales_1790112720",
+        "titulo": "Baja sensible en Los Tilos: una seria lesión deja a Tuculet afuera del partido contra SIC",
+        "link": "https://www.eldia.com/deportes/baja-sensible-en-los-tilos-una-seria-lesion-deja-a-tuculet-afuera-del-partido-contra-sic-deportes_1790113260",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 21:34:17 GMT"
+        "fecha": "Tue, 22 Sep 2026 22:15:47 GMT"
       }
     ]
   }
