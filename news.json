@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T03:18:11.056859+00:00",
+  "actualizado": "2026-09-22T03:42:58.383152+00:00",
   "categorias": {
     "politica": [
       {
@@ -196,11 +196,11 @@
         "fecha": "Mon, 21 Sep 2026 20:03:00 -0300"
       },
       {
-        "titulo": "Finalizó la fecha 10 y arde el Clausura: así están las posiciones y la Tabla Anual clasificatoria a la Libertadores y Sudamericana",
-        "link": "https://www.infobae.com/deportes/2026/09/22/finalizo-la-fecha-10-y-arde-el-clausura-asi-estan-las-posiciones-y-la-tabla-anual-clasificatoria-a-la-libertadores-y-sudamericana/",
-        "imagen": "https://www.infobae.com/resizer/v2/65B2PQJ52BGOJOGRZOJADA3BIA?auth=cc7e763ef7959a7cf34680ef91bfab242523129de2be3a8abcc7cf962a223e92&smart=true&width=4877&height=2743",
+        "titulo": "Argentina suma 174 medallas en los Juegos Suramericanos Santa Fe 2026: la ventaja que sacó y cómo quedó en el ranking",
+        "link": "https://www.infobae.com/deportes/2026/09/22/argentina-suma-174-medallas-en-los-juegos-suramericanos-santa-fe-2026-la-ventaja-que-saco-y-como-quedo-en-el-ranking/",
+        "imagen": "https://www.infobae.com/resizer/v2/26M6WOAM2BA4PLA4Q2YIDNE77U.jpg?auth=47af508f92fcc936cd8fde33881974e0cbb802cba28fa7b531cd9d201e306035&smart=true&width=3978&height=2273",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 03:02:52 +0000"
+        "fecha": "Tue, 22 Sep 2026 03:20:21 +0000"
       },
       {
         "titulo": "Al Clausura le quedan seis fechas: ¿qué equipos están entrando a playoffs y cómo serían los cruces de octavos?",
@@ -261,11 +261,11 @@
     ],
     "policiales_actualidad": [
       {
-        "titulo": "Brutal asesinato en Río Cuarto: lo ejecutó a tiros en la vía pública y sospechan de un ajuste de cuentas entre delincuentes",
-        "link": "https://www.clarin.com/policiales/brutal-asesinato-rio-cuarto-ejecuto-tiros-via-publica-sospechan-ajuste-cuentas-delincuentes_0_cHSSfTTVNP.html",
-        "imagen": "https://www.clarin.com/img/2026/09/21/SZFKZZ8GH_1200x630__1.jpg",
+        "titulo": "Mendoza: manejaba con cinco veces más alcohol del permitido, provocó un violento choque y dejó cuatro heridos",
+        "link": "https://www.clarin.com/ultimo-momento/mendoza-manejaba-veces-alcohol-permitido-provoco-violento-choque-dejo-heridos_0_Fz5ZAj47Ub.html",
+        "imagen": "https://www.clarin.com/img/2026/09/21/fk0e6FREh_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 23:30:12 +0000"
+        "fecha": "Tue, 22 Sep 2026 03:15:49 +0000"
       },
       {
         "titulo": "\"¡Policía, auxilio!\": quiso escrachar a un empleado por sacar la basura y terminó de la manera menos pensada",
@@ -273,6 +273,27 @@
         "imagen": "https://media.c5n.com/p/3a5b7ff5dcf0bdcf27c8f9397090dcbb/adjuntos/326/imagenes/000/399/0000399846/1200x675/smart/basura-empleado.jpg",
         "fuente": "C5N",
         "fecha": "Mon, 21 Sep 2026 23:22:00 -0300"
+      },
+      {
+        "titulo": "Juicio por Loan: declaran dos testigos con versiones distintas sobre la visita de Caillava al hospital la noche de la desaparición",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/22/juicio-por-loan-declaran-dos-testigos-con-versiones-distintas-sobre-la-visita-de-caillava-al-hospital-la-noche-de-la-desaparicion/",
+        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
+        "fuente": "Infobae",
+        "fecha": "Tue, 22 Sep 2026 03:30:00 +0000"
+      },
+      {
+        "titulo": "Brutal asesinato en Río Cuarto: lo ejecutó a tiros en la vía pública y sospechan de un ajuste de cuentas entre delincuentes",
+        "link": "https://www.clarin.com/policiales/brutal-asesinato-rio-cuarto-ejecuto-tiros-via-publica-sospechan-ajuste-cuentas-delincuentes_0_cHSSfTTVNP.html",
+        "imagen": "https://www.clarin.com/img/2026/09/21/SZFKZZ8GH_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 21 Sep 2026 23:30:12 +0000"
+      },
+      {
+        "titulo": "Escalofriante: se conocieron las imágenes del ataque y la huida del femicida de Villa Devoto",
+        "link": "https://www.c5n.com/sociedad/escalofriante-se-conocieron-las-imagenes-del-ataque-y-la-huida-del-femicida-villa-devoto-n249533",
+        "imagen": "https://media.c5n.com/p/82653656961af9e1ba7e2868cbbaab18/adjuntos/326/imagenes/000/399/0000399840/1200x675/smart/romina-calvo.jpg",
+        "fuente": "C5N",
+        "fecha": "Mon, 21 Sep 2026 21:55:00 -0300"
       },
       {
         "titulo": "Mató a su pareja de un disparo en la cabeza mientras vendía huevos en Pilar y luego intentó quitarse la vida",
@@ -289,11 +310,11 @@
         "fecha": "Mon, 21 Sep 2026 22:23:26 +0000"
       },
       {
-        "titulo": "Escalofriante: se conocieron las imágenes del ataque y la huida del femicida de Villa Devoto",
-        "link": "https://www.c5n.com/sociedad/escalofriante-se-conocieron-las-imagenes-del-ataque-y-la-huida-del-femicida-villa-devoto-n249533",
-        "imagen": "https://media.c5n.com/p/82653656961af9e1ba7e2868cbbaab18/adjuntos/326/imagenes/000/399/0000399840/1200x675/smart/romina-calvo.jpg",
+        "titulo": "Contra el Alzheimer, la primera medicina es cómo vivimos",
+        "link": "https://www.c5n.com/sociedad/contra-el-alzheimer-la-primera-medicina-es-como-vivimos-n249528",
+        "imagen": "https://media.c5n.com/p/e1d5f92c70fd75a8e7acb21f5a7ed301/adjuntos/326/imagenes/000/399/0000399836/1200x675/smart/alzheimer.png",
         "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 21:55:00 -0300"
+        "fecha": "Mon, 21 Sep 2026 20:32:00 -0300"
       },
       {
         "titulo": "Juicio a Lotocki: cuatro inspectores señalaron que el médico no estaba autorizado para realizar cirugías en CABA",
@@ -310,27 +331,6 @@
         "fecha": "Mon, 21 Sep 2026 20:56:37 +0000"
       },
       {
-        "titulo": "Contra el Alzheimer, la primera medicina es cómo vivimos",
-        "link": "https://www.c5n.com/sociedad/contra-el-alzheimer-la-primera-medicina-es-como-vivimos-n249528",
-        "imagen": "https://media.c5n.com/p/e1d5f92c70fd75a8e7acb21f5a7ed301/adjuntos/326/imagenes/000/399/0000399836/1200x675/smart/alzheimer.png",
-        "fuente": "C5N",
-        "fecha": "Mon, 21 Sep 2026 20:32:00 -0300"
-      },
-      {
-        "titulo": "Una menor contó que su tío abusaba de ella, su madre no le creyó y el colegio hizo la denuncia: detuvieron al acusado",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/21/una-menor-conto-que-su-tio-abusaba-de-ella-su-madre-no-le-creyo-y-el-colegio-hizo-la-denuncia-detuvieron-al-acusado/",
-        "imagen": "https://www.infobae.com/resizer/v2/PCI3BSVSKFDNPMIVE5RQHHPOK4.jpg?auth=6a18630001bb3586f0ac63f4d8f0e3be1f2afc1bf5b388e50757581248f22491&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 23:35:32 +0000"
-      },
-      {
-        "titulo": "Prisión preventiva para el femicida de Villa Devoto: un ataque que duró 52 segundos y un escape filmado",
-        "link": "https://www.clarin.com/policiales/prision-preventiva-femicida-villa-devoto-ataque-duro-52-segundos-escape-filmado_0_a9TF1ZwNXd.html",
-        "imagen": "https://www.clarin.com/img/2026/08/14/G9CeJOBEk9_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 21 Sep 2026 18:50:51 +0000"
-      },
-      {
         "titulo": "Sudestada feroz: el mar avanzó sobre la Costa Atlántica y provocó destrozos en varias ciudades",
         "link": "https://www.c5n.com/sociedad/sudestada-feroz-el-mar-avanzo-la-costa-atlantica-y-provoco-destrozos-varias-ciudades-n249520",
         "imagen": "https://media.c5n.com/p/8daea715d09bcd96822aa35f29a77476/adjuntos/326/imagenes/000/399/0000399829/1200x675/smart/sudestada-mar-del-plata.jpg",
@@ -338,11 +338,11 @@
         "fecha": "Mon, 21 Sep 2026 19:14:00 -0300"
       },
       {
-        "titulo": "Horror en Rafael Castillo: un hombre atacó con un machete a madre e hija y terminó detenido",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/21/horror-en-rafael-castillo-un-hombre-ataco-con-un-machete-a-madre-e-hija-y-termino-detenido/",
-        "imagen": "https://www.infobae.com/resizer/v2/CI4STQEQIJDDZCLQH224T7VWS4.png?auth=ea0a9f59dc6282934f51af43084b6807c5ab10fb472f896e8c7a3939ed2650ea&smart=true&width=1920&height=1080",
+        "titulo": "Una menor contó que su tío abusaba de ella, su madre no le creyó y el colegio hizo la denuncia: detuvieron al acusado",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/21/una-menor-conto-que-su-tio-abusaba-de-ella-su-madre-no-le-creyo-y-el-colegio-hizo-la-denuncia-detuvieron-al-acusado/",
+        "imagen": "https://www.infobae.com/resizer/v2/PCI3BSVSKFDNPMIVE5RQHHPOK4.jpg?auth=6a18630001bb3586f0ac63f4d8f0e3be1f2afc1bf5b388e50757581248f22491&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 21 Sep 2026 23:11:08 +0000"
+        "fecha": "Mon, 21 Sep 2026 23:35:32 +0000"
       }
     ],
     "internacional": [
@@ -368,11 +368,11 @@
         "fecha": "Mon, 21 Sep 2026 22:51:04 +0000"
       },
       {
-        "titulo": "Entre lágrimas, reguetón y sorpresas: así fue el estreno de la tercera temporada de ‘Mira quién baila’ en Costa Rica",
-        "link": "https://www.infobae.com/costa-rica/2026/09/22/entre-lagrimas-regueton-y-sorpresas-asi-fue-el-estreno-de-la-tercera-temporada-de-mira-quien-baila-en-costa-rica/",
-        "imagen": "https://www.infobae.com/resizer/v2/TB7KJ57HZ5DJZCYDQWC2NV77DA.jpg?auth=d5ebe408ee14f419744ca5827db8d5236e22ace0a79be3222c7030af072309d3&smart=true&width=2736&height=1824",
+        "titulo": "La serie de Mercedes Morán y Mariana Enríquez: los muertos de la injusticia piden consuelo",
+        "link": "https://www.infobae.com/cultura/2026/09/22/la-serie-de-mercedes-moran-y-mariana-enriquez-los-muertos-de-la-injusticia-piden-consuelo/",
+        "imagen": "https://www.infobae.com/resizer/v2/D4F3VIAI2ZD73FG4USP7FW5FT4.jpg?auth=fce34beea9e45e873780108d44ab1f59dc50c8c4da03b04663aefade8125afdb&smart=true&width=3100&height=2160",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 03:12:24 +0000"
+        "fecha": "Tue, 22 Sep 2026 03:40:00 +0000"
       },
       {
         "titulo": "Qué puede enseñarle Mao a China sobre cómo manejar a Estados Unidos",
@@ -396,11 +396,11 @@
         "fecha": "Mon, 21 Sep 2026 22:21:03 +0000"
       },
       {
-        "titulo": "Diputados oficialistas rechazaron minuto de silencio por costarricense fallecido bajo custodia del ICE en Estados Unidos",
-        "link": "https://www.infobae.com/costa-rica/2026/09/22/diputados-oficialistas-rechazaron-minuto-de-silencio-por-costarricense-fallecido-bajo-custodia-del-ice-en-estados-unidos/",
-        "imagen": "https://www.infobae.com/resizer/v2/OWFW5NS76FHVZJ2SJM55OEMU34.png?auth=9b7f356f05e25e2ae7b5fe38a0d4321c929ea151259c7c2ab7607186f59406e9&smart=true&width=1974&height=1092",
+        "titulo": "¿Realmente la década de 1980 de Ronald Reagan dio forma a nuestro mundo moderno?",
+        "link": "https://www.infobae.com/cultura/2026/09/22/realmente-la-decada-de-1980-de-ronald-reagan-dio-forma-a-nuestro-mundo-moderno/",
+        "imagen": "https://www.infobae.com/resizer/v2/QIQWEONWMZHVFAIBFATZOMWGKA.png?auth=f2f60463a417cb265582d64e783ee03f9d0d87b6d3b49f13ec7c8c3af920acb3&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 03:09:55 +0000"
+        "fecha": "Tue, 22 Sep 2026 03:30:00 +0000"
       },
       {
         "titulo": "Vladimir Putin busca reabrir el suministro de gas ruso a Alemania con respaldo de la AfD",
@@ -424,11 +424,11 @@
         "fecha": "Mon, 21 Sep 2026 21:04:03 +0000"
       },
       {
-        "titulo": "Fue capturado descalzo y cubierto de sangre, acusado de matar a su madre en Guatemala",
-        "link": "https://www.infobae.com/guatemala/2026/09/22/fue-capturado-descalzo-y-cubierto-de-sangre-acusado-de-matar-a-su-madre-en-guatemala/",
-        "imagen": "https://www.infobae.com/resizer/v2/7AEBEEASTRHF7O6W4JVSAKWB44.png?auth=45da49e25439e9373c33c684252e717b8defc0de829eef032584b564b603252a&smart=true&width=1320&height=835",
+        "titulo": "Entre lágrimas, reguetón y sorpresas: así fue el estreno de la tercera temporada de ‘Mira quién baila’ en Costa Rica",
+        "link": "https://www.infobae.com/costa-rica/2026/09/22/entre-lagrimas-regueton-y-sorpresas-asi-fue-el-estreno-de-la-tercera-temporada-de-mira-quien-baila-en-costa-rica/",
+        "imagen": "https://www.infobae.com/resizer/v2/TB7KJ57HZ5DJZCYDQWC2NV77DA.jpg?auth=d5ebe408ee14f419744ca5827db8d5236e22ace0a79be3222c7030af072309d3&smart=true&width=2736&height=1824",
         "fuente": "Infobae",
-        "fecha": "Tue, 22 Sep 2026 03:02:21 +0000"
+        "fecha": "Tue, 22 Sep 2026 03:12:24 +0000"
       }
     ],
     "espectaculos": [
@@ -828,11 +828,11 @@
         "fecha": "Sun, 20 Sep 2026 07:50:00 -0300"
       },
       {
-        "titulo": "VIDEOS | Estudiantes vs Lanús: los goles de Lobos, Salvio y González Pirez",
-        "link": "https://www.eldia.com/deportes/video-estudiantes-vs-lanus-los-goles-deportes_1790037000",
+        "titulo": "Estudiantes, con errores en las dos áreas, perdió ante Lanús 2 a 1",
+        "link": "https://www.eldia.com/deportes/con-el-envion-copero-estudiantes-visita-a-lanus-deportes_1789976749",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 22 Sep 2026 02:08:05 GMT"
+        "fecha": "Tue, 22 Sep 2026 02:11:24 GMT"
       },
       {
         "titulo": "Un abogado de La Plata explica qué cambia en las causas con el nuevo sistema acusatorio federal",
@@ -856,11 +856,11 @@
         "fecha": "Sat, 19 Sep 2026 12:42:00 -0300"
       },
       {
-        "titulo": "Chivilcoy: Lácteos Huella Pampa cumple diez años y sostiene su producción familiar",
-        "link": "https://www.eldia.com/politica-y-economia/chivilcoy-lacteos-huella-pampa-cumple-diez-anos-y-sostiene-su-produccion-familiar-politica-y-economia_1790030880",
+        "titulo": "Convocan a una marcha en La Plata para pedir justicia por la muerte de un motociclista",
+        "link": "https://www.eldia.com/policiales/convocan-a-una-marcha-en-la-plata-para-pedir-justicia-por-la-muerte-de-un-motociclista-policiales_1790036100",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 22:50:43 GMT"
+        "fecha": "Tue, 22 Sep 2026 01:01:27 GMT"
       },
       {
         "titulo": "Ordenan en La Plata la libertad del repartidor paraguayo salpicado por la causa de la presunta mafia china",
@@ -884,11 +884,11 @@
         "fecha": "Sat, 19 Sep 2026 12:25:00 -0300"
       },
       {
-        "titulo": "Pergamino: la Ruta 188 cambia de concesionario y suma reclamos históricos de seguridad",
-        "link": "https://www.eldia.com/politica-y-economia/pergamino-la-ruta-188-cambia-de-concesionario-y-suma-reclamos-historicos-de-seguridad-politica-y-economia_1790030640",
+        "titulo": "\"Te voy a matar\": un fan de \"La Reini\" amenazó a Homero Pettinato al aire en Olga",
+        "link": "https://www.eldia.com/espectaculos/te-voy-a-matar-un-fan-de-sofia-la-reini-gonet-amenazo-a-homero-pettinato-al-aire-en-olga-espectaculos_1790031960",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 21 Sep 2026 22:46:54 GMT"
+        "fecha": "Tue, 22 Sep 2026 01:27:58 GMT"
       }
     ]
   }
