@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T21:05:20.681194+00:00",
+  "actualizado": "2026-09-23T00:07:01.621038+00:00",
   "merval": {
     "subas": [
       {
@@ -13,12 +13,12 @@
         "porcentaje": -2.66876
       },
       {
-        "simbolo": "BBAR",
-        "porcentaje": -1.18881
+        "simbolo": "GGAL",
+        "porcentaje": -1.22126
       },
       {
-        "simbolo": "GGAL",
-        "porcentaje": -1.17337
+        "simbolo": "BBAR",
+        "porcentaje": -1.18881
       },
       {
         "simbolo": "SUPV",
@@ -46,11 +46,11 @@
       },
       {
         "simbolo": "NVDA",
-        "porcentaje": 0.63769765
+        "porcentaje": 0.65528639
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": 0.22125198
+        "porcentaje": 0.2271488
       }
     ],
     "bajas": [
@@ -64,7 +64,7 @@
       },
       {
         "simbolo": "MSFT",
-        "porcentaje": -0.73164072
+        "porcentaje": -0.71967972
       }
     ]
   }
