@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-09-23T15:44:00.705742+00:00",
+  "actualizado": "2026-09-23T15:57:30.895739+00:00",
   "categorias": {
     "politica": [
       {
         "titulo": "Malvinas, la pandemia y Borges: las 10 frases de Javier Milei en la ONU",
         "link": "https://www.ambito.com/politica/malvinas-ia-y-mas-las-10-frases-javier-milei-la-onu-n6325734",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/b6eec4e9da24423200ae8c2081864187/adjuntos/239/imagenes/043/660/0043660189/1200x675/1361x513:1381x533/captura-milei-onu-2.jpg",
         "fuente": "Ámbito",
         "fecha": "Wed, 23 Sep 2026 12:22:00 -0300"
       },
@@ -26,16 +26,16 @@
       {
         "titulo": "Javier Milei destacó el avance de la IA: \"Será la fábrica de alfileres del siglo XXI\"",
         "link": "https://www.c5n.com/politica/javier-milei-destaco-el-avance-la-ia-sera-la-fabrica-alfileres-del-siglo-xxi-n249704",
-        "imagen": "https://media.c5n.com/p/7c986e872daea491d0353d42d4d65876/adjuntos/326/imagenes/000/400/0000400115/1200x675/smart/milei-la-onu-2026.png",
+        "imagen": "https://media.c5n.com/p/c51d71e4297753d84c9142d616804501/adjuntos/326/imagenes/000/400/0000400116/1200x675/smart/milei-la-onu-2026.jpg",
         "fuente": "C5N",
         "fecha": "Wed, 23 Sep 2026 12:40:00 -0300"
       },
       {
-        "titulo": "Diputados avanza en un proyecto de ley de unidad que crea un sistema nacional para rastrear medicamentos de alto riesgo",
-        "link": "https://www.infobae.com/politica/2026/09/23/diputados-avanza-en-un-proyecto-de-ley-de-unidad-que-crea-un-sistema-nacional-para-rastrear-medicamentos-de-alto-riesgo/",
-        "imagen": "https://www.infobae.com/resizer/v2/4BSIAF6XSZCADMDNSYOLR33SUY.jpg?auth=34c15b00c303c9f688b27bf364f76843a168a3f9d143d85ab0ee9f1ad8b0b6b2&smart=true&width=1920&height=1080",
+        "titulo": "Milei aseguró ante la Asamblea General que Malvinas es “una causa nacional” y criticó a la ONU porque “decidió mirar para otro lado”",
+        "link": "https://www.infobae.com/politica/2026/09/23/milei-aseguro-que-malvinas-es-una-causa-nacional-y-critico-a-la-onu-frente-a-la-asamblea-general/",
+        "imagen": "https://www.infobae.com/resizer/v2/HI626ETJ6BEB3NYGKKSOPUUR3A.JPG?auth=f5e2988ecf9b2acf0f927d4dc53f504a7238eb996ef4a99d0a52035ee28bcb78&smart=true&width=3739&height=2493",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:41:45 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:51:51 +0000"
       },
       {
         "titulo": "Olivosgate: ahora le apuntan al jefe de la Casa Militar por las supuestas compras irregulares de comida a empresas amigas",
@@ -47,7 +47,7 @@
       {
         "titulo": "Javier Milei calificó a la ONU como \"una organización inútil\" y remarcó que Malvinas \"es una causa nacional\"",
         "link": "https://www.ambito.com/politica/javier-milei-la-onu-malvinas-es-una-causa-nacional-n6325722",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/02e647dd742a979301745835a0984861/adjuntos/239/imagenes/043/660/0043660133/1200x675/755x343:775x363/captura-milei-onu-2026.jpg",
         "fuente": "Ámbito",
         "fecha": "Wed, 23 Sep 2026 12:10:00 -0300"
       },
@@ -73,11 +73,11 @@
         "fecha": "Wed, 23 Sep 2026 12:28:00 -0300"
       },
       {
-        "titulo": "Milei aseguró ante la Asamblea General que Malvinas es “una causa nacional” y criticó a la ONU porque “decidió mirar para otro lado”",
-        "link": "https://www.infobae.com/politica/2026/09/23/milei-aseguro-que-malvinas-es-una-causa-nacional-y-critico-a-la-onu-frente-a-la-asamblea-general/",
-        "imagen": "https://www.infobae.com/resizer/v2/HI626ETJ6BEB3NYGKKSOPUUR3A.JPG?auth=f5e2988ecf9b2acf0f927d4dc53f504a7238eb996ef4a99d0a52035ee28bcb78&smart=true&width=3739&height=2493",
+        "titulo": "El discurso completo de Milei: reclamo por Malvinas, críticas a la ONU, los desafíos de la IA y alineamiento con los EEUU",
+        "link": "https://www.infobae.com/politica/2026/09/23/el-discurso-completo-de-milei-reclamo-por-malvinas-criticas-a-la-onu-ia-y-alineamiento-con-los-eeuu/",
+        "imagen": "https://www.infobae.com/resizer/v2/EPSZX3USYBAJ5H3PA3TIVQJIMA.JPG?auth=a96d44840d9cf6613e5ee0fa7ad583fc258818436f08a6a705f61873c08b1a87&smart=true&width=6000&height=4000",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:37:08 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:47:31 +0000"
       },
       {
         "titulo": "La Comisión de Educación porteña recibió a familias que rechazan la jornada completa en escuelas",
@@ -203,11 +203,18 @@
         "fecha": "Wed, 23 Sep 2026 15:41:42 +0000"
       },
       {
-        "titulo": "Fillol, el presente de Santi Beltrán y su proyección en la Selección: \"Es muy especial\"",
-        "link": "https://www.ole.com.ar/river-plate/river-plate-pato-fillol-santiago-beltran_0_o9UNlEzoL6.html",
-        "imagen": "https://www.ole.com.ar/images/2026/08/28/U9ZEFy5MN_1200x630__1.jpg",
+        "titulo": "River agendó su primer amistoso en la fecha FIFA: rival, día y lugar",
+        "link": "https://www.ole.com.ar/river-plate/river-plate-amistoso-velez-camp-sabado_0_40zq6jT5Nw.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/07/P7YaiUbUG_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Wed, 23 Sep 2026 12:17:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 12:36:57 -0300"
+      },
+      {
+        "titulo": "La Selección confirmó dos bajas por lesión para la fecha FIFA: uno es un ex Estudiantes",
+        "link": "https://www.eldia.com/deportes/la-seleccion-confirmo-dos-bajas-por-lesion-para-la-fecha-fifa-uno-es-un-ex-estudiantes-deportes_1790175480",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Wed, 23 Sep 2026 15:43:07 GMT"
       },
       {
         "titulo": "Gimnasia dejó pasar gran chance y a Estudiantes le pisan los talones: así está la tabla anual",
@@ -222,13 +229,6 @@
         "imagen": "",
         "fuente": "El Día Deportes",
         "fecha": "Wed, 23 Sep 2026 15:30:52 GMT"
-      },
-      {
-        "titulo": "Estudiantes y un traspié que abrió varios frentes",
-        "link": "https://www.eldia.com/deportes/un-traspie-que-abrio-varios-frentes-deportes_1790142238",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Wed, 23 Sep 2026 09:55:29 GMT"
       },
       {
         "titulo": "Lobo Feria en el Bosque: se viene la Primavera en Gimnasia y el 1° Tejetón Tripero",
@@ -279,7 +279,7 @@
         "link": "https://www.infobae.com/sociedad/policiales/2026/09/23/juicio-a-pity-alvarez-en-vivo-se-reanuda-el-debate-oral-sin-el-musico/",
         "imagen": "https://www.infobae.com/resizer/v2/62YXF47SHVD4NFIUDL2RX4OOQI.jpg?auth=2dab1649ac5e466472c717b791f1bc12652025dd0231954dede347803377b42f&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:38:50 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:52:35 +0000"
       },
       {
         "titulo": "Viajaban desde Brasil a Buenos Aires en tres autos con 40 kilos de MDMA y 10.000 pastillas de éxtasis",
@@ -368,11 +368,11 @@
         "fecha": "Wed, 23 Sep 2026 14:22:36 +0000"
       },
       {
-        "titulo": "Segunda jornada de la Asamblea General de la ONU: Pezeshkian defendió el plan nuclear de Irán y negó que apoye al terrorismo",
-        "link": "https://www.infobae.com/america/mundo/2026/09/23/en-vivo-segunda-jornada-de-la-asamblea-general-de-la-onu/",
-        "imagen": "https://www.infobae.com/resizer/v2/PCPRX2YRU5DJLA2MDJEM3KWPIQ.JPG?auth=74a5b410c0aa5464851eaca5f7b3d5d1e156980954d1a3a0c6ac48377d76d8db&smart=true&width=2981&height=1987",
+        "titulo": "Guatemala busca fortalecer su sistema financiero previniendo el lavado tras la entrada en vigor de nueva ley",
+        "link": "https://www.infobae.com/guatemala/2026/09/23/guatemala-busca-fortalecer-su-sistema-financiero-previniendo-el-lavado-tras-la-entrada-en-vigor-de-nueva-ley/",
+        "imagen": "https://www.infobae.com/resizer/v2/55TQWPKHVRC2FDZGWZKINNO3G4.jpg?auth=dc479f5894f0e32f2dd8ed8a69204d90919d8a6fada12e4be4148ccec55490f2&smart=true&width=1280&height=851",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:38:34 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:55:27 +0000"
       },
       {
         "titulo": "Irán desafió a EEUU e Israel en la ONU: \"Teherán debe ser poderoso para evitar ser amenazado\"",
@@ -396,11 +396,11 @@
         "fecha": "Wed, 23 Sep 2026 14:00:51 +0000"
       },
       {
-        "titulo": "El fenómeno de El Niño reduce el caudal del río Lempa y agrava las pérdidas agrícolas en Centroamérica",
-        "link": "https://www.infobae.com/el-salvador/2026/09/23/el-fenomeno-de-el-nino-reduce-el-caudal-del-rio-lempa-y-agrava-las-perdidas-agricolas-en-centroamerica/",
-        "imagen": "https://www.infobae.com/resizer/v2/P337RAO4AJG6JGIDRPM2WVFG34.jpg?auth=bd7aa3bacf44237a3ee9a470851b935d56e6b76492d9f8a858212072cafd7e0f&smart=true&width=4320&height=2880",
+        "titulo": "Una taza de café y nada más: el testimonio de una persona cubana que mostró cómo miles de familias comienzan el día sin desayunar",
+        "link": "https://www.infobae.com/cuba/2026/09/23/una-taza-de-cafe-y-nada-mas-el-testimonio-de-una-persona-cubana-que-mostro-como-miles-de-familias-comienzan-el-dia-sin-desayunar/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZOFVVCV5FFDEBGXSQXHMGUZG3A.png?auth=fb990ac9f8ba87efb62155343c3ff37001b079cbceec62c8f030061ef6ed5376&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:36:43 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:52:24 +0000"
       },
       {
         "titulo": "Donald Trump recibe a Xi Jinping en EEUU con una enorme puesta en escena que desafía los protocolos",
@@ -424,11 +424,11 @@
         "fecha": "Wed, 23 Sep 2026 13:38:27 +0000"
       },
       {
-        "titulo": "“Llevan una jeringa letal en el chaleco”: El dramático testimonio de la esposa de un guatemalteco en el frente ruso",
-        "link": "https://www.infobae.com/guatemala/2026/09/23/llevan-una-jeringa-letal-en-el-chaleco-el-dramatico-testimonio-de-la-esposa-de-un-guatemalteco-en-el-frente-ruso/",
-        "imagen": "https://www.infobae.com/resizer/v2/O6VWHZDGOZC6FH7LFKJLXYQFZM.png?auth=2b9c33ca2bce2454b85eb5f0e15c37e55a59be942632adffed07fd373ada003a&smart=true&width=510&height=359",
+        "titulo": "Segunda jornada de la Asamblea General de la ONU: Pezeshkian defendió el plan nuclear de Irán y negó que apoye al terrorismo",
+        "link": "https://www.infobae.com/america/mundo/2026/09/23/en-vivo-segunda-jornada-de-la-asamblea-general-de-la-onu/",
+        "imagen": "https://www.infobae.com/resizer/v2/PCPRX2YRU5DJLA2MDJEM3KWPIQ.JPG?auth=74a5b410c0aa5464851eaca5f7b3d5d1e156980954d1a3a0c6ac48377d76d8db&smart=true&width=2981&height=1987",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:34:22 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:39:46 +0000"
       }
     ],
     "espectaculos": [
@@ -440,25 +440,25 @@
         "fecha": "Wed, 23 Sep 2026 11:04:00 -0300"
       },
       {
-        "titulo": "Conmoción: murió un famoso cantante tras estrellarse el helicóptero en el que viajaba",
-        "link": "https://www.c5n.com/ratingcero/conmocion-murio-un-famoso-cantante-estrellarse-el-helicoptero-el-que-viajaba-n249702",
-        "imagen": "https://media.c5n.com/p/2b8c41039010885ff706d47f1a9101b7/adjuntos/326/imagenes/000/400/0000400103/1200x675/smart/helicoptero-brasil-rick.jpg",
+        "titulo": "La dramática decisión que tomó la familia de Mirtha Legrand en medio de su internación",
+        "link": "https://www.c5n.com/ratingcero/la-dramatica-decision-que-tomo-la-familia-mirtha-legrand-medio-su-internacion-n249700",
+        "imagen": "https://media.c5n.com/p/9bfe0fc23f8a9bbf84603aeb2be6d296/adjuntos/326/imagenes/000/397/0000397889/1200x675/smart/mirtha-legrand.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 23 Sep 2026 12:22:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 12:46:00 -0300"
       },
       {
-        "titulo": "Sylvester Stallone dice que rechazó el puesto de \"embajador especial\" de Donald Trump en Hollywood: \"Dije gracias y adiós\"",
-        "link": "https://www.clarin.com/espectaculos/sylvester-stallone-dice-rechazo-puesto-embajador-especial-donald-trump-hollywood-dije-gracias-adios_0_lcX0pWITPS.html",
-        "imagen": "https://www.clarin.com/img/2026/09/21/YeNMvqAJY_1200x630__1.jpg",
+        "titulo": "Mis muertos tristes: cómo es la miniserie que adapta relatos macabros de Mariana Enríquez, protagonizada por Mercedes Morán y Dolores Fonzi",
+        "link": "https://www.clarin.com/espectaculos/muertos-tristes-miniserie-adapta-relatos-macabros-mariana-enriquez-protagonizada-mercedes-moran-dolores-fonzi_0_rrvfv2I9sH.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/YffdnbkG6_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 14:32:07 +0000"
+        "fecha": "Wed, 23 Sep 2026 09:01:28 +0000"
       },
       {
-        "titulo": "El impactante paso de Lali Espósito por el festival de cine de San Sebastián: declaraciones fuertes y looks audaces",
-        "link": "https://www.infobae.com/teleshow/2026/09/23/el-impactante-paso-de-lali-esposito-por-el-festival-de-cine-de-san-sebastian-declaraciones-fuertes-y-looks-audaces/",
-        "imagen": "https://www.infobae.com/resizer/v2/CEPP7M4WBND7FBCYNM2QFNUNQI.png?auth=8cbcada97580b6e93c285c012ed48f858a3f6bd1a541367143e884c1d79ff851&smart=true&width=1920&height=1080",
+        "titulo": "Nuevo parte médico de Mirtha Legrand: “Mejorando día a día”",
+        "link": "https://www.infobae.com/teleshow/2026/09/23/nuevo-parte-medico-de-mirtha-legrand-mejorando-dia-a-dia/",
+        "imagen": "https://www.infobae.com/resizer/v2/7TMZQEDIQBF2FCSKZCT6VANPVA.jpg?auth=1e468971c5609a84f6f6a0c1f12e1817bac9170cbd6d8f6e64f52e880a2fb7f7&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:35:04 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:51:41 +0000"
       },
       {
         "titulo": "Taylor Swift anunció el lanzamiento del álbum \"The Life of a Showgirl: The Encore\"",
@@ -468,25 +468,25 @@
         "fecha": "Wed, 23 Sep 2026 10:59:00 -0300"
       },
       {
-        "titulo": "Murió un músico argentino con paso en un famoso grupo tras descompensarse en un partido de fútbol",
-        "link": "https://www.c5n.com/ratingcero/murio-un-musico-argentino-paso-un-famoso-grupo-descompensarse-un-partido-futbol-n249701",
-        "imagen": "https://media.c5n.com/p/3402dd385de9da166bce3376dab4d215/adjuntos/326/imagenes/000/400/0000400104/1200x675/smart/luto-musica.jpg",
+        "titulo": "Conmoción: murió un famoso cantante tras estrellarse el helicóptero en el que viajaba",
+        "link": "https://www.c5n.com/ratingcero/conmocion-murio-un-famoso-cantante-estrellarse-el-helicoptero-el-que-viajaba-n249702",
+        "imagen": "https://media.c5n.com/p/2b8c41039010885ff706d47f1a9101b7/adjuntos/326/imagenes/000/400/0000400103/1200x675/smart/helicoptero-brasil-rick.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 23 Sep 2026 12:07:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 12:22:00 -0300"
       },
       {
-        "titulo": "Rating del martes: ni Popstars, ni Pasapalabra ni Guido Kaczka, ¿qué fue lo más visto del día?",
-        "link": "https://www.clarin.com/espectaculos/rating-martes-popstars-pasapalabra-guido-kaczka-visto-dia_0_KrCl8JGoCN.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/2q4NNQDEz_1200x630__1.jpg",
+        "titulo": "Lionel Richie fue operado del corazón por una fibrilación auricular: qué dijo su representante",
+        "link": "https://www.clarin.com/espectaculos/lionel-richie-operado-corazon-fibrilacion-auricular-dijo-representante_0_o2GQnOZytV.html",
+        "imagen": "https://www.clarin.com/img/2025/09/12/ycIWW1hol_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 14:18:48 +0000"
+        "fecha": "Tue, 22 Sep 2026 23:28:38 +0000"
       },
       {
-        "titulo": "Habló el tatuador del acosador de La Reini que amenazó de muerte a Homero Pettinato: “No me resultó raro”",
-        "link": "https://www.infobae.com/teleshow/2026/09/23/hablo-el-tatuador-del-acosador-de-la-reini-que-amenazo-de-muerte-a-homero-pettinato-no-me-resulto-raro/",
-        "imagen": "https://www.infobae.com/resizer/v2/37YBY2HXUFHNXKAYCAWHJ2Q6BU.png?auth=8cb3956834652ae0a177a25e71636265d73d2433ecf93d2ad9c9aa0f401ca25a&smart=true&width=1920&height=1080",
+        "titulo": "El impactante paso de Lali Espósito por el festival de cine de San Sebastián: declaraciones fuertes y looks audaces",
+        "link": "https://www.infobae.com/teleshow/2026/09/23/el-impactante-paso-de-lali-esposito-por-el-festival-de-cine-de-san-sebastian-declaraciones-fuertes-y-looks-audaces/",
+        "imagen": "https://www.infobae.com/resizer/v2/CEPP7M4WBND7FBCYNM2QFNUNQI.png?auth=8cbcada97580b6e93c285c012ed48f858a3f6bd1a541367143e884c1d79ff851&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:23:39 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:35:04 +0000"
       },
       {
         "titulo": "Moria Casán reaccionó al video de la Embajada de Noruega en Argentina con sus frases más icónicas",
@@ -496,25 +496,25 @@
         "fecha": "Wed, 23 Sep 2026 10:58:49 -0300"
       },
       {
-        "titulo": "El papelón del Puma Rodríguez: destrozó una canción de Joaquín Levinton mientras el cantante estaba a su lado",
-        "link": "https://www.c5n.com/ratingcero/el-papelon-del-puma-rodriguez-destrozo-una-cancion-joaquin-levinton-mientras-el-cantante-estaba-su-lado-n249697",
-        "imagen": "https://media.c5n.com/p/2c4caab38114b8eda3d5553ba3ccd254/adjuntos/326/imagenes/000/400/0000400088/1200x675/smart/levinton-y-puma.jpg",
+        "titulo": "Murió un músico argentino con paso en un famoso grupo tras descompensarse en un partido de fútbol",
+        "link": "https://www.c5n.com/ratingcero/murio-un-musico-argentino-paso-un-famoso-grupo-descompensarse-un-partido-futbol-n249701",
+        "imagen": "https://media.c5n.com/p/3402dd385de9da166bce3376dab4d215/adjuntos/326/imagenes/000/400/0000400104/1200x675/smart/luto-musica.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 23 Sep 2026 11:37:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 12:07:00 -0300"
       },
       {
-        "titulo": "\"Gente desalmada\": Dolores Fonzi criticó a Milei por los recortes a la cultura y el titular del INCAA la acusó de ser \"viuda de la gestión anterior\"",
-        "link": "https://www.clarin.com/espectaculos/gente-desalmada-dolores-fonzi-critico-milei-recortes-cultura-titular-incaa-acuso-viuda-gestion-anterior_0_x2HTadx42Q.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/OtKSbYH2A_1200x630__1.jpg",
+        "titulo": "Oscar 2027: cuáles son las cuatro películas argentinas que buscan representar al país",
+        "link": "https://www.clarin.com/espectaculos/oscar-2027-peliculas-argentinas-buscan-representar-pais_0_k0cB2e7msK.html",
+        "imagen": "https://www.clarin.com/img/2026/09/22/e-vAGRwuR_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 13:49:56 +0000"
+        "fecha": "Tue, 22 Sep 2026 20:37:18 +0000"
       },
       {
-        "titulo": "Se viene una nueva edición de MasterChef Celebrity: las fotos de la presentación de los 24 participantes",
-        "link": "https://www.infobae.com/fotos/2026/09/23/se-viene-una-nueva-edicion-de-masterchef-celebrity-las-fotos-de-la-presentacion-de-los-24-participantes/",
-        "imagen": "https://www.infobae.com/resizer/v2/5NJFCFC3OJFFLBECOZRD376MO4.jpg?auth=103344cef91efd9f95a6f2ca173c09d586548f3a5fbb58a0d554ad0509da6cce&smart=true&width=1920&height=1080",
+        "titulo": "Habló el tatuador del acosador de La Reini que amenazó de muerte a Homero Pettinato: “No me resultó raro”",
+        "link": "https://www.infobae.com/teleshow/2026/09/23/hablo-el-tatuador-del-acosador-de-la-reini-que-amenazo-de-muerte-a-homero-pettinato-no-me-resulto-raro/",
+        "imagen": "https://www.infobae.com/resizer/v2/37YBY2HXUFHNXKAYCAWHJ2Q6BU.png?auth=8cb3956834652ae0a177a25e71636265d73d2433ecf93d2ad9c9aa0f401ca25a&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 23 Sep 2026 15:05:22 +0000"
+        "fecha": "Wed, 23 Sep 2026 15:23:39 +0000"
       }
     ],
     "tecnologia": [
@@ -547,6 +547,13 @@
         "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
       },
       {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
+      },
+      {
         "titulo": "Las empresas elevan la inversión en tecnología, pero el gasto en inteligencia artificial se hace cada vez más difícil de controlar",
         "link": "https://www.ambito.com/negocios/las-empresas-elevan-la-inversion-tecnologia-pero-el-gasto-inteligencia-artificial-se-hace-cada-vez-mas-dificil-controlar-n6324919",
         "imagen": "https://media.ambito.com/p/8a895e006a75a88c52b6761594738eca/adjuntos/239/imagenes/043/364/0043364049/1200x675/1996x1941:2016x1961/inversiones.jpg",
@@ -575,6 +582,13 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
+      },
+      {
         "titulo": "AMD superó el billón de dólares de capitalización ante el boom de la inteligencia artificial",
         "link": "https://www.ambito.com/finanzas/amd-supero-el-billon-dolares-capitalizacion-el-boom-la-inteligencia-artificial-n6325288",
         "imagen": "https://media.ambito.com/p/db0162a4744a254e82c5c90d54230ef3/adjuntos/239/imagenes/041/704/0041704419/amdjpg.jpg",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/bc2032b9a8fe22fc9630a70f234d86a1/adjuntos/326/imagenes/000/399/0000399953/1200x675/smart/whatsapp.JPG",
         "fuente": "C5N",
         "fecha": "Tue, 22 Sep 2026 15:49:55 -0300"
-      },
-      {
-        "titulo": "La IA ya propone las ideas de los científicos: el problema es quién va a saber cuándo se equivoca",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/09/23/la-ia-ya-propone-las-ideas-de-los-cientificos-el-problema-es-quien-va-a-saber-cuando-se-equivoca/",
-        "imagen": "https://www.infobae.com/resizer/v2/HGTNT7FB25ABXEQW5OCV4I5XNI.png?auth=6d3240d8643b02ab9f975447544187b60ff7dec9b36e4d0650a61c0751db8934&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Tecno",
-        "fecha": "Wed, 23 Sep 2026 14:51:42 +0000"
-      },
-      {
-        "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
-        "link": "https://www.agenciacyta.org.ar/2026/09/un-argentino-entre-los-ganadores-de-los-ig-nobel-2026-los-premios-a-las-investigaciones-que-primero-hacen-reir-y-despues-pensar/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       }
     ],
     "autos": [
@@ -805,16 +805,16 @@
         "fecha": "Wed, 23 Sep 2026 10:20:58 +0000"
       },
       {
-        "titulo": "6 hábitos cotidianos que pueden ayudar a reducir la resistencia a la insulina, según expertos",
-        "link": "https://www.infobae.com/salud/2026/09/23/6-habitos-cotidianos-que-pueden-ayudar-a-reducir-la-resistencia-a-la-insulina-segun-expertos/",
-        "imagen": "https://www.infobae.com/resizer/v2/E4OXUFIY5FHT5E5IZR7FAAPJUE.png?auth=97a566250f6d8c78006d8092f6599d2427e0c21a1c4bb287059a0e53e0e65de8&smart=true&width=2752&height=1536",
+        "titulo": "4 hábitos respaldados por la ciencia que ayudan a cortar la rumiación nocturna y dormir mejor",
+        "link": "https://www.infobae.com/salud/2026/09/23/4-habitos-respaldados-por-la-ciencia-que-ayudan-a-cortar-la-rumiacion-nocturna-y-dormir-mejor/",
+        "imagen": "https://www.infobae.com/resizer/v2/VKHJFS7H3NF5ZOHZSDXHCPQSQA.png?auth=64c9e0aaf4e4fa7794dcee85b0b88590c8aa0d6895eb7c1bb417a9d6f0061976&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Wed, 23 Sep 2026 09:00:01 +0000"
       },
       {
-        "titulo": "Cómo identificar el lipedema, la condición que puede confundirse con obesidad y afectar su diagnóstico",
-        "link": "https://www.infobae.com/salud/2026/09/23/como-identificar-el-lipedema-la-condicion-que-puede-confundirse-con-obesidad-y-afectar-su-diagnostico/",
-        "imagen": "https://www.infobae.com/resizer/v2/CWN2Q3BNC5CRZKESDTVFJ2GNJI.png?auth=0aa0da66bfc477a2b01bc7d475bd47571a6c97e69bc812abadd829155f0cf563&smart=true&width=2185&height=1229",
+        "titulo": "Qué le pasa al cuerpo después de tomar café: 7 efectos poco conocidos",
+        "link": "https://www.infobae.com/salud/2026/09/23/que-le-pasa-al-cuerpo-despues-de-tomar-cafe-7-efectos-poco-conocidos/",
+        "imagen": "https://www.infobae.com/resizer/v2/LQO57EQLBVCKLMDOYF2BUXRASM.png?auth=d2df1b059e9b2a0e9b36030188676460a744a78a314ef60a7a898a739e720057&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Wed, 23 Sep 2026 09:00:01 +0000"
       }
