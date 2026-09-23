@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T08:44:01.675937+00:00",
+  "actualizado": "2026-09-23T08:58:24.080965+00:00",
   "categorias": {
     "politica": [
       {
@@ -777,6 +777,13 @@
     ],
     "vida_sana": [
       {
+        "titulo": "“Cuéntame más”: el recurso simple de un profesor de Stanford para evitar los silencios incómodos en una conversación",
+        "link": "https://www.infobae.com/salud/2026/09/23/cuentame-mas-el-recurso-simple-de-un-profesor-de-stanford-para-evitar-los-silencios-incomodos-en-una-conversacion/",
+        "imagen": "https://www.infobae.com/resizer/v2/7TXYRMAHRZHORINMO3PBUKG5EM.png?auth=855c5736daafb8aa14eedd13986ba1bcb51d28c66da44fc11cd81a35fd36e56e&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Wed, 23 Sep 2026 08:56:00 +0000"
+      },
+      {
         "titulo": "Salud cardiovascular y ejercicio: ¿Cuánta actividad aeróbica necesitas realmente?",
         "link": "https://www.infobae.com/salud/2026/09/23/salud-cardiovascular-y-ejercicio-cuanta-actividad-aerobica-necesitas-realmente/",
         "imagen": "https://www.infobae.com/resizer/v2/5ZYQNPZ3JZFNFEM2Q4AV23MYFE.jpg?auth=4dd7380df526d323a58bb71261ab3882a1fed811f2c155b141b9c97f90590744&smart=true&width=1200&height=800",
@@ -810,13 +817,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/K2YEIJV2TNECLL4GDYHJHUARC4.jpg?auth=3e644041c75457a3353fe9a75bd1e4f02508693a58c7544e439d87e3ddce82a0&smart=true&width=1200&height=800",
         "fuente": "Infobae Salud",
         "fecha": "Wed, 23 Sep 2026 03:30:31 +0000"
-      },
-      {
-        "titulo": "Así fue la tradicional Cena Solidaria de la Fundación Garrahan: recaudaron fondos para un programa clave",
-        "link": "https://www.infobae.com/salud/2026/09/22/asi-fue-la-tradicional-cena-solidaria-de-la-fundacion-garrahan-recaudaron-fondos-para-un-programa-clave/",
-        "imagen": "https://www.infobae.com/resizer/v2/ICIVPMRSOVG4NM3UHSDIGJLKPM.jpg?auth=44d321514ebe2528145dbeebc7cca0fde2f77fc265a13b971c72ec85c4e611bf&smart=true&width=2000&height=1165",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 22 Sep 2026 21:51:38 +0000"
       }
     ],
     "local": [
