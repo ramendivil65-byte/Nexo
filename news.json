@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-24T11:18:05.884327+00:00",
+  "actualizado": "2026-09-24T11:42:37.580999+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "El Gobierno confirmó un feriado por la llegada del papa León XIV y podrían agregarse otros dos: qué días serían",
+        "link": "https://www.ambito.com/politica/el-gobierno-confirmo-un-feriado-la-llegada-del-papa-leon-xiv-y-podrian-agregarse-otros-dos-que-dias-serian-n6326029",
+        "imagen": "https://media.ambito.com/p/52c10bc05124668d779a3a84a5bb04ba/adjuntos/239/imagenes/043/657/0043657068/1200x675/684x274:704x294/leon-xiv.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Thu, 24 Sep 2026 08:21:00 -0300"
+      },
+      {
+        "titulo": "Sólo el 1,3% de las denuncias contra jueces federales y nacionales llegaron a una sanción o remoción",
+        "link": "https://www.clarin.com/politica/solo-13-denuncias-jueces-federales-nacionales-llegaron-sancion-remocion_0_IMlSk22WaA.html",
+        "imagen": "https://www.clarin.com/img/2025/12/04/S3FTazizm_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 24 Sep 2026 11:01:47 +0000"
+      },
+      {
+        "titulo": "El secretario general de la ONU alertó por la crisis climática: \"Somos la última generación que puede evitar la catástrofe\"",
+        "link": "https://www.ambito.com/mundo/el-secretario-general-la-onu-alerto-la-crisis-climatica-somos-la-ultima-generacion-que-puede-evitar-la-catastrofe-n6326028",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Thu, 24 Sep 2026 08:27:00 -0300"
+      },
+      {
+        "titulo": "Otro curro para los Neuss en Mendoza: denuncian que Cornejo les dio ventaja en la licitación de Los Nihuiles",
+        "link": "https://www.c5n.com/politica/otro-curro-los-neuss-mendoza-denuncian-que-cornejo-les-dio-ventaja-la-licitacion-los-nihuiles-n249783",
+        "imagen": "https://media.c5n.com/p/2f137a0cf79532b38116a6904bf32bb1/adjuntos/326/imagenes/000/400/0000400300/1200x675/smart/nihuiles.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 23 Sep 2026 23:38:00 -0300"
+      },
+      {
+        "titulo": "Kicillof cerró su paso por Nueva York: buscó despejar dudas ante fondos de deuda y evitó hablar de candidaturas",
+        "link": "https://www.infobae.com/politica/2026/09/24/kicillof-cerro-su-paso-por-nueva-york-busco-despejar-dudas-ante-fondos-de-deuda-y-evito-hablar-de-candidaturas/",
+        "imagen": "https://www.infobae.com/resizer/v2/BJSBVWOTVRGV3EKUIOROVPPODU.jpg?auth=e8104429018be71da6eef513e45e5cbf45edef89be4520e1f174797d9916164d&smart=true&width=1920&height=1280",
+        "fuente": "Infobae",
+        "fecha": "Thu, 24 Sep 2026 11:34:14 +0000"
+      },
+      {
+        "titulo": "Última jornada de Milei en Estados Unidos: se reúne con Netanyahu y diserta en un foro económico",
+        "link": "https://www.tiempoar.com.ar/ta_article/ultima-jornada-de-milei-en-estados-unidos-se-reune-con-netanyahu-y-diserta-en-un-foro-economico/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Thu, 24 Sep 2026 11:35:17 +0000"
+      },
       {
         "titulo": "Carlos Presti echa al liquidador de exIOSFA y la crisis sigue sin respuesta",
         "link": "https://www.ambito.com/politica/presti-echa-al-liquidador-exiosfa-y-la-crisis-sigue-respuesta-n6326003",
@@ -19,51 +61,9 @@
       {
         "titulo": "Volodimir Zelenski denunció ante la ONU que Rusia utiliza combatientes de 47 países en la guerra",
         "link": "https://www.ambito.com/mundo/volodimir-zelenski-denuncio-la-onu-que-rusia-utiliza-combatientes-47-paises-la-guerra-n6325984",
-        "imagen": "https://media.ambito.com/p/424c2dff8ee4d32aeabc3e25f9a9b8ab/adjuntos/239/imagenes/043/661/0043661560/1200x675/smart/zelenski-la-onu-1.jpg",
+        "imagen": "",
         "fuente": "Ámbito Mundo",
         "fecha": "Wed, 23 Sep 2026 21:55:00 -0300"
-      },
-      {
-        "titulo": "Otro curro para los Neuss en Mendoza: denuncian que Cornejo les dio ventaja en la licitación de Los Nihuiles",
-        "link": "https://www.c5n.com/politica/otro-curro-los-neuss-mendoza-denuncian-que-cornejo-les-dio-ventaja-la-licitacion-los-nihuiles-n249783",
-        "imagen": "https://media.c5n.com/p/2f137a0cf79532b38116a6904bf32bb1/adjuntos/326/imagenes/000/400/0000400300/1200x675/smart/nihuiles.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 23 Sep 2026 23:38:00 -0300"
-      },
-      {
-        "titulo": "“Se nota que ella no camina la calle”: habló la víctima del ladrón de 14 años que fue sobreseído por una jueza porteña",
-        "link": "https://www.infobae.com/politica/2026/09/24/se-nota-que-ella-no-camina-la-calle-hablo-la-victima-del-ladron-de-14-anos-que-fue-sobreseido-por-una-jueza-portena/",
-        "imagen": "https://www.infobae.com/resizer/v2/SANMJTNO6REIZMEEN5FIZMXFZM.png?auth=3fa7641c53aa1d8978b4584438a2a19391aaa9a5b007f896fa4dc585e78d0437&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 11:12:46 +0000"
-      },
-      {
-        "titulo": "Presupuesto 2027: el filo de la motosierra frente a las urnas",
-        "link": "https://www.tiempoar.com.ar/ta_article/presupuesto-2027-el-filo-de-la-motosierra-frente-a-las-urnas/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 23 Sep 2026 23:22:10 +0000"
-      },
-      {
-        "titulo": "Javier Milei, Malvinas y las contradicciones: cuestiona a la ONU, pero la necesita",
-        "link": "https://www.ambito.com/politica/javier-milei-malvinas-y-las-contradicciones-cuestiona-la-onu-pero-la-necesita-n6325947",
-        "imagen": "https://media.ambito.com/p/4eb144bdb7000aebaa7b011040d773b7/adjuntos/239/imagenes/043/661/0043661555/1200x675/smart/milei-la-onu.jpeg",
-        "fuente": "Ámbito",
-        "fecha": "Thu, 24 Sep 2026 00:00:00 -0300"
-      },
-      {
-        "titulo": "Se confirmó la cumbre de líderes del G20 de 2027: Milei tendrá que viajar al Reino Unido como Cristina lo hizo en 2009",
-        "link": "https://www.clarin.com/politica/confirmo-cumbre-lideres-g20-2027-milei-viajar-reino-unido-cristina-hizo-2009_0_W46QLYyrDR.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/EcoYrqUyc_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Thu, 24 Sep 2026 09:01:47 +0000"
-      },
-      {
-        "titulo": "El impulsor del Brexit pidió al Reino Unido fortalecer militarmente las Malvinas tras el discurso de Javier Milei en la ONU",
-        "link": "https://www.ambito.com/mundo/el-impulsor-del-brexit-pidio-al-reino-unido-fortalecer-militarmente-las-malvinas-el-discurso-javier-milei-la-onu-n6325967",
-        "imagen": "https://media.ambito.com/p/ec6efdf193efeed5c53e2da3ce55cc89/adjuntos/239/imagenes/041/945/0041945252/1200x675/smart/nigel-farage-donald-trump-2webp.png",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 23 Sep 2026 21:03:00 -0300"
       },
       {
         "titulo": "En Reino Unido piden fortalecer militarmente las Malvinas tras el discurso de Javier Milei en la ONU",
@@ -73,18 +73,18 @@
         "fecha": "Wed, 23 Sep 2026 21:41:00 -0300"
       },
       {
-        "titulo": "Máximo Kirchner suma recorridas en el interior del país y alimenta especulaciones con un perfil nacional",
-        "link": "https://www.infobae.com/politica/2026/09/24/maximo-kirchner-suma-recorridas-en-el-interior-del-pais-y-alimenta-especulaciones-con-un-perfil-nacional/",
-        "imagen": "https://www.infobae.com/resizer/v2/6DVEQLUEDJEDNEZKU3CFNOP7VI.jpeg?auth=60e5222f378085b2309d330268c5fa4afaf27828cf95e8e7a1decc137eb5011b&smart=true&width=1600&height=1066",
+        "titulo": "Tras las críticas por la falta de coordinación, Karina Milei y Bullrich se reunieron con los senadores: “Fue un evento social”",
+        "link": "https://www.infobae.com/politica/2026/09/23/tras-las-criticas-por-la-falta-de-coordinacion-karina-milei-y-bullrich-se-reunen-con-los-senadores-libertarios/",
+        "imagen": "https://www.infobae.com/resizer/v2/M7TUCCYLLZFBPAAOCCEFZZTIUA.jpg?auth=71611b66402d19280c26d4cc589305489d6d977094866da92b2513dfe6422b44&smart=true&width=1280&height=852",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 11:04:19 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:24:30 +0000"
       },
       {
-        "titulo": "Declaró la ex de Cerimedo y aportará las pruebas que salpican al entorno libertario en la causa ANDIS",
-        "link": "https://www.tiempoar.com.ar/ta_article/ex-cerimedo-causa-andis/",
+        "titulo": "Presupuesto 2027: el filo de la motosierra frente a las urnas",
+        "link": "https://www.tiempoar.com.ar/ta_article/presupuesto-2027-el-filo-de-la-motosierra-frente-a-las-urnas/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 23 Sep 2026 22:25:58 +0000"
+        "fecha": "Wed, 23 Sep 2026 23:22:10 +0000"
       }
     ],
     "economia": [
@@ -96,11 +96,11 @@
         "fecha": "Thu, 24 Sep 2026 08:07:05 -0300"
       },
       {
-        "titulo": "El CEO regional de JP Morgan Chase pronostica que la Argentina podría alcanzar la máxima calificación crediticia si Milei reelige",
-        "link": "https://www.clarin.com/economia/ceo-regional-jp-morgan-chase-pronostica-argentina-podria-alcanzar-investment-grade-milei-reelige_0_hSD1yR2GXi.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/_2pr76U6U_1200x630__1.jpg",
+        "titulo": "Euro hoy en México: precio y cotización de la divisa este jueves 24 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-mexico-precio-y-cotizacion-de-la-divisa-este-jueves-24-de-septiembre-de-2026_0_TMGC3RVI2o.html",
+        "imagen": "https://www.clarin.com/img/2016/12/30/Sy03el4Sg_1200x630.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 23:44:05 +0000"
+        "fecha": "Thu, 24 Sep 2026 10:45:12 +0000"
       },
       {
         "titulo": "Pobreza: el INDEC publicará el dato del primer semestre 2026 y anticipan un fuerte aumento",
@@ -110,11 +110,11 @@
         "fecha": "Thu, 24 Sep 2026 08:01:00 -0300"
       },
       {
-        "titulo": "“Superjueves”: la pobreza y la actividad marcarán la agenda, mientras el Senado define las reformas del BCRA y Zonas Frías",
-        "link": "https://www.infobae.com/economia/2026/09/24/superjueves-la-pobreza-y-la-actividad-marcaran-la-agenda-mientras-el-senado-define-las-reformas-del-bcra-y-zonas-frias/",
-        "imagen": "https://www.infobae.com/resizer/v2/QMR3W7MAK5CXBGU4YHVJK2UKXM.jpg?auth=7913c645f77b6729fdc927b150ac97698f828770368546632ad1f427685c00ef&smart=true&width=1920&height=1080",
+        "titulo": "La actividad industrial volvió a caer en agosto y acumula una contracción del 1,2% en el año",
+        "link": "https://www.infobae.com/economia/2026/09/24/la-actividad-industrial-volvio-a-caer-en-agosto-y-acumula-una-contraccion-del-12-en-el-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/XYTKDY5XZFBHPAHGEYOPPFEFYA.png?auth=8195bca33dcb7c66315ddec26576ddd1165d062000b9502d9853c650b6d86fa0&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 11:04:08 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:32:31 +0000"
       },
       {
         "titulo": "Trabajadores del Garrahan denuncian a las autoridades del hospital por xenofobia y privatización encubierta",
@@ -131,11 +131,11 @@
         "fecha": "Thu, 24 Sep 2026 07:00:00 -0300"
       },
       {
-        "titulo": "Argentina accede a un paquete multimillonario de financiamiento de EE.UU. para infraestructura y minerales críticos",
-        "link": "https://www.clarin.com/economia/argentina-accede-paquete-multimillonario-financiamiento-eeuu-infraestructura-minerales-criticos_0_QKVjn62Yd6.html",
-        "imagen": "https://www.clarin.com/img/2026/09/24/nSxaglx19_1200x630__1.jpg",
+        "titulo": "Euro hoy en Nicaragua: precio y cotización de la divisa este jueves 24 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-nicaragua-precio-y-cotizacion-de-la-divisa-este-jueves-24-de-septiembre-de-2026_0_DylRBfO9ej.html",
+        "imagen": "https://www.clarin.com/img/2020/10/07/V8Hxgsjgi_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 23:39:07 +0000"
+        "fecha": "Thu, 24 Sep 2026 10:45:12 +0000"
       },
       {
         "titulo": "Argentina y Estados Unidos lanzaron el Corredor Andes-Atlántico para \"fortalecer y modernizar la infraestructura\"",
@@ -145,11 +145,11 @@
         "fecha": "Wed, 23 Sep 2026 20:38:00 -0300"
       },
       {
-        "titulo": "ANSES: quiénes cobran hoy, jueves 24 de septiembre de 2026",
-        "link": "https://www.infobae.com/economia/2026/09/24/anses-quienes-cobran-hoy-jueves-24-de-septiembre-de-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/VUZSSQY7K5DFHIK67KMTTJWGEU.jpg?auth=19a732901d2338a3cee68c5b3109917ce72eb6b8b9661462257fe5eccbc92cc0&smart=true&width=1920&height=1080",
+        "titulo": "Así es Argentina LNG, el megaproyecto para exportar gas que contará con un millonario financiamiento de EEUU",
+        "link": "https://www.infobae.com/economia/2026/09/24/asi-es-argentina-lng-el-megaproyecto-para-exportar-gas-que-contara-con-un-millonario-financiamiento-de-eeuu/",
+        "imagen": "https://www.infobae.com/resizer/v2/BCXYMVPHDBDNZFUMKJ7TY5YEYA.jpg?auth=1a349820b48d0a686645c3eda541cb5f36ab2b5550293c260a3889ec4803f017&smart=true&width=1920&height=1274",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 09:00:01 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:17:40 +0000"
       },
       {
         "titulo": "El consumo no reacciona: cayó 1,5% en agosto",
@@ -166,20 +166,20 @@
         "fecha": "Thu, 24 Sep 2026 07:00:00 -0300"
       },
       {
-        "titulo": "La Corte falló a favor de una textil y marcó un precedente en la aplicación de tasas para deudas en pesos y dólares",
-        "link": "https://www.clarin.com/economia/corte-fallo-favor-textil-marco-precedente-aplicacion-tasas-deudas-pesos-dolares_0_v24nMNw2eV.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/jk02y66wa_1200x630__1.jpg",
+        "titulo": "Euro hoy en Honduras: precio y cotización de la divisa este jueves 24 de septiembre de 2026",
+        "link": "https://www.clarin.com/economia/euro-hoy-en-honduras-precio-y-cotizacion-de-la-divisa-este-jueves-24-de-septiembre-de-2026_0_uBLcNk1F7W.html",
+        "imagen": "https://www.clarin.com/img/2020/07/21/2DpySNlFG_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 22:15:57 +0000"
+        "fecha": "Thu, 24 Sep 2026 10:45:11 +0000"
       }
     ],
     "deportes": [
       {
-        "titulo": "Cristiano Ronaldo vuelve a Portugal con una obsesión: llegar a los 1.000 goles antes de retirarse",
-        "link": "https://www.ambito.com/deportes/cristiano-ronaldo-vuelve-portugal-y-se-fija-un-nuevo-desafio-llegar-los-1000-goles-antes-retirarse-n6325930",
-        "imagen": "https://media.ambito.com/p/d1d6a6f9071968e3a32c3730ddc3d8cf/adjuntos/239/imagenes/043/581/0043581782/1200x675/605x199:625x219/cristiano-colorado-3.jpg",
+        "titulo": "Harry Kane sorprende: quiere jugar en la MLS y también incursionar en la NFL",
+        "link": "https://www.ambito.com/deportes/harry-kane-sorprende-quiere-jugar-la-mls-y-tambien-incursionar-la-nfl-n6326030",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 23 Sep 2026 19:45:00 -0300"
+        "fecha": "Thu, 24 Sep 2026 08:30:00 -0300"
       },
       {
         "titulo": "Corea del Sur vs Ecuador, con el debut de Marcelo Gallardo, EN VIVO: cómo va, resultado y minuto a minuto",
@@ -196,11 +196,11 @@
         "fecha": "Wed, 23 Sep 2026 23:48:00 -0300"
       },
       {
-        "titulo": "“Que no juegan con nadie”: el duro cántico contra la Selección Argentina Sub-19 durante la semifinal ante Perú",
-        "link": "https://www.infobae.com/deportes/2026/09/24/que-no-juegan-con-nadie-el-duro-cantico-contra-la-seleccion-argentina-sub-19-durante-la-semifinal-ante-peru/",
-        "imagen": "https://www.infobae.com/resizer/v2/HAUWRPJMBNEC3EOD46QWZMMW5A.jpg?auth=9171860c523ff30072a37fca718d89d7fa14110116b0673e450cbc109e204837&smart=true&width=679&height=529",
+        "titulo": "Franco Colapinto sale a pista para la segunda práctica del Gran Premio de Azerbaiyán de F1",
+        "link": "https://www.infobae.com/deportes/2026/09/24/franco-colapinto-inicia-su-actividad-en-el-peligroso-circuito-de-baku-con-las-dos-primeras-practicas/",
+        "imagen": "https://www.infobae.com/resizer/v2/B3SMXV2RMBEZVAS7EZN7QKIVXA.JPG?auth=b823e7233cb21ddcd89bd210ac826418b81e5e5b5a5129e172669c5500f6125e&smart=true&width=4253&height=2646",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 11:05:57 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:42:01 +0000"
       },
       {
         "titulo": "Video: Chiqui Tapia visitó el predio que inaugurará Racing",
@@ -252,11 +252,11 @@
         "fecha": "Wed, 23 Sep 2026 20:08:00 -0300"
       },
       {
-        "titulo": "Claudio \"Chiqui\" Tapia y el sorpresivo pedido para los dirigentes de River, tras su vuelta al Comité Ejecutivo de la AFA",
-        "link": "https://www.ambito.com/deportes/chiqui-tapia-y-el-sorpresivo-pedido-los-dirigentes-river-su-vuelta-al-comite-ejecutivo-la-afa-n6325914",
-        "imagen": "https://media.ambito.com/p/8d72121cfc6367205966c41e24c7026b/adjuntos/239/imagenes/043/658/0043658542/1200x675/1339x566:1359x586/comite-22-09-40.jpg",
+        "titulo": "Cristiano Ronaldo vuelve a Portugal con una obsesión: llegar a los 1.000 goles antes de retirarse",
+        "link": "https://www.ambito.com/deportes/cristiano-ronaldo-vuelve-portugal-y-se-fija-un-nuevo-desafio-llegar-los-1000-goles-antes-retirarse-n6325930",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 23 Sep 2026 19:01:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 19:45:00 -0300"
       }
     ],
     "policiales_actualidad": [
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Volodimir Zelenski denunció ante la ONU que Rusia utiliza combatientes de 47 países en la guerra",
-        "link": "https://www.ambito.com/mundo/volodimir-zelenski-denuncio-la-onu-que-rusia-utiliza-combatientes-47-paises-la-guerra-n6325984",
-        "imagen": "https://media.ambito.com/p/424c2dff8ee4d32aeabc3e25f9a9b8ab/adjuntos/239/imagenes/043/661/0043661560/1200x675/smart/zelenski-la-onu-1.jpg",
+        "titulo": "El secretario general de la ONU alertó por la crisis climática: \"Somos la última generación que puede evitar la catástrofe\"",
+        "link": "https://www.ambito.com/mundo/el-secretario-general-la-onu-alerto-la-crisis-climatica-somos-la-ultima-generacion-que-puede-evitar-la-catastrofe-n6326028",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 23 Sep 2026 21:55:00 -0300"
+        "fecha": "Thu, 24 Sep 2026 08:27:00 -0300"
       },
       {
         "titulo": "El PT de Lula pidió investigar una posible financiación extranjera a Flávio Bolsonaro",
@@ -368,18 +368,18 @@
         "fecha": "Thu, 24 Sep 2026 00:46:23 +0000"
       },
       {
-        "titulo": "Industriales rechazan abrir el mercado a un segundo importador en Uruguay: algunas empresas evalúan cerrar si se aprueba ley",
-        "link": "https://www.infobae.com/america/america-latina/2026/09/24/industriales-rechazan-abrir-el-mercado-a-un-segundo-importador-en-uruguay-algunas-empresas-evaluan-cerrar-si-se-aprueba-ley/",
-        "imagen": "https://www.infobae.com/resizer/v2/G3R7GKQU5RBJFHTKVF3C5IURLE.jpg?auth=c06904b7ca87a642fb044595bd033c0ed06df8da414f7f56203122b04f630afb&smart=true&width=1920&height=1080",
+        "titulo": "La emboscada detrás del asesinato de un futbolista juvenil en Uruguay: fue a comprar un iPhone y terminó muerto",
+        "link": "https://www.infobae.com/america/america-latina/2026/09/24/la-emboscada-detras-del-asesinato-de-un-futbolista-juvenil-en-uruguay-fue-a-comprar-un-iphone-y-termino-muerto/",
+        "imagen": "https://www.infobae.com/resizer/v2/DA4F5CJFX5H6PB3JJ2IKFGBWEM.jpg?auth=bb6f4729d410f0410cfedc205282e526213ed2227c8e17925319f599a2e797fd&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 11:08:57 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:21:00 +0000"
       },
       {
-        "titulo": "El impulsor del Brexit pidió al Reino Unido fortalecer militarmente las Malvinas tras el discurso de Javier Milei en la ONU",
-        "link": "https://www.ambito.com/mundo/el-impulsor-del-brexit-pidio-al-reino-unido-fortalecer-militarmente-las-malvinas-el-discurso-javier-milei-la-onu-n6325967",
-        "imagen": "https://media.ambito.com/p/ec6efdf193efeed5c53e2da3ce55cc89/adjuntos/239/imagenes/041/945/0041945252/1200x675/smart/nigel-farage-donald-trump-2webp.png",
+        "titulo": "Volodimir Zelenski denunció ante la ONU que Rusia utiliza combatientes de 47 países en la guerra",
+        "link": "https://www.ambito.com/mundo/volodimir-zelenski-denuncio-la-onu-que-rusia-utiliza-combatientes-47-paises-la-guerra-n6325984",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 23 Sep 2026 21:03:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 21:55:00 -0300"
       },
       {
         "titulo": "Ante la ONU, Volodimir Zelenski denunció que Rusia reclutó soldados de 47 países para luchar contra Ucrania",
@@ -396,18 +396,18 @@
         "fecha": "Wed, 23 Sep 2026 22:51:33 +0000"
       },
       {
-        "titulo": "“Sin pluralismo, no hay cultura”: más de 350 autores de todo el mundo respaldaron a Ariana Harwicz, la escritora cancelada en España",
-        "link": "https://www.infobae.com/cultura/2026/09/23/sin-pluralismo-no-hay-cultura-mas-de-350-autores-de-todo-el-mundo-salieron-en-defensa-de-ariana-harwicz/",
-        "imagen": "https://www.infobae.com/resizer/v2/6L6QKYC7X5D6TNW6FE2PWT2EFM.jpeg?auth=a11a615163018ccb1b6e7000d74f7b5f7b81091587daeeb29c7887ff7665d80b&smart=true&width=2048&height=1365",
+        "titulo": "El olvido selectivo de China",
+        "link": "https://www.infobae.com/america/opinion/2026/09/24/el-olvido-selectivo-de-china/",
+        "imagen": "https://www.infobae.com/resizer/v2/4XAB6FXKLZDNZM7UYLYKWKFPXY.jpg?auth=ffcab8463c37ed3e525e16281ac47593208841de410b995a99a28cccd28538fa&smart=true&width=1920&height=1185",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 11:00:20 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:18:57 +0000"
       },
       {
-        "titulo": "Donald Trump recibió a Xi Jinping en EEUU con una enorme puesta en escena: alfombra roja y bienvenida en la pista de aterrizaje",
-        "link": "https://www.ambito.com/mundo/donald-trump-recibe-xi-jinping-eeuu-una-enorme-puesta-escena-que-desafia-los-protocolos-n6325654",
-        "imagen": "https://media.ambito.com/p/650f98a6b20cd281056c49c53467c5c0/adjuntos/239/imagenes/043/661/0043661439/1200x675/smart/trump-xi-jinping.jpg",
+        "titulo": "El impulsor del Brexit pidió al Reino Unido fortalecer militarmente las Malvinas tras el discurso de Javier Milei en la ONU",
+        "link": "https://www.ambito.com/mundo/el-impulsor-del-brexit-pidio-al-reino-unido-fortalecer-militarmente-las-malvinas-el-discurso-javier-milei-la-onu-n6325967",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 23 Sep 2026 20:10:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 21:03:00 -0300"
       },
       {
         "titulo": "Donald Trump recibió a Xi Jinping en su primera visita oficial a Estados Unidos en más de una década",
@@ -424,11 +424,11 @@
         "fecha": "Wed, 23 Sep 2026 22:02:32 +0000"
       },
       {
-        "titulo": "La Cultura de la Cancelación",
-        "link": "https://www.infobae.com/america/opinion/2026/09/24/la-cultura-de-la-cancelacion/",
-        "imagen": "https://www.infobae.com/resizer/v2/XRCOJDKYNRDX7MT7VDX7UKO6KU.png?auth=88fb1279d2b5ae223b7557cf9bbeda6ad4152abb96b5eb3a630ce1aaf6c2203d&smart=true&width=2752&height=1536",
+        "titulo": "“Llevan una jeringa letal en el chaleco”: El dramático testimonio de la esposa de un guatemalteco en el frente ruso",
+        "link": "https://www.infobae.com/guatemala/2026/09/23/llevan-una-jeringa-letal-en-el-chaleco-el-dramatico-testimonio-de-la-esposa-de-un-guatemalteco-en-el-frente-ruso/",
+        "imagen": "https://www.infobae.com/resizer/v2/O6VWHZDGOZC6FH7LFKJLXYQFZM.png?auth=2b9c33ca2bce2454b85eb5f0e15c37e55a59be942632adffed07fd373ada003a&smart=true&width=510&height=359",
         "fuente": "Infobae",
-        "fecha": "Thu, 24 Sep 2026 08:55:59 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:15:40 +0000"
       }
     ],
     "espectaculos": [
@@ -447,11 +447,11 @@
         "fecha": "Wed, 23 Sep 2026 22:15:00 -0300"
       },
       {
-        "titulo": "Murió Lucas Montanaro, músico de Canto 4: tenía 36 años y se descompensó mientras jugaba al fútbol",
-        "link": "https://www.clarin.com/espectaculos/murio-lucas-montanaro-musico-canto-4-36-anos-descompenso-jugaba-futbol_0_iYdH6eUjAC.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/p-OCboMh0_1200x630__1.jpg",
+        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este jueves 24 de septiembre de 2026 en Argentina",
+        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-jueves-24-de-septiembre-de-2026-en-argentina_0_MDnMPuY5lX.html",
+        "imagen": "https://www.clarin.com/img/2024/06/25/-PrGfUk29_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 20:19:15 +0000"
+        "fecha": "Thu, 24 Sep 2026 10:15:02 +0000"
       },
       {
         "titulo": "La coincidencia de estilo entre Wanda Nara y la China Suárez que reavivó la polémica: “¿Quién copia a quién?\"",
@@ -475,11 +475,11 @@
         "fecha": "Wed, 23 Sep 2026 21:57:00 -0300"
       },
       {
-        "titulo": "Los Tinelli 2: qué mostrará la nueva temporada del reality de Marcelo y su familia",
-        "link": "https://www.clarin.com/espectaculos/tinelli-2-mostrara-nueva-temporada-reality-marcelo-familia_0_OFcbHlZhNU.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/-2EA_qFCG_1200x630__1.jpg",
+        "titulo": "Fito Páez: la verdad sin filtros y más allá del olor a propaganda política",
+        "link": "https://www.clarin.com/espectaculos/fito-paez-verdad-filtros-alla-olor-propaganda-politica_0_0vLt6BXYOD.html",
+        "imagen": "https://www.clarin.com/img/2026/09/23/mTj9pZhbt_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 17:38:03 +0000"
+        "fecha": "Thu, 24 Sep 2026 10:01:44 +0000"
       },
       {
         "titulo": "La inesperada pelea de Guillermo Coppola con Marcela Tauro: “Susana empezó con el ‘Shock’ y Wanda con un calzoncillo”",
@@ -503,11 +503,11 @@
         "fecha": "Wed, 23 Sep 2026 20:58:00 -0300"
       },
       {
-        "titulo": "América apuesta por la ficción: de qué se trata la nueva serie juvenil que llegará a la TV abierta de la mano de Prime Video",
-        "link": "https://www.clarin.com/espectaculos/america-apuesta-ficcion-trata-nueva-serie-juvenil-llegara-tv-abierta-mano-prime-video_0_i1PCJyKxas.html",
-        "imagen": "https://www.clarin.com/img/2026/09/23/3O9rHrR0P_1200x630__1.jpg",
+        "titulo": "Russell Crowe, el inmigrante que toma Viagra, lava dinero narco y no la pasa nada mal",
+        "link": "https://www.clarin.com/espectaculos/russell-crowe-inmigrante-toma-viagra-lava-dinero-narco-pasa-mal_0_aMmHrG2QCf.html",
+        "imagen": "https://www.clarin.com/img/2026/09/19/NafVqeBWx_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 23 Sep 2026 16:45:28 +0000"
+        "fecha": "Thu, 24 Sep 2026 09:03:43 +0000"
       },
       {
         "titulo": "La desilusión de Mario Pergolini luego de que Mora Bianchi rechazara uno de sus regalos: \"¿No te gustó?\"",
@@ -533,11 +533,11 @@
         "fecha": "Wed, 23 Sep 2026 21:16:00 -0300"
       },
       {
-        "titulo": "Ubisoft premiará a usuarios que no jueguen GTA 6 en su lanzamiento",
-        "link": "https://www.infobae.com/tecno/2026/09/24/ubisoft-premiara-a-usuarios-que-no-jueguen-gta-6-en-su-lanzamiento/",
-        "imagen": "https://www.infobae.com/resizer/v2/ASXZIRUBO5EGPNSJWY624CCSWM.png?auth=066797601b2d529b7145fb13b90705a8d0b2af81bbb1eac63676afe69623a323&smart=true&width=1920&height=1080",
+        "titulo": "¿Cómo se han comportado las criptomonedas hoy? Análisis de su volatilidad y tendencias",
+        "link": "https://www.infobae.com/tecno/2026/09/24/como-se-han-comportado-las-criptomonedas-hoy-analisis-de-su-volatilidad-y-tendencias/",
+        "imagen": "https://www.infobae.com/resizer/v2/BH7LOIDUQRCRLHARFMDLW3FTPM.jpg?auth=7ae4ca963876ddc47517ca91bfe515be53bf9e2de3dc5019078b5358ce07fe08&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 24 Sep 2026 03:31:03 +0000"
+        "fecha": "Thu, 24 Sep 2026 11:31:10 +0000"
       },
       {
         "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
@@ -561,11 +561,11 @@
         "fecha": "Wed, 23 Sep 2026 15:09:16 -0300"
       },
       {
-        "titulo": "Cómo crear skins de Las Guerreras K-Pop paso a paso utilizando Gemini",
-        "link": "https://www.infobae.com/tecno/2026/09/24/como-crear-skins-de-las-guerreras-k-pop-paso-a-paso-utilizando-gemini/",
-        "imagen": "https://www.infobae.com/resizer/v2/MZC4MYPMMBC5BB4KM4AXUXQQT4.jpg?auth=defdaf6e0193656cfb2492fafd4e0baf2de7b97d09046a39671b9b6c84d17c07&smart=true&width=1920&height=1080",
+        "titulo": "Ubisoft premiará a usuarios que no jueguen GTA 6 en su lanzamiento",
+        "link": "https://www.infobae.com/tecno/2026/09/24/ubisoft-premiara-a-usuarios-que-no-jueguen-gta-6-en-su-lanzamiento/",
+        "imagen": "https://www.infobae.com/resizer/v2/ASXZIRUBO5EGPNSJWY624CCSWM.png?auth=066797601b2d529b7145fb13b90705a8d0b2af81bbb1eac63676afe69623a323&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 24 Sep 2026 03:17:44 +0000"
+        "fecha": "Thu, 24 Sep 2026 03:31:03 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -589,11 +589,11 @@
         "fecha": "Tue, 22 Sep 2026 17:14:00 -0300"
       },
       {
-        "titulo": "Cómo traducir mensajes de WhatsApp al instante con el ícono flotante de Google Translate",
-        "link": "https://www.infobae.com/tecno/2026/09/24/como-traducir-mensajes-de-whatsapp-al-instante-con-el-icono-flotante-de-google-translate/",
-        "imagen": "https://www.infobae.com/resizer/v2/6KBSXRQAZRCWPFS7UUFZCK4KNU.png?auth=8f20aaebe05b0de350f64ef8e4e74504d7514075324581464b4e991b1593c703&smart=true&width=1536&height=1024",
+        "titulo": "Cómo crear skins de Las Guerreras K-Pop paso a paso utilizando Gemini",
+        "link": "https://www.infobae.com/tecno/2026/09/24/como-crear-skins-de-las-guerreras-k-pop-paso-a-paso-utilizando-gemini/",
+        "imagen": "https://www.infobae.com/resizer/v2/MZC4MYPMMBC5BB4KM4AXUXQQT4.jpg?auth=defdaf6e0193656cfb2492fafd4e0baf2de7b97d09046a39671b9b6c84d17c07&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Thu, 24 Sep 2026 02:55:01 +0000"
+        "fecha": "Thu, 24 Sep 2026 03:17:44 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
@@ -791,13 +791,6 @@
         "fecha": "Thu, 24 Sep 2026 09:22:39 +0000"
       },
       {
-        "titulo": "Ansiedad y presión arterial: cuál es la relación que analizan los expertos y por qué advierten que pueden confundirse",
-        "link": "https://www.infobae.com/salud/2026/09/24/ansiedad-y-presion-arterial-cual-es-la-relacion-que-analizan-los-expertos-y-por-que-advierten-que-pueden-confundirse/",
-        "imagen": "https://www.infobae.com/resizer/v2/JPED2TMUJZDC3FB2RTHDIFL22E.png?auth=c9c0a47328b29d513757b21b954d4dd689730a8ba12a8f4230f503d3bceef6fb&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Thu, 24 Sep 2026 09:00:01 +0000"
-      },
-      {
         "titulo": "5 hábitos que ayudan a reducir la grasa abdominal y sostener el peso, según expertos",
         "link": "https://www.infobae.com/salud/2026/09/24/5-habitos-que-ayudan-a-reducir-la-grasa-abdominal-y-sostener-el-peso-segun-expertos/",
         "imagen": "https://www.infobae.com/resizer/v2/ERMVWWE4QVD2FOJAEWAPUG3SZA.png?auth=9ddd2621ab5fff84fe195c978a3e83febc3fbb50b13f36d7bca9165c737d64c7&smart=true&width=1974&height=1110",
@@ -817,15 +810,22 @@
         "imagen": "https://www.infobae.com/resizer/v2/HPMY5MYS6FHDBMARFW5JGLGZMQ.png?auth=f62ef984cb4199fb397a159d731901147ea94095346db14219ae97ae03e0555a&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Thu, 24 Sep 2026 09:00:01 +0000"
+      },
+      {
+        "titulo": "Ansiedad y presión arterial: cuál es la relación que analizan los expertos y por qué advierten que pueden confundirse",
+        "link": "https://www.infobae.com/salud/2026/09/24/ansiedad-y-presion-arterial-cual-es-la-relacion-que-analizan-los-expertos-y-por-que-advierten-que-pueden-confundirse/",
+        "imagen": "https://www.infobae.com/resizer/v2/JPED2TMUJZDC3FB2RTHDIFL22E.png?auth=c9c0a47328b29d513757b21b954d4dd689730a8ba12a8f4230f503d3bceef6fb&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Thu, 24 Sep 2026 09:00:01 +0000"
       }
     ],
     "local": [
       {
-        "titulo": "Arrancá la mañana con información y entretenimiento en el streaming de 0221 Play",
-        "link": "https://www.0221.com.ar/la-plata/arranca-la-manana-informacion-y-entretenimiento-el-streaming-0221-play-n134706",
-        "imagen": "https://media.0221.com.ar/p/787f5beafd8e13658e0f8d6e8565d238/adjuntos/357/imagenes/100/275/0100275354/1200x630/smart/portada-primer-intento.jpeg",
+        "titulo": "La primavera pisa fuerte en La Plata con días de sol y temperaturas por encima de los 22°C",
+        "link": "https://www.0221.com.ar/la-plata/la-primavera-pisa-fuerte-la-plata-dias-sol-y-temperaturas-encima-los-22c-n134704",
+        "imagen": "https://media.0221.com.ar/p/795a1b602168638e28cd8bea2713910d/adjuntos/357/imagenes/100/264/0100264765/1200x630/smart/clima-calor-4.jpeg",
         "fuente": "0221",
-        "fecha": "Thu, 24 Sep 2026 07:51:00 -0300"
+        "fecha": "Thu, 24 Sep 2026 08:20:00 -0300"
       },
       {
         "titulo": "Los trabajadores nodocentes de la UNLP anunciaron un nuevo paro en medio del conflicto por el financiamiento",
@@ -842,18 +842,18 @@
         "fecha": "Wed, 23 Sep 2026 18:31:00 -0300"
       },
       {
-        "titulo": "Cuenta DNI del Banco Provincia: los descuentos de hoy jueves 24 de septiembre 2026",
-        "link": "https://www.eldia.com/la-ciudad/cuenta-dni-del-banco-provincia-los-descuentos-de-hoy-jueves-24-de-septiembre-2026-la-ciudad_1790245680",
+        "titulo": "Paritaria: la oferta a estatales apuntaría a un aumento con impacto en haberes de octubre",
+        "link": "https://www.eldia.com/politica-y-economia/se-reabre-hoy-la-paritaria-con-estatales-la-oferta-de-provincia-apuntaria-a-un-aumento-con-impacto-en-haberes-de-octubre-politica-y-economia_1790247420",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 24 Sep 2026 10:31:34 GMT"
+        "fecha": "Thu, 24 Sep 2026 11:25:40 GMT"
       },
       {
-        "titulo": "El Concejo Deliberante de La Plata vuelve a sesionar y busca bajar la tensión tras el último escándalo",
-        "link": "https://www.0221.com.ar/la-plata/el-concejo-deliberante-la-plata-vuelve-sesionar-y-busca-bajar-la-tension-el-ultimo-escandalo-n134680",
-        "imagen": "https://media.0221.com.ar/p/ea596ed1dd36faf7af5c6c02060a97e5/adjuntos/357/imagenes/100/285/0100285370/1200x630/1999x1536:2019x1556/sesion-concejo-deliberante-del-2-julio-2026-3.jpg",
+        "titulo": "Arrancá la mañana con información y entretenimiento en el streaming de 0221 Play",
+        "link": "https://www.0221.com.ar/la-plata/arranca-la-manana-informacion-y-entretenimiento-el-streaming-0221-play-n134706",
+        "imagen": "https://media.0221.com.ar/p/787f5beafd8e13658e0f8d6e8565d238/adjuntos/357/imagenes/100/275/0100275354/1200x630/smart/portada-primer-intento.jpeg",
         "fuente": "0221",
-        "fecha": "Thu, 24 Sep 2026 07:17:00 -0300"
+        "fecha": "Thu, 24 Sep 2026 07:51:00 -0300"
       },
       {
         "titulo": "Un geólogo de la UNLP fue seleccionado para un ambicioso proyecto que busca mapear el 100% del fondo oceánico",
@@ -870,18 +870,18 @@
         "fecha": "Wed, 23 Sep 2026 10:00:00 -0300"
       },
       {
-        "titulo": "Anses: el calendario de pagos de este jueves 24 de septiembre",
-        "link": "https://www.eldia.com/la-ciudad/anses-cuando-cobro-el-calendario-de-pagos-de-este-jueves-24-de-septiembre-la-ciudad_1790244720",
+        "titulo": "Cuenta DNI del Banco Provincia: los descuentos de hoy jueves 24 de septiembre 2026",
+        "link": "https://www.eldia.com/la-ciudad/cuenta-dni-del-banco-provincia-los-descuentos-de-hoy-jueves-24-de-septiembre-2026-la-ciudad_1790245680",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 24 Sep 2026 10:17:26 GMT"
+        "fecha": "Thu, 24 Sep 2026 10:31:34 GMT"
       },
       {
-        "titulo": "La Municipalidad de La Plata acordó con los taxistas endurecer los controles contra Uber, DiDi y Cabify",
-        "link": "https://www.0221.com.ar/la-plata/la-municipalidad-la-plata-acordo-los-taxistas-endurecer-los-controles-contra-uber-didi-y-cabify-n134687",
-        "imagen": "https://media.0221.com.ar/p/3b066671ae029a05f31f846935942a13/adjuntos/357/imagenes/100/296/0100296810/1200x630/2143x1253:2163x1273/1790092328613-protesta-taxistas-6.jpg",
+        "titulo": "El Concejo Deliberante de La Plata vuelve a sesionar y busca bajar la tensión tras el último escándalo",
+        "link": "https://www.0221.com.ar/la-plata/el-concejo-deliberante-la-plata-vuelve-sesionar-y-busca-bajar-la-tension-el-ultimo-escandalo-n134680",
+        "imagen": "https://media.0221.com.ar/p/ea596ed1dd36faf7af5c6c02060a97e5/adjuntos/357/imagenes/100/285/0100285370/1200x630/1999x1536:2019x1556/sesion-concejo-deliberante-del-2-julio-2026-3.jpg",
         "fuente": "0221",
-        "fecha": "Wed, 23 Sep 2026 21:28:00 -0300"
+        "fecha": "Thu, 24 Sep 2026 07:17:00 -0300"
       },
       {
         "titulo": "La UCALP distinguió a los estudiantes con los mejores promedios del ciclo lectivo 2025",
@@ -898,11 +898,11 @@
         "fecha": "Wed, 23 Sep 2026 08:56:00 -0300"
       },
       {
-        "titulo": "El Cacique sigue dándole forma al equipo",
-        "link": "https://www.eldia.com/deportes/el-cacique-sigue-dandole-forma-al-equipo-deportes_1790236096",
+        "titulo": "Anses: el calendario de pagos de este jueves 24 de septiembre",
+        "link": "https://www.eldia.com/la-ciudad/anses-cuando-cobro-el-calendario-de-pagos-de-este-jueves-24-de-septiembre-la-ciudad_1790244720",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Thu, 24 Sep 2026 08:32:35 GMT"
+        "fecha": "Thu, 24 Sep 2026 10:17:26 GMT"
       }
     ]
   }
