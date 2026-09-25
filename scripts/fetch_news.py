@@ -126,16 +126,29 @@ def es_noticia_policial(titulo: str) -> bool:
 
 
 # Temas que no se quieren publicar bajo ningún concepto, en ninguna categoría.
-# Se compara en minúsculas, así que no hace falta preocuparse por mayúsculas.
+# Se compara en minúsculas y sin signos de puntuación, así que un título como
+# 'Caso "Chocolate" Rigau' también queda bloqueado por "caso chocolate".
 # Para bloquear otro tema en el futuro, alcanza con agregarlo a esta lista.
 TEMAS_BLOQUEADOS = [
     "caso chocolate",
 ]
 
+_PUNTUACION_RE = re.compile(r"[^\w\s]", re.UNICODE)
+
+
+def _normalizar(texto: str) -> str:
+    """Pasa a minúsculas y saca comillas/comas/etc. para que 'caso chocolate'
+    coincida aunque el título tenga puntuación en el medio (ej: 'Caso
+    "Chocolate" Rigau')."""
+    texto = texto.lower()
+    texto = _PUNTUACION_RE.sub(" ", texto)
+    return " ".join(texto.split())
+
 
 def tiene_tema_bloqueado(titulo: str) -> bool:
-    titulo_lower = titulo.lower()
-    return any(tema in titulo_lower for tema in TEMAS_BLOQUEADOS)
+    titulo_normalizado = _normalizar(titulo)
+    return any(_normalizar(tema) in titulo_normalizado for tema in TEMAS_BLOQUEADOS)
+
 
 
 def limpiar_texto(texto: str) -> str:
