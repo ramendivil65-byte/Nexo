@@ -125,6 +125,18 @@ def es_noticia_policial(titulo: str) -> bool:
     return any(palabra in titulo_lower for palabra in PALABRAS_POLICIALES)
 
 
+# Temas que no se quieren publicar bajo ningún concepto, en ninguna categoría.
+# Se compara en minúsculas, así que no hace falta preocuparse por mayúsculas.
+# Para bloquear otro tema en el futuro, alcanza con agregarlo a esta lista.
+TEMAS_BLOQUEADOS = [
+    "caso chocolate",
+]
+
+
+def tiene_tema_bloqueado(titulo: str) -> bool:
+    titulo_lower = titulo.lower()
+    return any(tema in titulo_lower for tema in TEMAS_BLOQUEADOS)
+
 
 def limpiar_texto(texto: str) -> str:
     """Saca tags HTML y espacios de más de un título/resumen de RSS."""
@@ -180,6 +192,8 @@ def traer_categoria(nombre_categoria: str, fuentes: list) -> list:
             if not titulo:
                 continue
             if nombre_categoria == "local" and es_noticia_policial(titulo):
+                continue
+            if tiene_tema_bloqueado(titulo):
                 continue
             items.append(
                 {
