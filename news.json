@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T21:31:26.325761+00:00",
+  "actualizado": "2026-09-26T21:53:27.387470+00:00",
   "categorias": {
     "politica": [
       {
@@ -17,11 +17,11 @@
         "fecha": "Sat, 26 Sep 2026 20:22:58 +0000"
       },
       {
-        "titulo": "Secretario de Defensa británico apuntó contra Argentina por Malvinas: \"No tienen la capacidad de tomar las islas\"",
-        "link": "https://www.ambito.com/mundo/secretario-defensa-britanico-apunto-contra-argentina-malvinas-no-tienen-la-capacidad-tomar-las-islas-n6327043",
+        "titulo": "Donald Trump descarta una intervención militar en Cuba, que reconoció abrirse a \"relaciones comerciales\" con EEUU",
+        "link": "https://www.ambito.com/mundo/donald-trump-descarta-una-intervencion-militar-cuba-que-reconocio-abrirse-relaciones-comerciales-eeuu-n6327050",
         "imagen": "",
         "fuente": "Ámbito Mundo",
-        "fecha": "Sat, 26 Sep 2026 17:52:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:36:00 -0300"
       },
       {
         "titulo": "Tensión por Malvinas: el Reino Unido advirtió que está listo para responder con sus fuerzas armadas",
@@ -38,11 +38,11 @@
         "fecha": "Sat, 26 Sep 2026 21:10:19 +0000"
       },
       {
-        "titulo": "Guillermo Justo Chaves: «Es hora de terminar con la era del odio”",
-        "link": "https://www.tiempoar.com.ar/ta_article/guillermo-justo-chaves-es-hora-de-terminar-con-la-era-del-odio/",
+        "titulo": "Actualización política y doctrinaria para la toma del poder",
+        "link": "https://www.tiempoar.com.ar/ta_article/actualizacion-politica-y-doctrinaria-para-la-toma-del-poder/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Sat, 26 Sep 2026 15:46:00 +0000"
+        "fecha": "Sat, 26 Sep 2026 21:43:34 +0000"
       },
       {
         "titulo": "Docentes universitarios convocaron a un paro de hasta 72 horas y condicionaron la medida a una suba salarial",
@@ -59,11 +59,11 @@
         "fecha": "Sat, 26 Sep 2026 18:58:33 +0000"
       },
       {
-        "titulo": "Lula Da Silva prohibió las apuestas online en Brasil a días de las elecciones y golpeó un negocio clave para el fútbol",
-        "link": "https://www.ambito.com/mundo/lula-da-silva-prohibio-las-apuestas-online-brasil-dias-las-elecciones-y-golpeo-un-negocio-clave-el-futbol-n6327028",
-        "imagen": "",
+        "titulo": "Secretario de Defensa británico apuntó contra Argentina por Malvinas: \"No tienen la capacidad de tomar las islas\"",
+        "link": "https://www.ambito.com/mundo/secretario-defensa-britanico-apunto-contra-argentina-malvinas-no-tienen-la-capacidad-tomar-las-islas-n6327043",
+        "imagen": "https://media.ambito.com/p/2fa5d971e976c9ac2590cbf4d55c9fbb/adjuntos/239/imagenes/043/624/0043624750/islas-malvinas.png",
         "fuente": "Ámbito Mundo",
-        "fecha": "Sat, 26 Sep 2026 15:52:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 17:52:00 -0300"
       },
       {
         "titulo": "La polémica frase de Javier Milei en New York: contó los despidos del sector público como nuevos puestos laborales",
@@ -80,11 +80,11 @@
         "fecha": "Sat, 26 Sep 2026 21:05:43 +0000"
       },
       {
-        "titulo": "Sesenta años del Operativo Cóndor: la gesta del peronismo de base que desafió la ocupación inglesa en Malvinas",
-        "link": "https://www.tiempoar.com.ar/ta_article/sesenta-anos-del-operativo-condor-la-gesta-del-peronismo-de-base-que-desafio-la-ocupacion-inglesa-en-malvinas/",
+        "titulo": "Guillermo Justo Chaves: «Es hora de terminar con la era del odio”",
+        "link": "https://www.tiempoar.com.ar/ta_article/guillermo-justo-chaves-es-hora-de-terminar-con-la-era-del-odio/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 25 Sep 2026 23:39:17 +0000"
+        "fecha": "Sat, 26 Sep 2026 15:46:00 +0000"
       }
     ],
     "economia": [
@@ -175,14 +175,14 @@
     ],
     "deportes": [
       {
-        "titulo": "Rosario Central le gana a Estudiantes por la Supercopa Internacional y sueña con el título",
+        "titulo": "Con un pésimo arbitraje y un final escandaloso, Rosario Central ganó la Supercopa Internacional en Santiago del Estero",
         "link": "https://www.ambito.com/deportes/estudiantes-y-rosario-central-empatan-la-final-la-supercopa-internacional-n6327035",
-        "imagen": "https://media.ambito.com/p/8888723037d5d2d452445806e5e41912/adjuntos/239/imagenes/043/666/0043666463/1200x675/smart/est-rosario.png",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Sat, 26 Sep 2026 16:48:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:40:00 -0300"
       },
       {
-        "titulo": "El penal de la polémica en Rosario Central vs Estudiantes: del aplauso irónico de Verón a los insultos para Chiqui Tapia",
+        "titulo": "El penal de la polémica en Rosario Central vs Estudiantes que hizo explotar a Verón: \"La impunidad que manejan para robar\"",
         "link": "https://www.clarin.com/deportes/penal-polemica-rosario-central-vs-estudiantes-aplauso-ironico-veron-insultos-chiqui-tapia_0_bYe9wFdOSh.html",
         "imagen": "https://www.clarin.com/img/2026/09/26/l42yExUZ6_1200x630__1.jpg",
         "fuente": "Clarín",
@@ -196,39 +196,53 @@
         "fecha": "Sat, 26 Sep 2026 18:24:00 -0300"
       },
       {
-        "titulo": "En un escandaloso final, Rosario Central derrotó 3-1 a Estudiantes por la Supercopa Internacional",
-        "link": "https://www.infobae.com/deportes/2026/09/26/rosario-central-y-estudiantes-de-la-plata-se-enfrentaran-por-la-supercopa-internacional-hora-tv-y-formaciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/CXGLWMMV2FEDTKL5BTAR6PZG5Y.JPG?auth=efb0ca5f40586af7fdea41d08275c41b8f2fcd5091b787eed4df4b78f421e006&smart=true&width=3345&height=1882",
+        "titulo": "La lupa sobre el penal que sancionó Herrera a instancias del VAR para Rosario Central frente a Estudiantes en la Supercopa Internacional",
+        "link": "https://www.infobae.com/deportes/2026/09/26/la-lupa-sobre-el-penal-que-sanciono-herrera-a-instancias-del-var-para-rosario-central-frente-a-estudiantes-en-la-supercopa-internacional/",
+        "imagen": "https://www.infobae.com/resizer/v2/OIT4U5Y4BBEODOCBF3NXXQ5T2M.png?auth=1cf0901bbf5aa573aa41587cf39237d4e84f264c05d772fe808f7591a91a453b&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Sat, 26 Sep 2026 21:24:29 +0000"
+        "fecha": "Sat, 26 Sep 2026 21:47:20 +0000"
       },
       {
-        "titulo": "Los ensayos de Insua y los que están para volver en San Lorenzo",
-        "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-entrenamiento-amistosos-pruebas-equipos-lesionados-cambios_0_ZzaQgJ9Bn2.html",
-        "imagen": "https://www.ole.com.ar/images/2026/09/26/VHFjyqyzZ_1200x630__1.jpg",
+        "titulo": "Video: vergonzoso final a las piñas entre Central y Estudiantes en la Supercopa Internacional",
+        "link": "https://www.ole.com.ar/futbol-primera/video-vergonzoso-final-pinas-rosario-central-estudiantes-supercopa-internacional_0_yWD1PyNfRi.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/26/9kG6y7Y1H_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Sat, 26 Sep 2026 17:43:31 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:40:10 -0300"
+      },
+      {
+        "titulo": "VIDEO | El escándalo del final con empujones, piñas y corridas",
+        "link": "https://www.eldia.com/deportes/video-el-escandalo-del-final-con-empujones-pinas-y-veron-en-el-campo-de-juego-deportes_1790458200",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Sat, 26 Sep 2026 21:34:43 GMT"
+      },
+      {
+        "titulo": "Estudiantes perdió la Supercopa ante Central 3 a 1 y Verón dejó en claro que se sintió perjudicado",
+        "link": "https://www.eldia.com/deportes/estudiantes-en-busca-de-una-nueva-corona-deportes_1790400593",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Sat, 26 Sep 2026 21:26:33 GMT"
       },
       {
         "titulo": "Verón explosivo: \"Maltrataron a la gente y la impunidad que manejan para robarte es increíble\"",
         "link": "https://www.eldia.com/deportes/veron-explosivo-en-santiago-impunidad-y-maltrataron-a-la-gente-deportes_1790455140",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Sat, 26 Sep 2026 21:12:32 GMT"
+        "fecha": "Sat, 26 Sep 2026 21:39:29 GMT"
       },
       {
-        "titulo": "Preocupación en Estudiantes por Jalil Elías: entró por Neves y duró 8 minutos en cancha por lesión",
-        "link": "https://www.eldia.com/deportes/preocupacion-en-estudiantes-por-jalil-elias-entro-por-neves-y-duro-8-minutos-en-cancha-por-lesion-deportes_1790453640",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Sat, 26 Sep 2026 20:14:30 GMT"
+        "titulo": "Estudiantes perdió 3 a 1 ante Rosario Central en una final cargada de polémicas e incidentes",
+        "link": "https://www.0221.com.ar/estudiantes/estudiantes-perdio-3-1-rosario-central-una-final-cargada-polemicas-e-incidentes-n134878",
+        "imagen": "https://media.0221.com.ar/p/9f42a820c6de643dfeff11232ebc6312/adjuntos/357/imagenes/100/297/0100297664/1200x630/1862x1147:1882x1167/estudiantes-central-pelea-palacios.jpeg",
+        "fuente": "0221 Deportes",
+        "fecha": "Sat, 26 Sep 2026 18:36:00 -0300"
       },
       {
-        "titulo": "VIDEOS | Los goles de Pucho Castro y el doblete de Fideo Di María",
-        "link": "https://www.eldia.com/deportes/video-goles-estudiantes-vs-rosario-central-supercopa-internacional-deportes_1790449740",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Sat, 26 Sep 2026 20:28:41 GMT"
+        "titulo": "Video: escandaloso final entre Estudiantes y Rosario Central a las piñas en medio de una batalla campal",
+        "link": "https://www.0221.com.ar/estudiantes/video-escandaloso-final-estudiantes-y-rosario-central-las-pinas-medio-una-batalla-campal-n134877",
+        "imagen": "https://media.0221.com.ar/p/fba4b672bf595e80c7c996a517f7caa7/adjuntos/357/imagenes/100/297/0100297665/1200x630/1783x1134:1803x1154/estudiantes-central-pelea-nunez.jpeg",
+        "fuente": "0221 Deportes",
+        "fecha": "Sat, 26 Sep 2026 18:36:00 -0300"
       },
       {
         "titulo": "Estudiantes perdió 3 a 1 ante Rosario Central en la Supercopa Internacional",
@@ -238,25 +252,11 @@
         "fecha": "Sat, 26 Sep 2026 18:15:00 -0300"
       },
       {
-        "titulo": "Video: la lluvia de insultos de los hinchas de Estudiantes a Ángel Di María: \"Sos un ladrón\"",
-        "link": "https://www.0221.com.ar/estudiantes/video-la-lluvia-insultos-los-hinchas-estudiantes-angel-di-maria-sos-un-ladron-n134875",
-        "imagen": "https://media.0221.com.ar/p/35c654bf17c20ec3388e18d509aec32f/adjuntos/357/imagenes/100/297/0100297642/1200x630/2493x1276:2513x1296/tiro-libre-di-maria-central-supercopa-internacional.jpeg",
-        "fuente": "0221 Deportes",
-        "fecha": "Sat, 26 Sep 2026 18:07:00 -0300"
-      },
-      {
-        "titulo": "\"La impunidad que manejan para robarte\": Juan Sebastián Verón explotó contra la AFA por el penal a Rosario Central",
-        "link": "https://www.0221.com.ar/estudiantes/la-impunidad-que-manejan-robarte-juan-sebastian-veron-exploto-contra-la-afa-el-penal-rosario-central-n134873",
-        "imagen": "https://media.0221.com.ar/p/06a84ee6c537627f752cdd01ede298df/adjuntos/357/imagenes/100/297/0100297654/1200x630/1921x1002:1941x1022/estudiantes-central-veron.jpeg",
-        "fuente": "0221 Deportes",
-        "fecha": "Sat, 26 Sep 2026 17:34:00 -0300"
-      },
-      {
-        "titulo": "De la playa a los Juegos Suramericanos 2026: la campeona de taekwondo que vende ensaladas de fruta para viajar",
-        "link": "https://www.ambito.com/deportes/de-la-playa-los-juegos-suramericanos-2026-la-campeona-taekwondo-que-vende-ensaladas-fruta-viajar-n6326303",
-        "imagen": "https://media.ambito.com/p/78af84dee4d1a97175c698382eb60018/adjuntos/239/imagenes/043/662/0043662906/1200x675/667x519:687x539/instagram-prisss_rodrigues_.jpg",
+        "titulo": "De salir campeón con River a luchar contra la depresión y ser un próspero empresario",
+        "link": "https://www.ambito.com/deportes/de-salir-campeon-river-luchar-contra-la-depresion-y-ser-un-prospero-empresario-n6326320",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Sat, 26 Sep 2026 15:00:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:00:00 -0300"
       }
     ],
     "policiales_actualidad": [
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Secretario de Defensa británico apuntó contra Argentina por Malvinas: \"No tienen la capacidad de tomar las islas\"",
-        "link": "https://www.ambito.com/mundo/secretario-defensa-britanico-apunto-contra-argentina-malvinas-no-tienen-la-capacidad-tomar-las-islas-n6327043",
+        "titulo": "Donald Trump descarta una intervención militar en Cuba, que reconoció abrirse a \"relaciones comerciales\" con EEUU",
+        "link": "https://www.ambito.com/mundo/donald-trump-descarta-una-intervencion-militar-cuba-que-reconocio-abrirse-relaciones-comerciales-eeuu-n6327050",
         "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Sat, 26 Sep 2026 17:52:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:36:00 -0300"
       },
       {
         "titulo": "Una maestra trató de salvarle la vida a un alumno que cayó a un río y ambos murieron ahogados",
@@ -375,11 +375,11 @@
         "fecha": "Sat, 26 Sep 2026 21:21:00 +0000"
       },
       {
-        "titulo": "Lula Da Silva prohibió las apuestas online en Brasil a días de las elecciones y golpeó un negocio clave para el fútbol",
-        "link": "https://www.ambito.com/mundo/lula-da-silva-prohibio-las-apuestas-online-brasil-dias-las-elecciones-y-golpeo-un-negocio-clave-el-futbol-n6327028",
-        "imagen": "",
+        "titulo": "Secretario de Defensa británico apuntó contra Argentina por Malvinas: \"No tienen la capacidad de tomar las islas\"",
+        "link": "https://www.ambito.com/mundo/secretario-defensa-britanico-apunto-contra-argentina-malvinas-no-tienen-la-capacidad-tomar-las-islas-n6327043",
+        "imagen": "https://media.ambito.com/p/2fa5d971e976c9ac2590cbf4d55c9fbb/adjuntos/239/imagenes/043/624/0043624750/islas-malvinas.png",
         "fuente": "Ámbito",
-        "fecha": "Sat, 26 Sep 2026 15:52:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 17:52:00 -0300"
       },
       {
         "titulo": "Donald Trump rechazó la propuesta de Irán para reabrir el estrecho de Ormuz: \"No es aceptable\"",
@@ -403,11 +403,11 @@
         "fecha": "Sat, 26 Sep 2026 21:10:44 +0000"
       },
       {
-        "titulo": "Donald Trump rechazó la propuesta de Irán para reabrir el estrecho de Ormuz",
-        "link": "https://www.ambito.com/mundo/donald-trump-rechazo-la-propuesta-iran-reabrir-el-estrecho-ormuz-n6327018",
-        "imagen": "",
+        "titulo": "Lula Da Silva prohibió las apuestas online en Brasil a días de las elecciones y golpeó un negocio clave para el fútbol",
+        "link": "https://www.ambito.com/mundo/lula-da-silva-prohibio-las-apuestas-online-brasil-dias-las-elecciones-y-golpeo-un-negocio-clave-el-futbol-n6327028",
+        "imagen": "https://media.ambito.com/p/496ed75a5f0146f08e1cd3fe776f80a9/adjuntos/239/imagenes/043/653/0043653700/1200x675/782x237:802x257/lula.jpg",
         "fuente": "Ámbito",
-        "fecha": "Sat, 26 Sep 2026 14:32:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 15:52:00 -0300"
       },
       {
         "titulo": "Segundo día de León XIV en Francia: multitudinaria misa al pie de los Campos Elíseos",
@@ -533,11 +533,11 @@
         "fecha": "Sat, 26 Sep 2026 08:28:00 -0300"
       },
       {
-        "titulo": "Tesla arrancó la producción masiva de su camión eléctrico Semi: apunta a 50 mil unidades por año",
-        "link": "https://www.infobae.com/tecno/2026/09/26/tesla-arranco-la-produccion-masiva-de-su-camion-electrico-semi-apunta-a-50-mil-unidades-por-ano/",
-        "imagen": "https://www.infobae.com/resizer/v2/VTWV5AFJEJBK3OPFDETJUQ6HLI.jpg?auth=de6b6305e432235825a345bdfa4a3ea6f9c99fcee4b62d55d63c01b7b8ff8aba&smart=true&width=1920&height=1080",
+        "titulo": "Anthropic pagará a Akamai USD 11.600 millones por servicios de computación en la nube",
+        "link": "https://www.infobae.com/tecno/2026/09/26/anthropic-pagara-a-akamai-usd-11600-millones-por-servicios-de-computacion-en-la-nube/",
+        "imagen": "https://www.infobae.com/resizer/v2/XQIHGOTPHVE4HHOL3QP2MEYDYE.JPG?auth=b4cfd3432592a2033edf20b9de459459d261b7d85fbe553e3489464464931c56&smart=true&width=3500&height=2333",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 26 Sep 2026 21:18:14 +0000"
+        "fecha": "Sat, 26 Sep 2026 21:32:20 +0000"
       },
       {
         "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
@@ -545,13 +545,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
-      },
-      {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Grok Bot superó los 400.000 usuarios semanales a un mes de su lanzamiento",
@@ -568,11 +561,11 @@
         "fecha": "Fri, 25 Sep 2026 23:33:00 -0300"
       },
       {
-        "titulo": "El desempleo de los graduados universitarios en EE. UU. no empeora a pesar de la IA",
-        "link": "https://www.infobae.com/tecno/2026/09/26/el-desempleo-de-los-graduados-universitarios-en-ee-uu-no-empeora-a-pesar-de-la-ia/",
-        "imagen": "https://www.infobae.com/resizer/v2/OIDVXXPUSFG7DAXGLIBXGE57WI.jpg?auth=b9fe62485cef46cb2482f64c12f2dafadc850a741e1b0140a96b990be865074c&smart=true&width=5472&height=3648",
+        "titulo": "Tesla arrancó la producción masiva de su camión eléctrico Semi: apunta a 50 mil unidades por año",
+        "link": "https://www.infobae.com/tecno/2026/09/26/tesla-arranco-la-produccion-masiva-de-su-camion-electrico-semi-apunta-a-50-mil-unidades-por-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/VTWV5AFJEJBK3OPFDETJUQ6HLI.jpg?auth=de6b6305e432235825a345bdfa4a3ea6f9c99fcee4b62d55d63c01b7b8ff8aba&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sat, 26 Sep 2026 21:11:10 +0000"
+        "fecha": "Sat, 26 Sep 2026 21:18:14 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -580,13 +573,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
-      },
-      {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Mientras Javier Milei pide IA sin límites, Anthropic y ChatGPT lo contradicen: \"Podemos perder el control\"",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/3a2546251149aef78f655c971ffab001/adjuntos/326/imagenes/000/023/0000023665/1200x675/smart/bill-gates.jpg",
         "fuente": "C5N",
         "fecha": "Fri, 25 Sep 2026 18:23:00 -0300"
+      },
+      {
+        "titulo": "El desempleo de los graduados universitarios en EE. UU. no empeora a pesar de la IA",
+        "link": "https://www.infobae.com/tecno/2026/09/26/el-desempleo-de-los-graduados-universitarios-en-ee-uu-no-empeora-a-pesar-de-la-ia/",
+        "imagen": "https://www.infobae.com/resizer/v2/OIDVXXPUSFG7DAXGLIBXGE57WI.jpg?auth=b9fe62485cef46cb2482f64c12f2dafadc850a741e1b0140a96b990be865074c&smart=true&width=5472&height=3648",
+        "fuente": "Infobae Tecno",
+        "fecha": "Sat, 26 Sep 2026 21:11:10 +0000"
+      },
+      {
+        "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
+        "link": "https://www.agenciacyta.org.ar/2026/09/un-argentino-entre-los-ganadores-de-los-ig-nobel-2026-los-premios-a-las-investigaciones-que-primero-hacen-reir-y-despues-pensar/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       }
     ],
     "autos": [
@@ -691,18 +691,18 @@
     ],
     "turismo": [
       {
-        "titulo": "Europa: Praga en 48 horas: qué ver y hacer en una de las ciudades más fascinantes del mundo",
-        "link": "https://argentina.viajando.travel/tips/europa-praga-48-horas-que-ver-y-hacer-una-las-ciudades-mas-fascinantes-del-mundo-n106432",
-        "imagen": "",
+        "titulo": "Portugal: playas, sabores y cultura para conquistar a los argentinos",
+        "link": "https://argentina.viajando.travel/experiencias/portugal-playas-sabores-y-cultura-conquistar-los-argentinos-n106498",
+        "imagen": "https://media.viajando.travel/p/8d7078f686a606aba0c41cce88cc7bfd/adjuntos/236/imagenes/000/866/0000866745/1200x675/smart/vacaciones-lisboa-portugal.jpg",
         "fuente": "Viajando Destinos",
-        "fecha": "Sat, 26 Sep 2026 15:33:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:37:00 -0300"
       },
       {
-        "titulo": "FIT: fechas, horarios, precios, escapadas y viajes en La Rural",
-        "link": "https://argentina.viajando.travel/feria-internacional-turismo-america-latina/fit-fechas-horarios-precios-escapadas-y-viajes-la-rural-n43904",
+        "titulo": "Portugal: playas, sabores y cultura para conquistar a los argentinos",
+        "link": "https://argentina.viajando.travel/experiencias/portugal-playas-sabores-y-cultura-conquistar-los-argentinos-n106498",
         "imagen": "",
         "fuente": "Viajando Últimas Noticias",
-        "fecha": "Sat, 26 Sep 2026 17:24:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 18:37:00 -0300"
       },
       {
         "titulo": "Mar del Plata: las mejores playas y paradores para el verano",
@@ -714,16 +714,16 @@
       {
         "titulo": "El Bolsón: naturaleza, aventura y sabores patagónicos",
         "link": "https://argentina.viajando.travel/argentina/el-bolson-naturaleza-aventura-y-sabores-patagonicos-n106475",
-        "imagen": "",
+        "imagen": "https://media.viajando.travel/p/1856abaed3ba42819988c5fa724646fd/adjuntos/236/imagenes/000/866/0000866803/1200x675/smart/patagonia-el-bolson-cerro-perito-moreno.jpg",
         "fuente": "Viajando Destinos",
         "fecha": "Sat, 26 Sep 2026 14:58:00 -0300"
       },
       {
-        "titulo": "FIT 2026: 10 experiencias originales para disfrutar en La Rural",
-        "link": "https://argentina.viajando.travel/tips/fit-2026-10-experiencias-originales-disfrutar-la-rural-n105811",
+        "titulo": "FIT: fechas, horarios, precios, escapadas y viajes en La Rural",
+        "link": "https://argentina.viajando.travel/feria-internacional-turismo-america-latina/fit-fechas-horarios-precios-escapadas-y-viajes-la-rural-n43904",
         "imagen": "",
         "fuente": "Viajando Últimas Noticias",
-        "fecha": "Sat, 26 Sep 2026 17:12:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 17:24:00 -0300"
       },
       {
         "titulo": "Verano 2026: por qué elegir Balneario Camboriú para tus vacaciones",
@@ -733,18 +733,18 @@
         "fecha": "Fri, 02 Jan 2026 14:31:00 -0300"
       },
       {
-        "titulo": "Vacaciones 2027: las tendencias que marcarán los viajes por Latinoamérica y el Caribe",
-        "link": "https://argentina.viajando.travel/tips/vacaciones-2027-las-tendencias-que-marcaran-los-viajes-latinoamerica-y-el-caribe-n106365",
-        "imagen": "",
+        "titulo": "Caribe: dónde planear vacaciones sin sargazo ni huracanes durante todo el año",
+        "link": "https://argentina.viajando.travel/destinos/caribe-donde-planear-vacaciones-sargazo-ni-huracanes-todo-el-ano-n106354",
+        "imagen": "https://media.viajando.travel/p/6ea589d57fc38441849664ca2dd8ae9a/adjuntos/236/imagenes/000/876/0000876845/1200x675/smart/venezuela-isla-margarita.jpg",
         "fuente": "Viajando Destinos",
-        "fecha": "Thu, 24 Sep 2026 16:33:00 -0300"
+        "fecha": "Thu, 24 Sep 2026 15:12:00 -0300"
       },
       {
-        "titulo": "Norte Argentino: recorridos en un vehículo único por los rincones más lindos de la región",
-        "link": "https://argentina.viajando.travel/argentina/norte-argentino-recorridos-un-vehiculo-unico-los-rincones-mas-lindos-la-region-n106483",
+        "titulo": "FIT 2026: 10 experiencias originales para disfrutar en La Rural",
+        "link": "https://argentina.viajando.travel/tips/fit-2026-10-experiencias-originales-disfrutar-la-rural-n105811",
         "imagen": "",
         "fuente": "Viajando Últimas Noticias",
-        "fecha": "Sat, 26 Sep 2026 16:37:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 17:12:00 -0300"
       },
       {
         "titulo": "10 playas de Bariloche para disfrutar del verano en la Patagonia",
@@ -754,18 +754,18 @@
         "fecha": "Tue, 30 Dec 2025 14:11:00 -0300"
       },
       {
-        "titulo": "Caribe: dónde planear vacaciones sin sargazo ni huracanes durante todo el año",
-        "link": "https://argentina.viajando.travel/destinos/caribe-donde-planear-vacaciones-sargazo-ni-huracanes-todo-el-ano-n106354",
-        "imagen": "",
+        "titulo": "¿Dónde se come la mejor paella de España?",
+        "link": "https://argentina.viajando.travel/gastronomia/donde-se-come-la-mejor-paella-espana-n106275",
+        "imagen": "https://media.viajando.travel/p/52f89b480c9f4c352ec90b734c283cf3/adjuntos/236/imagenes/000/898/0000898199/espana-paella-valencia.jpg",
         "fuente": "Viajando Destinos",
-        "fecha": "Thu, 24 Sep 2026 15:12:00 -0300"
+        "fecha": "Wed, 23 Sep 2026 12:03:00 -0300"
       },
       {
-        "titulo": "Europa: Praga en 48 horas: qué ver y hacer en una de las ciudades más fascinantes del mundo",
-        "link": "https://argentina.viajando.travel/tips/europa-praga-48-horas-que-ver-y-hacer-una-las-ciudades-mas-fascinantes-del-mundo-n106432",
+        "titulo": "Norte Argentino: recorridos en un vehículo único por los rincones más lindos de la región",
+        "link": "https://argentina.viajando.travel/argentina/norte-argentino-recorridos-un-vehiculo-unico-los-rincones-mas-lindos-la-region-n106483",
         "imagen": "",
         "fuente": "Viajando Últimas Noticias",
-        "fecha": "Sat, 26 Sep 2026 15:33:00 -0300"
+        "fecha": "Sat, 26 Sep 2026 16:37:00 -0300"
       },
       {
         "titulo": "¿Cuánto cuesta una semana en Miramar esta temporada?",
@@ -776,6 +776,13 @@
       }
     ],
     "vida_sana": [
+      {
+        "titulo": "Cocinar para toda la semana: cómo enfriar, guardar y recalentar los alimentos sin riesgos",
+        "link": "https://www.infobae.com/salud/2026/09/26/cocinar-para-toda-la-semana-como-enfriar-guardar-y-recalentar-los-alimentos-sin-riesgos/",
+        "imagen": "https://www.infobae.com/resizer/v2/M5FB5LRBEVHDBPGQAPZPL3ZCDI.png?auth=2d7cc49602bde030fd994ec63bade1b6d4064d80277f4e7fed0561f2a67af28a&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Sat, 26 Sep 2026 21:44:26 +0000"
+      },
       {
         "titulo": "Por qué algunas personas se despiertan a las 3 de la mañana y cuándo puede ser una señal de alerta",
         "link": "https://www.infobae.com/salud/2026/09/26/por-que-algunas-personas-se-despiertan-a-las-3-de-la-manana-y-cuando-puede-ser-una-senal-de-alerta/",
@@ -810,13 +817,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/OG5DMRNBRBGD7DU2GPUL3L677Y.jpg?auth=39f6db4c14ad5a71bec09f1a08b80159eb049b5a73e409e3fa5ea19f8e91b8ac&smart=true&width=1920&height=1080",
         "fuente": "Infobae Salud",
         "fecha": "Sat, 26 Sep 2026 19:40:53 +0000"
-      },
-      {
-        "titulo": "El desayuno que recomienda una endocrinóloga para cuidar la densidad ósea y fortalecer los huesos",
-        "link": "https://www.infobae.com/salud/2026/09/26/el-desayuno-que-recomienda-una-endocrinologa-para-cuidar-la-densidad-osea-y-fortalecer-los-huesos/",
-        "imagen": "https://www.infobae.com/resizer/v2/3MOSQ3PISBHEHHOPL7CW2MEMEQ.png?auth=778c6385dd102031ecb7a7034654399613fd8756165547e80eb52c4de428f389&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Sat, 26 Sep 2026 19:05:32 +0000"
       }
     ],
     "local": [
@@ -842,11 +842,11 @@
         "fecha": "Sat, 26 Sep 2026 10:59:00 -0300"
       },
       {
-        "titulo": "Estudiantes perdió la Supercopa ante Central 3 a 1 y Verón dejó en claro que se sintió perjudicado",
-        "link": "https://www.eldia.com/deportes/estudiantes-en-busca-de-una-nueva-corona-deportes_1790400593",
+        "titulo": "Tom Cruise recibió la camiseta de Gimnasia en la premiere de su nueva película: “Aguante el lobito”",
+        "link": "https://www.eldia.com/deportes/tom-cruise-recibio-la-camiseta-de-gimnasia-en-la-premiere-de-su-nueva-pelicula-aguante-el-lobito-deportes_1790459580",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 26 Sep 2026 21:26:33 GMT"
+        "fecha": "Sat, 26 Sep 2026 21:53:19 GMT"
       },
       {
         "titulo": "El Modelo ONU reunió a más de 2.200 estudiantes y cerró en la República de los Niños",
@@ -870,11 +870,11 @@
         "fecha": "Sat, 26 Sep 2026 08:42:00 -0300"
       },
       {
-        "titulo": "Verón explosivo: \"Maltrataron a la gente y la impunidad que manejan para robarte es increíble\"",
-        "link": "https://www.eldia.com/deportes/veron-explosivo-en-santiago-impunidad-y-maltrataron-a-la-gente-deportes_1790455140",
+        "titulo": "Estudiantes perdió la Supercopa ante Central 3 a 1 y Verón dejó en claro que se sintió perjudicado",
+        "link": "https://www.eldia.com/deportes/estudiantes-en-busca-de-una-nueva-corona-deportes_1790400593",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 26 Sep 2026 21:12:32 GMT"
+        "fecha": "Sat, 26 Sep 2026 21:26:33 GMT"
       },
       {
         "titulo": "Taxistas y conductores de aplicaciones de La Plata llegaron a una tregua tras el cruce en la Municipalidad",
@@ -898,11 +898,11 @@
         "fecha": "Fri, 25 Sep 2026 17:45:00 -0300"
       },
       {
-        "titulo": "VIDEOS | Pucho Castro, doblete de Fideo Di María y Julián Fernández, los goles en Santiago",
-        "link": "https://www.eldia.com/deportes/video-goles-estudiantes-vs-rosario-central-supercopa-internacional-deportes_1790449740",
+        "titulo": "Verón explosivo: \"Maltrataron a la gente y la impunidad que manejan para robarte es increíble\"",
+        "link": "https://www.eldia.com/deportes/veron-explosivo-en-santiago-impunidad-y-maltrataron-a-la-gente-deportes_1790455140",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 26 Sep 2026 21:28:36 GMT"
+        "fecha": "Sat, 26 Sep 2026 21:39:29 GMT"
       }
     ]
   }
