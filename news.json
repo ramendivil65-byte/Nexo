@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T04:42:39.666262+00:00",
+  "actualizado": "2026-09-26T04:55:43.441638+00:00",
   "categorias": {
     "politica": [
       {
@@ -547,13 +547,6 @@
         "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "No se puede usar el mercado para negociar la salida del apocalipsis de la inteligencia artificial",
         "link": "https://www.ambito.com/negocios/no-se-puede-usar-el-mercado-negociar-la-salida-del-apocalipsis-la-inteligencia-artificial-n6325906",
         "imagen": "",
@@ -582,13 +575,6 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "¿Se puede detener la carrera armamentista de la inteligencia artificial?",
         "link": "https://www.ambito.com/tecnologia/se-puede-detener-la-carrera-armamentista-la-inteligencia-artificial-n6324150",
         "imagen": "https://media.ambito.com/p/8665bd84004240dff01004fc2769603d/adjuntos/239/imagenes/043/652/0043652276/1200x675/smart/carrera-armamentista.png",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/36fb983e8241a2295fcd43836b20b558/adjuntos/326/imagenes/000/397/0000397802/1200x675/smart/cuando-se-lanza-el-iphone-18-iphone-17-naranja.jpg",
         "fuente": "C5N",
         "fecha": "Fri, 25 Sep 2026 14:33:00 -0300"
+      },
+      {
+        "titulo": "Jensen Huang, CEO de Nvidia, aconseja a los niños: “Vayan a la escuela y adopten la IA”",
+        "link": "https://www.infobae.com/tecno/2026/09/26/jensen-huang-ceo-de-nvidia-aconseja-a-los-ninos-vayan-a-la-escuela-y-adopten-la-ia/",
+        "imagen": "https://www.infobae.com/resizer/v2/D47U24NHJVCCJMQXZ6FCJUHX3A.JPG?auth=c59066b2fc4b06b78a20a2b7f864522d729230d57241c87ddb1811919c45d546&smart=true&width=5642&height=3842",
+        "fuente": "Infobae Tecno",
+        "fecha": "Sat, 26 Sep 2026 02:38:26 +0000"
+      },
+      {
+        "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
+        "link": "https://www.agenciacyta.org.ar/2026/09/un-argentino-entre-los-ganadores-de-los-ig-nobel-2026-los-premios-a-las-investigaciones-que-primero-hacen-reir-y-despues-pensar/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       }
     ],
     "autos": [
@@ -870,11 +870,11 @@
         "fecha": "Fri, 25 Sep 2026 12:18:00 -0300"
       },
       {
-        "titulo": "El poder de los municipios para gobernar su territorio",
-        "link": "https://www.eldia.com/opinion/el-poder-de-los-municipios-para-gobernar-su-territorio-opinion_1790397515",
+        "titulo": "Adiós a Oscar “El Negro” González Oro: una de las voces más queridas de la radio",
+        "link": "https://www.eldia.com/espectaculos/murio-oscar-gonzalez-oro-una-de-las-voces-mas-reconocidas-de-la-radio-argentina-espectaculos_1790351820",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 26 Sep 2026 04:38:35 GMT"
+        "fecha": "Sat, 26 Sep 2026 04:51:09 GMT"
       },
       {
         "titulo": "El Super Niño podría duplicar el caudal del Paraná y tendrá impacto en Yacyretá",
@@ -898,11 +898,11 @@
         "fecha": "Fri, 25 Sep 2026 11:02:00 -0300"
       },
       {
-        "titulo": "Opinan los lectores",
-        "link": "https://www.eldia.com/opinion/opinan-los-lectores-opinion_1790397395",
+        "titulo": "La salud de Mirtha Incrementa su actividad mientras sigue internada",
+        "link": "https://www.eldia.com/espectaculos/la-salud-de-mirtha-incrementa-su-actividad-mientras-sigue-internada-espectaculos_1790398308",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 26 Sep 2026 04:36:35 GMT"
+        "fecha": "Sat, 26 Sep 2026 04:51:48 GMT"
       }
     ]
   }
