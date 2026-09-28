@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T07:18:29.679970+00:00",
+  "actualizado": "2026-09-28T07:46:58.530615+00:00",
   "categorias": {
     "politica": [
       {
@@ -110,11 +110,11 @@
         "fecha": "Sun, 27 Sep 2026 19:44:00 -0300"
       },
       {
-        "titulo": "¿De “recesión técnica” a recesión a secas?: Economía espera un repunte de actividad, pero los privados ven difícil revertir la fuerte caída de julio",
-        "link": "https://www.infobae.com/economia/2026/09/28/de-recesion-tecnica-a-recesion-a-secas-economia-espera-un-repunte-de-actividad-pero-los-privados-ven-dificil-revertir-la-fuerte-caida-de-julio/",
-        "imagen": "https://www.infobae.com/resizer/v2/T4QN2O3K2RCBVNJ6MZVBZVNOMA.jpg?auth=fd62a9688442650de2a7ed2d064262995d5edd96f2c77211a51ee0c8916bc2d1&smart=true&width=4452&height=2968",
+        "titulo": "El Gobierno y Aeropuertos Argentina acordaron extender la concesión de servicios hasta 2056: se esperan inversiones por USD 600 millones",
+        "link": "https://www.infobae.com/economia/2026/09/28/el-gobierno-y-aeropuertos-argentina-acordaron-extender-la-concesion-de-servicios-hasta-2049-se-esperan-inversiones-por-usd-600-millones/",
+        "imagen": "https://www.infobae.com/resizer/v2/MD54HZECPBDI5FW4N64QZOJYDI.jpg?auth=b944d945de9e2ba9245ac6e3f1b0f66e876e5737f0369b85796865250c81bdb2&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 06:08:45 +0000"
+        "fecha": "Mon, 28 Sep 2026 07:38:28 +0000"
       },
       {
         "titulo": "Modelo Milei: especialistas advierten que la pobreza ya ronda el 50 por ciento",
@@ -145,11 +145,11 @@
         "fecha": "Sun, 27 Sep 2026 17:07:00 -0300"
       },
       {
-        "titulo": "La deuda soberana enfrenta vencimientos por USD 20.000 millones en 2027, en medio de la incertidumbre electoral",
-        "link": "https://www.infobae.com/economia/2026/09/28/la-deuda-soberana-enfrenta-vencimientos-por-usd-20000-millones-en-2027-en-medio-de-la-incertidumbre-electoral/",
-        "imagen": "https://www.infobae.com/resizer/v2/Y7RLBDVYA5C5HOVD4DVMS4I3V4.JPG?auth=4cd70f23ddf8573309f6ad2fa6c0fdd4e604e1359557aeb6ebd83588e819a254&smart=true&width=5497&height=3665",
+        "titulo": "¿De “recesión técnica” a recesión a secas?: Economía espera un repunte de actividad, pero los privados ven difícil revertir la fuerte caída de julio",
+        "link": "https://www.infobae.com/economia/2026/09/28/de-recesion-tecnica-a-recesion-a-secas-economia-espera-un-repunte-de-actividad-pero-los-privados-ven-dificil-revertir-la-fuerte-caida-de-julio/",
+        "imagen": "https://www.infobae.com/resizer/v2/T4QN2O3K2RCBVNJ6MZVBZVNOMA.jpg?auth=fd62a9688442650de2a7ed2d064262995d5edd96f2c77211a51ee0c8916bc2d1&smart=true&width=4452&height=2968",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 06:08:37 +0000"
+        "fecha": "Mon, 28 Sep 2026 06:08:45 +0000"
       },
       {
         "titulo": "Se profundiza el recorte a la obra pública: el gobierno dio de baja más de 2000 proyectos",
@@ -547,6 +547,13 @@
         "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
       },
       {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
+      },
+      {
         "titulo": "Grok Bot superó los 400.000 usuarios semanales a un mes de su lanzamiento",
         "link": "https://www.ambito.com/tecnologia/grok-bot-supero-los-400000-usuarios-semanales-un-mes-su-lanzamiento-n6326283",
         "imagen": "",
@@ -575,6 +582,13 @@
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
       },
       {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
+      },
+      {
         "titulo": "Mientras Javier Milei pide IA sin límites, Anthropic y ChatGPT lo contradicen: \"Podemos perder el control\"",
         "link": "https://www.ambito.com/tecnologia/podriamos-perder-el-control-la-advertencia-los-lideres-la-inteligencia-artificial-la-onu-n6325932",
         "imagen": "https://media.ambito.com/p/5c583ae26341ed5f6e4b4db4c27c7a5b/adjuntos/239/imagenes/043/365/0043365559/sam-altman.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/2c188e55ddbd62cbbf31fbda684c8572/adjuntos/326/imagenes/000/400/0000400726/1200x675/smart/apple.jpg",
         "fuente": "C5N",
         "fecha": "Sat, 26 Sep 2026 22:15:00 -0300"
-      },
-      {
-        "titulo": "Grok Bot se integra al sistema bancario para actuar como un asistente de finanzas personales",
-        "link": "https://www.infobae.com/tecno/2026/09/28/grok-bot-se-integra-al-sistema-bancario-para-actuar-como-un-asistente-de-finanzas-personales/",
-        "imagen": "https://www.infobae.com/resizer/v2/M4GM66DMCZEXRPUERZ7RXO7RVQ.png?auth=65832e6d1eb8c537365d718a13c1c69babe4c03c65fc09041b0668d919c7ef27&smart=true&width=1920&height=1080",
-        "fuente": "Infobae Tecno",
-        "fecha": "Mon, 28 Sep 2026 02:30:54 +0000"
-      },
-      {
-        "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
-        "link": "https://www.agenciacyta.org.ar/2026/09/un-argentino-entre-los-ganadores-de-los-ig-nobel-2026-los-premios-a-las-investigaciones-que-primero-hacen-reir-y-despues-pensar/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       }
     ],
     "autos": [
