@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-09-28T14:48:39.115288+00:00",
+  "actualizado": "2026-09-28T15:18:44.905063+00:00",
   "categorias": {
     "politica": [
       {
-        "titulo": "La Libertad Avanza: Patricia Bullrich aprovecha la \"zona liberada\" por Javier Milei ante el círculo rojo",
-        "link": "https://www.ambito.com/politica/la-libertad-avanza-patricia-bullrich-aprovecha-la-zona-liberada-javier-milei-el-circulo-rojo-n6327380",
-        "imagen": "",
+        "titulo": "La Justicia pide abrir las billeteras de criptomonedas de Manuel Adorni",
+        "link": "https://www.ambito.com/politica/la-justicia-pide-abrir-las-billeteras-criptomonedas-manuel-adorni-n6327468",
+        "imagen": "https://media.ambito.com/p/db026cadd0db48525d0f8392ec942965/adjuntos/239/imagenes/043/335/0043335302/adorni-expone-el-congreso.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 10:41:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 11:50:00 -0300"
       },
       {
         "titulo": "Milei, EN VIVO: el Presidente dijo que su relación con Bullrich es \"excelente\", pero evitó hablar de una fórmula conjunta en 2027",
@@ -15,6 +15,48 @@
         "imagen": "https://www.clarin.com/img/2025/12/01/i_BmJLZkC_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Mon, 28 Sep 2026 10:57:19 +0000"
+      },
+      {
+        "titulo": "Hallazgo inesperado en Perú: una pintura encontrada en Lima podría ser una obra original de El Greco",
+        "link": "https://www.ambito.com/mundo/hallazgo-inesperado-peru-una-pintura-encontrada-lima-podria-ser-una-obra-original-el-greco-n6327455",
+        "imagen": "https://media.ambito.com/p/f133b0abb1c2d62c2ad794b9da528a63/adjuntos/239/imagenes/043/668/0043668892/1200x675/smart/el-greco.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Mon, 28 Sep 2026 12:07:00 -0300"
+      },
+      {
+        "titulo": "La Justicia amplía la investigación sobre el patrimonio de Manuel Adorni: pidió levantar el secreto fiscal y abrir billeteras cripto",
+        "link": "https://www.c5n.com/politica/la-justicia-amplia-la-investigacion-el-patrimonio-manuel-adorni-pidio-levantar-el-secreto-fiscal-y-abrir-billeteras-cripto-n250112",
+        "imagen": "",
+        "fuente": "C5N",
+        "fecha": "Mon, 28 Sep 2026 11:51:00 -0300"
+      },
+      {
+        "titulo": "Cayó la confianza en el Gobierno e igualó la peor medición de la era Milei",
+        "link": "https://www.infobae.com/politica/2026/09/28/cayo-la-confianza-en-el-gobierno-e-igualo-la-peor-medicion-de-la-era-milei/",
+        "imagen": "https://www.infobae.com/resizer/v2/65S6SR2VWFBM7HAHOGQLJJMYXE.jpg?auth=53f7d7083757799fc6a46264173359190ebc22f55e0dbea2ee110c8c0a15a424&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Mon, 28 Sep 2026 15:01:21 +0000"
+      },
+      {
+        "titulo": "Repudian el nuevo protocolo del gobierno porteño que obliga a directores a denunciar estudiantes",
+        "link": "https://www.tiempoar.com.ar/ta_article/protocolo-repudian-gobierno-porteno/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 28 Sep 2026 13:09:59 +0000"
+      },
+      {
+        "titulo": "La Libertad Avanza: Patricia Bullrich aprovecha la \"zona liberada\" por Javier Milei ante el círculo rojo",
+        "link": "https://www.ambito.com/politica/la-libertad-avanza-patricia-bullrich-aprovecha-la-zona-liberada-javier-milei-el-circulo-rojo-n6327380",
+        "imagen": "https://media.ambito.com/p/96eab2072a2538c1016e5defe4f616af/adjuntos/239/imagenes/042/586/0042586414/patricia-bullrich-javier-milei-reunion-olivosjpg.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Mon, 28 Sep 2026 10:41:00 -0300"
+      },
+      {
+        "titulo": "Arrancan las indagatorias a los acusados por el Vacunatorio VIP del gobierno de Alberto Fernández",
+        "link": "https://www.clarin.com/politica/arrancan-indagatorias-acusados-vacunatorio-vip-gobierno-alberto-fernandez_0_hI4aEosj0E.html",
+        "imagen": "https://www.clarin.com/img/2024/01/11/JzFj38nrt_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 28 Sep 2026 09:00:41 +0000"
       },
       {
         "titulo": "Francia: Marine Le Pen consolida su poder en el Senado a siete meses de las elecciones presidenciales",
@@ -38,48 +80,6 @@
         "fecha": "Mon, 28 Sep 2026 13:17:17 +0000"
       },
       {
-        "titulo": "Repudian el nuevo protocolo del gobierno porteño que obliga a directores a denunciar estudiantes",
-        "link": "https://www.tiempoar.com.ar/ta_article/protocolo-repudian-gobierno-porteno/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 28 Sep 2026 13:09:59 +0000"
-      },
-      {
-        "titulo": "Javier Milei arma una foto federal en París: quiénes son los 13 gobernadores que lo acompañan a la Argentina Week",
-        "link": "https://www.ambito.com/politica/javier-milei-arma-una-foto-federal-paris-quienes-son-los-13-gobernadores-que-lo-acompanan-la-argentina-week-n6327397",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 10:20:00 -0300"
-      },
-      {
-        "titulo": "Arrancan las indagatorias a los acusados por el Vacunatorio VIP del gobierno de Alberto Fernández",
-        "link": "https://www.clarin.com/politica/arrancan-indagatorias-acusados-vacunatorio-vip-gobierno-alberto-fernandez_0_hI4aEosj0E.html",
-        "imagen": "https://www.clarin.com/img/2024/01/11/JzFj38nrt_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 28 Sep 2026 09:00:41 +0000"
-      },
-      {
-        "titulo": "SpaceX lanzó el vuelo 14 de Starship: el megacohete de Elon Musk busca llegar a órbita por primera vez",
-        "link": "https://www.ambito.com/mundo/spacex-lanzo-el-vuelo-14-starship-el-megacohete-elon-musk-busca-llegar-orbita-primera-vez-n6327415",
-        "imagen": "https://media.ambito.com/p/1502cb4af5fc99a651a3de105e68732f/adjuntos/239/imagenes/043/668/0043668650/1200x675/smart/space-x.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Mon, 28 Sep 2026 10:39:00 -0300"
-      },
-      {
-        "titulo": "Pese a las irregularidades previas, el Gobierno extendió la concesión de los aeropuertos a Eurnekian hasta 2049",
-        "link": "https://www.c5n.com/politica/pese-las-irregularidades-previas-el-gobierno-extendio-la-concesion-los-aeropuertos-eurnekian-2049-n250101",
-        "imagen": "https://media.c5n.com/p/711ba625c421763fd95a5d5f4b6c3536/adjuntos/326/imagenes/000/396/0000396250/1200x675/smart/eduardo-eurnekian.jpg",
-        "fuente": "C5N",
-        "fecha": "Mon, 28 Sep 2026 10:20:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno confirmó nuevos feriados en CABA, provincia de Buenos Aires y Córdoba por la visita del papa León XIV",
-        "link": "https://www.infobae.com/politica/2026/09/28/el-gobierno-confirmo-el-feriado-nacional-por-la-visita-del-papa-leon-xiv/",
-        "imagen": "https://www.infobae.com/resizer/v2/IR2SLCD6TFBUDL363ORDUC6WQE.jpg?auth=1edc7a9c9ecc0fca7d054c7a2c882b144fe9682476a5eb152ad6fbbb20cb7c82&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 12:31:34 +0000"
-      },
-      {
         "titulo": "Carlos Bianco encabeza conferencias de prensa del gobierno bonaerense",
         "link": "https://www.tiempoar.com.ar/ta_article/carlos-bianco-encabeza-conferencias-de-prensa-del-gobierno-bonaerense/",
         "imagen": "",
@@ -89,11 +89,11 @@
     ],
     "economia": [
       {
-        "titulo": "Industriales denuncian que el costo de la energía subió hasta 300% tras la liberación del mercado",
-        "link": "https://www.ambito.com/economia/industriales-denuncian-que-el-costo-la-energia-subio-300-la-liberacion-del-mercado-n6327378",
-        "imagen": "https://media.ambito.com/p/d1f0bcb09201673744f337c0dd23f3f2/adjuntos/239/imagenes/043/585/0043585559/1200x675/913x374:933x394/industria-empleo-pymes-actividad-economica.jpg",
+        "titulo": "Presupuesto 2027: Luis Caputo se reservó una partida para gasto discrecional de u$s5.000 millones",
+        "link": "https://www.ambito.com/economia/presupuesto-2027-luis-caputo-se-reservo-una-partida-gasto-discrecional-us5000-millones-n6327421",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 10:56:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 12:05:00 -0300"
       },
       {
         "titulo": "El Gobierno firmó créditos por US$ 530 millones para financiar un plan tributario de ARCA y obras en dos provincias",
@@ -110,11 +110,11 @@
         "fecha": "Mon, 28 Sep 2026 09:03:00 -0300"
       },
       {
-        "titulo": "El Gobierno avanza con la privatización de tres centrales eléctricas en manos de Enarsa",
-        "link": "https://www.infobae.com/economia/2026/09/28/iniciaron-un-nuevo-proceso-de-privatizacion-de-las-acciones-de-enarsa/",
-        "imagen": "https://www.infobae.com/resizer/v2/AXB2W6QYPFGSFMG2GVVGIFAA24.jpg?auth=bdf4bb9cc1affb9f56bd078b929dddb4d81439fad592ddbc730a0ec59af9eae8&smart=true&width=1919&height=990",
+        "titulo": "La nueva era del consumo: crece el pesimismo, se recortan gastos y aparece la “bolucompra”",
+        "link": "https://www.infobae.com/economia/2026/09/28/la-nueva-era-del-consumo-crece-el-pesimismo-se-recortan-gastos-y-aparece-la-bolucompra/",
+        "imagen": "https://www.infobae.com/resizer/v2/SD6J6KJIQBHGJBQBGNB5QSYF2A.jpg?auth=8f499ea0245405ee476fe0b6f5814913b88bf22a38528b56e31ff968c89c8ae7&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:25:58 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:12:09 +0000"
       },
       {
         "titulo": "J.P. Morgan advirtió que la economía argentina se encamina a la recesión y alertó por la fuerte caída de la actividad",
@@ -124,11 +124,11 @@
         "fecha": "Mon, 28 Sep 2026 13:45:54 +0000"
       },
       {
-        "titulo": "Octubre llega con aumentos en transporte, alquileres, prepagas y más: cuánto suben los servicios",
-        "link": "https://www.ambito.com/economia/octubre-llega-aumentos-transporte-alquileres-prepagas-y-mas-cuanto-suben-los-servicios-n6326586",
-        "imagen": "https://media.ambito.com/p/5410d6af1a356174d55c773013165ee1/adjuntos/239/imagenes/042/806/0042806466/1200x675/smart/aumentos.jpg",
+        "titulo": "Industriales denuncian que el costo de la energía subió hasta 300% tras la liberación del mercado",
+        "link": "https://www.ambito.com/economia/industriales-denuncian-que-el-costo-la-energia-subio-300-la-liberacion-del-mercado-n6327378",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 09:57:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 10:56:00 -0300"
       },
       {
         "titulo": "La actividad también cayó en la Ciudad: la economía porteña retrocedió 0,2% por el comercio y la industria",
@@ -145,11 +145,11 @@
         "fecha": "Mon, 28 Sep 2026 08:03:00 -0300"
       },
       {
-        "titulo": "El “viento de cola” para Argentina sigue soplando con los precios del petróleo y la soja en alza",
-        "link": "https://www.infobae.com/economia/2026/09/28/el-viento-de-cola-para-argentina-sigue-soplando-con-los-precios-del-petroleo-y-la-soja-en-alza/",
-        "imagen": "https://www.infobae.com/resizer/v2/XVHBEYRHUVGA3OWJK47I6GUP2U.png?auth=655469dc1e3c171d2827de8130cb0cc5b943e4f2955c3a38d5a7b143fb894da8&smart=true&width=1536&height=1024",
+        "titulo": "El riesgo país vuelve a subir y llega a su nivel máximo en lo que va del año",
+        "link": "https://www.infobae.com/economia/2026/09/28/el-riesgo-pais-vuelve-a-subir-y-llega-a-su-nivel-maximo-en-lo-que-va-del-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/F2IDCWUGFJBI7FKHDY56WGASBQ.JPG?auth=6004a6062e5c2f7dc542dffd70f60a8f51b2db087850aceda804f474dd4e63f9&smart=true&width=6000&height=4000",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:23:42 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:08:43 +0000"
       },
       {
         "titulo": "Modelo Milei: especialistas advierten que la pobreza ya ronda el 50 por ciento",
@@ -159,11 +159,11 @@
         "fecha": "Sun, 27 Sep 2026 01:08:26 +0000"
       },
       {
-        "titulo": "Recesión, consumo y exportaciones: las señales que llevaron a J.P. Morgan a anticipar menos crecimiento económico",
-        "link": "https://www.ambito.com/economia/recesion-consumo-y-exportaciones-las-senales-que-llevaron-jp-morgan-anticipar-menos-crecimiento-economico-n6327392",
-        "imagen": "https://media.ambito.com/p/7f14ee1e2cb7793d6fe93973d0feca00/adjuntos/239/imagenes/043/204/0043204557/1200x675/smart/milei.jpg",
+        "titulo": "Octubre llega con aumentos en transporte, alquileres, prepagas y más: cuánto suben los servicios",
+        "link": "https://www.ambito.com/economia/octubre-llega-aumentos-transporte-alquileres-prepagas-y-mas-cuanto-suben-los-servicios-n6326586",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 09:44:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 09:57:00 -0300"
       },
       {
         "titulo": "El presidente de YPF pronosticó que \"la producción de petróleo va a llegar a un millón de barriles por primera vez en la historia\"",
@@ -182,11 +182,11 @@
         "fecha": "Mon, 28 Sep 2026 10:52:00 -0300"
       },
       {
-        "titulo": "Uruguay le dio la primera sonrisa a Diego Forlán: goleó a Corea del Sur, que le había dado una paliza a Gallardo en su debut con Ecuador",
-        "link": "https://www.clarin.com/deportes/uruguay-dio-primera-sonrisa-diego-forlan-goleo-corea-sur-dado-paliza-gallardo-debut-ecuador_0_qLH7IJEwpI.html",
-        "imagen": "https://www.clarin.com/img/2026/09/28/E9y_SARLh_1200x630__1.jpg",
+        "titulo": "Vojvoda se va de Racing: el abrupto final del DT y la decisión de Diego Milito para calmar las aguas tras la eliminación frente a Boca",
+        "link": "https://www.clarin.com/deportes/vojvoda-va-racing-abrupto-final-dt-decision-diego-milito-calmar-aguas-eliminacion-frente-boca_0_jhpl4QC4xW.html",
+        "imagen": "https://www.clarin.com/img/2026/09/28/ok3IHAr9W_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 28 Sep 2026 13:34:25 +0000"
+        "fecha": "Mon, 28 Sep 2026 14:08:55 +0000"
       },
       {
         "titulo": "Los jugadores de Boca se sumaron al meme viral de Di Lollo y estallaron las redes",
@@ -196,11 +196,11 @@
         "fecha": "Mon, 28 Sep 2026 10:27:00 -0300"
       },
       {
-        "titulo": "La secuencia que no se vio del espectacular gol de tiro libre de Messi: de la furia con el juez de línea a su desafiante festejo",
-        "link": "https://www.infobae.com/deportes/2026/09/28/la-secuencia-que-no-se-vio-del-espectacular-gol-de-tiro-libre-de-messi-de-la-furia-con-el-juez-de-linea-a-su-desafiante-festejo/",
-        "imagen": "https://www.infobae.com/resizer/v2/ML74AABWQZEQTGVOHEVMMW3K2M.jpg?auth=fbfa2628d30c599ffae9ce81f912adbf4d962109a4dc008f8f85869617815bb6&smart=true&width=1920&height=1080",
+        "titulo": "Juan Pablo Vojvoda dejará de ser el entrenador de Racing tras la dura derrota contra Boca Juniors",
+        "link": "https://www.infobae.com/deportes/2026/09/28/juan-pablo-vojvoda-dejara-de-ser-el-entrenador-de-racing-tras-la-dura-derrota-contra-boca-juniors/",
+        "imagen": "https://www.infobae.com/resizer/v2/XX4E4BEA3BB2PJH7KWWFJIFDFA.JPG?auth=79131ae98a9802a4cefce072827d31876aced906bee29a45f930e22d4256a919&smart=true&width=1750&height=1113",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:48:33 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:15:54 +0000"
       },
       {
         "titulo": "El descargo de Baliño post escándalo en Central-Estudiantes: \"Si tienen pruebas, vayan a la Justicia\"",
@@ -231,11 +231,18 @@
         "fecha": "Mon, 28 Sep 2026 11:43:54 GMT"
       },
       {
+        "titulo": "La frase que acerca a Marcos Rojo a Estudiantes: \"Está ilusionado con volver\"",
+        "link": "https://www.0221.com.ar/estudiantes/la-frase-que-acerca-marcos-rojo-estudiantes-esta-ilusionado-volver-n134932",
+        "imagen": "https://media.0221.com.ar/p/603d618d048922f8ec63cf769d6794e8/adjuntos/357/imagenes/100/239/0100239457/1200x630/smart/marcos-rojo.png",
+        "fuente": "0221 Deportes",
+        "fecha": "Mon, 28 Sep 2026 11:46:00 -0300"
+      },
+      {
         "titulo": "Video: Impactante lesión de una de las figuras de Flamengo antes de jugar con Estudiantes",
         "link": "https://www.0221.com.ar/estudiantes/video-impactante-lesion-una-las-figuras-flamengo-antes-jugar-estudiantes-n134929",
         "imagen": "https://media.0221.com.ar/p/2d8a07eba7e8af406f6f85c5bdefd3bd/adjuntos/357/imagenes/100/297/0100297775/1200x630/1322x373:1342x393/flamengo-festejo-gol.png",
         "fuente": "0221 Deportes",
-        "fecha": "Mon, 28 Sep 2026 11:20:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 11:15:00 -0300"
       },
       {
         "titulo": "Racing vuelve a apostar por Chirola Romero tras la eliminación ante Boca",
@@ -243,13 +250,6 @@
         "imagen": "https://media.0221.com.ar/p/619f9c212be33f39ce40926034f9ad44/adjuntos/357/imagenes/100/297/0100297772/1200x630/1024x267:1044x287/chirola-romero-dt-racing.png",
         "fuente": "0221 Deportes",
         "fecha": "Mon, 28 Sep 2026 10:43:00 -0300"
-      },
-      {
-        "titulo": "A 20 años del día que Gimnasia hizo temblar el Maracaná",
-        "link": "https://www.0221.com.ar/gimnasia/a-20-anos-del-dia-que-gimnasia-hizo-temblar-el-maracana-n134922",
-        "imagen": "https://media.0221.com.ar/p/d8f81103b2b5fcad607283584ff193b7/adjuntos/357/imagenes/100/297/0100297764/1200x630/1534x231:1554x251/fluminense-gimnasia-herner-gol.png",
-        "fuente": "0221 Deportes",
-        "fecha": "Mon, 28 Sep 2026 10:19:00 -0300"
       },
       {
         "titulo": "Los récords que alcanzó Enner Valencia con sus tres goles de cabeza en el hat-trick de Boca a Racing",
@@ -260,6 +260,27 @@
       }
     ],
     "policiales_actualidad": [
+      {
+        "titulo": "Brutal trompada a la salida de un boliche en General Belgrano: la víctima sufrió un derrame cerebral y una fractura en el oído",
+        "link": "https://www.clarin.com/policiales/brutal-trompada-salida-boliche-general-belgrano-victima-sufrio-derrame-cerebral-fractura-oido_0_FsbCPIs4Zw.html",
+        "imagen": "https://www.clarin.com/img/2026/09/28/KQBf19S0J_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 28 Sep 2026 14:01:17 +0000"
+      },
+      {
+        "titulo": "Cómo será el recorrido de la peregrinación a Luján en 2026",
+        "link": "https://www.c5n.com/sociedad/como-sera-el-recorrido-la-peregrinacion-lujan-2026-n250111",
+        "imagen": "https://media.c5n.com/p/4bf7c6fb047ae3788070cd59fad93c19/adjuntos/326/imagenes/000/293/0000293815/1200x675/smart/peregrinacion-lujan.png",
+        "fuente": "C5N",
+        "fecha": "Mon, 28 Sep 2026 11:47:00 -0300"
+      },
+      {
+        "titulo": "Juicio a “Pity” Álvarez, en vivo: la defensa exigió que el músico participe de la audiencia y buscan conectarlo desde el Hospital Tornú",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/juicio-a-pity-alvarez-en-vivo-el-musico-sigue-internado-y-citaron-siete-testigos-de-identidad-reservada-para-esta-jornada/",
+        "imagen": "https://www.infobae.com/resizer/v2/VGPTGR7XJ5APZLE36IBU2M5JJM.jpg?auth=d84ccefd45e17aeaf83702e8f5aa7dec45f76b793a83c28a34861d8b4e1a9188&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Mon, 28 Sep 2026 15:18:14 +0000"
+      },
       {
         "titulo": "La perversa doble cara del DT de hockey que formaba a Leonas y cayó por abuso: \"No seas tonta, lo que pasó anoche es lo que pasa entre nenas y nenes\"",
         "link": "https://www.clarin.com/policiales/perversa-doble-cara-dt-hockey-formaba-leonas-cayo-abuso-tonta-paso-anoche-pasa-nenas-nenes_0_OB8womN4lO.html",
@@ -275,11 +296,11 @@
         "fecha": "Mon, 28 Sep 2026 11:27:00 -0300"
       },
       {
-        "titulo": "Juicio a “Pity” Álvarez, en vivo: la defensa exigió que el músico participe de la audiencia y buscan conectarlo desde el Hospital Tornú",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/juicio-a-pity-alvarez-en-vivo-el-musico-sigue-internado-y-citaron-siete-testigos-de-identidad-reservada-para-esta-jornada/",
-        "imagen": "https://www.infobae.com/resizer/v2/VGPTGR7XJ5APZLE36IBU2M5JJM.jpg?auth=d84ccefd45e17aeaf83702e8f5aa7dec45f76b793a83c28a34861d8b4e1a9188&smart=true&width=1920&height=1080",
+        "titulo": "Entradera en Martínez: irrumpieron en la casa de un reconocido abogado, lo golpearon y huyeron con dinero y joyas",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/entradera-en-san-isidro-irrumpieron-en-un-barrio-privado-golpearon-a-un-reconocido-abogado-y-huyeron-con-dinero-y-joyas/",
+        "imagen": "https://www.infobae.com/resizer/v2/PULUYGPQ35GJ3BREHYX5RXH3CU.png?auth=05ddd032cc08eddad34d0526a5305fc227418c4be23a6cb4c3d167eff7663351&smart=true&width=1429&height=829",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:48:25 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:12:45 +0000"
       },
       {
         "titulo": "Un joven recibió una pedrada en la cabeza y murió en medio de una pelea a la salida de un boliche en Ezeiza",
@@ -296,11 +317,11 @@
         "fecha": "Mon, 28 Sep 2026 11:23:00 -0300"
       },
       {
-        "titulo": "Entradera en Martínez: irrumpieron en la casa de un reconocido abogado, lo golpearon y huyeron con dinero y joyas",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/entradera-en-san-isidro-irrumpieron-en-un-barrio-privado-golpearon-a-un-reconocido-abogado-y-huyeron-con-dinero-y-joyas/",
-        "imagen": "https://www.infobae.com/resizer/v2/FJNULORA2FH47ODV5336MLSVZY.jpg?auth=acf59edc79b1db0655cce8784a43284b9eec51e94712e3c5ecb88842543884e8&smart=true&width=1920&height=1080",
+        "titulo": "Comenzó la sucesión para controlar la fortuna del Indio Solari: ¿qué pasa con su testamento?",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/comenzo-la-sucesion-para-controlar-la-fortuna-del-indio-solari-que-pasa-con-su-testamento/",
+        "imagen": "https://www.infobae.com/resizer/v2/MH24Y2SOKFGPHER7BTHGPNNMLA.jpg?auth=8c9544b2a5a311f08e44e3ed9cd2d11749589d7e0f4d7a09e1ffd0bd91fe3556&smart=true&width=1655&height=1104",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:48:10 +0000"
+        "fecha": "Mon, 28 Sep 2026 12:11:45 +0000"
       },
       {
         "titulo": "\"Mi papá se lastimó\": el video con la increíble excusa que dio el acusado de matar a su padre con aceite hirviendo en Recoleta",
@@ -317,27 +338,6 @@
         "fecha": "Mon, 28 Sep 2026 10:21:00 -0300"
       },
       {
-        "titulo": "Comenzó la sucesión para controlar la fortuna del Indio Solari: ¿qué pasa con su testamento?",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/comenzo-la-sucesion-para-controlar-la-fortuna-del-indio-solari-que-pasa-con-su-testamento/",
-        "imagen": "https://www.infobae.com/resizer/v2/MH24Y2SOKFGPHER7BTHGPNNMLA.jpg?auth=8c9544b2a5a311f08e44e3ed9cd2d11749589d7e0f4d7a09e1ffd0bd91fe3556&smart=true&width=1655&height=1104",
-        "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 12:11:45 +0000"
-      },
-      {
-        "titulo": "Una Amarok en el arroyo: la camioneta que sorprendió a La Plata y el dato que resolvió el misterio",
-        "link": "https://www.clarin.com/policiales/amarok-arroyo-camioneta-sorprendio-plata-dato-resolvio-misterio_0_Bp0dyu3EW3.html",
-        "imagen": "https://www.clarin.com/img/2026/09/26/9cN2zotHB_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Sat, 26 Sep 2026 21:10:56 +0000"
-      },
-      {
-        "titulo": "Con Pity Álvarez internado, continúa el juicio en su contra: declaran siete testigos",
-        "link": "https://www.c5n.com/sociedad/juicio-pity-alvarez-28-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/faa8bb2b5b9e57edd3816d1064ff07c1/adjuntos/326/imagenes/000/397/0000397711/1200x675/smart/pity-alvarez-tribunales.jpg",
-        "fuente": "C5N",
-        "fecha": "Mon, 28 Sep 2026 10:07:00 -0300"
-      },
-      {
         "titulo": "Investigan un femicidio en Rosario: el cuerpo fue hallado por sus dos hijos adolescentes",
         "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/investigan-un-femicidio-en-rosario-el-cuerpo-fue-hallado-por-sus-dos-hijos-adolescentes/",
         "imagen": "https://www.infobae.com/resizer/v2/W2JKDESNPZAZNFJOFHPQZLW3TM.jpg?auth=8ddb3f320e2e0a6d38d0eaf3ede9c2b8ac799ca6e39a73d7b7eca93f756bc9f1&smart=true&width=1169&height=658",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Francia: Marine Le Pen consolida su poder en el Senado a siete meses de las elecciones presidenciales",
-        "link": "https://www.ambito.com/mundo/francia-marine-le-pen-consolida-su-poder-el-senado-siete-meses-las-elecciones-presidenciales-n6327412",
-        "imagen": "https://media.ambito.com/p/512e335616b525dd160f04956a9e9b1a/adjuntos/239/imagenes/043/668/0043668808/1200x675/smart/marine-le-pen.jpg",
+        "titulo": "Hallazgo inesperado en Perú: una pintura encontrada en Lima podría ser una obra original de El Greco",
+        "link": "https://www.ambito.com/mundo/hallazgo-inesperado-peru-una-pintura-encontrada-lima-podria-ser-una-obra-original-el-greco-n6327455",
+        "imagen": "https://media.ambito.com/p/f133b0abb1c2d62c2ad794b9da528a63/adjuntos/239/imagenes/043/668/0043668892/1200x675/smart/el-greco.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 10:56:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 12:07:00 -0300"
       },
       {
         "titulo": "Rusia atacó con drones la Academia Nacional de las Ciencias de Ucrania",
@@ -368,18 +368,18 @@
         "fecha": "Mon, 28 Sep 2026 13:22:52 +0000"
       },
       {
-        "titulo": "Costa Rica lidera en América Latina el uso de inteligencia artificial: casi tres de cada diez personas utilizan esta tecnología",
-        "link": "https://www.infobae.com/costa-rica/2026/09/28/costa-rica-lidera-en-america-latina-el-uso-de-inteligencia-artificial-casi-tres-de-cada-diez-personas-utilizan-esta-tecnologia/",
-        "imagen": "https://www.infobae.com/resizer/v2/4H4QQCJTJJGHDGGN654ADSE5F4.png?auth=1b6e012f3b138de6939e39ad6d1d19f139d9224fa057f5c7ad2def61fdf9f4c7&smart=true&width=1536&height=1024",
+        "titulo": "“La IA, con humildad, buscará humanizarse”: Ricardo Trotti presenta la segunda novela de “Robots con alma”",
+        "link": "https://www.infobae.com/cultura/2026/09/28/la-ia-con-humildad-buscara-humanizarse-ricardo-trotti-presenta-la-segunda-novela-de-robots-con-alma/",
+        "imagen": "https://www.infobae.com/resizer/v2/Y6PLN4DLOVGHRAFRKFDIQMIUM4.png?auth=48e3b57dffb6d177aec20de8b18fc6f23bba4bff89fa96a42dd48bb6de6c2742&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:46:08 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:10:14 +0000"
       },
       {
-        "titulo": "SpaceX lanzó el vuelo 14 de Starship: el megacohete de Elon Musk busca llegar a órbita por primera vez",
-        "link": "https://www.ambito.com/mundo/spacex-lanzo-el-vuelo-14-starship-el-megacohete-elon-musk-busca-llegar-orbita-primera-vez-n6327415",
-        "imagen": "https://media.ambito.com/p/1502cb4af5fc99a651a3de105e68732f/adjuntos/239/imagenes/043/668/0043668650/1200x675/smart/space-x.jpg",
+        "titulo": "Francia: Marine Le Pen consolida su poder en el Senado a siete meses de las elecciones presidenciales",
+        "link": "https://www.ambito.com/mundo/francia-marine-le-pen-consolida-su-poder-el-senado-siete-meses-las-elecciones-presidenciales-n6327412",
+        "imagen": "https://media.ambito.com/p/512e335616b525dd160f04956a9e9b1a/adjuntos/239/imagenes/043/668/0043668808/1200x675/smart/marine-le-pen.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 10:39:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 10:56:00 -0300"
       },
       {
         "titulo": "Video: otro impactante alud en Nepal deja al menos cuatro muertos y más de una decena de desaparecidos",
@@ -396,18 +396,18 @@
         "fecha": "Mon, 28 Sep 2026 13:08:42 +0000"
       },
       {
-        "titulo": "El Salvador registra la tercera muerte por dengue y más de 300 casos sospechosos por semana",
-        "link": "https://www.infobae.com/el-salvador/2026/09/28/el-salvador-registra-la-tercera-muerte-por-dengue-y-mas-de-300-casos-sospechosos-por-semana/",
-        "imagen": "https://www.infobae.com/resizer/v2/MQ2TPM7TEJCW7EHOANL5PRQ3IE.JPG?auth=107c1c90bc6ae8b874d110f9e438fbd523f3180ae07c09a666d4ae8d05a9170d&smart=true&width=8192&height=5464",
+        "titulo": "Juan, el anciano ciego que vive solo en Cuba: una pensión de 3,000 pesos que se esfuma en el viaje para cobrarla y el arroz que no pudo terminar de cocinar",
+        "link": "https://www.infobae.com/cuba/2026/09/28/juan-el-anciano-ciego-que-vive-solo-en-cuba-una-pension-de-3000-pesos-que-se-esfuma-en-el-viaje-para-cobrarla-y-el-arroz-que-no-pudo-terminar-de-cocinar/",
+        "imagen": "https://www.infobae.com/resizer/v2/B24GFWB6NZCDXF4DJL5VJ7LIZE.png?auth=8f1a98ea3957f8501c0a359084a9c51d3c889e741fd62b8cd20d3559c8621da5&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:44:41 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:08:01 +0000"
       },
       {
-        "titulo": "Fuerte tormenta golpeó el noreste de EEUU y dejó un muerto, cortes de luz e inundaciones",
-        "link": "https://www.ambito.com/mundo/fuerte-tormenta-golpeo-el-noreste-eeuu-y-dejo-un-muerto-cortes-luz-e-inundaciones-n6327395",
-        "imagen": "https://media.ambito.com/p/1715006c4b0ecebba7f74add074eae6a/adjuntos/239/imagenes/043/668/0043668473/tormentas-eeuu.jpg",
+        "titulo": "SpaceX lanzó el vuelo 14 de Starship: el megacohete de Elon Musk alcanzó la órbita por primera vez",
+        "link": "https://www.ambito.com/mundo/spacex-lanzo-el-vuelo-14-starship-el-megacohete-elon-musk-busca-llegar-orbita-primera-vez-n6327415",
+        "imagen": "https://media.ambito.com/p/1502cb4af5fc99a651a3de105e68732f/adjuntos/239/imagenes/043/668/0043668650/1200x675/smart/space-x.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 28 Sep 2026 09:54:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 10:39:00 -0300"
       },
       {
         "titulo": "Morosidad en Brasil: el gobierno de Lula lanzó un plan para rescatar a las familias endeudadas",
@@ -424,14 +424,42 @@
         "fecha": "Mon, 28 Sep 2026 13:06:30 +0000"
       },
       {
-        "titulo": "Así fue el espectacular despegue de Starship con 26 satélites a bordo",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/09/28/asi-fue-el-espectacular-despegue-de-starship-con-26-satelites-a-bordo/",
-        "imagen": "https://www.infobae.com/resizer/v2/GYMVLEYJ3RC2JBE3NMFTC475O4.JPG?auth=6c9c942811163225acad73bb640466d9caa0565e4a80cd5bfe482c1bb8430897&smart=true&width=4847&height=2767",
+        "titulo": "Sismo en el este de República Dominicana provocó evacuaciones y se percibió en múltiples provincias, pero sin heridos ni daños reportados",
+        "link": "https://www.infobae.com/republica-dominicana/2026/09/28/sismo-en-el-este-de-republica-dominicana-provoco-evacuaciones-y-se-percibio-en-multiples-provincias-pero-sin-heridos-ni-danos-reportados/",
+        "imagen": "https://www.infobae.com/resizer/v2/CYY5DWELK5ANJI6MASUBF756UE.png?auth=3a2d001bbaffc3e038a5c94f36c62fa622a4a12c446d7c8f5fd9514264096f81&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 14:41:00 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:05:08 +0000"
       }
     ],
     "espectaculos": [
+      {
+        "titulo": "Taylor Swift marca un nuevo récord en los VMA y dedicó su premio a Dolly Parton",
+        "link": "https://www.ambito.com/espectaculos/taylor-swift-marca-un-nuevo-record-los-vma-y-dedico-su-premio-dolly-parton-n6327470",
+        "imagen": "https://media.ambito.com/p/4630a0e2f9976e860a39caacd4848578/adjuntos/239/imagenes/043/668/0043668912/taylor-swift.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Mon, 28 Sep 2026 12:01:00 -0300"
+      },
+      {
+        "titulo": "Daniel Osvaldo sigue internado y esto se sabe sobre su salud: \"La infección...\"",
+        "link": "https://www.c5n.com/ratingcero/daniel-osvaldo-sigue-internado-y-esto-se-sabe-su-salud-la-infeccion-n250107",
+        "imagen": "https://media.c5n.com/p/4c18806e01b0a5b92e50722d802f36d1/adjuntos/326/imagenes/000/400/0000400684/1200x675/smart/daniel-osvaldo.jpg",
+        "fuente": "C5N",
+        "fecha": "Mon, 28 Sep 2026 11:12:00 -0300"
+      },
+      {
+        "titulo": "MasterChef Celebrity 2026: a qué hora empieza hoy, quiénes participan y cómo verlo en vivo",
+        "link": "https://www.clarin.com/espectaculos/masterchef-celebrity-2026-hora-empieza-hoy-participan-verlo-vivo_0_Q7d31ad9es.html",
+        "imagen": "https://www.clarin.com/img/2026/09/24/EqcunyvPS_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 28 Sep 2026 14:20:52 +0000"
+      },
+      {
+        "titulo": "Nuevo parte médico por la salud de Mirtha Legrand: “Finalizó el tratamiento antibiótico”",
+        "link": "https://www.infobae.com/teleshow/2026/09/28/nuevo-parte-medico-por-la-salud-de-mirtha-legrand-finalizo-el-tratamiento-antibiotico/",
+        "imagen": "https://www.infobae.com/resizer/v2/HIMXFIOBVJG25NTJUEIR6ZGGAQ.jpg?auth=3838fc8a5a4833525ae1ba047e4aab14bc30f0645a8b277edcc465c2e0c3c23b&smart=true&width=1980&height=1090",
+        "fuente": "Infobae",
+        "fecha": "Mon, 28 Sep 2026 14:57:37 +0000"
+      },
       {
         "titulo": "Slipknot y Marilyn Manson regresan a Argentina: cómo y dónde comprar las entradas",
         "link": "https://www.ambito.com/espectaculos/slipknot-y-marilyn-manson-regresan-argentina-como-y-donde-comprar-las-entradas-n6327450",
@@ -440,11 +468,11 @@
         "fecha": "Mon, 28 Sep 2026 11:23:00 -0300"
       },
       {
-        "titulo": "Daniel Osvaldo sigue internado y esto se sabe sobre su salud: \"La infección...\"",
-        "link": "https://www.c5n.com/ratingcero/daniel-osvaldo-sigue-internado-y-esto-se-sabe-su-salud-la-infeccion-n250107",
-        "imagen": "https://media.c5n.com/p/4c18806e01b0a5b92e50722d802f36d1/adjuntos/326/imagenes/000/400/0000400684/1200x675/smart/daniel-osvaldo.jpg",
+        "titulo": "Ya no se ocultan: Tiago PZK publicó una foto junto a La Joaqui y confirmó su romance",
+        "link": "https://www.c5n.com/ratingcero/ya-no-se-ocultan-tiago-pzk-publico-una-foto-junto-la-joaqui-y-confirmo-su-romance-n250096",
+        "imagen": "https://media.c5n.com/p/10f399550fc669251abdd8759f167ded/adjuntos/326/imagenes/000/314/0000314191/1200x675/smart/tiago-pzk.png",
         "fuente": "C5N",
-        "fecha": "Mon, 28 Sep 2026 11:12:00 -0300"
+        "fecha": "Mon, 28 Sep 2026 09:05:00 -0300"
       },
       {
         "titulo": "La gran noche de Taylor Swift en los VMAs: del homenaje a Dolly Parton al estreno de un videoclip con Dakota Johnson y Colin Farrell",
@@ -468,11 +496,11 @@
         "fecha": "Mon, 28 Sep 2026 10:00:00 -0300"
       },
       {
-        "titulo": "Ya no se ocultan: Tiago PZK publicó una foto junto a La Joaqui y confirmó su romance",
-        "link": "https://www.c5n.com/ratingcero/ya-no-se-ocultan-tiago-pzk-publico-una-foto-junto-la-joaqui-y-confirmo-su-romance-n250096",
-        "imagen": "https://media.c5n.com/p/10f399550fc669251abdd8759f167ded/adjuntos/326/imagenes/000/314/0000314191/1200x675/smart/tiago-pzk.png",
+        "titulo": "La familia de Gaspi recuperó la cuenta del influencer y anunciaron que la conservarán para \"recordarlo como era\"",
+        "link": "https://www.c5n.com/ratingcero/la-familia-gaspi-recupero-la-cuenta-del-influencer-y-anunciaron-que-la-conservaran-recordarlo-como-era-n250085",
+        "imagen": "https://media.c5n.com/p/1a09911274fa9633ea05692fe6b9e9d2/adjuntos/326/imagenes/000/387/0000387441/1200x675/smart/gaspi.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 28 Sep 2026 09:05:00 -0300"
+        "fecha": "Sun, 27 Sep 2026 22:29:00 -0300"
       },
       {
         "titulo": "Slipknot regresa a la Argentina y trae a Marilyn Manson como invitado especial: dónde y cuándo comprar las entradas para una noche de heavymetal",
@@ -487,34 +515,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/RB3CTWWF3RC3FKZ3E2EO2WDG4Y.png?auth=9c44b3d680a320ad3756ef20fe3dd5e1c618eec5b60d1d4bdac3128e343642ad&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
         "fecha": "Mon, 28 Sep 2026 13:37:48 +0000"
-      },
-      {
-        "titulo": "Premios MTV VMAs 2026: todos los nominados y ganadores de la ceremonia dedicada a la música",
-        "link": "https://www.ambito.com/espectaculos/premios-mtv-vmas-2026-como-y-donde-ver-vivo-la-ceremonia-dedicada-la-musica-n6326767",
-        "imagen": "https://media.ambito.com/p/348e8dc3317bf85a3ea4cd2c596da72b/adjuntos/239/imagenes/043/668/0043668174/sabrina-carpenter-y-madonna.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Sun, 27 Sep 2026 23:27:00 -0300"
-      },
-      {
-        "titulo": "La familia de Gaspi recuperó la cuenta del influencer y anunciaron que la conservarán para \"recordarlo como era\"",
-        "link": "https://www.c5n.com/ratingcero/la-familia-gaspi-recupero-la-cuenta-del-influencer-y-anunciaron-que-la-conservaran-recordarlo-como-era-n250085",
-        "imagen": "https://media.c5n.com/p/1a09911274fa9633ea05692fe6b9e9d2/adjuntos/326/imagenes/000/387/0000387441/1200x675/smart/gaspi.jpg",
-        "fuente": "C5N",
-        "fecha": "Sun, 27 Sep 2026 22:29:00 -0300"
-      },
-      {
-        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este lunes 28 de septiembre de 2026 en Argentina",
-        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-lunes-28-de-septiembre-de-2026-en-argentina_0_yzyFNkgIyR.html",
-        "imagen": "https://www.clarin.com/img/2025/08/25/gMhpNu9os_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 28 Sep 2026 10:15:08 +0000"
-      },
-      {
-        "titulo": "El duro presente de Alex Mathews, experto en efectos especiales de célebres filmes argentinos: “15 días en la intemperie”",
-        "link": "https://www.infobae.com/teleshow/2026/09/28/el-duro-presente-de-alex-mathews-experto-en-efectos-especiales-de-celebres-filmes-argentinos-15-dias-en-la-intemperie/",
-        "imagen": "https://www.infobae.com/resizer/v2/NIFTD5NAORAFPO6UZ3IDBAE3PU.png?auth=aa8a672dc4fc692eb69e83bb24ca1b5d6a74a538637fc8fcf0865fc4be9f23a0&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Mon, 28 Sep 2026 13:01:03 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Sun, 27 Sep 2026 18:01:00 -0300"
       },
       {
-        "titulo": "La deuda de los centros de datos de IA se encarece: el bono del Tesoro llegó a su nivel más alto en años",
-        "link": "https://www.infobae.com/tecno/2026/09/28/la-deuda-de-los-centros-de-datos-de-ia-se-encarece-el-bono-del-tesoro-llego-a-su-nivel-mas-alto-en-anos/",
-        "imagen": "https://www.infobae.com/resizer/v2/EC5ML4TBNJG3HMQSAJZMS7PU6E.JPG?auth=98f7ace9d42468ac6c867f1633aa04c32b81f885c0458285432082c4e24d5a82&smart=true&width=5272&height=2962",
+        "titulo": "Las Guerreras K-pop en español latino y 4K: esta es la velocidad de internet recomendada por Netflix",
+        "link": "https://www.infobae.com/tecno/2026/09/28/las-guerreras-k-pop-en-espanol-latino-y-4k-esta-es-la-velocidad-de-internet-recomendada-por-netflix/",
+        "imagen": "https://www.infobae.com/resizer/v2/3TBDMZVOMZH4VHB6ZERTEFGFUE.jpg?auth=96a307adc8b743336db1c6e76281af9cc85fba65b6747eea410a5a98094d9373&smart=true&width=3840&height=1608",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 28 Sep 2026 14:35:25 +0000"
+        "fecha": "Mon, 28 Sep 2026 15:07:29 +0000"
       },
       {
         "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
@@ -545,6 +545,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
+      },
+      {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Grok Bot superó los 400.000 usuarios semanales a un mes de su lanzamiento",
@@ -561,11 +568,11 @@
         "fecha": "Sun, 27 Sep 2026 09:49:00 -0300"
       },
       {
-        "titulo": "Hallan 16 mil bases de datos de Supabase que exponen contraseñas, direcciones y más datos privados",
-        "link": "https://www.infobae.com/tecno/2026/09/28/hallan-16-mil-bases-de-datos-de-supabase-que-exponen-contrasenas-direcciones-y-mas-datos-privados/",
-        "imagen": "https://www.infobae.com/resizer/v2/EV4Q76CMFZF3TATJ4ULOIWQHBQ.png?auth=08d296de9a642fd3af361e10983cacf52e3b0a3d38b026dda27cd75842b9b120&smart=true&width=1536&height=1024",
+        "titulo": "La deuda de los centros de datos de IA se encarece: el bono del Tesoro llegó a su nivel más alto en años",
+        "link": "https://www.infobae.com/tecno/2026/09/28/la-deuda-de-los-centros-de-datos-de-ia-se-encarece-el-bono-del-tesoro-llego-a-su-nivel-mas-alto-en-anos/",
+        "imagen": "https://www.infobae.com/resizer/v2/EC5ML4TBNJG3HMQSAJZMS7PU6E.JPG?auth=98f7ace9d42468ac6c867f1633aa04c32b81f885c0458285432082c4e24d5a82&smart=true&width=5272&height=2962",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 28 Sep 2026 14:35:14 +0000"
+        "fecha": "Mon, 28 Sep 2026 14:35:25 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -573,6 +580,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
+      },
+      {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "Mientras Javier Milei pide IA sin límites, Anthropic y ChatGPT lo contradicen: \"Podemos perder el control\"",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/2c188e55ddbd62cbbf31fbda684c8572/adjuntos/326/imagenes/000/400/0000400726/1200x675/smart/apple.jpg",
         "fuente": "C5N",
         "fecha": "Sat, 26 Sep 2026 22:15:00 -0300"
-      },
-      {
-        "titulo": "Bitcoin: cuál es su precio este lunes",
-        "link": "https://www.infobae.com/tecno/2026/09/28/bitcoin-cual-es-su-precio-este-lunes/",
-        "imagen": "https://www.infobae.com/resizer/v2/S6RJGEZD6VETDBJVKKWREOGD34.jpg?auth=a8936d6c60e3a2d4750b6448623764b0c3017d6a41bca2d1f3ac44a4432c6967&smart=true&width=1920&height=1076",
-        "fuente": "Infobae Tecno",
-        "fecha": "Mon, 28 Sep 2026 14:16:24 +0000"
-      },
-      {
-        "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
-        "link": "https://www.agenciacyta.org.ar/2026/09/un-argentino-entre-los-ganadores-de-los-ig-nobel-2026-los-premios-a-las-investigaciones-que-primero-hacen-reir-y-despues-pensar/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       }
     ],
     "autos": [
@@ -763,11 +763,11 @@
     ],
     "vida_sana": [
       {
-        "titulo": "Falso médico de Texas robó USD 26 millones al sistema de salud militar: lo condenaron con su Cybertruck bañada en oro como evidencia",
+        "titulo": "Condenan a falso médico de Texas por fraude al seguro militar: facturó más de USD 26 millones y compró una Cybertruck dorada",
         "link": "https://www.infobae.com/estados-unidos/2026/09/28/falso-medico-de-texas-robo-usd-26-millones-al-sistema-de-salud-militar-lo-condenaron-con-su-cybertruck-banada-en-oro-como-evidencia/",
         "imagen": "https://www.infobae.com/resizer/v2/TC4A3FS3LBDGJGSKWTCA7K47NI.png?auth=3ec0699dec577b2fa64f43f9af012c42b01ef1a163ade57751643fdf2582674e&smart=true&width=694&height=390",
         "fuente": "Infobae Salud",
-        "fecha": "Mon, 28 Sep 2026 14:28:23 +0000"
+        "fecha": "Mon, 28 Sep 2026 14:49:15 +0000"
       },
       {
         "titulo": "Daniel Osvaldo continúa en terapia intensiva: qué es un derrame pleural y cuál es el tratamiento",
@@ -784,6 +784,13 @@
         "fecha": "Mon, 28 Sep 2026 09:00:01 +0000"
       },
       {
+        "titulo": "El alimento que los cardiólogos recomiendan y que pocos incorporan a su dieta",
+        "link": "https://www.infobae.com/salud/2026/09/28/el-alimento-que-los-cardiologos-recomiendan-y-que-pocos-incorporan-a-su-dieta/",
+        "imagen": "https://www.infobae.com/resizer/v2/63GI3A4XT5HCFLPHUOHN6XKJOU.png?auth=fca8e22892638ee6710a94835b44d591eefc7e08584c533ab3a118e49f0853ef&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Mon, 28 Sep 2026 09:00:00 +0000"
+      },
+      {
         "titulo": "Cataratas: cuáles son sus síntomas y cuándo se recomienda una cirugía",
         "link": "https://www.infobae.com/salud/2026/09/28/cataratas-cuales-son-sus-sintomas-y-cuando-se-recomienda-una-cirugia/",
         "imagen": "https://www.infobae.com/resizer/v2/FNGJ3LFAGNBQFDASHUFRBGY5HE.jpg?auth=e293b3bf9979df3b831ff61dd88d8fff1af5f2000fefa4571dcf02e463c26ccc&smart=true&width=1456&height=816",
@@ -794,13 +801,6 @@
         "titulo": "Alimentación emocional, cómo reconocerla sin convertir cada antojo en un problema",
         "link": "https://www.infobae.com/salud/2026/09/28/alimentacion-emocional-como-reconocerla-sin-convertir-cada-antojo-en-un-problema/",
         "imagen": "https://www.infobae.com/resizer/v2/LRLXPEPQLBGXVPOKKRTRYNILSU.jpg?auth=d74a6741584fe2c9a2d357b612060582f20c0aa7f36b1f3960c903d1edc3c632&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Mon, 28 Sep 2026 09:00:00 +0000"
-      },
-      {
-        "titulo": "El alimento que los cardiólogos recomiendan y que pocos incorporan a su dieta",
-        "link": "https://www.infobae.com/salud/2026/09/28/el-alimento-que-los-cardiologos-recomiendan-y-que-pocos-incorporan-a-su-dieta/",
-        "imagen": "https://www.infobae.com/resizer/v2/63GI3A4XT5HCFLPHUOHN6XKJOU.png?auth=fca8e22892638ee6710a94835b44d591eefc7e08584c533ab3a118e49f0853ef&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Mon, 28 Sep 2026 09:00:00 +0000"
       }
