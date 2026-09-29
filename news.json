@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-29T20:45:08.771809+00:00",
+  "actualizado": "2026-09-29T20:59:32.596644+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "La CGT marchará el 8 de octubre en defensa de la industria nacional",
+        "link": "https://www.ambito.com/politica/paro-o-movilizacion-antes-la-llegada-leon-xiv-la-cgt-se-reune-y-analiza-medidas-n6327068",
+        "imagen": "https://media.ambito.com/p/8c473ab9ab61474c225d37d9df872366/adjuntos/239/imagenes/043/672/0043672989/1200x675/smart/cgt-uocra.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 29 Sep 2026 17:43:00 -0300"
+      },
+      {
+        "titulo": "\"Gracias, Centauro\": Milei nombró embajador del deporte al polista Adolfo Cambiaso",
+        "link": "https://www.clarin.com/politica/gracias-centauro-milei-nombro-embajador-deporte-polista-adolfo-cambiasso_0_wM5ewvlsGi.html",
+        "imagen": "https://www.clarin.com/img/2026/09/29/X_5hpxHln_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 29 Sep 2026 20:33:15 +0000"
+      },
+      {
+        "titulo": "Bueno para el turismo: la entrada a los museos seguirá siendo gratuita en el Reino Unido",
+        "link": "https://www.ambito.com/mundo/bueno-el-turismo-la-entrada-los-museos-seguira-siendo-gratuita-el-reino-unido-n6327999",
+        "imagen": "",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Tue, 29 Sep 2026 14:41:00 -0300"
+      },
+      {
+        "titulo": "Endeudamiento: el oficialismo consiguió dictamen de mayoría pero la oposición apunta a ganar en el recinto",
+        "link": "https://www.c5n.com/politica/diputados-comisiones-dictamen-proyecto-morosidad-sobreendeudamiento-29-septiembre-2026",
+        "imagen": "https://media.c5n.com/p/ad29b8211ef163a08d848ec73b762ef5/adjuntos/326/videos/000/401/0000401050/1200x675/smart/comision-vivo-conjunta-29-09-26-emplazamiento-endeudamiento-sistema-credito-hcdn.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 29 Sep 2026 17:44:00 -0300"
+      },
+      {
+        "titulo": "La CGT descartó un paro general, pero hará una movilización el 8 de octubre en defensa de la industria",
+        "link": "https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/",
+        "imagen": "https://www.infobae.com/resizer/v2/4YUHZFJVDBDEZDUYR7I2AXTVYE.jpeg?auth=504852ff82fb3677b07d5885e54901b72ae67aa0ff745a1be095b89681295816&smart=true&width=1280&height=852",
+        "fuente": "Infobae",
+        "fecha": "Tue, 29 Sep 2026 20:53:05 +0000"
+      },
+      {
+        "titulo": "Nuevo paro universitario de 72 horas: vuelven a exigir la aplicación de la Ley de Financiamiento",
+        "link": "https://www.tiempoar.com.ar/ta_article/nuevo-paro-universitario-de-72-horas-vuelven-a-exigir-la-aplicacion-de-la-ley-de-financiamiento/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 29 Sep 2026 19:15:29 +0000"
+      },
       {
         "titulo": "Caso Ledo: la Corte dejó sin efecto la absolución de César Milani y ordenó volver a revisar la decisión",
         "link": "https://www.ambito.com/politica/caso-ledo-la-corte-dejo-efecto-la-absolucion-cesar-milani-y-ordeno-volver-revisar-la-decision-n6328137",
@@ -17,48 +59,6 @@
         "fecha": "Tue, 29 Sep 2026 20:27:01 +0000"
       },
       {
-        "titulo": "Bueno para el turismo: la entrada a los museos seguirá siendo gratuita en el Reino Unido",
-        "link": "https://www.ambito.com/mundo/bueno-el-turismo-la-entrada-los-museos-seguira-siendo-gratuita-el-reino-unido-n6327999",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Tue, 29 Sep 2026 14:41:00 -0300"
-      },
-      {
-        "titulo": "La Corte Suprema de Justicia revocó el fallo que declaraba inconstitucional la derogación de la Ley de Tierras",
-        "link": "https://www.c5n.com/politica/la-corte-suprema-justicia-revoco-el-fallo-que-declaraba-inconstitucional-la-derogacion-la-ley-tierras-n250256",
-        "imagen": "https://media.c5n.com/p/99ccc5587c5065a1d2404f99e124730d/adjuntos/326/imagenes/000/332/0000332813/1200x675/smart/corte-suprema.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 17:04:00 -0300"
-      },
-      {
-        "titulo": "La CGT descartó un paro general, pero hará una movilización el 8 de octubre en defensa de la industria",
-        "link": "https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/",
-        "imagen": "https://www.infobae.com/resizer/v2/4YUHZFJVDBDEZDUYR7I2AXTVYE.jpeg?auth=504852ff82fb3677b07d5885e54901b72ae67aa0ff745a1be095b89681295816&smart=true&width=1280&height=852",
-        "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:41:49 +0000"
-      },
-      {
-        "titulo": "Nuevo paro universitario de 72 horas: vuelven a exigir la aplicación de la Ley de Financiamiento",
-        "link": "https://www.tiempoar.com.ar/ta_article/nuevo-paro-universitario-de-72-horas-vuelven-a-exigir-la-aplicacion-de-la-ley-de-financiamiento/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Tue, 29 Sep 2026 19:15:29 +0000"
-      },
-      {
-        "titulo": "La Corte Suprema revocó un fallo que declaraba inconstitucional la derogación de la Ley de Tierras",
-        "link": "https://www.ambito.com/politica/la-corte-suprema-revoco-un-fallo-que-declaraba-inconstitucional-la-derogacion-la-ley-tierras-n6328134",
-        "imagen": "https://media.ambito.com/p/fce8d3deb4a79e76c1a87797bdf574ee/adjuntos/239/imagenes/042/063/0042063990/corte-suprema-tribunales-justicia.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 29 Sep 2026 17:25:00 -0300"
-      },
-      {
-        "titulo": "Milei llega a Paris con 13 gobernadores aliados con la apuesta de atraer inversiones y avanzar en acuerdos por el Presupuesto y las PASO",
-        "link": "https://www.clarin.com/politica/milei-llega-paris-13-gobernadores-aliados-apuesta-atraer-inversiones-avanzar-acuerdos-presupuesto-paso_0_EleONtRkGi.html",
-        "imagen": "https://www.clarin.com/img/2026/07/09/hkIuJInYC_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 29 Sep 2026 20:24:57 +0000"
-      },
-      {
         "titulo": "Irán pone condiciones para reabrir el estrecho de Ormuz y espera la respuesta de EEUU",
         "link": "https://www.ambito.com/mundo/iran-pone-condiciones-reabrir-el-estrecho-ormuz-y-espera-la-respuesta-eeuu-n6328006",
         "imagen": "",
@@ -66,18 +66,18 @@
         "fecha": "Tue, 29 Sep 2026 14:20:54 -0300"
       },
       {
-        "titulo": "Endeudamiento y morosidad: qué proyectos presentaron el oficialismo y la oposición en la Cámara de Diputados",
-        "link": "https://www.c5n.com/politica/endeudamiento-y-morosidad-que-proyectos-presentaron-el-oficialismo-y-la-oposicion-la-camara-diputados-n250251",
-        "imagen": "https://media.c5n.com/p/3013ce4c655fde6cedb2890dc6501eec/adjuntos/326/imagenes/000/401/0000401042/1200x675/smart/camara-diputados-plenario-morosidad-2.jpg",
+        "titulo": "Nueva encuesta: el bloque opositor al Gobierno ya representa casi el 60% del electorado",
+        "link": "https://www.c5n.com/politica/nueva-encuesta-el-bloque-opositor-al-gobierno-ya-representa-casi-el-60-del-electorado-n250253",
+        "imagen": "https://media.c5n.com/p/81feb0893bc58b2a92c4344b63d5bea1/adjuntos/326/imagenes/000/401/0000401047/1200x675/smart/javier-milei-pobreza.png",
         "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 16:54:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 17:39:00 -0300"
       },
       {
-        "titulo": "Ex funcionaria de Quintela que ahora responde a los Menem: quién la reemplazante de Pagotto en el Senado",
+        "titulo": "Ex funcionaria de Quintela que ahora responde a los Menem: quién es la reemplazante de Pagotto en el Senado",
         "link": "https://www.infobae.com/politica/2026/09/29/ex-funcionaria-de-quintela-que-ahora-responde-a-los-menem-quien-la-reemplazante-de-pagotto-en-el-senado/",
         "imagen": "https://www.infobae.com/resizer/v2/64OJT76VWNHARP6HSSSSILAARI.jpg?auth=21cdc6fffb74f7579c9cd6288241b2e1ac280951b1a7a8a84a9914baaa1d1ab1&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:39:42 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:43:04 +0000"
       },
       {
         "titulo": "En el entorno de Santilli dicen que “el Colo vuelve con la medalla” de París",
@@ -110,11 +110,11 @@
         "fecha": "Tue, 29 Sep 2026 14:55:00 -0300"
       },
       {
-        "titulo": "El Banco Central aceleró la compra de dólares, pero cerraría septiembre con el menor nivel de adquisiciones del año",
-        "link": "https://www.infobae.com/economia/2026/09/29/el-banco-central-acelero-la-compra-de-dolares-pero-cerraria-septiembre-con-el-menor-nivel-de-adquisiciones-del-ano/",
-        "imagen": "https://www.infobae.com/resizer/v2/IJDUCHDINNDUTCLIXXPYZPT6TI.jpg?auth=72bf3add1c8530c08825a2b6890f636aafbc8d5c1514958cd3c6b5ad713c6ed6&smart=true&width=3909&height=2606",
+        "titulo": "Dólar hoy: a cuánto operaron todas las cotizaciones minuto a minuto este martes 29 de septiembre",
+        "link": "https://www.infobae.com/economia/2026/09/28/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-lunes-28-de-septiembre/",
+        "imagen": "https://www.infobae.com/resizer/v2/NZYGUQJ3UVAC5A3XWEL4A5FNSM.JPG?auth=605bc17984737cd9d2789c8a0fcfb71bf34491e309c24cffa78ab0c2c5ae1264&smart=true&width=3500&height=2250",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:37:38 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:52:10 +0000"
       },
       {
         "titulo": "Para la UIA, la industria cayó casi 6% en agosto y acumuló un bajón del 3% en el año",
@@ -145,11 +145,11 @@
         "fecha": "Tue, 29 Sep 2026 14:29:00 -0300"
       },
       {
-        "titulo": "Bajó el riesgo país: los bonos argentinos rebotaron este martes luego de 11 ruedas consecutivas de caída",
-        "link": "https://www.infobae.com/economia/2026/09/29/baja-el-riesgo-pais-los-bonos-argentinos-rebotan-este-martes-luego-de-11-ruedas-consecutivas-de-caida/",
-        "imagen": "https://www.infobae.com/resizer/v2/IBOZVSLLXVDK7GN77NYHR2ZCXQ.JPG?auth=afd17d251f19a42948b949a221111012f53ad016d848d7a67731aa71c2cc071f&smart=true&width=5468&height=3646",
+        "titulo": "El Banco Central aceleró la compra de dólares, pero cerraría septiembre con el menor nivel de adquisiciones del año",
+        "link": "https://www.infobae.com/economia/2026/09/29/el-banco-central-acelero-la-compra-de-dolares-pero-cerraria-septiembre-con-el-menor-nivel-de-adquisiciones-del-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/IJDUCHDINNDUTCLIXXPYZPT6TI.jpg?auth=72bf3add1c8530c08825a2b6890f636aafbc8d5c1514958cd3c6b5ad713c6ed6&smart=true&width=3909&height=2606",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:27:48 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:40:31 +0000"
       },
       {
         "titulo": "Servicios, transporte, alquileres y prepagas: todos los aumentos que llegan con octubre",
@@ -175,11 +175,11 @@
     ],
     "deportes": [
       {
-        "titulo": "La Premier League declaró culpable al Manchester City por contratos \"fraudulentos\" con un valor de más u$s1.000 millones",
-        "link": "https://www.ambito.com/deportes/la-premier-league-declaro-culpable-al-manchester-city-contratos-fraudulentos-un-valor-mas-us1000-millones-n6328126",
-        "imagen": "https://media.ambito.com/p/17139a87c7cd5f37a63971523242ea30/adjuntos/239/imagenes/043/664/0043664817/1200x675/625x467:645x487/manchester-city.jpg",
+        "titulo": "Gastón Gaudio confirmó su candidatura para las próximas elecciones de Independiente: \"Tengo todo arreglado\"",
+        "link": "https://www.ambito.com/deportes/gaston-gaudio-confirmo-su-candidatura-las-proximas-elecciones-independiente-tengo-todo-arreglado-n6328145",
+        "imagen": "https://media.ambito.com/p/878ec82c061b50b276e898aba77cf58c/adjuntos/239/imagenes/043/672/0043672992/1200x675/880x206:900x226/gaudio-independiente.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 29 Sep 2026 17:21:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 17:43:00 -0300"
       },
       {
         "titulo": "Dos campeones del mundo no estarán en la despedida de Lionel Messi de la Selección Argentina: el comunicado de su club con los motivos",
@@ -196,11 +196,11 @@
         "fecha": "Tue, 29 Sep 2026 14:53:00 -0300"
       },
       {
-        "titulo": "River Plate, sin margen de error: cuáles son los dos caminos que le quedan para clasificar a la Copa Libertadores",
-        "link": "https://www.infobae.com/deportes/2026/08/27/rive-plate-sin-margen-de-error-cuales-son-los-dos-caminos-que-le-quedan-para-clasificar-a-la-copa-libertadores/",
-        "imagen": "https://www.infobae.com/resizer/v2/5QSOHE3AIBEZTLQJWI7FBC7HXY.JPG?auth=a8810cf28fa0b47a65a828d6b6d118a83164dd25f9d1b3ab6f4ec423566a3049&smart=true&width=4320&height=2430",
+        "titulo": "Les negaron la chance de viajar a la despedida de Messi a dos campeones del mundo con Argentina: las razones",
+        "link": "https://www.infobae.com/deportes/2026/09/29/les-negaron-la-chance-de-viajar-a-la-despedida-de-messi-a-dos-campeones-del-mundo-con-argentina-las-razones/",
+        "imagen": "https://www.infobae.com/resizer/v2/S5FNQPXQQJHGBK7AB5T7GU3D6U.JPG?auth=5b7cdd85cd42f25f7ee43df2c0ac3e0ce43ba49558127f1c52c9965f43433703&smart=true&width=3953&height=2620",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:24:43 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:52:55 +0000"
       },
       {
         "titulo": "Ayude embargó a San Lorenzo",
@@ -252,11 +252,11 @@
         "fecha": "Tue, 29 Sep 2026 15:23:00 -0300"
       },
       {
-        "titulo": "Lionel Scaloni confirmó la formación que piensa para la Selección y habló de su futuro",
-        "link": "https://www.ambito.com/deportes/lionel-scaloni-confirmo-la-formacion-que-piensa-la-seleccion-y-hablo-su-futuro-n6328050",
-        "imagen": "",
+        "titulo": "La Premier League declaró culpable al Manchester City por contratos \"fraudulentos\" con un valor de más u$s1.000 millones",
+        "link": "https://www.ambito.com/deportes/la-premier-league-declaro-culpable-al-manchester-city-contratos-fraudulentos-un-valor-mas-us1000-millones-n6328126",
+        "imagen": "https://media.ambito.com/p/17139a87c7cd5f37a63971523242ea30/adjuntos/239/imagenes/043/664/0043664817/1200x675/625x467:645x487/manchester-city.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 29 Sep 2026 15:47:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 17:21:00 -0300"
       }
     ],
     "policiales_actualidad": [
@@ -368,11 +368,11 @@
         "fecha": "Tue, 29 Sep 2026 19:31:01 +0000"
       },
       {
-        "titulo": "“Solo quedaba el más pequeño y débil”: la conmovedora historia del gato de las arenas que fue hallado solo en el desierto de Marruecos",
-        "link": "https://www.infobae.com/tendencias/2026/09/29/solo-quedaba-el-mas-pequeno-y-debil-la-conmovedora-historia-del-gato-de-las-arenas-que-hallado-solo-en-el-desierto-de-marruecos/",
-        "imagen": "https://www.infobae.com/resizer/v2/A2YMHWMXQJFDDEYU32EGJ3M5EA.jpg?auth=98245d2662b4cb19649e4a024dfba3d18d53447897e641564072c41d3e6e0112&smart=true&width=1170&height=658",
+        "titulo": "Rebeca Grynspan se consolida como la candidata con más votos para ser la próxima secretaria General de la ONU",
+        "link": "https://www.infobae.com/america/mundo/2026/09/29/rebeca-grynspan-se-consolida-como-la-candidata-mas-con-mas-votos-para-ser-la-proxima-secretaria-general-de-la-onu/",
+        "imagen": "https://www.infobae.com/resizer/v2/GNYKXLLPV5HOVIJVSUWEZQTWTE?auth=35f6ec7b0f5414e8410f5ccd989dca14eae971e38edc48cf3bdaf4d0d9b524bb&smart=true&width=3999&height=2249",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:10:19 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:52:19 +0000"
       },
       {
         "titulo": "Irán pone condiciones para reabrir el estrecho de Ormuz y espera la respuesta de EEUU",
@@ -396,11 +396,11 @@
         "fecha": "Tue, 29 Sep 2026 18:43:43 +0000"
       },
       {
-        "titulo": "Elena Rose lleva “cosita linda” a Le Défilé en París junto a Eva Longoria, Anitta y otras figuras latinas",
-        "link": "https://www.infobae.com/america/inhouse/2026/09/29/elena-rose-lleva-cosita-linda-a-le-defile-en-paris-junto-a-eva-longoria-anitta-y-otras-figuras-latinas/",
-        "imagen": "https://www.infobae.com/resizer/v2/O6ZNDUCAABBZZNCBIMUQL5OJMI.jpg?auth=2ff4e2330fc60793e4834a99b464ca0efd5f2ccfb8c548613ca7015523ac9012&smart=true&width=2048&height=1365",
+        "titulo": "Destituyen a médico que cuestionó el sistema mixto de pensiones en Panamá",
+        "link": "https://www.infobae.com/panama/2026/09/29/destituyen-a-medico-que-cuestiono-el-sistema-mixto-de-pensiones-en-panama/",
+        "imagen": "https://www.infobae.com/resizer/v2/KLG2NYSO7FEWVDFEU3CTZWOVFU.jpg?auth=7845ea70d9237d6f9b55e2b32a9a20d0cd30d9d607e6fd72bd9e5dd75ad733f2&smart=true&width=1920&height=1068",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:08:29 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:49:51 +0000"
       },
       {
         "titulo": "Polémica en EEUU por anuncios de Donald Trump pagados con fondos públicos a semanas de las elecciones",
@@ -424,11 +424,11 @@
         "fecha": "Tue, 29 Sep 2026 18:08:20 +0000"
       },
       {
-        "titulo": "Armas de Irán y componentes de China: los respaldos que impulsaron el avance de los hutíes en Yemen",
-        "link": "https://www.infobae.com/america/mundo/2026/09/29/armas-de-iran-y-componentes-de-china-los-respaldos-que-impulsaron-el-avance-de-los-huties-en-yemen/",
-        "imagen": "https://www.infobae.com/resizer/v2/HLNQLTCQZZBLJODR4GOIKSZYQQ.jpg?auth=16ffe9e3eb4a45c25f5cf0cfa975acdbc6ab6310537b222cef121127d257bef8&smart=true&width=6720&height=4480",
+        "titulo": "“Solo quedaba el más pequeño y débil”: la conmovedora historia del gato de las arenas que fue hallado solo en el desierto de Marruecos",
+        "link": "https://www.infobae.com/tendencias/2026/09/29/solo-quedaba-el-mas-pequeno-y-debil-la-conmovedora-historia-del-gato-de-las-arenas-que-hallado-solo-en-el-desierto-de-marruecos/",
+        "imagen": "https://www.infobae.com/resizer/v2/A2YMHWMXQJFDDEYU32EGJ3M5EA.jpg?auth=98245d2662b4cb19649e4a024dfba3d18d53447897e641564072c41d3e6e0112&smart=true&width=1170&height=658",
         "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 20:07:50 +0000"
+        "fecha": "Tue, 29 Sep 2026 20:10:19 +0000"
       }
     ],
     "espectaculos": [
@@ -814,7 +814,7 @@
     ],
     "local": [
       {
-        "titulo": "Provincia asegura que el concejal Juan Pablo Allan se dio a la fuga tras el control de alcoholemia",
+        "titulo": "Provincia asegura que el concejal Juan Pablo Allan \"se dio a la fuga\" tras el control de alcoholemia",
         "link": "https://www.0221.com.ar/provincia/provincia-asegura-que-el-concejal-juan-pablo-allan-se-dio-la-fuga-el-control-alcoholemia-n135012",
         "imagen": "https://media.0221.com.ar/p/20f4c1fa2005764cc4c34be4a77f989f/adjuntos/357/imagenes/100/269/0100269298/1200x630/smart/concejo-deliberante-sesion-juan-pablo-allan.jpg",
         "fuente": "0221",
@@ -835,11 +835,11 @@
         "fecha": "Mon, 28 Sep 2026 13:31:00 -0300"
       },
       {
-        "titulo": "Dos sujetos que circulaban armados y en moto fueron atrapados tras un operativo en Tolosa",
-        "link": "https://www.eldia.com/policiales/dos-sujetos-que-circulaban-armados-y-en-moto-fueron-atrapados-tras-un-operativo-en-tolosa-policiales_1790713380",
+        "titulo": "Pablo Di Liscia, nuevo secretario de Discapacidad, sufrió un grave accidente en moto",
+        "link": "https://www.eldia.com/politica-y-economia/pablo-di-liscia-nuevo-secretario-de-discapacidad-sufrio-un-grave-accidente-en-moto-politica-y-economia_1790714880",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 29 Sep 2026 20:29:03 GMT"
+        "fecha": "Tue, 29 Sep 2026 20:54:32 GMT"
       },
       {
         "titulo": "Video: así fue el control de alcoholemia al concejal Juan Pablo Allan que derivó en una inhabilitación",
@@ -863,11 +863,11 @@
         "fecha": "Mon, 28 Sep 2026 11:01:00 -0300"
       },
       {
-        "titulo": "El accidente del helicóptero platense en San Juan: el relato de la pareja del piloto fallecido",
-        "link": "https://www.eldia.com/policiales/el-accidente-del-helicoptero-de-la-plata-en-san-juan-el-relato-de-la-pareja-de-uno-de-los-pilotos-fallecidos-policiales_1790710260",
+        "titulo": "Scaloni, en la previa de los amistosos: el próximo capitán, la camiseta 10 y su continuidad",
+        "link": "https://www.eldia.com/deportes/lionel-scaloni-en-la-previa-de-los-amistosos-el-proximo-capitan-la-camiseta-10-y-su-continuidad-deportes_1790711820",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 29 Sep 2026 19:57:29 GMT"
+        "fecha": "Tue, 29 Sep 2026 20:06:20 GMT"
       },
       {
         "titulo": "De la mano de Giro 360 y No Juegan con Nadie, la tarde de 0221 Play sigue a pura info y entretenimiento",
@@ -891,11 +891,11 @@
         "fecha": "Sat, 26 Sep 2026 10:59:00 -0300"
       },
       {
-        "titulo": "El sector energético creció 3% interanual en el segundo trimestre de 2026, según el Indec",
-        "link": "https://www.eldia.com/politica-y-economia/el-sector-energetico-crecio-3-interanual-en-el-segundo-trimestre-de-2026-segun-el-indec-politica-y-economia_1790709540",
+        "titulo": "Expotan: el CIAT de Tandil presentó su agenda de actividades para el sector agropecuario",
+        "link": "https://www.eldia.com/politica-y-economia/expotan-el-ciat-de-tandil-presento-su-agenda-de-actividades-para-el-sector-agropecuario-politica-y-economia_1790709660",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 29 Sep 2026 19:21:26 GMT"
+        "fecha": "Tue, 29 Sep 2026 19:23:22 GMT"
       }
     ]
   }
