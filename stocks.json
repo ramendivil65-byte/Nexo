@@ -1,57 +1,78 @@
 {
-  "actualizado": "2026-09-29T12:07:29.995244+00:00",
+  "actualizado": "2026-09-29T15:09:19.972115+00:00",
   "merval": {
-    "subas": [],
-    "bajas": [
+    "subas": [
       {
-        "simbolo": "CRESY",
-        "porcentaje": -6.1369
-      },
-      {
-        "simbolo": "BBAR",
-        "porcentaje": -4.56273
+        "simbolo": "BMA",
+        "porcentaje": 1.029678
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": -4.54311
+        "porcentaje": 0.48675084
       },
       {
-        "simbolo": "BMA",
-        "porcentaje": -4.095265
+        "simbolo": "BBAR",
+        "porcentaje": 0.39840485
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": 0.083819737
+      }
+    ],
+    "bajas": [
+      {
+        "simbolo": "YPF",
+        "porcentaje": -1.55733
+      },
+      {
+        "simbolo": "TX",
+        "porcentaje": -1.26675
+      },
+      {
+        "simbolo": "PAM",
+        "porcentaje": -0.87524889
       },
       {
         "simbolo": "SUPV",
-        "porcentaje": -3.8674
+        "porcentaje": -0.28735687
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
+        "simbolo": "MCD",
+        "porcentaje": 0.78338778
+      },
+      {
         "simbolo": "NVDA",
-        "porcentaje": 1.68392
+        "porcentaje": 0.76902883
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": 0.56466708
       }
     ],
     "bajas": [
       {
+        "simbolo": "AAPL",
+        "porcentaje": -1.87352
+      },
+      {
         "simbolo": "JPM",
-        "porcentaje": -1.88597
-      },
-      {
-        "simbolo": "MSFT",
-        "porcentaje": -1.34645
-      },
-      {
-        "simbolo": "MCD",
-        "porcentaje": -1.22621
+        "porcentaje": -0.56596939
       },
       {
         "simbolo": "HD",
-        "porcentaje": -1.12892
+        "porcentaje": -0.20353052
       },
       {
-        "simbolo": "AAPL",
-        "porcentaje": -0.78283442
+        "simbolo": "KO",
+        "porcentaje": -0.20073446
+      },
+      {
+        "simbolo": "MSFT",
+        "porcentaje": -0.021601905
       }
     ]
   }
