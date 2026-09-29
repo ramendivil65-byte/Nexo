@@ -1,61 +1,70 @@
 {
-  "actualizado": "2026-09-29T18:08:08.066471+00:00",
+  "actualizado": "2026-09-29T21:05:35.072988+00:00",
   "merval": {
-    "subas": [],
+    "subas": [
+      {
+        "simbolo": "PAM",
+        "porcentaje": 0.27432651
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": 0.10816782
+      },
+      {
+        "simbolo": "BMA",
+        "porcentaje": 0.015145573
+      }
+    ],
     "bajas": [
       {
-        "simbolo": "TX",
-        "porcentaje": -2.17551
+        "simbolo": "CRESY",
+        "porcentaje": -2.43085
       },
       {
         "simbolo": "YPF",
-        "porcentaje": -2.12186
+        "porcentaje": -2.024526
       },
       {
-        "simbolo": "CRESY",
-        "porcentaje": -1.67645
+        "simbolo": "TX",
+        "porcentaje": -1.87259
       },
       {
-        "simbolo": "SUPV",
-        "porcentaje": -1.0057477
-      },
-      {
-        "simbolo": "PAM",
-        "porcentaje": -0.9013756
+        "simbolo": "BBAR",
+        "porcentaje": -0.15936619
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "MCD",
-        "porcentaje": 0.5907508
+        "simbolo": "CAT",
+        "porcentaje": 0.81590369
       },
       {
-        "simbolo": "CAT",
-        "porcentaje": 0.56588667
+        "simbolo": "MCD",
+        "porcentaje": 0.16266679
       }
     ],
     "bajas": [
       {
         "simbolo": "AAPL",
-        "porcentaje": -1.97843
-      },
-      {
-        "simbolo": "MSFT",
-        "porcentaje": -0.59797361
-      },
-      {
-        "simbolo": "JPM",
-        "porcentaje": -0.37137061
+        "porcentaje": -2.65957
       },
       {
         "simbolo": "NVDA",
-        "porcentaje": -0.26216928
+        "porcentaje": -0.72096211
+      },
+      {
+        "simbolo": "HD",
+        "porcentaje": -0.63817517
+      },
+      {
+        "simbolo": "JPM",
+        "porcentaje": -0.47238372
       },
       {
         "simbolo": "KO",
-        "porcentaje": -0.080293995
+        "porcentaje": -0.39000226
       }
     ]
   }
