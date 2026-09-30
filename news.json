@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T01:44:56.703787+00:00",
+  "actualizado": "2026-09-30T02:00:49.070574+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,11 +10,11 @@
         "fecha": "Tue, 29 Sep 2026 21:06:00 -0300"
       },
       {
-        "titulo": "Mahiques metió a jueces vinculados a la AFA en la comitiva del presidente Milei que viaja a París",
-        "link": "https://www.clarin.com/politica/mahiques-metio-jueces-vinculados-afa-comitiva-presidente-milei-viaja-paris_0_0AP8NYGGr3.html",
-        "imagen": "https://www.clarin.com/img/2026/09/29/KCtRJKOcY_1200x630__1.jpg",
+        "titulo": "El gobierno de Quintela regala \"Chachos\" en el stand de La Rioja de la Feria de Turismo",
+        "link": "https://www.clarin.com/politica/gobierno-quintela-regala-chachos-stand-rioja-feria-turismo_0_2dVX62GbqI.html",
+        "imagen": "https://www.clarin.com/img/2026/08/17/mEpeugboJ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 29 Sep 2026 23:06:20 +0000"
+        "fecha": "Tue, 29 Sep 2026 23:37:11 +0000"
       },
       {
         "titulo": "El argentino Rafael Grossi recuperó apoyos y volvió a quedar tercero en la carrera para liderar la ONU",
@@ -52,11 +52,11 @@
         "fecha": "Tue, 29 Sep 2026 20:08:00 -0300"
       },
       {
-        "titulo": "Reforma electoral: el Gobierno sigue negociando pero apuesta a tratar la suspensión de las PASO antes de fin de año",
-        "link": "https://www.clarin.com/politica/reforma-electoral-gobierno-sigue-negociando-apuesta-tratar-suspension-paso-fin-ano_0_DiFYiPsESm.html",
-        "imagen": "https://www.clarin.com/img/2026/07/21/fKcQ4Kl_N_1200x630__1.jpg",
+        "titulo": "Llegó a Córdoba una nueva tanda de 6 cazas F-16 estadounidenses para la Fuerza Aérea",
+        "link": "https://www.clarin.com/politica/llego-cordoba-nueva-tanda-6-cazas-f-16-estadounidenses-comprados-dinamarca_0_HOvPhKtLKM.html",
+        "imagen": "https://www.clarin.com/img/2026/09/29/jwU-3fraK_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 29 Sep 2026 22:54:26 +0000"
+        "fecha": "Tue, 29 Sep 2026 23:21:52 +0000"
       },
       {
         "titulo": "Donald Trump lanzó una plataforma de inteligencia artificial para acceder a trámites y servicios",
@@ -89,6 +89,41 @@
     ],
     "economia": [
       {
+        "titulo": "En la previa de la Argentina Week, EEUU identificó cuáles son los tres desafíos de la economía de Javier Milei",
+        "link": "https://www.ambito.com/economia/en-la-previa-la-argentina-week-eeuu-identifico-cuales-son-los-tres-desafios-la-javier-milei-n6328245",
+        "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 29 Sep 2026 22:47:00 -0300"
+      },
+      {
+        "titulo": "Tras acercarse a Kicillof, le dan a Manzano 20 años más en la compra de Metrogas",
+        "link": "https://www.clarin.com/economia/acercarse-kicillof-dan-manzano-20-anos-compra-metrogas_0_djHea6VXvY.html",
+        "imagen": "https://www.clarin.com/img/2024/05/11/O9jUYc9Nq_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 30 Sep 2026 00:59:55 +0000"
+      },
+      {
+        "titulo": "El récord de exportaciones consolidó un superávit de u$s2.214 millones en la balanza de pagos",
+        "link": "https://www.c5n.com/economia/el-record-exportaciones-consolido-un-superavit-us2214-millones-la-balanza-pagos-n250286",
+        "imagen": "https://media.c5n.com/p/c44a551466f5c5833470715e63da1c7d/adjuntos/326/imagenes/000/014/0000014530/1200x675/smart/exportaciones-telamjpg.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 29 Sep 2026 21:45:00 -0300"
+      },
+      {
+        "titulo": "Una distribuidora de golosinas despidió al menos a 53 empleados en Esteban Echeverría",
+        "link": "https://www.infobae.com/economia/2026/09/29/una-distribuidora-de-golosinas-relacionada-con-diarco-despidio-al-menos-a-53-empleados-en-esteban-echeverria/",
+        "imagen": "https://www.infobae.com/resizer/v2/7RE2NKQTMNBGFNBQJ5NRWPSHDU.jpg?auth=1b802fcaa640aa710c20a0d60bc9b808965296d06cc886f58bf51226bb27ccd1&smart=true&width=1628&height=916",
+        "fuente": "Infobae",
+        "fecha": "Wed, 30 Sep 2026 01:49:08 +0000"
+      },
+      {
+        "titulo": "Día del Empleado de Comercio: una conquista que llega sin motivos para festejar",
+        "link": "https://www.tiempoar.com.ar/ta_article/comercio-conquista-sin-festejar/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 30 Sep 2026 00:16:24 +0000"
+      },
+      {
         "titulo": "La inversión real repuntó 1,2% mensual en agosto, impulsada por las importaciones de equipos",
         "link": "https://www.ambito.com/economia/la-inversion-real-repunto-12-mensual-agosto-impulsada-las-importaciones-equipos-n6328203",
         "imagen": "https://media.ambito.com/p/dd13e21f969c578bcdf5e7e69e31e2d6/adjuntos/239/imagenes/042/422/0042422282/1200x675/smart/aduana-productosjpg.jpg",
@@ -103,11 +138,11 @@
         "fecha": "Tue, 29 Sep 2026 23:27:26 +0000"
       },
       {
-        "titulo": "El récord de exportaciones consolidó un superávit de u$s2.214 millones en la balanza de pagos",
-        "link": "https://www.c5n.com/economia/el-record-exportaciones-consolido-un-superavit-us2214-millones-la-balanza-pagos-n250286",
-        "imagen": "https://media.c5n.com/p/c44a551466f5c5833470715e63da1c7d/adjuntos/326/imagenes/000/014/0000014530/1200x675/smart/exportaciones-telamjpg.jpg",
+        "titulo": "Cuándo cobro ANSES: Pago Único y Asignaciones Familiares de PNC, este miércoles 30 de septiembre",
+        "link": "https://www.c5n.com/economia/cuando-cobro-anses-pago-unico-y-asignaciones-familiares-pnc-este-miercoles-30-septiembre-n250272",
+        "imagen": "https://media.c5n.com/p/abd6166bd4b55819c24a7c45877f1d24/adjuntos/326/imagenes/000/023/0000023812/1200x675/smart/anses-calendario-pagos-del-miercoles.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 21:45:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 20:04:00 -0300"
       },
       {
         "titulo": "El Departamento de Estado de EEUU identificó los “desafíos más apremiantes” que enfrenta el gobierno de Milei",
@@ -117,11 +152,11 @@
         "fecha": "Tue, 29 Sep 2026 23:12:26 +0000"
       },
       {
-        "titulo": "Día del Empleado de Comercio: una conquista que llega sin motivos para festejar",
-        "link": "https://www.tiempoar.com.ar/ta_article/comercio-conquista-sin-festejar/",
+        "titulo": "Revés para Madanes: la justicia resolvió suspender el pedido de desalojo de FATE",
+        "link": "https://www.tiempoar.com.ar/ta_article/madanes-suspender-desalojo-fate/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 30 Sep 2026 00:16:24 +0000"
+        "fecha": "Tue, 29 Sep 2026 22:16:58 +0000"
       },
       {
         "titulo": "Blanqueo: la Corte limitó la suspensión de la prescripción a quienes adhirieron al régimen",
@@ -136,41 +171,6 @@
         "imagen": "https://www.clarin.com/img/2024/11/18/ebTfnckfr_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Tue, 29 Sep 2026 22:21:25 +0000"
-      },
-      {
-        "titulo": "Cuándo cobro ANSES: Pago Único y Asignaciones Familiares de PNC, este miércoles 30 de septiembre",
-        "link": "https://www.c5n.com/economia/cuando-cobro-anses-pago-unico-y-asignaciones-familiares-pnc-este-miercoles-30-septiembre-n250272",
-        "imagen": "https://media.c5n.com/p/abd6166bd4b55819c24a7c45877f1d24/adjuntos/326/imagenes/000/023/0000023812/1200x675/smart/anses-calendario-pagos-del-miercoles.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 20:04:00 -0300"
-      },
-      {
-        "titulo": "En negro y sin jefe: a qué se dedica y cuánto gana el sector de trabajadores qué más crece en la Argentina",
-        "link": "https://www.infobae.com/economia/2026/09/26/en-negro-y-sin-jefe-a-que-se-dedica-y-cuanto-gana-el-sector-de-trabajadores-que-mas-crece-en-la-argentina/",
-        "imagen": "https://www.infobae.com/resizer/v2/HKMPFAGPNRDGPGPW4ZEYISJGME.png?auth=945d7c18acb9b7eeca9c9a21ba8045881fe21ef39d691f1c14857a3759854753&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Tue, 29 Sep 2026 21:51:52 +0000"
-      },
-      {
-        "titulo": "Revés para Madanes: la justicia resolvió suspender el pedido de desalojo de FATE",
-        "link": "https://www.tiempoar.com.ar/ta_article/madanes-suspender-desalojo-fate/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Tue, 29 Sep 2026 22:16:58 +0000"
-      },
-      {
-        "titulo": "Cuánto cobrarán los empleados de la construcción en octubre de 2026",
-        "link": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-la-construccion-octubre-2026-n6328190",
-        "imagen": "https://media.ambito.com/p/61ff6063a9135837702846b9152fec3b/adjuntos/239/imagenes/043/438/0043438512/1200x675/847x521:867x541/construccion-casa-propiedades.png",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 29 Sep 2026 19:21:00 -0300"
-      },
-      {
-        "titulo": "Los argentinos tienen cada vez más dólares debajo del colchón: el salto que dieron en el último año los ahorros fuera del sistema",
-        "link": "https://www.clarin.com/economia/argentinos-vez-dolares-debajo-colchon-salto-dieron-ultimo-ano-ahorros-sistema_0_9rCPlbeAga.html",
-        "imagen": "https://www.clarin.com/img/2026/09/29/t2zkoFAJI_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 29 Sep 2026 21:41:02 +0000"
       }
     ],
     "deportes": [
@@ -196,11 +196,11 @@
         "fecha": "Tue, 29 Sep 2026 21:45:00 -0300"
       },
       {
-        "titulo": "La desafiante publicación de Icardi para los que lo critican porque aún no consiguió club: las fotos que le sacó la China Suárez",
-        "link": "https://www.infobae.com/deportes/2026/09/30/la-desafiante-publicacion-de-icardi-para-los-que-lo-critican-porque-aun-no-consiguio-club-las-fotos-que-le-saco-la-china-suarez/",
-        "imagen": "https://www.infobae.com/resizer/v2/YLOW4M3JX5ETZM3QYQGA67UY74.jpg?auth=c751e290b9646d82a1234ec25117b81c0f9ead7bad72609125aad898c98c4d4e&smart=true&width=1105&height=622",
+        "titulo": "Estudiantes quiere contratar a Enzo Pérez para jugar la semifinal de la Copa Libertadores: los detalles",
+        "link": "https://www.infobae.com/deportes/2026/09/30/estudiantes-quiere-contratar-a-enzo-perez-para-jugar-la-semifinal-de-la-copa-libertadores-los-detalles/",
+        "imagen": "https://www.infobae.com/resizer/v2/V25OG462GVHAFNQPO45UK7HTKA.JPG?auth=4f7005cd619f86d2c40881fb43922f7a0b4a5ca84c068d149e0768791d123a32&smart=true&width=3564&height=2005",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 01:29:47 +0000"
+        "fecha": "Wed, 30 Sep 2026 01:49:03 +0000"
       },
       {
         "titulo": "La gran fiesta de Central con un ataúd con foto y apellido Verón",
@@ -268,11 +268,11 @@
         "fecha": "Wed, 30 Sep 2026 00:03:17 +0000"
       },
       {
-        "titulo": "Santa Fe: dos operarios murieron tras una explosión en una fábrica de biocombustibles",
-        "link": "https://www.c5n.com/sociedad/santa-fe-dos-operarios-murieron-una-explosion-una-fabrica-biocombustibles-n250284",
-        "imagen": "https://media.c5n.com/p/da678d86b56e47ed13c97bf3870d3ca7/adjuntos/326/imagenes/000/401/0000401099/1200x675/smart/explosion-santa-fe1.jpg",
+        "titulo": "Financiamiento universitario: docentes y no docentes paran por 72 horas para reclamar que se cumpla la ley",
+        "link": "https://www.c5n.com/sociedad/financiamiento-universitario-docentes-y-no-docentes-paran-72-horas-reclamar-que-se-cumpla-la-ley-n250291",
+        "imagen": "https://media.c5n.com/p/9ab6e46ed27acff1d3c675789ef78302/adjuntos/326/imagenes/000/401/0000401112/1200x675/smart/universidad-publica-reclamo-docente.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 21:43:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 22:50:00 -0300"
       },
       {
         "titulo": "Detuvieron a tres sospechosos por la entradera al reconocido abogado de San Isidro: uno está acusado de otros cuatro robos",
@@ -289,11 +289,11 @@
         "fecha": "Tue, 29 Sep 2026 20:46:38 +0000"
       },
       {
-        "titulo": "Tragedia en Córdoba: falleció un nene atropellado al intentar cruzar la avenida Circunvalación",
-        "link": "https://www.c5n.com/sociedad/tragedia-cordoba-fallecio-un-nene-atropellado-al-intentar-cruzar-la-avenida-circunvalacion-n250276",
-        "imagen": "https://media.c5n.com/p/c5683b7c52452ebf9aabc3519cb5d929/adjuntos/326/imagenes/000/401/0000401086/1200x675/smart/accidente-cordoba.jpg",
+        "titulo": "Santa Fe: dos operarios murieron tras una explosión en una fábrica de biocombustibles",
+        "link": "https://www.c5n.com/sociedad/santa-fe-dos-operarios-murieron-una-explosion-una-fabrica-biocombustibles-n250284",
+        "imagen": "https://media.c5n.com/p/da678d86b56e47ed13c97bf3870d3ca7/adjuntos/326/imagenes/000/401/0000401099/1200x675/smart/explosion-santa-fe1.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 20:39:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 21:43:00 -0300"
       },
       {
         "titulo": "Detuvieron al tesorero de una escuela de Posadas: estiman que usó $20 millones de la Estudiantina para gastos personales",
@@ -331,11 +331,11 @@
         "fecha": "Tue, 29 Sep 2026 16:10:31 +0000"
       },
       {
-        "titulo": "Córdoba: un hombre murió en un boliche y la fiesta siguió por tres horas",
-        "link": "https://www.c5n.com/sociedad/cordoba-un-hombre-murio-un-boliche-y-la-fiesta-siguio-tres-horas-n250269",
-        "imagen": "https://media.c5n.com/p/988ec53be62164ba0a1bd866e0bb61b9/adjuntos/326/imagenes/000/401/0000401080/1200x675/smart/cordoba-boliche-hombre-55-anos.jpg",
+        "titulo": "Tragedia en Córdoba: falleció un nene atropellado al intentar cruzar la avenida Circunvalación",
+        "link": "https://www.c5n.com/sociedad/tragedia-cordoba-fallecio-un-nene-atropellado-al-intentar-cruzar-la-avenida-circunvalacion-n250276",
+        "imagen": "https://media.c5n.com/p/c5683b7c52452ebf9aabc3519cb5d929/adjuntos/326/imagenes/000/401/0000401086/1200x675/smart/accidente-cordoba.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 29 Sep 2026 20:26:00 -0300"
+        "fecha": "Tue, 29 Sep 2026 20:39:00 -0300"
       },
       {
         "titulo": "El Vaticano declaró culpable por abusos al sacerdote argentino Carlos Miguel Buela, fundador del Instituto del Verbo Encarnado",
@@ -454,11 +454,11 @@
         "fecha": "Tue, 29 Sep 2026 20:00:53 +0000"
       },
       {
-        "titulo": "El insólito proyecto de Luana Fernández tras su paso por Gran Hermano: “Quiero contarles lo que no vieron”",
-        "link": "https://www.infobae.com/teleshow/2026/09/30/el-insolito-proyecto-de-luana-fernandez-tras-su-paso-por-gran-hermano-quiero-contarles-lo-que-no-vieron/",
-        "imagen": "https://www.infobae.com/resizer/v2/IJP65FPBGBFRLI65FGWSDDUWM4.jpg?auth=ace8b50bf033337f1653303c45baf7f5ae67d67167b97985fbea8dfeb0be5640&smart=true&width=3264&height=1836",
+        "titulo": "Danelik explotó contra Brian Sarmiento por sus declaraciones sobre su separación: “Me rompió el corazón”",
+        "link": "https://www.infobae.com/teleshow/2026/09/30/danelik-exploto-contra-brian-sarmiento-por-sus-declaraciones-sobre-su-separacion-me-rompio-el-corazon/",
+        "imagen": "https://www.infobae.com/resizer/v2/6NCJR5NMIBGIVC2QQM2DPMRD34.jpg?auth=e0e9f74d6bb772f4894df9b9a4a1008854d880289fb1627a2394efd916f7d177&smart=true&width=1280&height=720",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 01:05:57 +0000"
+        "fecha": "Wed, 30 Sep 2026 01:50:06 +0000"
       },
       {
         "titulo": "\"Disney Celebra: Una Navidad Inolvidable\" regresa a Buenos Aires: cómo y dónde comprar las entradas para el show",
@@ -482,11 +482,11 @@
         "fecha": "Tue, 29 Sep 2026 17:24:15 +0000"
       },
       {
-        "titulo": "Detuvieron a Maxi Ghione, actor de Casi Ángeles y La 1-5/18, por privación ilegítima de la libertad y secuestraron armas",
-        "link": "https://www.infobae.com/teleshow/2026/09/30/detuvieron-a-maxi-ghione-actor-de-casi-angeles-y-la-1-518-por-privacion-ilegitima-de-la-libertad-y-secuestraron-armas/",
-        "imagen": "https://www.infobae.com/resizer/v2/LHQWHWNPOFENLOG4SYZOHKAK7Y.jpg?auth=995de995f0df3e22eb17bef50fff28b861e1dfaa2a28b5d45815a1a06d7f1e6d&smart=true&width=1980&height=1090",
+        "titulo": "El insólito proyecto de Luana Fernández tras su paso por Gran Hermano: “Quiero contarles lo que no vieron”",
+        "link": "https://www.infobae.com/teleshow/2026/09/30/el-insolito-proyecto-de-luana-fernandez-tras-su-paso-por-gran-hermano-quiero-contarles-lo-que-no-vieron/",
+        "imagen": "https://www.infobae.com/resizer/v2/IJP65FPBGBFRLI65FGWSDDUWM4.jpg?auth=ace8b50bf033337f1653303c45baf7f5ae67d67167b97985fbea8dfeb0be5640&smart=true&width=3264&height=1836",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 00:25:57 +0000"
+        "fecha": "Wed, 30 Sep 2026 01:05:57 +0000"
       },
       {
         "titulo": "Pity Álvarez llamó a Moria Casán desde el hospital: \"Siento que me va a explotar la cabeza\"",
@@ -510,11 +510,11 @@
         "fecha": "Tue, 29 Sep 2026 17:15:39 +0000"
       },
       {
-        "titulo": "María Becerra explicó por qué no participó del show de Lali Espósito que tuvo a Tini Stoessel como invitada",
-        "link": "https://www.infobae.com/teleshow/2026/09/30/maria-becerra-explico-por-que-no-participo-del-show-de-lali-esposito-que-tuvo-a-tini-stoessel-como-invitada/",
-        "imagen": "https://www.infobae.com/resizer/v2/OPLUUIIDMBFTNETZSAJS5FKN64.jpg?auth=c66eb6499dc62242f7c6d9f3b3a5ef3972fb4301eafe38f9ee96caaa452ef9fa&smart=true&width=1980&height=1090",
+        "titulo": "Detuvieron a Maxi Ghione, actor de Casi Ángeles y La 1-5/18, por privación ilegítima de la libertad y secuestraron armas",
+        "link": "https://www.infobae.com/teleshow/2026/09/30/detuvieron-a-maxi-ghione-actor-de-casi-angeles-y-la-1-518-por-privacion-ilegitima-de-la-libertad-y-secuestraron-armas/",
+        "imagen": "https://www.infobae.com/resizer/v2/LHQWHWNPOFENLOG4SYZOHKAK7Y.jpg?auth=995de995f0df3e22eb17bef50fff28b861e1dfaa2a28b5d45815a1a06d7f1e6d&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 00:21:35 +0000"
+        "fecha": "Wed, 30 Sep 2026 00:25:57 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Tue, 29 Sep 2026 16:02:00 -0300"
       },
       {
-        "titulo": "La IA solo necesita 10 segundos de audio para clonar la voz de cualquier humano",
-        "link": "https://www.infobae.com/tecno/2026/09/30/la-ia-solo-necesita-10-segundos-de-audio-para-clonar-la-voz-de-cualquier-humano/",
-        "imagen": "https://www.infobae.com/resizer/v2/C2EM5T37JBEMPC3L5TKVTR4MX4.png?auth=5ec5397d5291e424d6d5b2ac04a49c43f7e584e2715ca22f9202539ee18ad826&smart=true&width=1536&height=864",
+        "titulo": "Google revela que el grupo de hackers ShinnyHunters volvió a atacar sistemas de Oracle",
+        "link": "https://www.infobae.com/tecno/2026/09/30/google-revela-que-el-grupo-de-hackers-shinnyhunters-volvio-a-atacar-sistemas-de-oracle/",
+        "imagen": "https://www.infobae.com/resizer/v2/P5C5A5F6URAPHLF7XBJF3VU2IA.JPG?auth=e51c64831e845c49c38ffe266fd7b0384d2b1884180b1c27c7a847750cc27256&smart=true&width=3000&height=2000",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 30 Sep 2026 01:33:59 +0000"
+        "fecha": "Wed, 30 Sep 2026 01:51:57 +0000"
       },
       {
         "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
@@ -545,6 +545,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
+      },
+      {
+        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
+        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
       },
       {
         "titulo": "Según Bill Gates, la inteligencia artificial podría desatar una catástrofe con miles de millones de muertos",
@@ -561,11 +568,11 @@
         "fecha": "Tue, 29 Sep 2026 15:37:29 -0300"
       },
       {
-        "titulo": "Uber Mujeres llega a Colombia: conductoras al volante para aumentar la seguridad y confianza de las pasajeras",
-        "link": "https://www.infobae.com/tecno/2026/09/30/uber-mujeres-llega-a-colombia-conductoras-al-volante-para-aumentar-la-seguridad-y-confianza-de-las-pasajeras/",
-        "imagen": "https://www.infobae.com/resizer/v2/QUSIATODIZGJFKDAN36AUSNIWA.png?auth=d4c55d754f2b8c19dfaecd0c8cbb15e3ec8ee8d24a90c1e8b6c855f184c7505c&smart=true&width=1920&height=1080",
+        "titulo": "La IA solo necesita 10 segundos de audio para clonar la voz de cualquier humano",
+        "link": "https://www.infobae.com/tecno/2026/09/30/la-ia-solo-necesita-10-segundos-de-audio-para-clonar-la-voz-de-cualquier-humano/",
+        "imagen": "https://www.infobae.com/resizer/v2/C2EM5T37JBEMPC3L5TKVTR4MX4.png?auth=5ec5397d5291e424d6d5b2ac04a49c43f7e584e2715ca22f9202539ee18ad826&smart=true&width=1536&height=864",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 30 Sep 2026 01:23:53 +0000"
+        "fecha": "Wed, 30 Sep 2026 01:33:59 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -573,6 +580,13 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Mon, 14 Sep 2026 17:47:22 +0000"
+      },
+      {
+        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
+        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
       },
       {
         "titulo": "El lado oscuro de la IA: qué es la caja negra, cómo funciona y el miedo a que desobedezca a sus creadores",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/c8e0efa673cee9e3bffafa78b2cba13e/adjuntos/326/imagenes/000/400/0000400925/1200x675/smart/tesla-argentina-milei-y-elon-musk.jpg",
         "fuente": "C5N",
         "fecha": "Mon, 28 Sep 2026 20:43:00 -0300"
-      },
-      {
-        "titulo": "Konami regala Castlevania original para Android y iOS por el 40 aniversario del juego",
-        "link": "https://www.infobae.com/tecno/2026/09/30/konami-regala-castlevania-original-para-android-y-ios-por-el-40-aniversario-del-juego/",
-        "imagen": "https://www.infobae.com/resizer/v2/B6W7YWENURGUZEV47RBFBEP26Q.jpg?auth=fc6d577c774e6a46c3b364d85dd7b0c6d88b257b4cd5af87afc50a78d3119c57&smart=true&width=1024&height=576",
-        "fuente": "Infobae Tecno",
-        "fecha": "Wed, 30 Sep 2026 00:31:17 +0000"
-      },
-      {
-        "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
-        "link": "https://www.agenciacyta.org.ar/2026/09/un-argentino-entre-los-ganadores-de-los-ig-nobel-2026-los-premios-a-las-investigaciones-que-primero-hacen-reir-y-despues-pensar/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Thu, 10 Sep 2026 14:29:59 +0000"
       }
     ],
     "autos": [
