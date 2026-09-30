@@ -1,14 +1,14 @@
 {
-  "actualizado": "2026-09-29T21:05:35.072988+00:00",
+  "actualizado": "2026-09-30T00:07:30.225506+00:00",
   "merval": {
     "subas": [
       {
         "simbolo": "PAM",
-        "porcentaje": 0.27432651
+        "porcentaje": 0.37882858
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": 0.10816782
+        "porcentaje": 0.10816905
       },
       {
         "simbolo": "BMA",
@@ -22,7 +22,7 @@
       },
       {
         "simbolo": "YPF",
-        "porcentaje": -2.024526
+        "porcentaje": -2.063456
       },
       {
         "simbolo": "TX",
@@ -30,7 +30,7 @@
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": -0.15936619
+        "porcentaje": -0.079683097
       }
     ]
   },
@@ -60,7 +60,7 @@
       },
       {
         "simbolo": "JPM",
-        "porcentaje": -0.47238372
+        "porcentaje": -0.4783224
       },
       {
         "simbolo": "KO",
