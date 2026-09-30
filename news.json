@@ -1,7 +1,49 @@
 {
-  "actualizado": "2026-09-30T17:17:12.278027+00:00",
+  "actualizado": "2026-09-30T17:44:50.343777+00:00",
   "categorias": {
     "politica": [
+      {
+        "titulo": "Ley de Tierras: la Corte le devolvió la pelota al Congreso y reabre una batalla que Javier Milei perdió en el Senado",
+        "link": "https://www.ambito.com/politica/ley-tierras-la-corte-le-devolvio-la-pelota-al-congreso-y-reabre-una-batalla-que-javier-milei-perdio-el-senado-n6328507",
+        "imagen": "https://media.ambito.com/p/2abf80161d00b96cbe1e2679d0e72b0c/adjuntos/239/imagenes/043/566/0043566912/inviolabilidad-la-propiedad-privada-congreso.jpeg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 30 Sep 2026 14:17:00 -0300"
+      },
+      {
+        "titulo": "Escándalo en Diputados durante el debate de la Ley Malvinas: hubo forcejeos entre los legisladores e insultos, desde \"cagón a vende patria\"",
+        "link": "https://www.clarin.com/politica/escandalo-diputados-debate-ley-malvinas-forcejeos-legisladores-insultos-cagon-vende-patria_0_x3qLPfBFzm.html",
+        "imagen": "https://www.clarin.com/img/2026/09/23/oRuWgTh5M_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 30 Sep 2026 17:08:17 +0000"
+      },
+      {
+        "titulo": "Subastan obras de Van Gogh y Cézanne de una colección privada de la familia Blaquier: en cuánto están valuadas",
+        "link": "https://www.ambito.com/mundo/subastan-obras-van-gogh-y-cezanne-una-coleccion-privada-la-familia-blaquier-cuanto-estan-valuadas-n6328458",
+        "imagen": "https://media.ambito.com/p/a2de1538aa95831984edcf40b415d92a/adjuntos/239/imagenes/043/675/0043675400/arlequien-cezanne.jpeg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Wed, 30 Sep 2026 13:45:00 -0300"
+      },
+      {
+        "titulo": "La Ley de Tierras y una decisión que no toca la cuestión de fondo: qué dice el fallo",
+        "link": "https://www.c5n.com/politica/la-ley-tierras-y-una-decision-que-no-toca-la-cuestion-fondo-que-dice-el-fallo-n250342",
+        "imagen": "https://media.c5n.com/p/f6747d1e595f3374975da1a96d967ce2/adjuntos/326/imagenes/000/393/0000393100/1200x675/smart/ley-tierras.png",
+        "fuente": "C5N",
+        "fecha": "Wed, 30 Sep 2026 14:18:00 -0300"
+      },
+      {
+        "titulo": "Fundación Techo analizó el fallo por la Ley de Tierras: “Puede venir un inglés a comprar un pedazo de la Patagonia”",
+        "link": "https://www.infobae.com/politica/2026/09/30/fundacion-techo-critico-la-decision-de-la-corte-sobre-la-ley-de-tierras-puede-venir-un-ingles-a-comprar-un-pedazo-de-la-patagonia/",
+        "imagen": "https://www.infobae.com/resizer/v2/AMHUBMHHRNHQ3FLONBAANL6WAQ.png?auth=79000a00135dd8b11fc4c84d4e5bc3cf0caf759cce126bff2409dd533d8878be&smart=true&width=1177&height=724",
+        "fuente": "Infobae",
+        "fecha": "Wed, 30 Sep 2026 17:30:43 +0000"
+      },
+      {
+        "titulo": "La patota de la ESMA y el hijo de Massera comenzaron a ser juzgados por el robo de bienes a desaparecidos",
+        "link": "https://www.tiempoar.com.ar/ta_article/patota-de-la-esma-y-el-hijo-de-massera-comenzaron-a-ser-juzgados-por-el-robo-de-bienes-a-desaparecidos/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 30 Sep 2026 17:33:16 +0000"
+      },
       {
         "titulo": "Ley de Tierras: la oposición anticipó convocar una sesión para derogar el DNU 70/2023",
         "link": "https://www.ambito.com/politica/ley-tierras-la-oposicion-se-reune-el-cecim-y-analiza-los-pasos-seguir-el-fallo-la-corte-n6328364",
@@ -17,48 +59,6 @@
         "fecha": "Wed, 30 Sep 2026 15:48:18 +0000"
       },
       {
-        "titulo": "Subastan obras de Van Gogh y Cézanne de una colección privada de la familia Blaquier: en cuánto están valuadas",
-        "link": "https://www.ambito.com/mundo/subastan-obras-van-gogh-y-cezanne-una-coleccion-privada-la-familia-blaquier-cuanto-estan-valuadas-n6328458",
-        "imagen": "https://media.ambito.com/p/a2de1538aa95831984edcf40b415d92a/adjuntos/239/imagenes/043/675/0043675400/arlequien-cezanne.jpeg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 30 Sep 2026 13:45:00 -0300"
-      },
-      {
-        "titulo": "Javier Milei llegó a Francia para encabezar el Argentina Week y reunirse con Emmanuel Macron",
-        "link": "https://www.c5n.com/politica/javier-milei-francia-argentina-week-emmanuel-macron-miercoles-30-septiembre-2026",
-        "imagen": "https://media.c5n.com/p/8c6e7f720a61dfbf83057ec40ac063cd/adjuntos/326/imagenes/000/280/0000280189/1200x675/smart/milei-francia.png",
-        "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 13:05:00 -0300"
-      },
-      {
-        "titulo": "El Sindicato de Camioneros se movilizará ante la Legislatura porteña para reclamar los USD 200 millones en indemnizaciones",
-        "link": "https://www.infobae.com/politica/2026/09/30/el-sindicato-de-camioneros-se-movilizara-ante-la-legislatura-portena-para-reclamar-los-usd-200-millones-en-indemnizaciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/LALGSMA2MVDUBMHY3N6HQ2PRNA.jpg?auth=b1131dd4de530d85dfed2e77cf4fb2a508963b2ee44a2f5a1b55033cb0310465&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 17:10:03 +0000"
-      },
-      {
-        "titulo": "Ley de Tierras: pedirán una sesión especial en Diputados para derogar el DNU 70 y convocan a una marcha",
-        "link": "https://www.tiempoar.com.ar/ta_article/ley-de-tierras-pediran-una-sesion-especial-en-diputados-para-derogar-el-dnu-70-y-convocan-a-una-marcha/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 30 Sep 2026 16:58:44 +0000"
-      },
-      {
-        "titulo": "Ley de Tierras: el fallo de la Corte Suprema deja a Javier Milei en una posición incómoda y reabre la discusión sobre el DNU 70/2023",
-        "link": "https://www.ambito.com/politica/ley-tierras-el-fallo-la-corte-suprema-deja-javier-milei-una-posicion-incomoda-y-reabre-la-discusion-el-dnu-70-n6328443",
-        "imagen": "https://media.ambito.com/p/ff140898edc15035c9b0e64797e679bf/adjuntos/239/imagenes/043/595/0043595606/javier-milei-council-of-the-americas-2026.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 30 Sep 2026 13:15:00 -0300"
-      },
-      {
-        "titulo": "Otros 5 días: la Justicia volvió a intimar al Gobierno a cumplir con la Ley de Financiamiento Universitario",
-        "link": "https://www.clarin.com/politica/5-dias-justicia-volvio-intimar-gobierno-cumplir-ley-financiamiento-universitario_0_2MJGwkhwAh.html",
-        "imagen": "https://www.clarin.com/img/2026/05/12/YE3IB2n9W_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 30 Sep 2026 15:43:02 +0000"
-      },
-      {
         "titulo": "La ONU y la posibilidad de designar por primera vez en su historia a una mujer al frente del organismo",
         "link": "https://www.ambito.com/mundo/la-onu-y-la-posibilidad-designar-primera-vez-su-historia-una-mujer-al-frente-del-organismo-n6328455",
         "imagen": "https://media.ambito.com/p/750f52d3420e8e75b3de3811a9d66348/adjuntos/239/imagenes/043/675/0043675312/1200x675/871x342:891x362/onu-mujeres.png",
@@ -66,25 +66,25 @@
         "fecha": "Wed, 30 Sep 2026 13:01:00 -0300"
       },
       {
-        "titulo": "Pese a las sanciones, una empresa británica ratificó que extraerá petróleo en las Islas Malvinas en 2028",
-        "link": "https://www.c5n.com/politica/pese-las-sanciones-una-empresa-britanica-ratifico-que-extraera-petroleo-las-islas-malvinas-2028-n250322",
-        "imagen": "https://media.c5n.com/p/3cd408007b1f11e14666ca3de26ae921/adjuntos/326/imagenes/000/397/0000397427/1200x675/smart/malvinas-petroleo.png",
+        "titulo": "Ley de Tierras: la oposición ya presiona para derogar en el Congreso el DNU de Javier Milei",
+        "link": "https://www.c5n.com/politica/ley-tierras-la-oposicion-ya-presiona-derogar-el-congreso-el-dnu-javier-milei-n250339",
+        "imagen": "https://media.c5n.com/p/d38526abe2646406a7adb0376a5572c9/adjuntos/326/imagenes/000/398/0000398140/1200x675/smart/diputados-2.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 11:16:00 -0300"
+        "fecha": "Wed, 30 Sep 2026 14:13:00 -0300"
       },
       {
-        "titulo": "La oposición criticó a la Corte por el fallo que dejó sin límites la venta de tierras a extranjeros y llamó a otra movilización",
-        "link": "https://www.infobae.com/politica/2026/09/30/la-oposicion-critico-a-la-corte-por-el-fallo-que-dejo-sin-limites-la-venta-de-tierras-a-extranjeros-y-llamo-a-otra-movilizacion/",
-        "imagen": "https://www.infobae.com/resizer/v2/3FAJSI6XT5HFXMZ3YTXKVW3F7M.jpg?auth=61f58d9e3fd55ac54c9d092591c9f6144bc9c3aa85750d678432a8cb77fb792e&smart=true&width=1920&height=1080",
+        "titulo": "El Sindicato de Camioneros se movilizará ante la Legislatura porteña para reclamar los USD 200 millones en indemnizaciones",
+        "link": "https://www.infobae.com/politica/2026/09/30/el-sindicato-de-camioneros-se-movilizara-ante-la-legislatura-portena-para-reclamar-los-usd-200-millones-en-indemnizaciones/",
+        "imagen": "https://www.infobae.com/resizer/v2/LALGSMA2MVDUBMHY3N6HQ2PRNA.jpg?auth=b1131dd4de530d85dfed2e77cf4fb2a508963b2ee44a2f5a1b55033cb0310465&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:39:21 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:13:02 +0000"
       },
       {
-        "titulo": "Financiamiento universitario: la Justicia volvió a intimar al Gobierno para que cumpla con la ley",
-        "link": "https://www.tiempoar.com.ar/ta_article/financiamiento-universitario-la-justicia-volvio-a-intimar-al-gobierno-para-que-cumpla-con-la-ley/",
+        "titulo": "Ley de Tierras: pedirán una sesión especial en Diputados para derogar el DNU 70 y convocan a una marcha",
+        "link": "https://www.tiempoar.com.ar/ta_article/ley-de-tierras-pediran-una-sesion-especial-en-diputados-para-derogar-el-dnu-70-y-convocan-a-una-marcha/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 30 Sep 2026 16:45:43 +0000"
+        "fecha": "Wed, 30 Sep 2026 16:58:44 +0000"
       }
     ],
     "economia": [
@@ -103,18 +103,18 @@
         "fecha": "Wed, 30 Sep 2026 15:12:03 +0000"
       },
       {
-        "titulo": "La inversión cayó 5,4% en agosto y acumula una baja de 7,9% en lo que va del año",
-        "link": "https://www.c5n.com/economia/la-inversion-cayo-54-agosto-y-acumula-una-baja-79-lo-que-va-del-ano-n250321",
-        "imagen": "https://media.c5n.com/p/dd0e9460ff6fb159be87e334c1534ebb/adjuntos/326/imagenes/000/396/0000396465/1200x675/smart/milei-caputo.jpg",
+        "titulo": "El consumo en supermercados porteños cayó un 1,2% interanual, y los mayoristas se hundieron 17,6%",
+        "link": "https://www.c5n.com/economia/el-consumo-supermercados-portenos-cayo-un-12-interanual-y-los-mayoristas-se-hundieron-176-n250352",
+        "imagen": "https://media.c5n.com/p/3cfe6728f930a1870a060728215fd832/adjuntos/326/imagenes/000/394/0000394328/1200x675/smart/supermercado-inflacion.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 11:24:48 -0300"
+        "fecha": "Wed, 30 Sep 2026 14:32:00 -0300"
       },
       {
-        "titulo": "Un empresario habló desde el Argentina Week en París: “Francia mira con interés al ecosistema tecnológico argentino”",
-        "link": "https://www.infobae.com/economia/2026/09/30/un-empresario-hablo-desde-el-argentina-week-en-paris-francia-mira-con-interes-al-ecosistema-tecnologico-argentino/",
-        "imagen": "https://www.infobae.com/resizer/v2/ENUJ6F7NFZEZZMV4T6ZPXBFDXI.png?auth=02bf8b7efcbb978c146fbf985e3f76d85d32c949f52399afd8c32d86fb29b95f&smart=true&width=1266&height=801",
+        "titulo": "El FMI concluyó su misión técnica en Argentina por la tercera revisión del programa",
+        "link": "https://www.infobae.com/economia/2026/09/30/el-fmi-concluyo-su-mision-tecnica-en-argentina-por-la-tercera-revision-del-programa/",
+        "imagen": "https://www.infobae.com/resizer/v2/747W5H2G7RB6TFOQTADWXTB7SE.JPG?auth=121fb91ad7227779f64339b10eb95553e5979d2962e85322ce36b10275adb0fe&smart=true&width=800&height=533",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:58:42 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:42:15 +0000"
       },
       {
         "titulo": "Crecimiento sin empleo: 8 de los 10 sectores ganadores en la era Milei perdieron 339 mil empleos",
@@ -138,18 +138,18 @@
         "fecha": "Wed, 30 Sep 2026 14:46:47 +0000"
       },
       {
-        "titulo": "El Gobierno anunció que volverá a exportar carne a Japón tras 20 años",
-        "link": "https://www.c5n.com/economia/el-gobierno-anuncio-que-volvera-exportar-carne-japon-20-anos-n250314",
-        "imagen": "",
+        "titulo": "La inversión cayó 5,4% en agosto y acumula una baja de 7,9% en lo que va del año",
+        "link": "https://www.c5n.com/economia/la-inversion-cayo-54-agosto-y-acumula-una-baja-79-lo-que-va-del-ano-n250321",
+        "imagen": "https://media.c5n.com/p/dd0e9460ff6fb159be87e334c1534ebb/adjuntos/326/imagenes/000/396/0000396465/1200x675/smart/milei-caputo.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 10:02:00 -0300"
+        "fecha": "Wed, 30 Sep 2026 11:24:48 -0300"
       },
       {
-        "titulo": "Una distribuidora de golosinas despidió al menos a 53 empleados en Esteban Echeverría",
-        "link": "https://www.infobae.com/economia/2026/09/29/una-distribuidora-de-golosinas-relacionada-con-diarco-despidio-al-menos-a-53-empleados-en-esteban-echeverria/",
-        "imagen": "https://www.infobae.com/resizer/v2/7RE2NKQTMNBGFNBQJ5NRWPSHDU.jpg?auth=1b802fcaa640aa710c20a0d60bc9b808965296d06cc886f58bf51226bb27ccd1&smart=true&width=1628&height=916",
+        "titulo": "El Gobierno prorrogó por 20 años la licencia de Metrogas",
+        "link": "https://www.infobae.com/economia/2026/09/30/el-gobierno-prorrogo-por-20-anos-la-licencia-de-metrogas/",
+        "imagen": "https://www.infobae.com/resizer/v2/YJNSLZ2ITZHHZALBIHNQHB33ME.jpg?auth=309aecdaa8c603d563a8bc769a97ba5b17a4788c29682fb473e3b301e52ddb63&smart=true&width=7008&height=4672",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:38:33 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:17:53 +0000"
       },
       {
         "titulo": "El consumo cayó hasta 7,2% en agosto y pegó en la facturación de los comercios",
@@ -196,11 +196,11 @@
         "fecha": "Wed, 30 Sep 2026 12:30:00 -0300"
       },
       {
-        "titulo": "El argentino que busca hacer historia en la NASCAR y la chance de una carrera en nuestro país: “Quieren venir”",
-        "link": "https://www.infobae.com/deportes/2026/09/16/el-argentino-que-busca-hacer-historia-en-la-nascar-y-la-chance-de-una-carrera-en-nuestro-pais-quieren-venir/",
-        "imagen": "https://www.infobae.com/resizer/v2/4J62PN5GLNHLPCKLJQOXFO6KNQ.JPG?auth=1f5977934852e4e91e6228eb9cf2c96b5e615aa5d9d4da58be507ea7c0318c4c&smart=true&width=5133&height=2839",
+        "titulo": "Argentina vs Bolivia, el primer amistoso tras el Mundial antes de la despedida de Messi: hora, TV y todo lo que hay que saber",
+        "link": "https://www.infobae.com/deportes/2026/09/30/la-seleccion-argentina-jugara-un-amistoso-ante-bolivia-en-su-primer-partido-tras-el-mundial-hora-tv-y-todo-lo-que-hay-que-saber/",
+        "imagen": "https://www.infobae.com/resizer/v2/5WXWDJNSCJBEVIM2BDFW4AVMDE.JPG?auth=bbd474fa5f8ad1b521e897d7521b3ea41f8a1b0501f7efc820f9609af16b40b7&smart=true&width=3984&height=2241",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 17:10:51 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:21:00 +0000"
       },
       {
         "titulo": "La reacción de Mostaza Merlo cuando le preguntaron si dejaría River para volver a Racing",
@@ -214,14 +214,14 @@
         "link": "https://www.eldia.com/deportes/el-arbitraje-argentino-otra-vez-bajo-sospecha-errores-vinculos-familiares-clubes-intocables-y-un-sistema-cuestionado-deportes_1790782440",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Wed, 30 Sep 2026 15:58:17 GMT"
+        "fecha": "Wed, 30 Sep 2026 17:31:27 GMT"
       },
       {
         "titulo": "Scaloni sobre la posible salida de Samuel: \"Si quiere tomar una decisión...\"",
         "link": "https://www.eldia.com/deportes/scaloni-sobre-la-posible-salida-de-samuel-si-quiere-tomar-una-decision-deportes_1790776680",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Wed, 30 Sep 2026 14:02:06 GMT"
+        "fecha": "Wed, 30 Sep 2026 17:31:36 GMT"
       },
       {
         "titulo": "Conmoción en Inglaterra por el Manchester City, condenado por irregularidades financieras",
@@ -275,11 +275,11 @@
         "fecha": "Wed, 30 Sep 2026 13:46:00 -0300"
       },
       {
-        "titulo": "Cumplió condena por homicidio culposo, la designaron docente de una escuela de Palermo y ahora la investigan por grabar a sus alumnos",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/cumplio-condena-por-homicidio-culposo-la-designaron-docente-de-una-escuela-de-palermo-y-ahora-la-investigan-por-grabar-a-sus-alumnos/",
-        "imagen": "https://www.infobae.com/resizer/v2/VNJRD4HNARADVASBJ6XAP2U3DM.jpg?auth=9fe0d4d7bb6fc60109e643c66185b4ebc886f293aff16126283e7355fb3b3635&smart=true&width=1920&height=1080",
+        "titulo": "Femicidio en San Martín: su pareja le reclamó por mensajes en su celular y él la asesinó de 19 puñaladas",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/femicidio-en-san-martin-su-pareja-le-reclamo-por-mensajes-en-su-celular-y-el-la-asesino-de-19-punaladas/",
+        "imagen": "https://www.infobae.com/resizer/v2/BY4WCJ6NURHM5D6YB55DT3EBXU.jpg?auth=49f5e89e589c1680dc9b4f304c3c72b0a395ba328d2e58564155e573342c0ff0&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:59:07 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:28:18 +0000"
       },
       {
         "titulo": "Se suspendió al juicio a Pity Álvarez hasta que se determine si está en condiciones mentales",
@@ -296,11 +296,11 @@
         "fecha": "Wed, 30 Sep 2026 13:22:00 -0300"
       },
       {
-        "titulo": "Denunciaron por violación a Joaquín Levinton: la víctima ya lo había acusado hace tres años",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/denunciaron-por-violacion-a-joaquin-levinton-la-victima-ya-lo-habia-acusado-hace-tres-anos/",
-        "imagen": "https://www.infobae.com/resizer/v2/KLRIMITLH5HBTMVNDIJWMRPXMM.jpg?auth=e4c61e055a157f3df83c61d7a7674c9e82b564eb6c95c0ae62483dfad4c37111&smart=true&width=1920&height=1080",
+        "titulo": "Cumplió condena por homicidio culposo, la designaron docente de una escuela de Palermo y ahora la investigan por grabar a sus alumnos",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/cumplio-condena-por-homicidio-culposo-la-designaron-docente-de-una-escuela-de-palermo-y-ahora-la-investigan-por-grabar-a-sus-alumnos/",
+        "imagen": "https://www.infobae.com/resizer/v2/VNJRD4HNARADVASBJ6XAP2U3DM.jpg?auth=9fe0d4d7bb6fc60109e643c66185b4ebc886f293aff16126283e7355fb3b3635&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:55:52 +0000"
+        "fecha": "Wed, 30 Sep 2026 16:59:07 +0000"
       },
       {
         "titulo": "Otro testimonio contra el DT de hockey preso por abuso: \"Nos prometía a llegar a Las Leonas; todo lo que me decía que hiciera, yo lo hacía\"",
@@ -317,11 +317,11 @@
         "fecha": "Wed, 30 Sep 2026 12:37:00 -0300"
       },
       {
-        "titulo": "Juicio a “Pity” Álvarez: el tribunal frenó el debate y ordenó una nueva pericia para determinar si el músico puede continuar en el proceso",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/juicio-a-pity-alvarez-en-vivo-retoman-las-audiencias-con-el-musico-internado-y-siete-testigos-pendientes/",
-        "imagen": "https://www.infobae.com/resizer/v2/62YXF47SHVD4NFIUDL2RX4OOQI.jpg?auth=2dab1649ac5e466472c717b791f1bc12652025dd0231954dede347803377b42f&smart=true&width=1920&height=1080",
+        "titulo": "Denunciaron por violación a Joaquín Levinton: la víctima ya lo había acusado hace tres años",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/denunciaron-por-violacion-a-joaquin-levinton-la-victima-ya-lo-habia-acusado-hace-tres-anos/",
+        "imagen": "https://www.infobae.com/resizer/v2/KLRIMITLH5HBTMVNDIJWMRPXMM.jpg?auth=e4c61e055a157f3df83c61d7a7674c9e82b564eb6c95c0ae62483dfad4c37111&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:14:11 +0000"
+        "fecha": "Wed, 30 Sep 2026 16:55:52 +0000"
       },
       {
         "titulo": "\"Un infierno en la Tierra\": la historia real del convento del horror en Nogoyá que inspiró la serie \"Cautiva\"",
@@ -338,11 +338,11 @@
         "fecha": "Wed, 30 Sep 2026 12:04:00 -0300"
       },
       {
-        "titulo": "Condenaron a un joven por abusar de una compañera en un viaje de egresados: demandaron a la agencia por $548 millones",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/condenaron-a-un-joven-por-abusar-de-una-companera-en-un-viaje-de-egresados-demandaron-a-la-agencia-por-548-millones/",
-        "imagen": "https://www.infobae.com/resizer/v2/ME73MZ27EFGE7LSYXNDHMK3ZVU.jpg?auth=245ed8232b2ad46b328b81272cb1833bb0ba2b4f4370b228aac65c41c8f25cec&smart=true&width=1980&height=1080",
+        "titulo": "Juicio a “Pity” Álvarez: el tribunal frenó el debate y ordenó una nueva pericia para determinar si el músico puede continuar en el proceso",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/09/30/juicio-a-pity-alvarez-en-vivo-retoman-las-audiencias-con-el-musico-internado-y-siete-testigos-pendientes/",
+        "imagen": "https://www.infobae.com/resizer/v2/62YXF47SHVD4NFIUDL2RX4OOQI.jpg?auth=2dab1649ac5e466472c717b791f1bc12652025dd0231954dede347803377b42f&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:11:41 +0000"
+        "fecha": "Wed, 30 Sep 2026 16:14:11 +0000"
       }
     ],
     "internacional": [
@@ -361,18 +361,18 @@
         "fecha": "Wed, 30 Sep 2026 13:42:00 -0300"
       },
       {
-        "titulo": "Cuba: la preciada tradición del ballet perdura a pesar de los apagones y la escasez de todos los días",
-        "link": "https://www.clarin.com/mundo/cuba-preciada-tradicion-ballet-perdura-pesar-apagones-escasez-dias_0_4VBD8KedRC.html",
-        "imagen": "https://www.clarin.com/img/2026/09/30/cdpEy7U5p_1200x630__1.jpg",
+        "titulo": "Perdió un hijo en el ataque del 7 de octubre y su hija vivió el terror en el avión de Flydubai: “Estaban seguros de que iban a morir”",
+        "link": "https://www.clarin.com/mundo/perdio-hijo-ataque-7-octubre-hija-vivio-terror-avion-flydubai-seguros-iban-morir_0_bpwhmfhdbt.html",
+        "imagen": "https://www.clarin.com/img/2026/09/30/9nVuzug0p_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 30 Sep 2026 16:44:27 +0000"
+        "fecha": "Wed, 30 Sep 2026 15:05:29 +0000"
       },
       {
-        "titulo": "Este estado de EEUU registra un récord de 69 murciélagos con rabia en 2026 y supera el máximo histórico documentado por las autoridades",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/30/este-estado-de-eeuu-registra-un-record-de-69-murcielagos-con-rabia-en-2026-y-supera-el-maximo-historico-documentado-por-las-autoridades/",
-        "imagen": "https://www.infobae.com/resizer/v2/VC2LFS6RLVBBXO6H5VOLOOU5QY.png?auth=9a0c8dc646a820f2b146ebc1ee451895a3a8f2bde110fa44b122c141401c060a&smart=true&width=1536&height=1024",
+        "titulo": "Choque múltiple en la Carretera de Oro en San Salvador dejó una persona muerta y catorce vehículos afectados",
+        "link": "https://www.infobae.com/el-salvador/2026/09/30/choque-multiple-en-la-carretera-de-oro-en-san-salvador-dejo-una-persona-muerta-y-catorce-vehiculos-afectados/",
+        "imagen": "https://www.infobae.com/resizer/v2/SQQOET6AC5BVNGO2GPEFMOPEH4.jpeg?auth=c25cb51105973e60a0890dc19865655b12524b42a6fea278a94c530f7d2ede98&smart=true&width=1513&height=1200",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 17:11:09 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:29:24 +0000"
       },
       {
         "titulo": "La ONU y la posibilidad de designar por primera vez en su historia a una mujer al frente del organismo",
@@ -389,18 +389,18 @@
         "fecha": "Wed, 30 Sep 2026 12:37:00 -0300"
       },
       {
-        "titulo": "Perdió un hijo en el ataque del 7 de octubre y su hija vivió el terror en el avión de Flydubai: “Estaban seguros de que iban a morir”",
-        "link": "https://www.clarin.com/mundo/perdio-hijo-ataque-7-octubre-hija-vivio-terror-avion-flydubai-seguros-iban-morir_0_bpwhmfhdbt.html",
-        "imagen": "https://www.clarin.com/img/2026/09/30/9nVuzug0p_1200x630__1.jpg",
+        "titulo": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial",
+        "link": "https://www.clarin.com/mundo/sabe-codigo-buenas-practicas-firmado-donald-trump-gigantes-inteligencia-artificial_0_41Ft2rjhic.html",
+        "imagen": "https://www.clarin.com/img/2026/09/30/w6cRTnSPA_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 30 Sep 2026 15:05:29 +0000"
+        "fecha": "Wed, 30 Sep 2026 15:01:17 +0000"
       },
       {
-        "titulo": "Los pasajeros del vuelo de Flydubai llegaron a Israel en otro avión de la compañía tras el ataque al piloto",
-        "link": "https://www.infobae.com/america/mundo/2026/09/30/en-vivo-el-piloto-y-el-copiloto-del-avion-flydubai-permanecen-heridos-mientras-se-buscan-esclarecer-el-atentado/",
-        "imagen": "https://www.infobae.com/resizer/v2/IL353RQ7BJCMVBJCZV4Z5LA4EQ.JPG?auth=67299c664a33be1a2158e0425dab76381bfa71c99b9c3343c8562a327f741cb1&smart=true&width=5500&height=3667",
+        "titulo": "Cimarrona La Vaqueta volverá a llevar el folclore de Costa Rica a la Quinta Avenida de Nueva York",
+        "link": "https://www.infobae.com/costa-rica/2026/09/30/cimarrona-la-vaqueta-volvera-a-llevar-el-folclore-de-costa-rica-a-la-quinta-avenida-de-nueva-york/",
+        "imagen": "https://www.infobae.com/resizer/v2/RPL4QPQQZFE6JDMG7MFXPYKJN4.png?auth=b3a6691a1ad9872a02263400f8f39c60ce8fdca145d7f3ed903e4b8195f920da&smart=true&width=2108&height=1302",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:40:00 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:27:35 +0000"
       },
       {
         "titulo": "De cocina a leña hasta energía solar: la crisis en Cuba y los desafíos de vivir sin luz eléctrica",
@@ -417,18 +417,18 @@
         "fecha": "Wed, 30 Sep 2026 10:11:00 -0300"
       },
       {
-        "titulo": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial",
-        "link": "https://www.clarin.com/mundo/sabe-codigo-buenas-practicas-firmado-donald-trump-gigantes-inteligencia-artificial_0_41Ft2rjhic.html",
-        "imagen": "https://www.clarin.com/img/2026/09/30/w6cRTnSPA_1200x630__1.jpg",
+        "titulo": "El caso de Christa Pike: frenan la pena de muerte de una mujer en Estados Unidos, una hora antes de su ejecución",
+        "link": "https://www.clarin.com/mundo/caso-christa-pike-frenan-pena-muerte-mujer-estados-unidos-hora-ejecucion_0_czj21QzvYm.html",
+        "imagen": "https://www.clarin.com/img/2026/09/29/B47MM2ovs_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 30 Sep 2026 15:01:17 +0000"
+        "fecha": "Wed, 30 Sep 2026 14:24:27 +0000"
       },
       {
-        "titulo": "Estados Unidos revoca visas y bloquea nuevas solicitudes a ciudadanos de cuatro países de Sudamérica: quiénes están afectados",
-        "link": "https://www.infobae.com/estados-unidos/2026/09/30/estados-unidos-revoca-visas-y-bloquea-nuevas-solicitudes-a-ciudadanos-de-cuatro-paises-de-sudamerica-quienes-estan-afectados/",
-        "imagen": "https://www.infobae.com/resizer/v2/R3SNC7XTNRGUBACUWP42BI62HQ.png?auth=5da76d3f9d4ca827140dd5d5d194e01864b1624b823567ee7fd0494ddb70ecbb&smart=true&width=2752&height=1536",
+        "titulo": "Los pasajeros del vuelo de Flydubai llegaron a Israel en otro avión de la compañía tras el ataque al piloto",
+        "link": "https://www.infobae.com/america/mundo/2026/09/30/en-vivo-el-piloto-y-el-copiloto-del-avion-flydubai-permanecen-heridos-mientras-se-buscan-esclarecer-el-atentado/",
+        "imagen": "https://www.infobae.com/resizer/v2/XZ5O4FDJAJBNBEKPGLURINRWKY.JPG?auth=b28f60d2a4b1cd20c15232b79871f8e26cbe5d983e5c529b03423bd3a751aae4&smart=true&width=4591&height=3061",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:24:03 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:26:38 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Wed, 30 Sep 2026 13:45:00 -0300"
       },
       {
-        "titulo": "Escándalo en Telefe: una figura reveló por qué se fue del canal",
-        "link": "https://www.c5n.com/ratingcero/escandalo-telefe-una-figura-revelo-que-se-fue-del-canal-n250344",
-        "imagen": "https://media.c5n.com/p/07cf796448d7f9effc4fe5caf4db5d17/adjuntos/326/imagenes/000/393/0000393544/1200x675/598x424:618x444/telefe-fuego.jpg",
+        "titulo": "Quién es Maxi Ghione, el actor argentino detenido por privación ilegítima de la libertad",
+        "link": "https://www.c5n.com/ratingcero/quien-es-maxi-ghione-el-actor-argentino-detenido-privacion-ilegitima-la-libertad-n250353",
+        "imagen": "https://media.c5n.com/p/5c893043257a4248e3e859f1855b5ff8/adjuntos/326/imagenes/000/401/0000401154/1200x675/smart/maxi-ghione.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 14:09:00 -0300"
+        "fecha": "Wed, 30 Sep 2026 14:30:00 -0300"
       },
       {
         "titulo": "Anne Hathaway recordó una noche con Joaquín Furriel y reveló cómo Lionel Messi ayudó a su hijo a hacer un nuevo amigo",
@@ -454,11 +454,11 @@
         "fecha": "Wed, 30 Sep 2026 16:17:42 +0000"
       },
       {
-        "titulo": "La palabra de Joaquín Levinton luego de ser denunciado por abuso sexual agravado",
-        "link": "https://www.infobae.com/teleshow/2026/09/30/la-palabra-de-joaquin-levinton-luego-de-ser-denunciado-por-abuso-sexual-agravado/",
-        "imagen": "https://www.infobae.com/resizer/v2/WGDKUVVWC5GA5FAOQJQTCRFTSQ.png?auth=3ef48a44d012c449fa4a9da14628f7527e1a5b3a73197c2f8da79ed58bbd52f4&smart=true&width=2752&height=1536",
+        "titulo": "El recuerdo de Connie Ansaldi a 30 años de la muerte de su mamá: “Todo sucedió ayer”",
+        "link": "https://www.infobae.com/teleshow/2026/09/30/el-recuerdo-de-connie-ansaldi-a-30-anos-de-la-muerte-de-su-mama-todo-sucedio-ayer/",
+        "imagen": "https://www.infobae.com/resizer/v2/5ILI334BVNBVFLJQP3CIBCY4SU.jpg?auth=970f286a71897151d2a02d92f9d863c045dc8051e01217dc1c58c4a46af7ba4c&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:59:34 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:23:28 +0000"
       },
       {
         "titulo": "Cómo sigue la salud de Mirtha Legrand: difundieron un nuevo parte médico",
@@ -468,11 +468,11 @@
         "fecha": "Wed, 30 Sep 2026 13:07:00 -0300"
       },
       {
-        "titulo": "Golpe en Telefe: cambio de último momento en la conducción de un programa",
-        "link": "https://www.c5n.com/ratingcero/golpe-telefe-cambio-ultimo-momento-la-conduccion-un-programa-n250341",
-        "imagen": "https://media.c5n.com/p/ed6124045bae64e0a1ab4291dc793c8d/adjuntos/326/imagenes/000/398/0000398382/1200x675/smart/telefe.jpg",
+        "titulo": "Escándalo en Telefe: una figura reveló por qué se fue del canal",
+        "link": "https://www.c5n.com/ratingcero/escandalo-telefe-una-figura-revelo-que-se-fue-del-canal-n250344",
+        "imagen": "https://media.c5n.com/p/07cf796448d7f9effc4fe5caf4db5d17/adjuntos/326/imagenes/000/393/0000393544/1200x675/598x424:618x444/telefe-fuego.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 14:00:00 -0300"
+        "fecha": "Wed, 30 Sep 2026 14:09:00 -0300"
       },
       {
         "titulo": "Un colectivero, un mate y un banderín de River Plate: la nave espacial que Luis Alberto Spinetta lanzó hace 50 años",
@@ -482,11 +482,11 @@
         "fecha": "Wed, 30 Sep 2026 16:04:09 +0000"
       },
       {
-        "titulo": "Nicolás Cabré festejó su logro deportivo con una recorrida por París: en bicicleta y a pie con Rocío Pardo y Rufina",
-        "link": "https://www.infobae.com/teleshow/2026/09/30/nicolas-cabre-festejo-su-logro-deportivo-con-una-recorrida-por-paris-en-bicicleta-y-a-pie-con-rocio-pardo-y-rufina/",
-        "imagen": "https://www.infobae.com/resizer/v2/5BBJJ23XPFC7ZLE2FKOUMISYVY.jpg?auth=1d1674e5f23290b9c2c373d68142204737add4f62b194e5f545da3741777bbf2&smart=true&width=1920&height=1080",
+        "titulo": "La palabra de Joaquín Levinton luego de ser denunciado por abuso sexual agravado",
+        "link": "https://www.infobae.com/teleshow/2026/09/30/la-palabra-de-joaquin-levinton-luego-de-ser-denunciado-por-abuso-sexual-agravado/",
+        "imagen": "https://www.infobae.com/resizer/v2/WGDKUVVWC5GA5FAOQJQTCRFTSQ.png?auth=3ef48a44d012c449fa4a9da14628f7527e1a5b3a73197c2f8da79ed58bbd52f4&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:39:27 +0000"
+        "fecha": "Wed, 30 Sep 2026 16:59:34 +0000"
       },
       {
         "titulo": "Joaquín Levinton respondió a la denuncia por abuso sexual: \"Creí que era un capítulo cerrado\"",
@@ -496,11 +496,11 @@
         "fecha": "Wed, 30 Sep 2026 12:39:00 -0300"
       },
       {
-        "titulo": "Se supo la verdad por la que María Becerra no fue parte del show de Lali Espósito en el que estuvo Tini Stoessel",
-        "link": "https://www.c5n.com/ratingcero/se-supo-la-verdad-la-que-maria-becerra-no-fue-parte-del-show-lali-esposito-el-que-estuvo-tini-stoessel-n250347",
-        "imagen": "https://media.c5n.com/p/72a735238d1b035ce8c4461d5c78b4a9/adjuntos/326/imagenes/000/401/0000401180/1200x675/smart/lali-becerra-tini.png",
+        "titulo": "Golpe en Telefe: cambio de último momento en la conducción de un programa",
+        "link": "https://www.c5n.com/ratingcero/golpe-telefe-cambio-ultimo-momento-la-conduccion-un-programa-n250341",
+        "imagen": "https://media.c5n.com/p/ed6124045bae64e0a1ab4291dc793c8d/adjuntos/326/imagenes/000/398/0000398382/1200x675/smart/telefe.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 30 Sep 2026 13:57:00 -0300"
+        "fecha": "Wed, 30 Sep 2026 14:00:00 -0300"
       },
       {
         "titulo": "La salud de Mirtha Legrand: el nuevo parte médico asegura que está “muy bien”, recuperándose en habitación común",
@@ -510,11 +510,11 @@
         "fecha": "Wed, 30 Sep 2026 15:00:19 +0000"
       },
       {
-        "titulo": "Tiago PZK dio su primera nota junto a La Joaqui y cruzó a Luck Ra por sus dichos: “No era mi amigo”",
-        "link": "https://www.infobae.com/teleshow/2026/09/30/tiago-pzk-dio-su-primera-nota-junto-a-la-joaqui-y-cruzo-a-luck-ra-por-sus-dichosno-era-mi-amigo/",
-        "imagen": "https://www.infobae.com/resizer/v2/IOOA2TYNLVGATMOSLFNN42JCUU.png?auth=a861376e93fb19d6127621bf0788cc2f1d132562fa60fe71967e345d2a133b78&smart=true&width=2752&height=1536",
+        "titulo": "Nicolás Cabré festejó su logro deportivo con una recorrida por París: en bicicleta y a pie con Rocío Pardo y Rufina",
+        "link": "https://www.infobae.com/teleshow/2026/09/30/nicolas-cabre-festejo-su-logro-deportivo-con-una-recorrida-por-paris-en-bicicleta-y-a-pie-con-rocio-pardo-y-rufina/",
+        "imagen": "https://www.infobae.com/resizer/v2/5BBJJ23XPFC7ZLE2FKOUMISYVY.jpg?auth=1d1674e5f23290b9c2c373d68142204737add4f62b194e5f545da3741777bbf2&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 30 Sep 2026 16:23:11 +0000"
+        "fecha": "Wed, 30 Sep 2026 16:39:27 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Tue, 29 Sep 2026 23:23:00 -0300"
       },
       {
-        "titulo": "Cómo crear imágenes de Las Guerreras K-pop para colorear en pocos minutos y gratis",
-        "link": "https://www.infobae.com/tecno/2026/09/30/como-crear-imagenes-de-las-guerreras-k-pop-para-colorear-en-pocos-minutos-y-gratis/",
-        "imagen": "https://www.infobae.com/resizer/v2/AHAJC4UOIBEBZB34EMIY7UOXZQ.jpg?auth=1298de133fa0ff2e7f599efd2ec62ea8b76bd874513f41f6e97d0cfb7be8d18e&smart=true&width=1920&height=1080",
+        "titulo": "Las seis recomendaciones de Apple para que los niños usen el celular de forma segura",
+        "link": "https://www.infobae.com/tecno/2026/09/30/las-seis-recomendaciones-de-apple-para-que-los-ninos-usen-el-celular-de-forma-segura/",
+        "imagen": "https://www.infobae.com/resizer/v2/RBOBYGGJD5HG3DELR6R3UHIWKY.JPG?auth=a17789c1b473e0b8646ceffbac61f8f906c149aa40a47e2c8341605f08f03d6b&smart=true&width=5882&height=3921",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 30 Sep 2026 16:57:55 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:23:33 +0000"
       },
       {
         "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
@@ -561,11 +561,11 @@
         "fecha": "Tue, 29 Sep 2026 16:02:00 -0300"
       },
       {
-        "titulo": "Google investiga un fallo de Android Auto que afecta las llamadas cuando el celular plegable está cerrado",
-        "link": "https://www.infobae.com/tecno/2026/09/30/google-investiga-un-fallo-de-android-auto-que-afecta-las-llamadas-cuando-el-celular-plegable-esta-cerrado/",
-        "imagen": "https://www.infobae.com/resizer/v2/VXC35OBGW5HW5JA5TMT2HK7XA4.png?auth=e79e54a893d98ee7eb12081897a0b4054408c04635d80cf0e45a8e82cfac986f&smart=true&width=1408&height=768",
+        "titulo": "Grabación profesional en iPhone 18 Pro: así funciona la apertura variable en Final Cut Camera",
+        "link": "https://www.infobae.com/tecno/2026/09/30/grabacion-profesional-en-iphone-18-pro-asi-funciona-la-apertura-variable-en-final-cut-camera/",
+        "imagen": "https://www.infobae.com/resizer/v2/S266TRZF2RAINBHB6O4YSE273I.JPG?auth=20d5896236426dc4a80e82e8f734fe911ceb6c6b27a6afe9950e9b731b3a23b6&smart=true&width=7586&height=5057",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 30 Sep 2026 16:52:58 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:20:00 +0000"
       },
       {
         "titulo": "La investigadora y directora de la Fundación Instituto Leloir, Angeles Zorreguieta, fue incorporada a la Academia Nacional de Ciencias de Buenos Aires",
@@ -589,11 +589,11 @@
         "fecha": "Tue, 29 Sep 2026 15:37:29 -0300"
       },
       {
-        "titulo": "Cómo cuidar los alimentos que están en el refrigerador cuando hay un apagón de energía",
-        "link": "https://www.infobae.com/tecno/2026/09/30/como-cuidar-los-alimentos-que-estan-en-el-refrigerador-cuando-hay-un-apagon-de-energia/",
-        "imagen": "https://www.infobae.com/resizer/v2/RS7ZHTYD5FGRLCECVDFENA7DJA.png?auth=dcdb7a82fd46bbed9ca8f0ac7929f8d91d85eb966691fa316edbf2f060a482e4&smart=true&width=1408&height=768",
+        "titulo": "OpenAI convierte a ChatGPT en una plataforma para descubrir y usar aplicaciones dentro de los chats",
+        "link": "https://www.infobae.com/tecno/2026/09/30/openai-convierte-a-chatgpt-en-una-plataforma-para-descubrir-y-usar-aplicaciones-dentro-de-los-chats/",
+        "imagen": "https://www.infobae.com/resizer/v2/LKKYEQ2GTZD2DC5LUU3CVHPHFA.JPG?auth=c4caee9a8e32fee5cc333045fef7830fcdf0bfd93ddd65ca730b3d96091e4bf5&smart=true&width=7511&height=5010",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 30 Sep 2026 16:49:43 +0000"
+        "fecha": "Wed, 30 Sep 2026 17:19:58 +0000"
       },
       {
         "titulo": "Un argentino entre los ganadores de los Ig Nobel 2026, los premios a las investigaciones que primero hacen reír y después pensar",
