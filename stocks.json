@@ -1,74 +1,65 @@
 {
-  "actualizado": "2026-10-01T12:09:21.949190+00:00",
+  "actualizado": "2026-10-01T15:07:17.543974+00:00",
   "merval": {
-    "subas": [
+    "subas": [],
+    "bajas": [
       {
         "simbolo": "BBAR",
-        "porcentaje": 2.47209
-      },
-      {
-        "simbolo": "SUPV",
-        "porcentaje": 2.15517
-      },
-      {
-        "simbolo": "TX",
-        "porcentaje": 1.59027
+        "porcentaje": -5.019458
       },
       {
         "simbolo": "BMA",
-        "porcentaje": 1.33232
+        "porcentaje": -4.75123
       },
       {
-        "simbolo": "PAM",
-        "porcentaje": 1.21031
-      }
-    ],
-    "bajas": [
+        "simbolo": "GGAL",
+        "porcentaje": -4.10849
+      },
+      {
+        "simbolo": "SUPV",
+        "porcentaje": -3.93812
+      },
       {
         "simbolo": "CRESY",
-        "porcentaje": -1.11684
-      },
-      {
-        "simbolo": "YPF",
-        "porcentaje": -0.35778235
+        "porcentaje": -2.34579
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "AAPL",
-        "porcentaje": 1.098966
+        "simbolo": "MSFT",
+        "porcentaje": 0.30317323
       },
       {
-        "simbolo": "MSFT",
-        "porcentaje": 0.77413412
+        "simbolo": "KO",
+        "porcentaje": 0.29623393
       },
       {
         "simbolo": "NVDA",
-        "porcentaje": 0.5149413
+        "porcentaje": 0.15762988
       }
     ],
     "bajas": [
       {
-        "simbolo": "CAT",
-        "porcentaje": -1.9174
-      },
-      {
-        "simbolo": "MCD",
-        "porcentaje": -1.29925
+        "simbolo": "HD",
+        "porcentaje": -2.36739
       },
       {
         "simbolo": "JPM",
-        "porcentaje": -1.23889
+        "porcentaje": -1.26802
       },
       {
-        "simbolo": "HD",
-        "porcentaje": -1.23247
+        "simbolo": "AAPL",
+        "porcentaje": -1.075007
       },
       {
-        "simbolo": "KO",
-        "porcentaje": -0.87516644
+        "simbolo": "MCD",
+        "porcentaje": -0.43950915
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": -0.17143503
       }
     ]
   }
