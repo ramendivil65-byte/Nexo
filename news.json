@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T23:42:22.202250+00:00",
+  "actualizado": "2026-10-05T23:55:52.775302+00:00",
   "categorias": {
     "politica": [
       {
@@ -200,7 +200,7 @@
         "link": "https://www.infobae.com/deportes/2026/10/05/deportivo-riestra-recibe-a-central-cordoba-en-la-continuidad-de-la-fecha-11-del-torneo-clausura/",
         "imagen": "https://www.infobae.com/resizer/v2/CFZQMPQT3ZESZBXB6Z34YTFPTU.jpg?auth=3c0bba12b1197ad9b7947089038b7abf0ba90834681d6b9d36685fa39b547257&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 05 Oct 2026 23:38:25 +0000"
+        "fecha": "Mon, 05 Oct 2026 23:52:31 +0000"
       },
       {
         "titulo": "Video: Guillermo dijo \"afuera\" y el penal se fue desviado",
@@ -210,25 +210,32 @@
         "fecha": "Mon, 05 Oct 2026 23:30:16 +0000"
       },
       {
-        "titulo": "Estudiantes con vaivenes en su juego empata 0 a 0 ante Gimnasia de Mendoza",
+        "titulo": "Estudiantes vs. Gimnasia (M): el gol de Cetré",
+        "link": "https://www.eldia.com/deportes/estudiantes-vs-gimnasia-m-el-gol-de-cetre-deportes_1791243960",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Mon, 05 Oct 2026 23:46:43 GMT"
+      },
+      {
+        "titulo": "Fabricio Pérez pone a Estudiantes ganando 2 a 0 ante el Lobo mendocino",
         "link": "https://www.eldia.com/deportes/por-la-recuperacion-el-pincha-busca-los-tres-puntos-deportes_1791183063",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Mon, 05 Oct 2026 23:29:20 GMT"
+        "fecha": "Mon, 05 Oct 2026 23:49:16 GMT"
       },
       {
         "titulo": "Alarma en Estudiantes: Piovi se lesionó y peligra su presencia ante Flamengo en la Libertadores",
         "link": "https://www.eldia.com/deportes/alarma-en-estudiantes-ezequiel-piovi-se-lesiono-y-peligra-su-presencia-ante-flamengo-en-la-libertadores-deportes_1791239940",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Mon, 05 Oct 2026 22:50:33 GMT"
+        "fecha": "Mon, 05 Oct 2026 23:37:33 GMT"
       },
       {
-        "titulo": "FOTOS | El último entrenamiento de Messi con la Selección en el predio de Ezeiza",
-        "link": "https://www.eldia.com/deportes/el-ultimo-entrenamiento-de-lionel-messi-con-la-seleccion-argentina-en-el-predio-de-ezeiza-deportes_1791237420",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Mon, 05 Oct 2026 22:17:42 GMT"
+        "titulo": "Estudiantes ganó ante Gimnasia de Mendoza por el Torneo Clausura",
+        "link": "https://www.0221.com.ar/estudiantes/estudiantes-se-enfrenta-gimnasia-mendoza-el-torneo-clausura-n135329",
+        "imagen": "https://media.0221.com.ar/p/7a1bf9b41dad5d519d38b5a93fbf85bf/adjuntos/357/imagenes/100/298/0100298612/1200x630/smart/estudiantes-gimnasia-mendoza-festejo-3.jpeg",
+        "fuente": "0221 Deportes",
+        "fecha": "Mon, 05 Oct 2026 20:53:00 -0300"
       },
       {
         "titulo": "El cronograma completo de la despedida de Lionel Messi: música, drones y fuegos artificiales en el Monumental",
@@ -243,13 +250,6 @@
         "imagen": "https://media.0221.com.ar/p/9a928651853f3d43e7beb00b54880405/adjuntos/357/imagenes/100/288/0100288731/1200x630/1231x473:1251x493/entrenamiento-estudiantes-piovi-medina.jpg",
         "fuente": "0221 Deportes",
         "fecha": "Mon, 05 Oct 2026 20:07:00 -0300"
-      },
-      {
-        "titulo": "Estudiantes empata ante Gimnasia de Mendoza por el Torneo Clausura",
-        "link": "https://www.0221.com.ar/estudiantes/estudiantes-se-enfrenta-gimnasia-mendoza-el-torneo-clausura-n135329",
-        "imagen": "https://media.0221.com.ar/p/5752dc0956c805b3d87a4e106dbfead2/adjuntos/357/imagenes/100/298/0100298594/1200x630/smart/estudiantes-gimnasia-cetre.jpeg",
-        "fuente": "0221 Deportes",
-        "fecha": "Mon, 05 Oct 2026 20:03:00 -0300"
       },
       {
         "titulo": "Lionel Messi tuvo su último entrenamiento con la Selección antes de su despedida en el Monumental",
@@ -842,11 +842,11 @@
         "fecha": "Sat, 03 Oct 2026 12:15:00 -0300"
       },
       {
-        "titulo": "Casa Sandra pide volver a operar en el edificio céntrico de Av. 7",
-        "link": "https://www.eldia.com/la-ciudad/casa-sandra-pide-volver-a-operar-en-el-edificio-centrico-de-av-7-la-ciudad_1791241800",
+        "titulo": "Pasados de Rosca, en el stream de EL DIA",
+        "link": "https://www.eldia.com/marcasytendencias/arranca-esta-noche-pasados-de-rosca-el-nuevo-stream-de-el-dia-marcasytendencias_1785147780",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 05 Oct 2026 23:18:01 GMT"
+        "fecha": "Mon, 05 Oct 2026 23:48:18 GMT"
       },
       {
         "titulo": "Especialistas se reúnen en La Plata para analizar los nuevos tratamientos contra tumores de piel",
@@ -870,11 +870,11 @@
         "fecha": "Sat, 03 Oct 2026 11:15:00 -0300"
       },
       {
-        "titulo": "Alarma en Estudiantes: Piovi se lesionó y peligra su presencia ante Flamengo en la Libertadores",
-        "link": "https://www.eldia.com/deportes/alarma-en-estudiantes-ezequiel-piovi-se-lesiono-y-peligra-su-presencia-ante-flamengo-en-la-libertadores-deportes_1791239940",
+        "titulo": "En La Plata, cada mes la suba de las expensas supera a la inflación",
+        "link": "https://www.eldia.com/la-ciudad/en-la-plata-cada-mes-la-suba-de-las-expensas-supera-a-la-inflacion-la-ciudad_1791242280",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 05 Oct 2026 23:37:33 GMT"
+        "fecha": "Mon, 05 Oct 2026 23:23:05 GMT"
       },
       {
         "titulo": "Video: una mujer intentó robar frutas de una verdulería de La Plata y la descubrieron",
@@ -898,11 +898,11 @@
         "fecha": "Fri, 02 Oct 2026 17:37:00 -0300"
       },
       {
-        "titulo": "Terror en la Avenida 520: balearon un colectivo de larga distancia que ingresaba a La Plata",
-        "link": "https://www.eldia.com/policiales/terror-en-la-avenida-520-balearon-un-colectivo-de-larga-distancia-que-ingresaba-a-la-plata-policiales_1791234600",
+        "titulo": "A la espera del Papa, una artista de La Plata lo retrató junto a la Virgen",
+        "link": "https://www.eldia.com/la-ciudad/a-la-espera-del-papa-una-artista-de-la-plata-lo-retrato-junto-a-la-virgen-la-ciudad_1791241500",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 05 Oct 2026 21:14:20 GMT"
+        "fecha": "Mon, 05 Oct 2026 23:08:12 GMT"
       }
     ]
   }
