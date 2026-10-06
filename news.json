@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T19:59:53.178339+00:00",
+  "actualizado": "2026-10-06T20:23:09.162856+00:00",
   "categorias": {
     "politica": [
       {
@@ -17,18 +17,18 @@
         "fecha": "Tue, 06 Oct 2026 18:31:42 +0000"
       },
       {
-        "titulo": "Francia, al borde del caos: disturbios y choques entre miles de estudiantes y la Policía por las protestas",
-        "link": "https://www.ambito.com/mundo/francia-vuelve-enfrentar-bloqueos-sus-liceos-las-protestas-estudiantiles-n6330502",
-        "imagen": "https://media.ambito.com/p/73d7f327ac62a5fe7dfcd8a9e44e4c31/adjuntos/239/imagenes/043/687/0043687061/protesta-estudiantes-francia.jpg",
+        "titulo": "Brasil ahora es un país de derecha",
+        "link": "https://www.ambito.com/mundo/brasil-ahora-es-un-pais-derecha-n6330808",
+        "imagen": "https://media.ambito.com/p/92165b003b7c512dcf55711871e0fcab/adjuntos/239/imagenes/043/266/0043266234/flavio-bolsonaro.jpg",
         "fuente": "Ámbito Mundo",
-        "fecha": "Tue, 06 Oct 2026 13:10:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 17:13:00 -0300"
       },
       {
-        "titulo": "El Gobierno va a apelar el fallo a favor de la Ley de Financiamiento Universitario",
-        "link": "https://www.c5n.com/politica/el-gobierno-va-apelar-el-fallo-favor-la-ley-financiamiento-universitario-n250898",
-        "imagen": "https://media.c5n.com/p/1526661161b76b3d13df57c4191ad4a2/adjuntos/326/imagenes/000/397/0000397423/1200x675/smart/milei-islas-malvinas.jpg",
+        "titulo": "Mariel Fernández advirtió que \"las derechas neoliberales avanzan sobre los recursos naturales\"",
+        "link": "https://www.c5n.com/politica/mariel-fernandez-advirtio-que-las-derechas-neoliberales-avanzan-los-recursos-naturales-n250908",
+        "imagen": "https://media.c5n.com/p/fadb69d2635610537c4acac7fdfed27a/adjuntos/326/videos/000/402/0000402122/1200x675/smart/congreso-mujeres-del-pj-bonaerense-la-convocatoria-la-intendenta-moreno.png",
         "fuente": "C5N",
-        "fecha": "Tue, 06 Oct 2026 16:14:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 17:11:00 -0300"
       },
       {
         "titulo": "El gobierno de Entre Ríos avanza con una reforma laboral para terminar con la industria del juicio en la provincia",
@@ -59,18 +59,18 @@
         "fecha": "Tue, 06 Oct 2026 17:44:42 +0000"
       },
       {
-        "titulo": "Benin, de ser uno de los imperios africanos más poderosos a enfrentar a Messi en su último partido con la Selección argentina",
-        "link": "https://www.ambito.com/mundo/benin-ser-uno-los-imperios-africanos-mas-poderosos-enfrentar-messi-su-ultimo-partido-la-seleccion-argentina-n6330623",
-        "imagen": "https://media.ambito.com/p/bac2ebd0d101dbbed67e9666b60e713c/adjuntos/239/imagenes/043/686/0043686739/1200x675/689x341:709x361/benin1.jpg",
+        "titulo": "Francia, al borde del caos: disturbios y choques entre miles de estudiantes y la Policía por las protestas",
+        "link": "https://www.ambito.com/mundo/francia-vuelve-enfrentar-bloqueos-sus-liceos-las-protestas-estudiantiles-n6330502",
+        "imagen": "https://media.ambito.com/p/73d7f327ac62a5fe7dfcd8a9e44e4c31/adjuntos/239/imagenes/043/687/0043687061/protesta-estudiantes-francia.jpg",
         "fuente": "Ámbito Mundo",
-        "fecha": "Tue, 06 Oct 2026 12:22:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 13:10:00 -0300"
       },
       {
-        "titulo": "Con exposiciones de especialistas, Diputados retoma el debate por la ley de Defensa de la Soberanía",
-        "link": "https://www.c5n.com/politica/diputados-sesion-comision-debate-defensa-soberania-6-octubre-2026",
-        "imagen": "https://media.c5n.com/p/748c44206e36ec64c01e32111910f23d/adjuntos/326/videos/000/402/0000402058/1200x675/smart/diputados.png",
+        "titulo": "El Gobierno va a apelar el fallo a favor de la Ley de Financiamiento Universitario",
+        "link": "https://www.c5n.com/politica/el-gobierno-va-apelar-el-fallo-favor-la-ley-financiamiento-universitario-n250898",
+        "imagen": "https://media.c5n.com/p/1526661161b76b3d13df57c4191ad4a2/adjuntos/326/imagenes/000/397/0000397423/1200x675/smart/milei-islas-malvinas.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 06 Oct 2026 13:24:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 16:14:00 -0300"
       },
       {
         "titulo": "Senado: el oficialismo busca dictaminar el Tratado de Patentes con el cambio a favor de laboratorios locales",
@@ -96,6 +96,41 @@
         "fecha": "Tue, 06 Oct 2026 14:32:00 -0300"
       },
       {
+        "titulo": "El salto del litio argentino: puede superar a Chile y 8 de cada 10 exportaciones ya van a China",
+        "link": "https://www.clarin.com/energia-y-mineria/salto-litio-argentino-puede-superar-chile-8-10-exportaciones-van-china_0_uFUoyL8rzZ.html",
+        "imagen": "https://www.clarin.com/img/2026/10/06/OFkRwhjtr_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 06 Oct 2026 19:37:41 +0000"
+      },
+      {
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotiza el 6 de octubre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotiza-el-6-octubre-n250836",
+        "imagen": "https://media.c5n.com/p/a29092e42c5b36ba15f25145291c902a/adjuntos/326/imagenes/000/375/0000375697/1200x675/smart/dolar-blue-billetes-divisas-dolares.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 06 Oct 2026 17:14:00 -0300"
+      },
+      {
+        "titulo": "El riesgo país argentino volvió a caer con fuerza ante una mejoría del ánimo inversor",
+        "link": "https://www.infobae.com/economia/2026/10/06/mercados-vuelve-a-caer-fuerte-el-riesgo-pais-argentino-ante-una-mejoria-del-animo-inversor/",
+        "imagen": "https://www.infobae.com/resizer/v2/6TVNUQPOIRFDLITXASGRKV6MSM.png?auth=ddcfe7d1e1e8f71c5973c228e493237111f63a6f24596d622051a040e9733c3f&smart=true&width=2752&height=1536",
+        "fuente": "Infobae",
+        "fecha": "Tue, 06 Oct 2026 20:17:48 +0000"
+      },
+      {
+        "titulo": "Qué perforado está mi valle: fracking o soberanía alimentaria",
+        "link": "https://www.tiempoar.com.ar/ta_article/que-perforado-esta-mi-valle-fracking-o-soberania-alimentaria/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Tue, 06 Oct 2026 16:19:14 +0000"
+      },
+      {
+        "titulo": "La inflación de la OCDE aumentó al 4,3 % en agosto impulsada por el repunte de la energía",
+        "link": "https://www.ambito.com/economia/la-inflacion-la-ocde-aumento-al-43-agosto-impulsada-el-repunte-la-energia-n6330660",
+        "imagen": "https://media.ambito.com/p/e3ad32ad5cca04be45970f72e2ec7322/adjuntos/239/imagenes/040/726/0040726332/ocde1jpg.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Tue, 06 Oct 2026 14:31:00 -0300"
+      },
+      {
         "titulo": "Salto récord de los depósitos en dólares: aumentaron más de US$ 1.000 millones en un mes",
         "link": "https://www.clarin.com/economia/salto-record-depositos-dolares-aumentaron-us-1000-millones-mes_0_kbcS21z7K8.html",
         "imagen": "https://www.clarin.com/img/2026/09/03/bpipl-tsP_1200x630__1.jpg",
@@ -117,41 +152,6 @@
         "fecha": "Tue, 06 Oct 2026 19:26:20 +0000"
       },
       {
-        "titulo": "Qué perforado está mi valle: fracking o soberanía alimentaria",
-        "link": "https://www.tiempoar.com.ar/ta_article/que-perforado-esta-mi-valle-fracking-o-soberania-alimentaria/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Tue, 06 Oct 2026 16:19:14 +0000"
-      },
-      {
-        "titulo": "La inflación de la OCDE aumentó al 4,3 % en agosto impulsada por el repunte de la energía",
-        "link": "https://www.ambito.com/economia/la-inflacion-la-ocde-aumento-al-43-agosto-impulsada-el-repunte-la-energia-n6330660",
-        "imagen": "https://media.ambito.com/p/e3ad32ad5cca04be45970f72e2ec7322/adjuntos/239/imagenes/040/726/0040726332/ocde1jpg.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Tue, 06 Oct 2026 14:31:00 -0300"
-      },
-      {
-        "titulo": "El Banco Mundial volvió a reducir la proyección de crecimiento para la Argentina, a la mitad de lo previsto en enero",
-        "link": "https://www.clarin.com/economia/banco-mundial-volvio-reducir-proyeccion-crecimiento-argentina-mitad-previsto-enero_0_UNZ2wHWNeQ.html",
-        "imagen": "https://www.clarin.com/img/2025/03/30/_dUGEjF7m_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 06 Oct 2026 18:22:15 +0000"
-      },
-      {
-        "titulo": "El Banco Mundial volvió a recortar las proyecciones de crecimiento de Argentina para 2026 y 2027",
-        "link": "https://www.c5n.com/economia/el-banco-mundial-volvio-recortar-las-proyecciones-crecimiento-argentina-2026-y-2027-n250873",
-        "imagen": "https://media.c5n.com/p/65544950e0b444455311c3126d08de6f/adjuntos/326/imagenes/000/316/0000316293/1200x675/smart/milei-director-banco-mundial.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 06 Oct 2026 13:38:00 -0300"
-      },
-      {
-        "titulo": "Comenzó en Córdoba la producción de la primera pick up compacta argentina: cuándo saldrá a la venta",
-        "link": "https://www.infobae.com/economia/2026/10/06/comenzo-la-produccion-de-la-primera-pick-up-compacta-argentina-cuando-saldra-a-la-venta/",
-        "imagen": "https://www.infobae.com/resizer/v2/CUZRTMHMXZFUVOOPOAWRFLB7LM.jpg?auth=50311005ae8e8098bbea5b6a040d7ea8092d3406d8519499051c544ac6b93f9e&smart=true&width=5712&height=4284",
-        "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:12:12 +0000"
-      },
-      {
         "titulo": "Por qué las certificaciones orgánicas y de origen valorizan las exportaciones",
         "link": "https://www.tiempoar.com.ar/ta_article/por-que-las-certificaciones-organicas-y-de-origen-valorizan-las-exportaciones/",
         "imagen": "",
@@ -166,11 +166,11 @@
         "fecha": "Tue, 06 Oct 2026 12:38:00 -0300"
       },
       {
-        "titulo": "El jueves definen quién se queda con AySA: disputa entre Roggio y un fondo holandés asociado a un dueño de Edenor",
-        "link": "https://www.clarin.com/economia/jueves-definen-queda-aysa-disputa-roggio-fondo-holandes-asociado-dueno-edenor_0_KkCbpkvfxD.html",
-        "imagen": "https://www.clarin.com/img/2026/09/15/jGQUJW2_n_1200x630__1.jpg",
+        "titulo": "El Banco Mundial volvió a reducir la proyección de crecimiento para la Argentina, a la mitad de lo previsto en enero",
+        "link": "https://www.clarin.com/economia/banco-mundial-volvio-reducir-proyeccion-crecimiento-argentina-mitad-previsto-enero_0_UNZ2wHWNeQ.html",
+        "imagen": "https://www.clarin.com/img/2025/03/30/_dUGEjF7m_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 06 Oct 2026 17:58:44 +0000"
+        "fecha": "Tue, 06 Oct 2026 18:22:15 +0000"
       }
     ],
     "deportes": [
@@ -182,11 +182,11 @@
         "fecha": "Tue, 06 Oct 2026 16:32:00 -0300"
       },
       {
-        "titulo": "Mónica Lordi y la posibilidad de hacer historia en GEBA: la candidata que podría convertirse en la primera mujer al frente del club en sus 150 años",
-        "link": "https://www.clarin.com/deportes/monica-lordi-posibilidad-hacer-historia-geba-candidata-podria-convertirse-primera-mujer-frente-club-150-anos_0_dZhgKCP0OY.html",
-        "imagen": "https://www.clarin.com/img/2026/10/05/DhpE8A5r2_1200x630__1.jpg",
+        "titulo": "Cristiano Ronaldo dio su larga versión del escándalo en la Selección de Portugal y abrió la puerta al regreso: \"Jorge Jesús faltó a su palabra\"",
+        "link": "https://www.clarin.com/deportes/cristiano-ronaldo-dio-larga-version-escandalo-seleccion-portugal-abrio-puerta-regreso-jorge-jesus-falto-palabra_0_iOXMd9kh0a.html",
+        "imagen": "https://www.clarin.com/img/2026/10/06/jRJmmd4uO_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 06 Oct 2026 19:05:58 +0000"
+        "fecha": "Tue, 06 Oct 2026 19:30:12 +0000"
       },
       {
         "titulo": "Encuesta: la audiencia de C5N eligió la Selección Ideal histórica de Messi",
@@ -196,11 +196,11 @@
         "fecha": "Tue, 06 Oct 2026 16:13:00 -0300"
       },
       {
-        "titulo": "Cristiano Ronaldo dio a conocer las causas de su inesperada salida de la selección de Portugal a través de un explosivo comunicado",
-        "link": "https://www.infobae.com/deportes/2026/10/06/cristiano-ronaldo-dio-a-conocer-las-causas-de-su-intempestiva-salida-de-la-seleccion-de-portugal-con-un-explosivo-comunicado/",
-        "imagen": "https://www.infobae.com/resizer/v2/XIVODTTH6VC5FOZ4AA55MCFJCU.JPG?auth=e8ba68046f4c2ea6243663bc4077a9e418030c882e15572d40cb4dc5cfbfc8fa&smart=true&width=5990&height=3369",
+        "titulo": "Se abrieron las puertas del estadio para la despedida de Lionel Messi de la selección argentina: hora, TV, shows y todo lo que hay que saber",
+        "link": "https://www.infobae.com/deportes/2026/10/06/lionel-messi-se-despide-de-la-seleccion-argentina-en-un-amistoso-ante-benin-hora-tv-shows-y-todo-lo-que-hay-que-saber-del-partido/",
+        "imagen": "https://www.infobae.com/resizer/v2/GJKENHBFXVFMJGTWAOI5Z2KJK4.JPG?auth=1e5017e427bc52e7a1c94be8bac7cc81726a0b762202b27e89c251b21704d7d4&smart=true&width=5909&height=3777",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:53:11 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:21:09 +0000"
       },
       {
         "titulo": "Ponzio y la importante decisión que deberá tomar en River para un partido clave",
@@ -208,6 +208,13 @@
         "imagen": "https://www.ole.com.ar/images/2026/09/29/XSTLMx-Qe_1200x630__1.jpg",
         "fuente": "Olé",
         "fecha": "Tue, 06 Oct 2026 18:17:00 +0000"
+      },
+      {
+        "titulo": "Los récords y números que deja Lionel Messi en la Selección",
+        "link": "https://www.eldia.com/deportes/los-records-y-numeros-que-deja-lionel-messi-en-la-seleccion-deportes_1791315360",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Tue, 06 Oct 2026 19:58:55 GMT"
       },
       {
         "titulo": "Neymar despidió a Messi por su último partido en la Selección: \"El mundo te agradece\"",
@@ -222,13 +229,6 @@
         "imagen": "",
         "fuente": "El Día Deportes",
         "fecha": "Tue, 06 Oct 2026 19:24:29 GMT"
-      },
-      {
-        "titulo": "La UBA le entregó a Messi el título de Doctor Honoris Causa",
-        "link": "https://www.eldia.com/deportes/la-uba-le-entrego-a-messi-el-titulo-de-doctor-honoris-causa-deportes_1791311340",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Tue, 06 Oct 2026 18:33:26 GMT"
       },
       {
         "titulo": "Lionel Messi se convirtió en Doctor Honoris Causa de la UBA antes de su último partid",
@@ -347,11 +347,11 @@
     ],
     "internacional": [
       {
-        "titulo": "Francia, al borde del caos: disturbios y choques entre miles de estudiantes y la Policía por las protestas",
-        "link": "https://www.ambito.com/mundo/francia-vuelve-enfrentar-bloqueos-sus-liceos-las-protestas-estudiantiles-n6330502",
-        "imagen": "https://media.ambito.com/p/73d7f327ac62a5fe7dfcd8a9e44e4c31/adjuntos/239/imagenes/043/687/0043687061/protesta-estudiantes-francia.jpg",
+        "titulo": "Brasil ahora es un país de derecha",
+        "link": "https://www.ambito.com/mundo/brasil-ahora-es-un-pais-derecha-n6330808",
+        "imagen": "https://media.ambito.com/p/92165b003b7c512dcf55711871e0fcab/adjuntos/239/imagenes/043/266/0043266234/flavio-bolsonaro.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 06 Oct 2026 13:10:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 17:13:00 -0300"
       },
       {
         "titulo": "Arde París: violenta represión policial en Francia contra las protestas estudiantiles",
@@ -361,25 +361,25 @@
         "fecha": "Tue, 06 Oct 2026 13:58:00 -0300"
       },
       {
-        "titulo": "Misterio y vacío legal en el cosmos: las potencias ocultan qué armas llevan al espacio",
-        "link": "https://www.clarin.com/mundo/misterio-vacio-legal-cosmos-potencias-ocultan-armas-llevan-espacio_0_lWSh1Gh4ur.html",
-        "imagen": "https://www.clarin.com/img/2026/10/06/TLq9QLX7j_1200x630__1.jpg",
+        "titulo": "Levantan la orden de detención al ex presidente catalán Carles Puigdemont: \"La amnistía es la fórmula para resolver el conflicto, pero no es la solución en sí\"",
+        "link": "https://www.clarin.com/mundo/levantan-orden-detencion-ex-presidente-catalan-carles-puigdemont-amnistia-formula-resolver-conflicto-solucion_0_eV4j5SX7xq.html",
+        "imagen": "https://www.clarin.com/img/2026/10/06/LiT801pOZ_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 06 Oct 2026 18:00:55 +0000"
+        "fecha": "Tue, 06 Oct 2026 18:57:21 +0000"
       },
       {
-        "titulo": "Honduras invierte US$94.300 para reactivar un centro productor de tilapia",
-        "link": "https://www.infobae.com/honduras/2026/10/06/honduras-invierte-us94300-para-reactivar-un-centro-productor-de-tilapia/",
-        "imagen": "https://www.infobae.com/resizer/v2/2UYB2NQV65FR5LQHMG3ZZRXO34.jpeg?auth=ce8d6f7214997ba8260203efe8ed8824ea5f0a5b92f7b574a8fbcd970023b9b7&smart=true&width=1500&height=1000",
+        "titulo": "Cáncer de mama en El Salvador: la fragmentación del sistema que dificulta medir y atender la enfermedad, advierte especialista",
+        "link": "https://www.infobae.com/el-salvador/2026/10/06/cancer-de-mama-en-el-salvador-la-fragmentacion-del-sistema-que-dificulta-medir-y-atender-la-enfermedad-advierte-especialista/",
+        "imagen": "https://www.infobae.com/resizer/v2/C66BPP4XPRBU5FFCAYK2P4TFGA.png?auth=13bcd274dac8d6635dd424affc3f1409fcd4a3fd4189e15efaa82c0e80ed99bb&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:52:45 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:13:06 +0000"
       },
       {
-        "titulo": "Benin, de ser uno de los imperios africanos más poderosos a enfrentar a Messi en su último partido con la Selección argentina",
-        "link": "https://www.ambito.com/mundo/benin-ser-uno-los-imperios-africanos-mas-poderosos-enfrentar-messi-su-ultimo-partido-la-seleccion-argentina-n6330623",
-        "imagen": "https://media.ambito.com/p/bac2ebd0d101dbbed67e9666b60e713c/adjuntos/239/imagenes/043/686/0043686739/1200x675/689x341:709x361/benin1.jpg",
+        "titulo": "Francia, al borde del caos: disturbios y choques entre miles de estudiantes y la Policía por las protestas",
+        "link": "https://www.ambito.com/mundo/francia-vuelve-enfrentar-bloqueos-sus-liceos-las-protestas-estudiantiles-n6330502",
+        "imagen": "https://media.ambito.com/p/73d7f327ac62a5fe7dfcd8a9e44e4c31/adjuntos/239/imagenes/043/687/0043687061/protesta-estudiantes-francia.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 06 Oct 2026 12:22:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 13:10:00 -0300"
       },
       {
         "titulo": "\"Si hay alguien aquí, dame una señal\": se mudaron y descubrieron que alguien ya vivía en la casa",
@@ -389,25 +389,25 @@
         "fecha": "Tue, 06 Oct 2026 13:51:00 -0300"
       },
       {
-        "titulo": "Agoniza uno de los mayores símbolos del socialismo en Cuba",
-        "link": "https://www.clarin.com/mundo/agoniza-mayores-simbolos-socialismo-cuba_0_u7oBI7W7pX.html",
-        "imagen": "https://www.clarin.com/img/2026/10/06/Z-bX-Y_Kk_1200x630__1.jpg",
+        "titulo": "Misterio y vacío legal en el cosmos: las potencias ocultan qué armas llevan al espacio",
+        "link": "https://www.clarin.com/mundo/misterio-vacio-legal-cosmos-potencias-ocultan-armas-llevan-espacio_0_lWSh1Gh4ur.html",
+        "imagen": "https://www.clarin.com/img/2026/10/06/TLq9QLX7j_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 06 Oct 2026 16:00:53 +0000"
+        "fecha": "Tue, 06 Oct 2026 18:00:55 +0000"
       },
       {
-        "titulo": "Sector privado pide que el crecimiento económico de Panamá se traduzca en empleos de mayor calidad",
-        "link": "https://www.infobae.com/panama/2026/10/06/sector-privado-pide-que-el-crecimiento-economico-de-panama-se-traduzca-en-empleos-de-mayor-calidad/",
-        "imagen": "https://www.infobae.com/resizer/v2/TKRXUTIZIZHNHP4MFMMC3XIIGU.jpeg?auth=b44d273ee73f18df625fbdf16c908e3dc892851a2931b371b4e07a17f92cbc39&smart=true&width=894&height=533",
+        "titulo": "Irán intensifica los ataques a buques en Ormuz mientras aumentan los flujos de petróleo y gas",
+        "link": "https://www.infobae.com/america/mundo/2026/10/06/iran-intensifica-los-ataques-a-buques-en-ormuz-mientras-aumentan-los-flujos-de-petroleo-y-gas/",
+        "imagen": "https://www.infobae.com/resizer/v2/FEQUAEDAVVENVJNLZC5JXMVF4U.JPG?auth=43db739d9b94cd584a7fa30757f310c9f5382fb7307f8474037e107973314fa1&smart=true&width=4031&height=2267",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:49:38 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:11:42 +0000"
       },
       {
-        "titulo": "Acusaron a Donald Trump de interferir en las elecciones en Brasil y citaron las legislativas argentinas como antecedente",
-        "link": "https://www.ambito.com/mundo/acusaron-donald-trump-interferir-las-elecciones-brasil-y-citaron-las-legislativas-argentinas-como-antecedente-n6330580",
-        "imagen": "https://media.ambito.com/p/30528dc14baae8d1716d6512cf52681b/adjuntos/239/imagenes/043/397/0043397314/1200x675/smart/trump-bolsonaro.png",
+        "titulo": "Benin, de ser uno de los imperios africanos más poderosos a enfrentar a Messi en su último partido con la Selección argentina",
+        "link": "https://www.ambito.com/mundo/benin-ser-uno-los-imperios-africanos-mas-poderosos-enfrentar-messi-su-ultimo-partido-la-seleccion-argentina-n6330623",
+        "imagen": "https://media.ambito.com/p/bac2ebd0d101dbbed67e9666b60e713c/adjuntos/239/imagenes/043/686/0043686739/1200x675/689x341:709x361/benin1.jpg",
         "fuente": "Ámbito",
-        "fecha": "Tue, 06 Oct 2026 12:06:00 -0300"
+        "fecha": "Tue, 06 Oct 2026 12:22:00 -0300"
       },
       {
         "titulo": "Quiénes son los candidatos a ganar el Premio Nobel de la Paz",
@@ -417,18 +417,18 @@
         "fecha": "Tue, 06 Oct 2026 12:04:00 -0300"
       },
       {
-        "titulo": "Elecciones en Brasil: la dueña de un burdel fue elegida como diputada en representación de Mato Grosso do Sul",
-        "link": "https://www.clarin.com/mundo/elecciones-brasil-duena-burdel-elegida-diputada-representacion-mato-grosso-do-sul_0_B3NoBW9u3I.html",
-        "imagen": "https://www.clarin.com/img/2026/10/06/B4X0xaPrW_1200x630__1.jpg",
+        "titulo": "Agoniza uno de los mayores símbolos del socialismo en Cuba",
+        "link": "https://www.clarin.com/mundo/agoniza-mayores-simbolos-socialismo-cuba_0_u7oBI7W7pX.html",
+        "imagen": "https://www.clarin.com/img/2026/10/06/Z-bX-Y_Kk_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 06 Oct 2026 15:53:47 +0000"
+        "fecha": "Tue, 06 Oct 2026 16:00:53 +0000"
       },
       {
-        "titulo": "La Superintendencia de Administración Tributaria en Guatemala emite las reglas para la exoneración de impuestos a combustibles hasta diciembre de 2026",
-        "link": "https://www.infobae.com/guatemala/2026/10/06/la-superintendencia-de-administracion-tributaria-en-guatemala-emite-las-reglas-para-la-exoneracion-de-impuestos-a-combustibles-hasta-diciembre-de-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/P6CFY25JYBGEXCLJUZKKJ7L2ZU.png?auth=6b5016ea984937fa1bd24100dda124c20d63492895f609f1d09ce3344af3ace9&smart=true&width=1536&height=1024",
+        "titulo": "Cuba agoniza entre el cierre de bodegas y empieza a apagar la libreta de abastecimiento",
+        "link": "https://www.infobae.com/cuba/2026/10/06/cuba-agoniza-entre-el-cierre-de-bodegas-y-empieza-a-apagar-la-libreta-de-abastecimiento/",
+        "imagen": "https://www.infobae.com/resizer/v2/Q7CPVKFDDNB6DJUVBFPWBZUQPI.jpg?auth=c2240d58379165dcc21c9122645da26c67d3477e5a080c089a03119411b8f931&smart=true&width=1200&height=675",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:49:11 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:06:23 +0000"
       }
     ],
     "espectaculos": [
@@ -454,11 +454,11 @@
         "fecha": "Tue, 06 Oct 2026 17:30:57 +0000"
       },
       {
-        "titulo": "Graciela Alfano recordó cuando Ernesto Sábato la disuadió de dejar Ingeniería: “Dedicate al espectáculo, te vas a divertir más”",
-        "link": "https://www.infobae.com/teleshow/2026/10/06/graciela-alfano-recordo-cuando-ernesto-sabato-la-disuadio-de-dejar-ingenieria-dedicate-al-espectaculo-te-vas-a-divertir-mas/",
-        "imagen": "https://www.infobae.com/resizer/v2/SHTYO3ZFHJARFIGYRMSZZ4FRPM.png?auth=1485e67e21a8f96e39a02182998ab69db3bb3f9e68d5bfcaad82591273cd314e&smart=true&width=1920&height=1080",
+        "titulo": "Mario Pergolini criticó a Evelyn Botto por la sorpresa que le preparó a Fede Bal: “Está mal lo que hiciste”",
+        "link": "https://www.infobae.com/teleshow/2026/10/06/mario-pergolini-critico-a-evelyn-botto-por-la-sorpresa-que-preparo-a-fede-bal-esta-mal-lo-que-hiciste/",
+        "imagen": "https://www.infobae.com/resizer/v2/42SIEZJCJFFFTIGTSN5U7FRWQU.jpg?auth=43164f7d135421e8b5ef194964f56c3eab243352d06950425c360d70800aba28&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:47:01 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:09:43 +0000"
       },
       {
         "titulo": "Aerosmith anunció su regreso a los escenarios después de dos años: dónde se presentarán",
@@ -482,11 +482,11 @@
         "fecha": "Tue, 06 Oct 2026 17:08:01 +0000"
       },
       {
-        "titulo": "Después de 13 años de su muerte, se conoció el estado de la tumba de Ricardo Fort",
-        "link": "https://www.infobae.com/teleshow/2026/10/06/despues-de-13-anos-de-su-muerte-se-conocio-el-estado-de-la-tumba-de-ricardo-fort/",
-        "imagen": "https://www.infobae.com/resizer/v2/SEY4PNPSBZB3BFRC4I4QNDD6IM.jpg?auth=672cdf70ba5349c350fb0940cb36c775c4172b0704efc7a1a034b8bfe572d547&smart=true&width=1920&height=1120",
+        "titulo": "Pampita recordó su paso por Rebelde Way con un video vintage",
+        "link": "https://www.infobae.com/teleshow/2026/10/06/pampita-recordo-su-paso-por-rebelde-way-con-un-video-vintage/",
+        "imagen": "https://www.infobae.com/resizer/v2/TNYTMPKQU5EHPKIWGW6UBNNBQY.png?auth=de2ae93886b57afe2818c51c539e7e333fa3e39f83e20a91e68dccba392208c2&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 19:05:11 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:08:51 +0000"
       },
       {
         "titulo": "Netflix confirmó la decisión más esperada sobre la película Las Guerreras K-pop 2",
@@ -510,11 +510,11 @@
         "fecha": "Tue, 06 Oct 2026 16:09:39 +0000"
       },
       {
-        "titulo": "Lourdes Fernández se animó a un nuevo look mientras se recupera tras un accidente doméstico",
-        "link": "https://www.infobae.com/teleshow/2026/10/06/lourdes-fernandez-se-animo-a-un-nuevo-look-mientras-se-recupera-tras-un-accidente-domestico/",
-        "imagen": "https://www.infobae.com/resizer/v2/5SFUSGKNAZFK3EMC6W6RNI23VM.png?auth=9943a0cacf9e2874b93c92ba0f2666b7cf907cbdfc154c9de958760a62622803&smart=true&width=1920&height=1080",
+        "titulo": "Graciela Alfano recordó cuando Ernesto Sábato la disuadió de dejar Ingeniería: “Dedicate al espectáculo, te vas a divertir más”",
+        "link": "https://www.infobae.com/teleshow/2026/10/06/graciela-alfano-recordo-cuando-ernesto-sabato-la-disuadio-de-dejar-ingenieria-dedicate-al-espectaculo-te-vas-a-divertir-mas/",
+        "imagen": "https://www.infobae.com/resizer/v2/SHTYO3ZFHJARFIGYRMSZZ4FRPM.png?auth=1485e67e21a8f96e39a02182998ab69db3bb3f9e68d5bfcaad82591273cd314e&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Tue, 06 Oct 2026 18:41:10 +0000"
+        "fecha": "Tue, 06 Oct 2026 19:47:01 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Tue, 06 Oct 2026 16:43:00 -0300"
       },
       {
-        "titulo": "Aplicaciones desconocidas y batería baja: señales de que te pueden estar espiando por la cámara del celular",
-        "link": "https://www.infobae.com/tecno/2026/10/06/aplicaciones-desconocidas-y-bateria-baja-senales-de-que-te-pueden-estar-espiando-por-la-camara-del-celular/",
-        "imagen": "https://www.infobae.com/resizer/v2/LA7UB3GECVEP3GORWNIWVRLBRY.jpg?auth=87dcb589acbd7ae7fe33beed473a5659aa95c1eef8c99fc39447be5f1d52b66c&smart=true&width=6796&height=4531",
+        "titulo": "LibreOffice confirmó que no tendrá inteligencia artificial por decisión de privacidad",
+        "link": "https://www.infobae.com/tecno/2026/10/06/libreoffice-confirmo-que-no-tendra-inteligencia-artificial-por-decision-de-privacidad/",
+        "imagen": "https://www.infobae.com/resizer/v2/CFL7OC5OGZBA7N5AKLED3OYUGY.jpg?auth=9ed42e381b2b73d320ae7eea67f4a0d47f6fc79665a4c873bf2a09f796aa3711&smart=true&width=1920&height=1071",
         "fuente": "Infobae Tecno",
-        "fecha": "Tue, 06 Oct 2026 19:53:50 +0000"
+        "fecha": "Tue, 06 Oct 2026 20:12:30 +0000"
       },
       {
         "titulo": "Cazadores argentinos de mensajeros cósmicos celebran el Nobel de Física 2026 al astrofísico belga Francis Halzen",
@@ -568,11 +568,11 @@
         "fecha": "Tue, 06 Oct 2026 16:16:00 -0300"
       },
       {
-        "titulo": "Lo que nunca debes hacer al limpiar tu freidora de aire para no dañarla",
-        "link": "https://www.infobae.com/tecno/2026/10/06/lo-que-nunca-debes-hacer-al-limpiar-tu-freidora-de-aire-para-no-danarla/",
-        "imagen": "https://www.infobae.com/resizer/v2/NLIU6ZES2NG77HCEWHY5FOGP7E.jpg?auth=70e4a091ac4f418932396a8cf7f8336be5f145f9d0ca5e91b9e48872ee4d6004&smart=true&width=1456&height=816",
+        "titulo": "Aplicaciones desconocidas y batería baja: señales de que te pueden estar espiando por la cámara del celular",
+        "link": "https://www.infobae.com/tecno/2026/10/06/aplicaciones-desconocidas-y-bateria-baja-senales-de-que-te-pueden-estar-espiando-por-la-camara-del-celular/",
+        "imagen": "https://www.infobae.com/resizer/v2/LA7UB3GECVEP3GORWNIWVRLBRY.jpg?auth=87dcb589acbd7ae7fe33beed473a5659aa95c1eef8c99fc39447be5f1d52b66c&smart=true&width=6796&height=4531",
         "fuente": "Infobae Tecno",
-        "fecha": "Tue, 06 Oct 2026 18:38:00 +0000"
+        "fecha": "Tue, 06 Oct 2026 19:53:50 +0000"
       },
       {
         "titulo": "“Cambio de paradigma”: Premio Nobel de Fisiología/Medicina 2026 para tres científicos que revolucionaron las neurociencias",
@@ -777,25 +777,25 @@
     ],
     "vida_sana": [
       {
+        "titulo": "Horacio Guevara fue designado como nuevo superintendente de Salud tras la renuncia de Claudio Stivelman",
+        "link": "https://www.infobae.com/salud/2026/10/06/horacio-guevara-fue-designado-como-nuevo-superintendente-de-salud-tras-la-renuncia-de-claudio-stivelman/",
+        "imagen": "https://www.infobae.com/resizer/v2/ALMLGFFDGJAURETV5XZ47QKQJU.jpeg?auth=d710ad509bfa1da32552c53770be32a2bde54232e37418051047ad1fa3721d8e&smart=true&width=899&height=506",
+        "fuente": "Infobae Salud",
+        "fecha": "Tue, 06 Oct 2026 20:17:58 +0000"
+      },
+      {
+        "titulo": "Mario Lugones: “Hay que reelegir a Milei para terminar de descentralizar la salud”",
+        "link": "https://www.infobae.com/salud/2026/10/06/mario-lugones-hay-que-reelegir-a-milei-para-poder-descentralizar-la-salud/",
+        "imagen": "https://www.infobae.com/resizer/v2/AAJS55OAXFFBROOS6OH4XJPI2Y.jpg?auth=23576b2e7687d8f562f0a52d8fe4eb5e19eae477bdb34733b44cd9f17902aa37&smart=true&width=2048&height=1153",
+        "fuente": "Infobae Salud",
+        "fecha": "Tue, 06 Oct 2026 20:13:13 +0000"
+      },
+      {
         "titulo": "Producir cerca: la nueva geografía del medicamento",
         "link": "https://www.infobae.com/salud/2026/10/06/producir-cerca-la-nueva-geografia-del-medicamento/",
         "imagen": "https://www.infobae.com/resizer/v2/6X4TIE2ZJNDJXNRUHQSYGQELOU.jpg?auth=ebcfc90b90ee1eceba2b314097f006dd74d1b01b183edad262b32485196bc717&smart=true&width=1456&height=816",
         "fuente": "Infobae Salud",
         "fecha": "Tue, 06 Oct 2026 19:50:39 +0000"
-      },
-      {
-        "titulo": "Horacio Guevara fue designado como nuevo superintendente de Salud tras la renuncia de Claudio Stivelman",
-        "link": "https://www.infobae.com/salud/2026/10/06/horacio-guevara-fue-designado-como-nuevo-superintendente-de-salud-tras-la-renuncia-de-claudio-stivelman/",
-        "imagen": "https://www.infobae.com/resizer/v2/ALMLGFFDGJAURETV5XZ47QKQJU.jpeg?auth=d710ad509bfa1da32552c53770be32a2bde54232e37418051047ad1fa3721d8e&smart=true&width=899&height=506",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 06 Oct 2026 19:49:33 +0000"
-      },
-      {
-        "titulo": "Mario Lugones: “Hay que reelegir a Milei para poder descentralizar la salud”",
-        "link": "https://www.infobae.com/salud/2026/10/06/mario-lugones-hay-que-reelegir-a-milei-para-poder-descentralizar-la-salud/",
-        "imagen": "https://www.infobae.com/resizer/v2/AAJS55OAXFFBROOS6OH4XJPI2Y.jpg?auth=23576b2e7687d8f562f0a52d8fe4eb5e19eae477bdb34733b44cd9f17902aa37&smart=true&width=2048&height=1153",
-        "fuente": "Infobae Salud",
-        "fecha": "Tue, 06 Oct 2026 19:42:51 +0000"
       },
       {
         "titulo": "Inversión, patentes y prevención: las claves del foro de AmCham para el futuro del sistema de salud en Argentina",
@@ -842,11 +842,11 @@
         "fecha": "Sat, 03 Oct 2026 12:15:00 -0300"
       },
       {
-        "titulo": "Neymar despidió a Messi por su último partido en la Selección: \"El mundo te agradece\"",
-        "link": "https://www.eldia.com/deportes/neymar-con-un-emotivo-mensaje-despidio-a-messi-por-su-ultimo-partido-en-la-seleccion-el-mundo-te-agradece-deportes_1791314760",
+        "titulo": "Obras de mejoramiento vial e hidráulico en El Rincón",
+        "link": "https://www.eldia.com/la-ciudad/obras-de-mejoramiento-vial-e-hidraulico-en-el-rincon-la-ciudad_1791317580",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 06 Oct 2026 19:36:25 GMT"
+        "fecha": "Tue, 06 Oct 2026 20:17:40 GMT"
       },
       {
         "titulo": "Inauguraron una obra clave en un barrio de La Plata para prevenir anegamientos y mejorar la circulación",
@@ -870,11 +870,11 @@
         "fecha": "Sat, 03 Oct 2026 11:15:00 -0300"
       },
       {
-        "titulo": "Provincia: la Suprema Corte acelera con la autarquía y presentó su proyecto en Diputados",
-        "link": "https://www.eldia.com/politica-y-economia/la-suprema-corte-bonaerense-acelera-con-la-autarquia-y-presento-su-proyecto-en-diputados-politica-y-economia_1791313920",
+        "titulo": "Los récords y números que deja Lionel Messi en la Selección",
+        "link": "https://www.eldia.com/deportes/los-records-y-numeros-que-deja-lionel-messi-en-la-seleccion-deportes_1791315360",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 06 Oct 2026 19:21:15 GMT"
+        "fecha": "Tue, 06 Oct 2026 19:58:55 GMT"
       },
       {
         "titulo": "A 4 años de su muerte, familiares y amigos de Lolo Regueiro exigieron justicia por la represión en el Bosque",
@@ -898,11 +898,11 @@
         "fecha": "Fri, 02 Oct 2026 17:37:00 -0300"
       },
       {
-        "titulo": "Jornada solidaria de donación de sangre en la UNQ",
-        "link": "https://www.eldia.com/quilmes/jornada-solidaria-de-donacion-de-sangre-en-la-unq-quilmes_1791303060",
+        "titulo": "\"Me voy en paz, dejé todo\": el mensaje de Messi a horas de su despedida en la Selección",
+        "link": "https://www.eldia.com/deportes/el-mensaje-de-lionel-messi-a-horas-de-su-despedida-en-la-seleccion-me-voy-en-paz-deje-todo-deportes_1791313680",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 06 Oct 2026 18:08:06 GMT"
+        "fecha": "Tue, 06 Oct 2026 19:24:29 GMT"
       }
     ]
   }
