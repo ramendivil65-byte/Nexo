@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T08:18:10.054716+00:00",
+  "actualizado": "2026-10-06T08:47:55.369403+00:00",
   "categorias": {
     "politica": [
       {
@@ -214,7 +214,7 @@
         "link": "https://www.eldia.com/deportes/estudiantes-un-triunfo-para-volver-a-sonar-deportes_1791269378",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Tue, 06 Oct 2026 07:54:33 GMT"
+        "fecha": "Tue, 06 Oct 2026 08:42:43 GMT"
       },
       {
         "titulo": "La Copa es todo, pero era necesario volver a ganar",
@@ -547,13 +547,6 @@
         "fecha": "Mon, 05 Oct 2026 17:42:34 +0000"
       },
       {
-        "titulo": "Una raya gigante recorrió 170 kilómetros en el Paraná y desafía todo lo que se creía sobre su comportamiento",
-        "link": "https://www.ctys.com.ar/una-raya-gigante-recorrio-170-kilometros-en-el-parana-y-desafia-todo-lo-que-se-creia-sobre-su-comportamiento/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 04 Sep 2026 14:28:10 +0000"
-      },
-      {
         "titulo": "OpenAI retrasó el lanzamiento de uno de sus modelos por problemas de seguridad y alineación",
         "link": "https://www.ambito.com/tecnologia/openai-retraso-el-lanzamiento-uno-sus-modelos-problemas-seguridad-y-alineacion-n6327834",
         "imagen": "https://media.ambito.com/p/39c314e8cc1d6561b772ac3b38505031/adjuntos/239/imagenes/043/564/0043564533/1200x675/smart/chatgpt-astra-openai-inteligencia-artificial-1500-x-1000.png",
@@ -582,13 +575,6 @@
         "fecha": "Fri, 02 Oct 2026 16:52:51 +0000"
       },
       {
-        "titulo": "“No solo es un ajuste: es una destrucción del sistema científico y tecnológico nacional”",
-        "link": "https://www.ctys.com.ar/desfinanciacion-sistema-cientifico-tecnologico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Fri, 14 Aug 2026 20:15:16 +0000"
-      },
-      {
         "titulo": "Anthropic advirtió a sus inversores que la IA podría generar \"riesgos existenciales para la humanidad\"",
         "link": "https://www.ambito.com/tecnologia/anthropic-advirtio-sus-inversores-que-la-ia-podria-generar-riesgos-existenciales-la-humanidad-n6327860",
         "imagen": "https://media.ambito.com/p/65ec9db535816cc6c04de9e1dcaca0d2/adjuntos/239/imagenes/043/411/0043411026/1200x675/3173x1602:3193x1622/anthropic.jpg",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/0eef00be94be4088e43d9953231d5d55/adjuntos/326/imagenes/000/395/0000395910/1200x675/619x249:639x269/gta-6.jpg",
         "fuente": "C5N",
         "fecha": "Mon, 05 Oct 2026 15:27:00 -0300"
+      },
+      {
+        "titulo": "Shuhei Yoshida, exdirectivo de Sony, señala al único juego capaz de superar el fenómeno de GTA VI",
+        "link": "https://www.infobae.com/tecno/2026/10/06/shuhei-yoshida-exdirectivo-de-sony-senala-al-unico-juego-capaz-de-superar-el-fenomeno-de-gta-vi/",
+        "imagen": "https://www.infobae.com/resizer/v2/XKKSIHXE3VDGJNTFNXRQQ7ZKUE.jpg?auth=1869502dcc5e8ebb694a1daf34f226fc644ad24e88731a25cd0bd0274bb18dff&smart=true&width=1920&height=1074",
+        "fuente": "Infobae Tecno",
+        "fecha": "Tue, 06 Oct 2026 02:45:34 +0000"
+      },
+      {
+        "titulo": "El tratamiento de Messi: buscan administrar hormona de crecimiento cada 15 días o más en lugar de las inyecciones diarias o semanales",
+        "link": "https://www.agenciacyta.org.ar/2026/09/el-tratamiento-de-messi-buscan-administrar-hormona-de-crecimiento-cada-15-o-mas-en-lugar-de-las-inyecciones-diarias-o-semanales/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Tue, 22 Sep 2026 12:51:37 +0000"
       }
     ],
     "autos": [
@@ -846,7 +846,7 @@
         "link": "https://www.eldia.com/deportes/la-copa-es-todo-pero-era-necesario-volver-a-ganar-deportes_1791269318",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 06 Oct 2026 07:54:41 GMT"
+        "fecha": "Tue, 06 Oct 2026 08:47:06 GMT"
       },
       {
         "titulo": "Especialistas se reúnen en La Plata para analizar los nuevos tratamientos contra tumores de piel",
@@ -874,7 +874,7 @@
         "link": "https://www.eldia.com/deportes/estudiantes-se-prepara-para-sumar-a-rojo-en-city-bell-deportes_1791092945",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 06 Oct 2026 07:54:02 GMT"
+        "fecha": "Tue, 06 Oct 2026 08:46:48 GMT"
       },
       {
         "titulo": "Video: una mujer intentó robar frutas de una verdulería de La Plata y la descubrieron",
@@ -902,7 +902,7 @@
         "link": "https://www.eldia.com/deportes/alarma-en-estudiantes-ezequiel-piovi-se-lesiono-y-peligra-su-presencia-ante-flamengo-en-la-libertadores-deportes_1791239940",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Tue, 06 Oct 2026 07:50:49 GMT"
+        "fecha": "Tue, 06 Oct 2026 08:46:32 GMT"
       }
     ]
   }
