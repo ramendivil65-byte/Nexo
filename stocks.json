@@ -1,40 +1,40 @@
 {
-  "actualizado": "2026-10-08T18:07:18.904748+00:00",
+  "actualizado": "2026-10-08T21:07:16.290873+00:00",
   "merval": {
     "subas": [
       {
         "simbolo": "YPF",
-        "porcentaje": 1.61682
-      },
-      {
-        "simbolo": "TX",
-        "porcentaje": 0.65591234
+        "porcentaje": 0.87914402
       },
       {
         "simbolo": "PAM",
-        "porcentaje": 0.63030109
+        "porcentaje": 0.68646684
       },
       {
-        "simbolo": "GGAL",
-        "porcentaje": 0.35087926
+        "simbolo": "BMA",
+        "porcentaje": 0.16688868
       },
       {
-        "simbolo": "CRESY",
-        "porcentaje": 0.17196806
+        "simbolo": "TX",
+        "porcentaje": 0.097500714
       }
     ],
     "bajas": [
       {
         "simbolo": "BBAR",
-        "porcentaje": -1.38782
+        "porcentaje": -2.23593
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": -0.77386168
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": -0.75573345
       },
       {
         "simbolo": "SUPV",
-        "porcentaje": -0.21008217
-      },
-      {
-        "simbolo": "BMA",
-        "porcentaje": -0.045522167
+        "porcentaje": -0.14005416
       }
     ]
   },
@@ -42,23 +42,23 @@
     "subas": [
       {
         "simbolo": "HD",
-        "porcentaje": 3.15289
+        "porcentaje": 3.39259
       },
       {
         "simbolo": "MCD",
-        "porcentaje": 2.62907
+        "porcentaje": 2.59875
       },
       {
         "simbolo": "KO",
-        "porcentaje": 2.5169
+        "porcentaje": 2.2722
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": 0.65196973
+        "porcentaje": 1.11682
       },
       {
         "simbolo": "JPM",
-        "porcentaje": 0.24577142
+        "porcentaje": 0.5673929
       }
     ],
     "bajas": [
@@ -67,12 +67,12 @@
         "porcentaje": -2.91405
       },
       {
-        "simbolo": "MSFT",
-        "porcentaje": -2.057537
+        "simbolo": "CAT",
+        "porcentaje": -2.18965
       },
       {
-        "simbolo": "CAT",
-        "porcentaje": -1.77494
+        "simbolo": "MSFT",
+        "porcentaje": -1.33457
       }
     ]
   }
