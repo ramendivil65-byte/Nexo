@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T15:17:23.358075+00:00",
+  "actualizado": "2026-10-10T15:45:18.061962+00:00",
   "categorias": {
     "politica": [
       {
@@ -114,7 +114,7 @@
         "link": "https://www.infobae.com/economia/2026/10/10/cerraron-casi-1000-empresas-en-julio-cuantas-bajaron-sus-persianas-desde-que-asumio-el-gobierno-de-javier-milei/",
         "imagen": "https://www.infobae.com/resizer/v2/YSQURCHHI5FFRPMNH3TYYQ3O7U.jpg?auth=e38e3d2e4172d52976048d892740cd9606ac45251de8191f6ec490ac0d522a77&smart=true&width=5596&height=3148",
         "fuente": "Infobae",
-        "fecha": "Sat, 10 Oct 2026 15:10:03 +0000"
+        "fecha": "Sat, 10 Oct 2026 15:25:14 +0000"
       },
       {
         "titulo": "Empleo industrial: se perdieron más de 66 mil puestos en dos años y solo 3 provincias petroleras crearon trabajo",
@@ -189,18 +189,18 @@
         "fecha": "Sat, 10 Oct 2026 13:42:31 +0000"
       },
       {
-        "titulo": "Gran Premio de Singapur de la Fórmula 1: Max Verstappen se quedó con la pole y Franco Colapinto largará 15°",
-        "link": "https://www.c5n.com/deportes/formula-1-gran-premio-singapur-clasificacion-franco-colapinto-10-octubre-2026",
-        "imagen": "https://media.c5n.com/p/e6b62e660a824e17ac2c6b76044500fe/adjuntos/326/imagenes/000/402/0000402740/1200x675/smart/franco-colapinto-gp-singapur.jpg",
+        "titulo": "Leandro Paredes se desgarró y se perderá la semifinal de Boca contra Vasco da Gama por la Copa Sudamericana",
+        "link": "https://www.c5n.com/deportes/leandro-paredes-se-desgarro-y-se-perdera-la-semifinal-boca-contra-vasco-da-gama-la-copa-sudamericana-n251269",
+        "imagen": "https://media.c5n.com/p/cebba469df61788abef66bf89a21f5f9/adjuntos/326/imagenes/000/402/0000402746/1200x675/smart/leandro-paredes.jpg",
         "fuente": "C5N",
-        "fecha": "Sat, 10 Oct 2026 12:11:00 -0300"
+        "fecha": "Sat, 10 Oct 2026 12:35:00 -0300"
       },
       {
-        "titulo": "El anuncio de Portugal sobre la sanción a Cristiano Ronaldo y el sorpresivo posteo en la cuenta de la selección",
-        "link": "https://www.infobae.com/deportes/2026/10/10/el-anuncio-de-portugal-sobre-la-sancion-a-cristiano-ronaldo-y-el-sorpresivo-posteo-en-la-cuenta-de-la-seleccion/",
-        "imagen": "https://www.infobae.com/resizer/v2/JPBKUJR23RBMLDILOPX5CHBVIU.JPG?auth=9c318ab0e1644cf28f77ae8498c8e12e87b0755f3ba253b9f3584efb7df93c93&smart=true&width=5246&height=3505",
+        "titulo": "El insólito error de Manuel Neuer a los 8 segundos del partido de Bayern Múnich: sufrió el gol más rápido en la historia de la Bundesliga",
+        "link": "https://www.infobae.com/deportes/2026/10/10/el-insolito-error-de-manuel-neuer-a-los-85-segundos-del-partido-de-bayern-munich-sufrio-el-gol-mas-rapido-en-la-historia-de-la-bundesliga/",
+        "imagen": "https://www.infobae.com/resizer/v2/YHUA6HETKJE6HMT5GC445ZFQUQ.JPG?auth=37c0ac2ec2a584472d7314567361b7383544e1da826dd8f83b32aedc8572027c&smart=true&width=3308&height=2081",
         "fuente": "Infobae",
-        "fecha": "Sat, 10 Oct 2026 15:04:38 +0000"
+        "fecha": "Sat, 10 Oct 2026 15:30:48 +0000"
       },
       {
         "titulo": "El Traductor Flores, \"satisfecho\" con el empate ante Boca: \"Así se juegan estos partidos\"",
@@ -210,11 +210,18 @@
         "fecha": "Sat, 10 Oct 2026 14:03:17 +0000"
       },
       {
-        "titulo": "El platense Etcheverry perdió y se despidió del Master 1000 de Shanghái",
+        "titulo": "Se confirmó la lesión de Leandro Paredes y sufre Boca",
+        "link": "https://www.eldia.com/deportes/se-confirmo-la-lesion-de-leandro-paredes-y-sufre-boca-deportes_1791644820",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Sat, 10 Oct 2026 15:11:19 GMT"
+      },
+      {
+        "titulo": "Sábado negro para los tenistas platenses en el Master 1000 de Shanghái",
         "link": "https://www.eldia.com/deportes/el-platense-etcheverry-perdio-y-se-despidio-del-master-1000-de-shanghai-deportes_1791644040",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Sat, 10 Oct 2026 14:59:21 GMT"
+        "fecha": "Sat, 10 Oct 2026 15:30:36 GMT"
       },
       {
         "titulo": "Franco Colapinto largará 15° en el Gran Premio de Singapur",
@@ -222,13 +229,6 @@
         "imagen": "",
         "fuente": "El Día Deportes",
         "fecha": "Sat, 10 Oct 2026 14:27:42 GMT"
-      },
-      {
-        "titulo": "A Franco Colapinto \"se le clavó\" el auto y debió abandonar en la Sprint del GP de Singapur",
-        "link": "https://www.eldia.com/deportes/a-franco-colapinto-se-le-clavo-el-auto-y-abandono-en-la-sprint-del-gp-de-singapur-deportes_1791627480",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Sat, 10 Oct 2026 11:19:34 GMT"
       },
       {
         "titulo": "El mensaje del hermano de Marcos Rojo que no pasó inadvertido tras su vuelta a Estudiantes",
@@ -361,18 +361,18 @@
         "fecha": "Sat, 10 Oct 2026 11:20:00 -0300"
       },
       {
-        "titulo": "Trump apuntó al comité que entrega el Nobel de la Paz y enumeró los motivos por los que debería haber ganado el premio",
-        "link": "https://www.clarin.com/mundo/trump-apunto-comite-entrega-nobel-paz-enumero-motivos-deberia-ganado-premio_0_Y5zpjOkVwg.html",
-        "imagen": "https://www.clarin.com/img/2026/10/10/IdaauIcKW_1200x630__1.jpg",
+        "titulo": "Los juicios contra el régimen de Hitler: sólo hubo 12 condenas a muerte en Nüremberg por la barbarie nazi",
+        "link": "https://www.clarin.com/mundo/juicios-regimen-hitler-solo-12-condenas-muerte-nuremberg-barbarie-nazi_0_mY4WIYU5K7.html",
+        "imagen": "https://www.clarin.com/img/2022/11/17/erXuxkG4X_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 13:42:42 +0000"
+        "fecha": "Sat, 10 Oct 2026 14:49:46 +0000"
       },
       {
-        "titulo": "“Avengers: Endgame Encore” recaudó más de USD 127 millones en su reestreno mundial antes de la llegada de Doomsday",
-        "link": "https://www.infobae.com/estados-unidos/2026/10/10/avengers-endgame-encore-recaudo-mas-de-usd-127-millones-en-su-reestreno-mundial-antes-de-la-llegada-de-doomsday/",
-        "imagen": "https://www.infobae.com/resizer/v2/L3L6ZXVBONCO7BCTUJQGV6CKBI.jpg?auth=637bc96210377b704e0773a448ed6dbdd9fde563304a35626491b3958473f607&smart=true&width=740&height=415",
+        "titulo": "Helicóptero Chinook de Estados Unidos transporta ayuda humanitaria a las zonas afectadas por el sismo en Panamá",
+        "link": "https://www.infobae.com/panama/2026/10/10/helicoptero-chinook-de-estados-unidos-transporta-ayuda-humanitaria-a-las-zonas-afectadas-por-el-sismo-en-panama/",
+        "imagen": "https://www.infobae.com/resizer/v2/O72YJFCC5ZDLJIWDQ74TBWRXVM.png?auth=89118ffdf60546dbf3436197add5f9b50d39715ccc6f5fe84f26fa2b68e2f633&smart=true&width=1672&height=941",
         "fuente": "Infobae",
-        "fecha": "Sat, 10 Oct 2026 14:55:58 +0000"
+        "fecha": "Sat, 10 Oct 2026 15:39:01 +0000"
       },
       {
         "titulo": "¿Un mensaje a Donald Trump? El papa León XIV se pronunció sobre la pena de muerte en medio de la polémica en EEUU",
@@ -389,18 +389,18 @@
         "fecha": "Sat, 10 Oct 2026 09:47:00 -0300"
       },
       {
-        "titulo": "Los dramáticos testimonios de los afectados por el terremoto en Panamá: \"Fue horrible, algo nunca visto\"",
-        "link": "https://www.clarin.com/mundo/dramaticos-testimonios-afectados-terremoto-panama-horrible-visto_0_vH4rvO0dM4.html",
-        "imagen": "https://www.clarin.com/img/2026/10/10/22coQaWod_1200x630__1.jpg",
+        "titulo": "Trump apuntó al comité que entrega el Nobel de la Paz y enumeró los motivos por los que debería haber ganado el premio",
+        "link": "https://www.clarin.com/mundo/trump-apunto-comite-entrega-nobel-paz-enumero-motivos-deberia-ganado-premio_0_Y5zpjOkVwg.html",
+        "imagen": "https://www.clarin.com/img/2026/10/10/IdaauIcKW_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 13:06:18 +0000"
+        "fecha": "Sat, 10 Oct 2026 13:42:42 +0000"
       },
       {
-        "titulo": "Perros robot reforzarán los controles de Aduanas en El Salvador",
-        "link": "https://www.infobae.com/el-salvador/2026/10/10/perros-robot-reforzaran-los-controles-de-aduanas-en-el-salvador/",
-        "imagen": "https://www.infobae.com/resizer/v2/N53ZHPBHMVAXDECKLHUYJ5AWYA.jpg?auth=f3140d67e7eea4089451ed9aa5f6a38d6d77ad40dd21f6f3f4afd333797d2efd&smart=true&width=790&height=450",
+        "titulo": "Atrapar la realidad, perder la libertad: Lo que ocurre cuando un creador extranjero graba la realidad de Cuba",
+        "link": "https://www.infobae.com/cuba/2026/10/10/atrapar-la-realidad-perder-la-libertad-lo-que-ocurre-cuando-un-creador-extranjero-graba-la-realidad-de-cuba/",
+        "imagen": "https://www.infobae.com/resizer/v2/CQGVDOJ4KRAW7BPS4H4IIKVAV4.png?auth=8014b0783ec8d0c1a05fd30a87fb9ab8fcbfeced0d94cfef9bd6bd2113fb1641&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Sat, 10 Oct 2026 14:36:54 +0000"
+        "fecha": "Sat, 10 Oct 2026 15:27:17 +0000"
       },
       {
         "titulo": "Donald Trump anunció un acuerdo con Vladímir Putin para recibir diésel ruso y bajar los precios",
@@ -417,18 +417,18 @@
         "fecha": "Sat, 10 Oct 2026 09:36:00 -0300"
       },
       {
-        "titulo": "Se despertó el Súper Niño: los huracanes Simón e Isaías avanzan por EE.UU. y México, y la tormenta tropical Rachel mantiene el alerta en el Pacífico",
-        "link": "https://www.clarin.com/mundo/desperto-super-nino-huracanes-simon-isaias-avanzan-eeuu-mexico-tormenta-tropical-rachel-mantiene-alerta-pacifico_0_807H2BbBWO.html",
-        "imagen": "https://www.clarin.com/img/2026/10/09/T6nKT8S2e_1200x630__1.jpg",
+        "titulo": "Los dramáticos testimonios de los afectados por el terremoto en Panamá: \"Fue horrible, algo nunca visto\"",
+        "link": "https://www.clarin.com/mundo/dramaticos-testimonios-afectados-terremoto-panama-horrible-visto_0_vH4rvO0dM4.html",
+        "imagen": "https://www.clarin.com/img/2026/10/10/22coQaWod_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 11:59:05 +0000"
+        "fecha": "Sat, 10 Oct 2026 13:06:18 +0000"
       },
       {
-        "titulo": "Noche en blanco bajo las estrellas: Así durmieron los panameños fuera de sus casas tras el fuerte terremoto",
-        "link": "https://www.infobae.com/panama/2026/10/10/noche-en-blanco-bajo-las-estrellas-asi-durmieron-los-panamenos-fuera-de-sus-casas-tras-el-fuerte-terremoto/",
-        "imagen": "https://www.infobae.com/resizer/v2/53JZFR5Y5ZBYFJPGCZGE5TQABA.png?auth=d702f8eafb2df2b39c47005ab864b9e87cb9a0baf4d91a42c7c0f26d99ac4d14&smart=true&width=655&height=470",
+        "titulo": "Recuperaron los cuerpos del helicóptero hundido en el lago Atitlán de Guatemala: la esposa del piloto exigió investigar las causas",
+        "link": "https://www.infobae.com/guatemala/2026/10/10/recuperaron-los-cuerpos-del-helicoptero-hundido-en-el-lago-atitlan-de-guatemala-la-esposa-del-piloto-exigio-investigar-las-causas/",
+        "imagen": "https://www.infobae.com/resizer/v2/N5BPGPFVBJBOFFOCFDKNQSFTLU.png?auth=78db9b1dd59c2955702da93d6d7dc94277d42a2fd22ca07fbbcc90cf907a7062&smart=true&width=1536&height=1024",
         "fuente": "Infobae",
-        "fecha": "Sat, 10 Oct 2026 14:24:55 +0000"
+        "fecha": "Sat, 10 Oct 2026 15:21:48 +0000"
       }
     ],
     "espectaculos": [
@@ -447,11 +447,11 @@
         "fecha": "Sat, 10 Oct 2026 11:51:00 -0300"
       },
       {
-        "titulo": "Pimpinela y un viaje teatral por los años y la evolución del amor: la pasión se sigue cantando a gritos",
-        "link": "https://www.clarin.com/espectaculos/pimpinela-viaje-teatral-anos-evolucion-amor-pasion-sigue-cantando-gritos_0_w0CTICVuNL.html",
-        "imagen": "https://www.clarin.com/img/2026/10/10/hYApeziJN_1200x630__1.jpg",
+        "titulo": "Los cuentos de Hoffmann volvió al Teatro Colón con un emotivo homenaje a Eugenio Zanetti",
+        "link": "https://www.clarin.com/espectaculos/cuentos-hoffmann-volvio-teatro-colon-emotivo-homenaje-eugenio-zanetti_0_O2PcEuNqtu.html",
+        "imagen": "https://www.clarin.com/img/2026/10/10/-gzHYy6xD_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 12:27:08 +0000"
+        "fecha": "Sat, 10 Oct 2026 14:45:17 +0000"
       },
       {
         "titulo": "Un famoso grupo de bailarines virales africanos le cantó el “Feliz Cumpleaños” a Lali Espósito y recibió el like de la cantante",
@@ -475,11 +475,11 @@
         "fecha": "Sat, 10 Oct 2026 11:45:00 -0300"
       },
       {
-        "titulo": "El inesperado fracaso de Tom Cruise",
-        "link": "https://www.clarin.com/espectaculos/inesperado-fracaso-tom-cruise_0_3Tbgy9AmzT.html",
-        "imagen": "https://www.clarin.com/img/2026/10/09/KAw6U0_La_1200x630__1.jpg",
+        "titulo": "Pimpinela y un viaje teatral por los años y la evolución del amor: la pasión se sigue cantando a gritos",
+        "link": "https://www.clarin.com/espectaculos/pimpinela-viaje-teatral-anos-evolucion-amor-pasion-sigue-cantando-gritos_0_w0CTICVuNL.html",
+        "imagen": "https://www.clarin.com/img/2026/10/10/hYApeziJN_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 10:46:31 +0000"
+        "fecha": "Sat, 10 Oct 2026 12:27:08 +0000"
       },
       {
         "titulo": "Maia Reficco confirmó su separación de Franco Colapinto y habló de los rumores de infidelidad: “Yo lo amé mucho”",
@@ -503,11 +503,11 @@
         "fecha": "Sat, 10 Oct 2026 11:43:19 -0300"
       },
       {
-        "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este sábado 10 de octubre de 2026 en Argentina",
-        "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-sabado-10-de-octubre-de-2026-en-argentina_0_RtdaRwXKmR.html",
-        "imagen": "https://www.clarin.com/img/2025/08/25/gMhpNu9os_1200x630__1.jpg",
+        "titulo": "El inesperado fracaso de Tom Cruise",
+        "link": "https://www.clarin.com/espectaculos/inesperado-fracaso-tom-cruise_0_3Tbgy9AmzT.html",
+        "imagen": "https://www.clarin.com/img/2026/10/09/KAw6U0_La_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 10:15:02 +0000"
+        "fecha": "Sat, 10 Oct 2026 10:46:31 +0000"
       },
       {
         "titulo": "La felicidad de Barby Franco y Fernando Burlando por el logro de su hija Sarah: “Después de tanto tiempo de lucha”",
@@ -812,20 +812,20 @@
         "fecha": "Sat, 10 Oct 2026 07:00:00 +0000"
       },
       {
-        "titulo": "¿Qué entendemos hoy por salud mental? El desafío de mirar más allá de un diagnóstico",
-        "link": "https://www.infobae.com/salud/ciencia/2026/10/10/que-entendemos-hoy-por-salud-mental-el-desafio-de-mirar-mas-alla-de-un-diagnostico/",
-        "imagen": "https://www.infobae.com/resizer/v2/4YWP7IGMTFGRHHRHT4OLCU2DXA.png?auth=1987730030beb65b7b6cf137a5c669a333866624646f95304b8a92dde3117d25&smart=true&width=2752&height=1536",
+        "titulo": "Uso problemático de pantallas: las 10 señales que alertan sobre un impacto en el bienestar emocional",
+        "link": "https://www.infobae.com/salud/2026/10/10/uso-problematico-de-pantallas-las-10-senales-que-alertan-sobre-un-impacto-en-la-salud-mental/",
+        "imagen": "https://www.infobae.com/resizer/v2/4BOLBW4RDBH5HHJ2KJLMWVDITU.png?auth=23bee485e3829cbf3de594d11bbf18149924630102b224bdab42bec8ee439d82&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Sat, 10 Oct 2026 05:00:00 +0000"
       }
     ],
     "local": [
       {
-        "titulo": "El fin de semana en La Plata arrancó con lloviznas y frío y anticipan más inestabilidad",
-        "link": "https://www.0221.com.ar/la-plata/el-fin-semana-la-plata-arranco-lloviznas-y-frio-y-anticipan-mas-inestabilidad-n135593",
-        "imagen": "https://media.0221.com.ar/p/9891c605fe63c93208f9f21e347893b9/adjuntos/357/imagenes/100/275/0100275432/1200x630/2684x1931:2704x1951/clima-lluvias-2.jpeg",
+        "titulo": "El Mercado Bonaerense de La Plata lanzó nuevas ofertas y descuentos de hasta el 40% con Cuenta DNI",
+        "link": "https://www.0221.com.ar/la-plata/el-mercado-bonaerense-la-plata-lanzo-nuevas-ofertas-y-descuentos-el-40-cuenta-dni-n135599",
+        "imagen": "https://media.0221.com.ar/p/60e00189286dd6f09dc259a1de301d3a/adjuntos/357/imagenes/100/280/0100280568/1200x630/1410x794:1430x814/mercado-bonaerense.jpg",
         "fuente": "0221",
-        "fecha": "Sat, 10 Oct 2026 08:25:00 -0300"
+        "fecha": "Sat, 10 Oct 2026 12:22:00 -0300"
       },
       {
         "titulo": "\"Es de los más importantes\": Daniel Hadad llega a La Plata para hablar de inteligencia artificial y negocios",
@@ -842,18 +842,18 @@
         "fecha": "Sat, 10 Oct 2026 10:15:00 -0300"
       },
       {
-        "titulo": "Se confirmó la lesión de Leandro Paredes y sufre Boca",
-        "link": "https://www.eldia.com/deportes/se-confirmo-la-lesion-de-leandro-paredes-y-sufre-boca-deportes_1791644820",
+        "titulo": "Cayó “Chicharrín”, acusado de balear a un hombre para robarle la bicicleta en Los Hornos",
+        "link": "https://www.eldia.com/policiales/cayo-chicharrin-acusado-de-balear-a-un-hombre-para-robarle-la-bicicleta-en-los-hornos-policiales_1791646740",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 10 Oct 2026 15:11:19 GMT"
+        "fecha": "Sat, 10 Oct 2026 15:44:22 GMT"
       },
       {
-        "titulo": "El plan de un excandidato a concejal de La Plata para que puedan convivir los taxis y los Uber",
-        "link": "https://www.0221.com.ar/la-plata/el-plan-un-excandidato-concejal-la-plata-que-puedan-convivir-los-taxis-y-los-uber-n135590",
-        "imagen": "https://media.0221.com.ar/p/4cadc579586b11b4d4e963aff66c2b96/adjuntos/357/imagenes/100/299/0100299178/1200x630/smart/diseno-titulo-2.png",
+        "titulo": "El fin de semana en La Plata arrancó con lloviznas y frío y anticipan más inestabilidad",
+        "link": "https://www.0221.com.ar/la-plata/el-fin-semana-la-plata-arranco-lloviznas-y-frio-y-anticipan-mas-inestabilidad-n135593",
+        "imagen": "https://media.0221.com.ar/p/9891c605fe63c93208f9f21e347893b9/adjuntos/357/imagenes/100/275/0100275432/1200x630/2684x1931:2704x1951/clima-lluvias-2.jpeg",
         "fuente": "0221",
-        "fecha": "Sat, 10 Oct 2026 07:40:00 -0300"
+        "fecha": "Sat, 10 Oct 2026 08:25:00 -0300"
       },
       {
         "titulo": "De los alquileres a las mascotas, así es el nuevo Barrio Universitario de la UNLP",
@@ -870,18 +870,18 @@
         "fecha": "Sat, 10 Oct 2026 07:38:00 -0300"
       },
       {
-        "titulo": "Franco Colapinto largará 15° en el Gran Premio de Singapur",
-        "link": "https://www.eldia.com/deportes/colapinto-ya-gira-en-la-clasificacion-del-gran-premio-de-singapur-deportes_1791640920",
+        "titulo": "Sábado negro para los tenistas platenses en el Master 1000 de Shanghái",
+        "link": "https://www.eldia.com/deportes/el-platense-etcheverry-perdio-y-se-despidio-del-master-1000-de-shanghai-deportes_1791644040",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 10 Oct 2026 14:27:42 GMT"
+        "fecha": "Sat, 10 Oct 2026 15:30:36 GMT"
       },
       {
-        "titulo": "Las fanáticas de BTS dieron un contundente mensaje sobre los acampes para esperar los shows en La Plata",
-        "link": "https://www.0221.com.ar/la-plata/las-fanaticas-bts-dieron-un-contundente-mensaje-los-acampes-esperar-los-shows-la-plata-n135578",
-        "imagen": "https://media.0221.com.ar/p/f7890864eebf9ce591c43000768bf62b/adjuntos/357/imagenes/100/121/0100121237/1200x630/smart/acampe-recital-justin-bieber-6jpg.jpg",
+        "titulo": "El plan de un excandidato a concejal de La Plata para que puedan convivir los taxis y los Uber",
+        "link": "https://www.0221.com.ar/la-plata/el-plan-un-excandidato-concejal-la-plata-que-puedan-convivir-los-taxis-y-los-uber-n135590",
+        "imagen": "https://media.0221.com.ar/p/4cadc579586b11b4d4e963aff66c2b96/adjuntos/357/imagenes/100/299/0100299178/1200x630/smart/diseno-titulo-2.png",
         "fuente": "0221",
-        "fecha": "Fri, 09 Oct 2026 17:53:00 -0300"
+        "fecha": "Sat, 10 Oct 2026 07:40:00 -0300"
       },
       {
         "titulo": "Suspenden la marcha de antorchas de la UNLP por el alerta climático en La Plata",
@@ -898,11 +898,11 @@
         "fecha": "Fri, 09 Oct 2026 08:27:00 -0300"
       },
       {
-        "titulo": "VIDEO. Motochorros persiguieron a un conductor en la Autopista La Plata-Buenos Aires",
-        "link": "https://www.eldia.com/policiales/motochorros-armados-persiguieron-a-un-conductor-a-toda-velocidad-en-la-autopista-la-plata-buenos-aires-policiales_1791636780",
+        "titulo": "El Colegio de Médicos respaldó el reclamo por salarios dignos de los residentes bonaerense",
+        "link": "https://www.eldia.com/la-ciudad/el-colegio-de-medicos-respaldo-el-reclamo-por-salarios-dignos-de-los-residentes-bonaerense-la-ciudad_1791640020",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 10 Oct 2026 15:08:56 GMT"
+        "fecha": "Sat, 10 Oct 2026 13:52:32 GMT"
       }
     ]
   }
