@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T05:46:00.202339+00:00",
+  "actualizado": "2026-10-11T06:20:50.666699+00:00",
   "categorias": {
     "politica": [
       {
@@ -547,6 +547,13 @@
         "fecha": "Wed, 07 Oct 2026 18:08:29 +0000"
       },
       {
+        "titulo": "Premio Nobel de Química 2026: la diferencia mínima entre moléculas \"espejo\" para explicar el origen de la vida",
+        "link": "https://www.ctys.com.ar/premio-nobel-de-quimica-2026-la-diferencia-minima-entre-moleculas-espejo-que-ayuda-a-explicar-el-origen-de-la-vida/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Thu, 08 Oct 2026 14:43:36 +0000"
+      },
+      {
         "titulo": "OpenAI incorporará una \"marca de agua invisible\" al texto generado por ChatGPT en Europa",
         "link": "https://www.ambito.com/tecnologia/openai-incorporara-una-marca-agua-invisible-al-texto-generado-chatgpt-europa-n6330668",
         "imagen": "https://media.ambito.com/p/51ce04569fff57e88464753bb0976312/adjuntos/239/imagenes/043/564/0043564537/1200x675/990x460:1010x480/chatgpt-openai-inteligencia-artificial-1500-x-1000.png",
@@ -575,6 +582,13 @@
         "fecha": "Tue, 06 Oct 2026 17:13:49 +0000"
       },
       {
+        "titulo": "Protegido: Una investigación de la UNLaM analiza cómo la IA podría optimizar el gasto público social",
+        "link": "https://www.ctys.com.ar/inteligencia-artificial-optimizar-gasto-publico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Wed, 07 Oct 2026 03:07:58 +0000"
+      },
+      {
         "titulo": "OpenAI y Anthropic respaldan una ley en Australia para notificar filtraciones de datos de sus agentes",
         "link": "https://www.ambito.com/tecnologia/openai-y-anthropic-respaldan-una-ley-australia-notificar-filtraciones-datos-sus-agentes-n6330511",
         "imagen": "https://media.ambito.com/p/2742cec9876850d78f85710a180f938c/adjuntos/239/imagenes/043/619/0043619289/1200x675/755x433:775x453/ciberseguridad-inteligencia-artificial-1500-x-1000.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/95cccd5b1dcdc7f45b55efd13a30486f/adjuntos/326/imagenes/000/400/0000400916/1200x675/smart/fraude-whatsapp-imagen-generada-ia.jpg",
         "fuente": "C5N",
         "fecha": "Thu, 08 Oct 2026 20:10:00 -0300"
-      },
-      {
-        "titulo": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas",
-        "link": "https://www.infobae.com/tecno/2026/10/11/nueva-actualizacion-de-microsoft-teams-identificara-videos-audios-e-imagenes-falsas-o-alteradas/",
-        "imagen": "https://www.infobae.com/resizer/v2/7A36THDLRRFPVMZHCB3WHTJBNI.JPG?auth=c48cb65efabda8d8a530ad2b8cf93e5f518750525e86e60fe25f797f8b37a017&smart=true&width=800&height=522",
-        "fuente": "Infobae Tecno",
-        "fecha": "Sun, 11 Oct 2026 02:52:40 +0000"
-      },
-      {
-        "titulo": "“Cambio de paradigma”: Premio Nobel de Fisiología/Medicina 2026 para tres científicos que revolucionaron las neurociencias",
-        "link": "https://www.agenciacyta.org.ar/2026/10/cambio-de-paradigma-premio-nobel-de-fisiologia-medicina-2026-para-tres-cientificos-que-revolucionaron-las-neurociencias/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 05 Oct 2026 17:42:34 +0000"
       }
     ],
     "autos": [
@@ -846,7 +846,7 @@
         "link": "https://www.eldia.com/opinion/la-interna-que-escala-y-una-economia-sin-oxigeno-que-complica-a-javier-milei-y-a-axel-kicillof-opinion-politica-y-economia_1791674040",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sun, 11 Oct 2026 05:31:03 GMT"
+        "fecha": "Sun, 11 Oct 2026 06:14:01 GMT"
       },
       {
         "titulo": "Tristeza en La Plata por el fallecimiento de un exjugador de rugby e hijo de desaparecidos",
@@ -870,11 +870,11 @@
         "fecha": "Sat, 10 Oct 2026 10:15:00 -0300"
       },
       {
-        "titulo": "Quiso robar en un comercio de La Plata y le dejaron un mensaje: \"Chorro\" y \"rata, ponete a laburar\"",
-        "link": "https://www.eldia.com/policiales/quiso-robar-en-un-comercio-de-la-plata-y-le-dejaron-un-mensaje-chorro-y-rata-ponete-a-laburar-policiales_1791678360",
+        "titulo": "La Plata cayó 11% en actividad inmobiliaria y construcción",
+        "link": "https://www.eldia.com/economia-dominical/la-plata-cayo-11-en-actividad-inmobiliaria-y-construccion-economia-dominical_1791699230",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sun, 11 Oct 2026 00:28:18 GMT"
+        "fecha": "Sun, 11 Oct 2026 06:13:50 GMT"
       },
       {
         "titulo": "Volvieron a detener en City Bell al acusado de romper vidrios de autos para robar",
@@ -898,11 +898,11 @@
         "fecha": "Sat, 10 Oct 2026 07:38:00 -0300"
       },
       {
-        "titulo": "Santa Bárbara sigue su marcha triunfal y ya se aseguró un lugar en semis de hockey femenino",
-        "link": "https://www.eldia.com/deportes/santa-barbara-sigue-su-marcha-triunfal-y-ya-se-aseguro-un-lugar-en-semis-de-hockey-femenino-deportes_1791675600",
+        "titulo": "La inversión registró una caída de 5,4% en agosto con retrocesos clave",
+        "link": "https://www.eldia.com/economia-dominical/la-inversion-registro-una-caida-de-5-4-en-agosto-con-retrocesos-clave-economia-dominical_1791699170",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sat, 10 Oct 2026 23:42:56 GMT"
+        "fecha": "Sun, 11 Oct 2026 06:12:50 GMT"
       }
     ]
   }
