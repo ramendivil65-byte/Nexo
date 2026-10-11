@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T02:19:07.563745+00:00",
+  "actualizado": "2026-10-11T02:47:05.394503+00:00",
   "categorias": {
     "politica": [
       {
@@ -175,9 +175,9 @@
     ],
     "deportes": [
       {
-        "titulo": "River le gana a Estudiantes de Río Cuarto con un gol de Marcos Acuña en el Monumental",
+        "titulo": "River venció a Estudiantes de Río Cuarto y lo condenó al descenso a la Primera Nacional",
         "link": "https://www.ambito.com/deportes/river-le-gana-estudiantes-rio-cuarto-un-gol-marcos-acuna-el-monumental-n6332438",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/03d4885ef1816a418e7f203db38d0d16/adjuntos/239/imagenes/043/696/0043696774/1200x675/smart/river.png",
         "fuente": "Ámbito",
         "fecha": "Sat, 10 Oct 2026 22:34:00 -0300"
       },
@@ -189,32 +189,32 @@
         "fecha": "Sun, 11 Oct 2026 00:49:54 +0000"
       },
       {
-        "titulo": "Con gol de Huevo Acuña, River gana 1-0 y manda al descenso a Estudiantes RC",
-        "link": "https://www.c5n.com/deportes/river-estudiantes-rio-cuarto-torneo-clausura-fecha-12-monumental-resultado-goles-10-octubre-2026",
-        "imagen": "https://media.c5n.com/p/cfbcf1dbe5fc76cd7a05952fa7f29d0d/adjuntos/326/imagenes/000/402/0000402810/1200x675/smart/acuna-rio-cuarto.jpg",
+        "titulo": "Cuándo vuelve a jugar River tras la victoria ante Estudiantes RC",
+        "link": "https://www.c5n.com/deportes/cuando-vuelve-jugar-river-la-victoria-estudiantes-rc-n251300",
+        "imagen": "https://media.c5n.com/p/8aebd15f290661af68409dc30ac24f4f/adjuntos/326/imagenes/000/402/0000402807/1200x675/smart/river-estudiantes-rc.jpg",
         "fuente": "C5N",
-        "fecha": "Sat, 10 Oct 2026 21:30:00 -0300"
+        "fecha": "Sat, 10 Oct 2026 23:25:00 -0300"
       },
       {
-        "titulo": "River Plate le gana a Estudiantes de Río Cuarto en el Monumental y lo hunde en el descenso",
+        "titulo": "River Plate le ganó 1-0 a Estudiantes de Río Cuarto, se arrimó a puestos de Playoffs y selló el descenso de su rival a la B Nacional",
         "link": "https://www.infobae.com/deportes/2026/10/10/river-plate-buscara-ingresar-a-zona-de-playoffs-ante-un-estudiantes-de-rio-cuarto-que-puede-descender-hora-tv-y-formaciones/",
         "imagen": "https://www.infobae.com/resizer/v2/2J7FYLO4IVAPZKSL4J3MWGEBRY.JPG?auth=8fa54460795f2821ec0fb21ffc6ae4935bf4b275438757a358ac987a1075b162&smart=true&width=5474&height=3079",
         "fuente": "Infobae",
-        "fecha": "Sun, 11 Oct 2026 02:16:05 +0000"
+        "fecha": "Sun, 11 Oct 2026 02:27:28 +0000"
       },
       {
-        "titulo": "Video: la hinchada de River insultó al Chiqui Tapia desde antes de que comenzara el partido",
-        "link": "https://www.ole.com.ar/river-plate/hinchada-river-insulto-chiquitapia-guerra-afa-stefanodicarlo_0_WsNMwkukq3.html",
-        "imagen": "https://www.ole.com.ar/images/2026/10/10/nbCz7ZdTg_1200x630__1.jpg",
+        "titulo": "El uno por uno de River en el triunfo contra Estudiantes de Río Cuarto",
+        "link": "https://www.ole.com.ar/river-plate/river-estudiantes-rio-cuarto-puntajes-jugadores-leonardo-ponzio_0_zpg3rMkEiZ.html",
+        "imagen": "https://www.ole.com.ar/images/2026/10/10/E0s-zxhpT_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Sun, 11 Oct 2026 01:05:56 +0000"
+        "fecha": "Sun, 11 Oct 2026 02:33:35 +0000"
       },
       {
-        "titulo": "River se impone por 1 a 0 ante Estudiantes de Río Cuarto en el Monumental",
+        "titulo": "River derrotó a Estudiantes de Río Cuarto por 1 a 0 y decretó su descenso a la Primera Nacional",
         "link": "https://www.eldia.com/deportes/river-vuelve-al-ruedo-con-un-solo-objetivo-el-triunfo-deportes_1791612740",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Sun, 11 Oct 2026 01:56:47 GMT"
+        "fecha": "Sun, 11 Oct 2026 02:21:10 GMT"
       },
       {
         "titulo": "Santa Bárbara sigue su marcha triunfal y ya se aseguró un lugar en semis de hockey femenino",
@@ -254,7 +254,7 @@
       {
         "titulo": "Se confirmó la lesión de Leandro Paredes y se perderá el partido ante Vasco da Gama",
         "link": "https://www.ambito.com/deportes/se-confirmo-la-lesion-leandro-paredes-y-se-perdera-el-partido-vasco-da-gama-n6332381",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/75891d20c76cba48ffd1788ac5b6f85f/adjuntos/239/imagenes/043/696/0043696425/1200x675/smart/leandro-paredes-lesionado.png",
         "fuente": "Ámbito",
         "fecha": "Sat, 10 Oct 2026 17:23:00 -0300"
       }
@@ -266,6 +266,27 @@
         "imagen": "https://www.clarin.com/img/2026/10/10/MGM0UVf8c_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Sat, 10 Oct 2026 21:58:20 +0000"
+      },
+      {
+        "titulo": "Loto Plus: resultado del sorteo 3925 del sábado 10 de octubre de 2026",
+        "link": "https://www.c5n.com/sociedad/loto-plus-resultado-del-sorteo-3925-del-sabado-10-octubre-2026-n251291",
+        "imagen": "https://media.c5n.com/p/8443571ef8a981a6d6797b92eeb229b4/adjuntos/326/imagenes/000/159/0000159967/1200x675/smart/loto-plus.jpg",
+        "fuente": "C5N",
+        "fecha": "Sat, 10 Oct 2026 23:23:28 -0300"
+      },
+      {
+        "titulo": "Investigan una presunta explosión e incendio en Villa Devoto: hay dos heridos",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/11/investigan-una-presunta-explosion-e-incendio-en-villa-devoto-hay-dos-heridos/",
+        "imagen": "https://www.infobae.com/resizer/v2/YI4AD4MLTFAWHN6ZEX2DYX4DXA.jpg?auth=e4d6fd4617c681389f95e01ff936c611fc1ed1a4133b8eaa47d93fa0bf2d4c3a&smart=true&width=1980&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Sun, 11 Oct 2026 02:35:53 +0000"
+      },
+      {
+        "titulo": "Brutal crimen en Moreno: matan a un mecánico de 20 puñaladas y con una bolsa en la cabeza, y detienen a su esposa y a una hija",
+        "link": "https://www.clarin.com/policiales/brutal-crimen-moreno-matan-mecanico-20-punaladas-bolsa-cabeza-detienen-esposa-hija_0_y0pcZQhvvW.html",
+        "imagen": "https://www.clarin.com/img/2026/10/10/DHzptRx-a_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Sat, 10 Oct 2026 15:57:17 +0000"
       },
       {
         "titulo": "Concordia: crece la amenaza por la crecida del río Uruguay y prevén que el agua siga subiendo en los próximos días",
@@ -282,11 +303,11 @@
         "fecha": "Sun, 11 Oct 2026 00:02:53 +0000"
       },
       {
-        "titulo": "Brutal crimen en Moreno: matan a un mecánico de 20 puñaladas y con una bolsa en la cabeza, y detienen a su esposa y a una hija",
-        "link": "https://www.clarin.com/policiales/brutal-crimen-moreno-matan-mecanico-20-punaladas-bolsa-cabeza-detienen-esposa-hija_0_y0pcZQhvvW.html",
-        "imagen": "https://www.clarin.com/img/2026/10/10/DHzptRx-a_1200x630__1.jpg",
+        "titulo": "\"Álvarez sabe lo que está pasando\": la contundente definición del tribunal para que siga el juicio al \"Pity\"",
+        "link": "https://www.clarin.com/policiales/alvarez-sabe-pasando-contundente-definicion-tribunal-siga-juicio-pity_0_a0gmq5YdB5.html",
+        "imagen": "https://www.clarin.com/img/2026/10/03/qE-UuRkZ5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Sat, 10 Oct 2026 15:57:17 +0000"
+        "fecha": "Fri, 09 Oct 2026 20:06:42 +0000"
       },
       {
         "titulo": "Ola de inseguridad en Lanús: robos violentos, ataque a un agente municipal y un crimen que llega a juicio",
@@ -303,11 +324,11 @@
         "fecha": "Sat, 10 Oct 2026 20:08:52 +0000"
       },
       {
-        "titulo": "\"Álvarez sabe lo que está pasando\": la contundente definición del tribunal para que siga el juicio al \"Pity\"",
-        "link": "https://www.clarin.com/policiales/alvarez-sabe-pasando-contundente-definicion-tribunal-siga-juicio-pity_0_a0gmq5YdB5.html",
-        "imagen": "https://www.clarin.com/img/2026/10/03/qE-UuRkZ5_1200x630__1.jpg",
+        "titulo": "Misterio y temor en San Martín: buscan a los \"quemacoches\" que ya incendiaron ocho autos en 10 días",
+        "link": "https://www.clarin.com/policiales/misterio-temor-san-martin-buscan-quemacoches-incendiaron-autos-10-dias_0_66ckCPQeSO.html",
+        "imagen": "https://www.clarin.com/img/2026/10/09/JhsJPdQWr_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 09 Oct 2026 20:06:42 +0000"
+        "fecha": "Fri, 09 Oct 2026 14:53:06 +0000"
       },
       {
         "titulo": "Feroz incendio en Berazategui: se prendió fuego la parrilla que se hizo viral por recibir más de 1.000 currículums",
@@ -322,27 +343,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/435GUSWFQREJHFSZQNKNNUEWAE.jpeg?auth=148861cab0341b1f804ba05163ae0ff670bbed455dd5a2aa09f68197e83d1412&smart=true&width=1280&height=963",
         "fuente": "Infobae",
         "fecha": "Sat, 10 Oct 2026 17:52:09 +0000"
-      },
-      {
-        "titulo": "Misterio y temor en San Martín: buscan a los \"quemacoches\" que ya incendiaron ocho autos en 10 días",
-        "link": "https://www.clarin.com/policiales/misterio-temor-san-martin-buscan-quemacoches-incendiaron-autos-10-dias_0_66ckCPQeSO.html",
-        "imagen": "https://www.clarin.com/img/2026/10/09/JhsJPdQWr_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 09 Oct 2026 14:53:06 +0000"
-      },
-      {
-        "titulo": "Este es el truco casero para ahuyentar cucarachas y hormigas con café usado",
-        "link": "https://www.c5n.com/sociedad/este-es-el-truco-casero-ahuyentar-cucarachas-y-hormigas-cafe-usado-n250906",
-        "imagen": "https://media.c5n.com/p/ad98257befe07760193d1dac12803f6b/adjuntos/326/imagenes/000/402/0000402126/1200x675/smart/cafe.png",
-        "fuente": "C5N",
-        "fecha": "Sat, 10 Oct 2026 16:24:55 -0300"
-      },
-      {
-        "titulo": "Impactante video: motochorros armados persiguieron a toda velocidad a un conductor en plena autopista Buenos Aires-La Plata",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/10/impactante-video-motochorros-armados-persiguieron-a-toda-velocidad-a-un-conductor-en-plena-autopista-buenos-aires-la-plata/",
-        "imagen": "https://www.infobae.com/resizer/v2/YXHOWIPW7RDOLEKJZUO3ES47ZQ.jpg?auth=8c919a9fcb365743241df7a0b221fb0e90980ccce95115b29024e22e8ca711c0&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Sat, 10 Oct 2026 17:13:25 +0000"
       }
     ],
     "internacional": [
@@ -533,11 +533,11 @@
         "fecha": "Fri, 09 Oct 2026 20:06:00 -0300"
       },
       {
-        "titulo": "Elon Musk quiere “lograr una cobertura telefónica completa en Estados Unidos” con Starlink y reemplazar empresas",
-        "link": "https://www.infobae.com/tecno/2026/10/11/elon-musk-quiere-lograr-una-cobertura-telefonica-completa-en-estados-unidos-con-starlink-y-reemplazar-empresas/",
-        "imagen": "https://www.infobae.com/resizer/v2/4S4Q3O7M5BH2PO5CU42RYBWKTU.JPG?auth=666d0ccb51b2d8b245b4bec34a0f76a727e495eb9410d1bf934b09f789ee8f12&smart=true&width=5596&height=3731",
+        "titulo": "Video muestra en acción al robot beisbolista definitivo: lanza, atrapa y batea como profesional",
+        "link": "https://www.infobae.com/tecno/2026/10/11/video-muestra-en-accion-al-robot-beisbolista-definitivo-lanza-atrapa-y-batea-como-profesional/",
+        "imagen": "https://www.infobae.com/resizer/v2/RDNRGLFANZFSFOBKRUWLHENOMQ.png?auth=0ea796145cb2c141bd17e4d8e10da4d276708aedb1476a9ce8179f24de662e0f&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Sun, 11 Oct 2026 02:02:13 +0000"
+        "fecha": "Sun, 11 Oct 2026 02:30:28 +0000"
       },
       {
         "titulo": "Por qué los descubrimientos que hicieron los ganadores del Nobel de Química 2026 son decisivos para el conocimiento de la vida y el desarrollo de medicamentos",
@@ -545,13 +545,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Wed, 07 Oct 2026 18:08:29 +0000"
-      },
-      {
-        "titulo": "Premio Nobel de Química 2026: la diferencia mínima entre moléculas \"espejo\" para explicar el origen de la vida",
-        "link": "https://www.ctys.com.ar/premio-nobel-de-quimica-2026-la-diferencia-minima-entre-moleculas-espejo-que-ayuda-a-explicar-el-origen-de-la-vida/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Thu, 08 Oct 2026 14:43:36 +0000"
       },
       {
         "titulo": "OpenAI incorporará una \"marca de agua invisible\" al texto generado por ChatGPT en Europa",
@@ -568,11 +561,11 @@
         "fecha": "Fri, 09 Oct 2026 16:17:03 -0300"
       },
       {
-        "titulo": "CEO de Microsoft pidió crear un “freno de emergencia” para detener a la IA en pleno funcionamiento",
-        "link": "https://www.infobae.com/tecno/2026/10/11/ceo-de-microsoft-pidio-crear-un-freno-de-emergencia-para-detener-a-la-ia-en-pleno-funcionamiento/",
-        "imagen": "https://www.infobae.com/resizer/v2/EL7TK2BWHFFM5FJA2ZVPVCAYWE.JPG?auth=cfe51e64a49945791dda4970208fbdef1a6edc3ffad4d79e36190c30d3652a2c&smart=true&width=3835&height=2513",
+        "titulo": "Elon Musk quiere “lograr una cobertura telefónica completa en Estados Unidos” con Starlink y reemplazar empresas",
+        "link": "https://www.infobae.com/tecno/2026/10/11/elon-musk-quiere-lograr-una-cobertura-telefonica-completa-en-estados-unidos-con-starlink-y-reemplazar-empresas/",
+        "imagen": "https://www.infobae.com/resizer/v2/4S4Q3O7M5BH2PO5CU42RYBWKTU.JPG?auth=666d0ccb51b2d8b245b4bec34a0f76a727e495eb9410d1bf934b09f789ee8f12&smart=true&width=5596&height=3731",
         "fuente": "Infobae Tecno",
-        "fecha": "Sun, 11 Oct 2026 01:28:22 +0000"
+        "fecha": "Sun, 11 Oct 2026 02:02:13 +0000"
       },
       {
         "titulo": "Cazadores argentinos de mensajeros cósmicos celebran el Nobel de Física 2026 al astrofísico belga Francis Halzen",
@@ -580,13 +573,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Tue, 06 Oct 2026 17:13:49 +0000"
-      },
-      {
-        "titulo": "Protegido: Una investigación de la UNLaM analiza cómo la IA podría optimizar el gasto público social",
-        "link": "https://www.ctys.com.ar/inteligencia-artificial-optimizar-gasto-publico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Wed, 07 Oct 2026 03:07:58 +0000"
       },
       {
         "titulo": "OpenAI y Anthropic respaldan una ley en Australia para notificar filtraciones de datos de sus agentes",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/95cccd5b1dcdc7f45b55efd13a30486f/adjuntos/326/imagenes/000/400/0000400916/1200x675/smart/fraude-whatsapp-imagen-generada-ia.jpg",
         "fuente": "C5N",
         "fecha": "Thu, 08 Oct 2026 20:10:00 -0300"
+      },
+      {
+        "titulo": "CEO de Microsoft pidió crear un “freno de emergencia” para detener a la IA en pleno funcionamiento",
+        "link": "https://www.infobae.com/tecno/2026/10/11/ceo-de-microsoft-pidio-crear-un-freno-de-emergencia-para-detener-a-la-ia-en-pleno-funcionamiento/",
+        "imagen": "https://www.infobae.com/resizer/v2/EL7TK2BWHFFM5FJA2ZVPVCAYWE.JPG?auth=cfe51e64a49945791dda4970208fbdef1a6edc3ffad4d79e36190c30d3652a2c&smart=true&width=3835&height=2513",
+        "fuente": "Infobae Tecno",
+        "fecha": "Sun, 11 Oct 2026 01:28:22 +0000"
+      },
+      {
+        "titulo": "“Cambio de paradigma”: Premio Nobel de Fisiología/Medicina 2026 para tres científicos que revolucionaron las neurociencias",
+        "link": "https://www.agenciacyta.org.ar/2026/10/cambio-de-paradigma-premio-nobel-de-fisiologia-medicina-2026-para-tres-cientificos-que-revolucionaron-las-neurociencias/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 05 Oct 2026 17:42:34 +0000"
       }
     ],
     "autos": [
@@ -812,9 +812,9 @@
         "fecha": "Sat, 10 Oct 2026 07:00:00 +0000"
       },
       {
-        "titulo": "Guía para padres: qué tener en cuenta antes de que los niños con diabetes tipo 1 hagan deporte, según un especialista",
-        "link": "https://www.infobae.com/salud/2026/10/10/guia-para-padres-que-tener-en-cuenta-antes-de-que-los-ninos-con-diabetes-tipo-1-hagan-deporte-segun-un-especialista/",
-        "imagen": "https://www.infobae.com/resizer/v2/NDTBZBNU7FEKDM6TNYD5W5QFBQ.png?auth=1dd3c713264f7a239488585eaa9a3361a74885d5bb2438a61881faf0b5e46004&smart=true&width=2752&height=1536",
+        "titulo": "Qué limpiar en casa después de superar un resfrío para evitar contagios",
+        "link": "https://www.infobae.com/salud/2026/10/10/que-limpiar-en-casa-despues-de-superar-un-resfrio-para-evitar-contagios/",
+        "imagen": "https://www.infobae.com/resizer/v2/HXEWFKH6ONC6NKJUNCGGKKNG4Q.png?auth=d56bfd887a0032e3d5dd83fe5a6429ec2084aef1ffb9753e4086a161d566750e&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Sat, 10 Oct 2026 07:00:00 +0000"
       }
@@ -842,11 +842,11 @@
         "fecha": "Sat, 10 Oct 2026 21:08:00 -0300"
       },
       {
-        "titulo": "River se impone por 1 a 0 ante Estudiantes de Río Cuarto en el Monumental",
+        "titulo": "River derrotó a Estudiantes de Río Cuarto por 1 a 0 y decretó su descenso a la Primera Nacional",
         "link": "https://www.eldia.com/deportes/river-vuelve-al-ruedo-con-un-solo-objetivo-el-triunfo-deportes_1791612740",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Sun, 11 Oct 2026 02:11:05 GMT"
+        "fecha": "Sun, 11 Oct 2026 02:21:10 GMT"
       },
       {
         "titulo": "Tristeza en La Plata por el fallecimiento de un exjugador de rugby e hijo de desaparecidos",
