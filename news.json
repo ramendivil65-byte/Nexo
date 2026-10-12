@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T17:23:53.825098+00:00",
+  "actualizado": "2026-10-12T17:48:19.688489+00:00",
   "categorias": {
     "politica": [
       {
@@ -110,11 +110,11 @@
         "fecha": "Mon, 12 Oct 2026 13:41:00 -0300"
       },
       {
-        "titulo": "El oro del BCRA: el abogado Gregorio Dalbón pidió la detención de Luis Caputo y Santiago Bausili por administración fraudulenta",
-        "link": "https://www.infobae.com/economia/2026/10/12/el-oro-del-bcra-el-abogado-gregorio-dalbon-pidio-la-detencion-de-luis-caputo-y-santiago-bausili-por-administracion-fraudulenta/",
-        "imagen": "https://www.infobae.com/resizer/v2/7NUQX32EELFP4MGULKAFWDAORE.jpg?auth=380505f06d6b094ec116e51a8ac6764da4f70c4c98c4627a285265dce4f76bf1&smart=true&width=799&height=533",
+        "titulo": "Insólito ciberataque a supermercados en Francia: hackearon la temperatura de las heladeras para arruinar la mercadería",
+        "link": "https://www.infobae.com/economia/2026/10/12/insolito-ciberataque-a-supermercados-en-francia-hackearon-la-temperatura-de-las-heladeras-para-arruinar-la-mercaderia/",
+        "imagen": "https://www.infobae.com/resizer/v2/77NFN6Y7FVBDBNTAVW6DCLFRR4.jpg?auth=4b22d121302c27e48b55440af2797dfd7232b64de01fff607bb48c1eb4872fb1&smart=true&width=5990&height=3993",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 17:10:07 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:43:31 +0000"
       },
       {
         "titulo": "En medio de los rumores por el rumbo económico, Milei ratificó a Caputo",
@@ -145,11 +145,11 @@
         "fecha": "Mon, 12 Oct 2026 13:00:00 -0300"
       },
       {
-        "titulo": "Turismo en Argentina: qué es lo que más critican los viajeros extranjeros y cuáles son los aspectos mejor valorados",
-        "link": "https://www.infobae.com/economia/2026/10/12/turismo-en-argentina-que-es-lo-que-mas-critican-los-viajeros-extranjeros-y-cuales-son-los-aspectos-mejor-valorados/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZNVTHCI2A5FK7GEMIZLPNNL5KA.png?auth=d47623e55f923a88d93fa44b873d30577dbfde4f3f6325605a2bd76d178cc082&smart=true&width=982&height=657",
+        "titulo": "Vuelve el auto del abuelo: la nueva versión del 2CV será eléctrica, de precio accesible y llegará en 2028",
+        "link": "https://www.infobae.com/economia/2026/10/12/vuelve-el-auto-del-abuelo-la-nueva-version-del-2cv-sera-electrica-de-precio-accesible-y-llegara-en-2028/",
+        "imagen": "https://www.infobae.com/resizer/v2/WSBK3F6L3BHTPM3SBVSNDVXP2U.jpg?auth=8070a7e5a8d3025619c12de52a697f0781a53ef898bc3eb673e45f2c6e58d6b8&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 16:54:57 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:31:38 +0000"
       },
       {
         "titulo": "Milei insiste con el libertarismo, pero el Nobel de Economía lo ganaron dos neokeynesianos",
@@ -175,11 +175,11 @@
     ],
     "deportes": [
       {
-        "titulo": "Sorpresa en Shanghai Carlos Alcaraz cayó ante Zizou Bergs y quedó eliminado del Masters 1000",
-        "link": "https://www.ambito.com/deportes/sorpresa-shanghai-carlos-alcaraz-cayo-zizou-bergs-y-quedo-eliminado-del-masters-1000-n6332784",
-        "imagen": "https://media.ambito.com/p/379e8e703a421aa3ea71fb77077e90d9/adjuntos/239/imagenes/043/698/0043698793/alcaraz.jpg",
+        "titulo": "La tabla anual está al rojo vivo y cinco equipos pelean por el título de Campeón de Liga",
+        "link": "https://www.ambito.com/deportes/la-tabla-anual-esta-al-rojo-vivo-y-cinco-equipos-pelean-el-titulo-campeon-liga-n6332796",
+        "imagen": "https://media.ambito.com/p/6c90e23c9854640d8149161ff33d0057/adjuntos/239/imagenes/043/202/0043202801/river-independiente-rivadavia.png",
         "fuente": "Ámbito",
-        "fecha": "Mon, 12 Oct 2026 13:24:29 -0300"
+        "fecha": "Mon, 12 Oct 2026 14:04:58 -0300"
       },
       {
         "titulo": "Colapinto y el \"peor triplete\" en la Fórmula 1: los problemas de Alpine van más allá del argentino y quedan seis carreras para revertir la crisis",
@@ -189,25 +189,25 @@
         "fecha": "Mon, 12 Oct 2026 16:34:46 +0000"
       },
       {
-        "titulo": "La foto de Leandro Paredes que ilusiona al mundo Boca: ¿llega al clásico con River?",
-        "link": "https://www.c5n.com/deportes/la-foto-leandro-paredes-que-ilusiona-al-mundo-boca-llega-al-clasico-river-n251375",
-        "imagen": "https://media.c5n.com/p/518d0e0c06c4cc934a6561707a76144a/adjuntos/326/imagenes/000/402/0000402910/1200x675/smart/paredes.jpeg",
+        "titulo": "La promesa de Miguel Merentiel si Boca conquista la Copa Sudamericana",
+        "link": "https://www.c5n.com/deportes/la-promesa-miguel-merentiel-si-boca-conquista-la-copa-sudamericana-n251385",
+        "imagen": "https://media.c5n.com/p/6ef2554af5bf3ff53b727f9f7fbe54fe/adjuntos/326/imagenes/000/402/0000402919/1200x675/774x362:794x382/merentiel.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 12:53:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 14:35:00 -0300"
       },
       {
-        "titulo": "La estremecedora historia de una atleta que sufrió un control antidopaje sorpresa tras la muerte de su madre: “Yacía en la habitación de al lado”",
-        "link": "https://www.infobae.com/deportes/2026/10/12/la-estremecedora-historia-de-una-atleta-que-sufrio-un-control-antidopaje-sorpresa-tras-la-muerte-de-su-madre-yacia-en-la-habitacion-de-al-lado/",
-        "imagen": "https://www.infobae.com/resizer/v2/KKE3SYXUJJFPJF4DWOACQNMXBA.jpg?auth=5148c779b5009bde3c7e0b36bfe62d5fedbfbdd046473e064ab78271eb5d6b21&smart=true&width=909&height=511",
+        "titulo": "Tormenta tropical en Utah: 70 corredores de ultramaratón quedaron atrapados en el desierto y fueron evacuados tras una noche a la intemperie",
+        "link": "https://www.infobae.com/estados-unidos/2026/10/12/tormenta-tropical-en-utah-70-corredores-de-ultramaraton-quedaron-atrapados-en-el-desierto-y-fueron-evacuados-tras-una-noche-a-la-intemperie/",
+        "imagen": "https://www.infobae.com/resizer/v2/YUNS4JLRLJD37JFH3VTP7NQGXE.png?auth=af42a0fc7985ea2bfb1845beb6bc4b655a88c2066d48b01cb1d816518bbd55cb&smart=true&width=1315&height=733",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 16:51:32 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:42:08 +0000"
       },
       {
-        "titulo": "Otra baja de peso en Flamengo para jugar con Estudiantes: doble fractura de mandíbula",
-        "link": "https://www.ole.com.ar/futbol-internacional/libertadores/danilo-fractura-mandibula-flamengo-baja-estudiantes-libertadores_0_lHz19IC97m.html",
-        "imagen": "https://www.ole.com.ar/images/2026/10/12/jjng5wdUF_1200x630__1.jpg",
+        "titulo": "Marcos Rojo: tercera semifinal de Libertadores en cuatro años, ¿cómo le fue en las anteriores?",
+        "link": "https://www.ole.com.ar/futbol-primera/marcos-rojo-semifinales-libertadores-estudiantes-flamengo-racing-boca-recuerdo_0_UjyLluMvsQ.html",
+        "imagen": "https://www.ole.com.ar/images/2026/10/12/zotuPHUr8_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Mon, 12 Oct 2026 14:51:54 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:21:26 +0000"
       },
       {
         "titulo": "“Soy el mejor jugador de la historia”: la frase que volvió a poner en tendencia a Cristiano Ronaldo",
@@ -252,11 +252,11 @@
         "fecha": "Sun, 11 Oct 2026 18:27:00 -0300"
       },
       {
-        "titulo": "Alpine tomó una decisión con el auto de Franco Colapinto tras los problemas en Singapur",
-        "link": "https://www.ambito.com/deportes/alpine-tomo-una-decision-el-auto-franco-colapinto-los-problemas-singapur-n6332746",
-        "imagen": "https://media.ambito.com/p/83bf68f57efd0586e8ba1d56f4dd5d67/adjuntos/239/imagenes/043/698/0043698526/franco-colapinto.jpg",
+        "titulo": "Sorpresa en Shanghai Carlos Alcaraz cayó ante Zizou Bergs y quedó eliminado del Masters 1000",
+        "link": "https://www.ambito.com/deportes/sorpresa-shanghai-carlos-alcaraz-cayo-zizou-bergs-y-quedo-eliminado-del-masters-1000-n6332784",
+        "imagen": "https://media.ambito.com/p/379e8e703a421aa3ea71fb77077e90d9/adjuntos/239/imagenes/043/698/0043698793/alcaraz.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 12 Oct 2026 11:38:59 -0300"
+        "fecha": "Mon, 12 Oct 2026 13:24:29 -0300"
       }
     ],
     "policiales_actualidad": [
@@ -361,18 +361,18 @@
         "fecha": "Mon, 12 Oct 2026 13:27:00 -0300"
       },
       {
-        "titulo": "Europa amplía las sanciones a la industria militar de Rusia: un contundente rechazo al pacto de Trump con Putin",
-        "link": "https://www.clarin.com/mundo/europa-amplia-sanciones-industria-militar-rusia-contundente-rechazo-pacto-trump-putin_0_ngmDmqxxiy.html",
-        "imagen": "https://www.clarin.com/img/2026/10/11/n96gUYxpn_1200x630__1.jpg",
+        "titulo": "Elon Musk se convirtió en el mayor donante en la elección legislativa de Estados Unidos con un objetivo: salvar a los republicanos",
+        "link": "https://www.clarin.com/mundo/elon-musk-convirtio-mayor-donante-eleccion-legislativa-estados-unidos-objetivo-salvar-republicanos_0_8FshzOBBTv.html",
+        "imagen": "https://www.clarin.com/img/2025/06/06/lbt07d4U2_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 16:00:29 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:06:35 +0000"
       },
       {
-        "titulo": "Panamá vivió el viernes su terremoto más fuerte desde el gran sismo ocurrido en 1882",
-        "link": "https://www.infobae.com/panama/2026/10/12/panama-vivio-el-viernes-su-terremoto-mas-fuerte-desde-el-gran-sismo-ocurrido-en-1882/",
-        "imagen": "https://www.infobae.com/resizer/v2/5XVPNRCUYVEJJERPY62SSESITA.jpeg?auth=eb325bdd4685e83ebb6cd239aaa04cf8cd2347003ac0da29ff884175c722616d&smart=true&width=694&height=447",
+        "titulo": "Quiénes son los cinco lesionados por el estallido de un tanque de gasolina en Manzanillo",
+        "link": "https://www.infobae.com/cuba/2026/10/12/quienes-son-los-cinco-lesionados-por-el-estallido-de-un-tanque-de-gasolina-en-manzanillo/",
+        "imagen": "https://www.infobae.com/resizer/v2/I4DU2EVXW5BHNDGNOMERE34IQU.jpg?auth=f98af60a3f61b0df75e7e3f5e31be316cb7e8c3c05135abdd534ee6c80e59b0b&smart=true&width=2048&height=1152",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 17:11:17 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:26:21 +0000"
       },
       {
         "titulo": "Francia: crecen los incidentes en las protestas estudiantiles y hay heridos en la previa de una huelga nacional",
@@ -389,18 +389,18 @@
         "fecha": "Mon, 12 Oct 2026 12:52:00 -0300"
       },
       {
-        "titulo": "A 15 días del balotaje en Brasil, los candidatos rezan a la Virgen y la Corte autoriza a Bolsonaro a visitar a su padre",
-        "link": "https://www.clarin.com/mundo/15-dias-balotaje-brasil-candidatos-rezan-virgen-corte-autoriza-bolsonaro-visitar-padre_0_Q90qiMPWXK.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/-T1UrUseH_1200x630__1.jpg",
+        "titulo": "Elecciones en España: los nacionalizados por la \"ley de nietos\" no podrán votar, salvo que prueben que son descendientes de exiliados",
+        "link": "https://www.clarin.com/mundo/elecciones-espana-nacionalizados-ley-nietos-podran-votar-salvo-prueben-descendientes-exiliados_0_coinhiweRO.html",
+        "imagen": "https://www.clarin.com/img/2016/04/25/r1GwoX3KVx_1200x630.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 14:48:11 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:01:07 +0000"
       },
       {
-        "titulo": "Capturan a agentes de la policía de Guatemala, tras chocar una patrulla contra dos motocicletas bajo supuesto estado de ebriedad",
-        "link": "https://www.infobae.com/guatemala/2026/10/12/capturan-a-agentes-de-la-policia-de-guatemala-tras-chocar-una-patrulla-contra-dos-motocicletas-bajo-supuesto-estado-de-ebriedad/",
-        "imagen": "https://www.infobae.com/resizer/v2/D5P2ZIXRHVDOPPD52LZMNWTGDA.jpg?auth=5a23ff77ca186a917e95bc637b9a2f35d4b30931d8e298975cbba6e3f34f6481&smart=true&width=1192&height=640",
+        "titulo": "Costa Rica lidera el suministro regional de cables eléctricos con el 11.2% de su población graduada en educación superior",
+        "link": "https://www.infobae.com/costa-rica/2026/10/12/costa-rica-lidera-el-suministro-regional-de-cables-electricos-con-el-112-de-su-poblacion-graduada-en-educacion-superior/",
+        "imagen": "https://www.infobae.com/resizer/v2/BUFD7GIJWJFBDFEHQKLFQCJMSM.png?auth=19fe81605312bf1b36936be82f39881b572e51c97cf67e86ba0cbbf75db26ba3&smart=true&width=1796&height=1198",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 17:06:11 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:25:02 +0000"
       },
       {
         "titulo": "Rusia rechazó una tregua de 60 días en Ucrania y puso una condición para suspender los ataques",
@@ -417,34 +417,34 @@
         "fecha": "Mon, 12 Oct 2026 10:46:00 -0300"
       },
       {
-        "titulo": "Masiva movilización estudiantil en Francia: se multiplican los incidentes a un día de la marcha nacional",
-        "link": "https://www.clarin.com/mundo/masiva-movilizacion-estudiantil-francia-multiplican-incidentes-dia-marcha-nacional_0_xlhmY82xfh.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/g6aM-J_QR_1200x630__1.jpg",
+        "titulo": "Keiko Fujimori endurece las normas escolares en Perú: las medidas incluyen prohibición de maquillaje y control del largo del pelo y las faldas",
+        "link": "https://www.clarin.com/mundo/keiko-fujimori-endurece-normas-escolares-peru-medidas-incluyen-prohibicion-maquillaje-control-largo-pelo-faldas_0_00YZlVLpuH.html",
+        "imagen": "https://www.clarin.com/img/2026/10/12/-ERzTrORq_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 13:58:22 +0000"
+        "fecha": "Mon, 12 Oct 2026 16:37:56 +0000"
       },
       {
-        "titulo": "“Moviedreams” se estrena en Sitges: el filme argentino que convierte los sueños en el último territorio de privacidad amenazado por la IA",
-        "link": "https://www.infobae.com/cultura/2026/10/12/moviedreams-se-estrena-en-sitges-el-filme-argentino-que-convierte-los-suenos-en-el-ultimo-territorio-de-privacidad-amenazado-por-la-ia/",
-        "imagen": "https://www.infobae.com/resizer/v2/4ABFKXHLBFDA5CH6GEYCR7FC5E.jpg?auth=894e00975c23a63cb8fc987102f4a554a2077d1271f700d8daf753a844fb48fa&smart=true&width=2818&height=1200",
+        "titulo": "Capturan a adolescente señalado de sustraer más de $1,000 de una vivienda en el oriente salvadoreño",
+        "link": "https://www.infobae.com/el-salvador/2026/10/12/capturan-a-adolescente-senalado-de-sustraer-mas-de-1000-de-una-vivienda-en-el-oriente-salvadoreno/",
+        "imagen": "https://www.infobae.com/resizer/v2/UFNAI2S5GNAI3HYTAPHOHTCG7I.png?auth=8a16c60e23dd18fd25a4f7c53085bd4061cc362bdd7adcc2aea7dff551c75d40&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 16:36:04 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:20:41 +0000"
       }
     ],
     "espectaculos": [
       {
-        "titulo": "Inesperada cancelación en Disney+: la divertida sitcom que ya no tendrá segunda temporada",
-        "link": "https://www.ambito.com/espectaculos/inesperada-cancelacion-disney-la-divertida-sitcom-que-ya-no-tendra-segunda-temporada-n6331926",
-        "imagen": "https://media.ambito.com/p/781545c811f40327a920c94326974b7e/adjuntos/239/imagenes/043/693/0043693736/1200x675/485x262:505x282/no-aptos-trabajar.jpg",
+        "titulo": "Jésica Cirio fue mamá por segunda vez: nació su hijo con Nicolás Trombino y revelaron el nombre",
+        "link": "https://www.ambito.com/espectaculos/jesica-cirio-fue-mama-segunda-vez-nacio-su-hijo-nicolas-trombino-y-revelaron-el-nombre-n6332806",
+        "imagen": "https://media.ambito.com/p/9f2d33891ad48dfe354acb7a6a35bfc3/adjuntos/239/imagenes/041/022/0041022319/jesica-ciriowebp.png",
         "fuente": "Ámbito",
-        "fecha": "Mon, 12 Oct 2026 13:00:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 14:37:00 -0300"
       },
       {
-        "titulo": "Gustavo Yankelevich reveló el sufrimiento de su nieto con Darío Giordano: \"Franco me dijo que el papá lo desmayó a golpes\"",
-        "link": "https://www.c5n.com/ratingcero/gustavo-yankelevich-revelo-el-sufrimiento-su-nieto-dario-giordano-franco-me-dijo-que-el-papa-lo-desmayo-golpes-n251384",
-        "imagen": "https://media.c5n.com/p/7461413df96024223e5478a6eda6879d/adjuntos/326/imagenes/000/402/0000402918/1200x675/smart/gustavo-franco-y-valentin-yankelevich.jpg",
+        "titulo": "Paula Trápani fue eliminada de MasterChef y reveló su indignación con el jurado: \"Muy justos no fueron\"",
+        "link": "https://www.c5n.com/ratingcero/paula-trapani-fue-eliminada-masterchef-y-revelo-su-indignacion-el-jurado-muy-justos-no-fueron-n251382",
+        "imagen": "https://media.c5n.com/p/d5e82b16ee362128fcbea7aa139a49de/adjuntos/326/imagenes/000/402/0000402917/1200x675/smart/paula-trapani-masterchef.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 14:09:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 14:21:00 -0300"
       },
       {
         "titulo": "Lo que viene: la cuarta temporada de \"La diplomática\" y la película de Darín y Peretti encabezan los estrenos de la semana en el streaming",
@@ -461,18 +461,18 @@
         "fecha": "Mon, 12 Oct 2026 16:59:30 +0000"
       },
       {
-        "titulo": "El juicio a Pity Álvarez se reanuda el viernes y podrá seguir las audiencias por videoconferencia",
-        "link": "https://www.ambito.com/espectaculos/el-juicio-pity-alvarez-se-reanuda-el-viernes-y-podra-seguir-las-audiencias-videoconferencia-n6332772",
-        "imagen": "https://media.ambito.com/p/9e5207a7485db031630793dd6933de68/adjuntos/239/imagenes/043/698/0043698698/pity-alvarez.jpg",
+        "titulo": "Inesperada cancelación en Disney+: la divertida sitcom que ya no tendrá segunda temporada",
+        "link": "https://www.ambito.com/espectaculos/inesperada-cancelacion-disney-la-divertida-sitcom-que-ya-no-tendra-segunda-temporada-n6331926",
+        "imagen": "https://media.ambito.com/p/781545c811f40327a920c94326974b7e/adjuntos/239/imagenes/043/693/0043693736/1200x675/485x262:505x282/no-aptos-trabajar.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 12 Oct 2026 12:52:56 -0300"
+        "fecha": "Mon, 12 Oct 2026 13:00:00 -0300"
       },
       {
-        "titulo": "Furor por las imágenes inéditas del Indio Solari que se volvieron virales en las redes sociales",
-        "link": "https://www.c5n.com/ratingcero/furor-las-imagenes-ineditas-del-indio-solari-que-se-volvieron-virales-las-redes-sociales-n251380",
-        "imagen": "",
+        "titulo": "Gustavo Yankelevich reveló el sufrimiento de su nieto con Darío Giordano: \"Franco me dijo que el papá lo desmayó a golpes\"",
+        "link": "https://www.c5n.com/ratingcero/gustavo-yankelevich-revelo-el-sufrimiento-su-nieto-dario-giordano-franco-me-dijo-que-el-papa-lo-desmayo-golpes-n251384",
+        "imagen": "https://media.c5n.com/p/7461413df96024223e5478a6eda6879d/adjuntos/326/imagenes/000/402/0000402918/1200x675/smart/gustavo-franco-y-valentin-yankelevich.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 14:02:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 14:09:00 -0300"
       },
       {
         "titulo": "Rating del domingo: en medio de un fin de semana largo, MasterChef Celebrity fue lo único que superó los 10 puntos",
@@ -489,18 +489,18 @@
         "fecha": "Mon, 12 Oct 2026 16:41:51 +0000"
       },
       {
-        "titulo": "Despertó sin recuerdos y descubrió una aterradora verdad: la película de Netflix que es furor",
-        "link": "https://www.ambito.com/espectaculos/desperto-recuerdos-y-descubrio-una-aterradora-verdad-la-pelicula-netflix-que-es-furor-n6331936",
-        "imagen": "https://media.ambito.com/p/0f21e5c162d1614ff76360dd3bc64c5c/adjuntos/239/imagenes/043/693/0043693797/1200x675/328x283:348x303/una-mujer-pasado.jpg",
+        "titulo": "El juicio a Pity Álvarez se reanuda el viernes y podrá seguir las audiencias por videoconferencia",
+        "link": "https://www.ambito.com/espectaculos/el-juicio-pity-alvarez-se-reanuda-el-viernes-y-podra-seguir-las-audiencias-videoconferencia-n6332772",
+        "imagen": "https://media.ambito.com/p/9e5207a7485db031630793dd6933de68/adjuntos/239/imagenes/043/698/0043698698/pity-alvarez.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 12 Oct 2026 11:00:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 12:52:56 -0300"
       },
       {
-        "titulo": "Gustavo Yankelevich reveló cuál fue el rol de Cris Morena en medio de la denuncia de su nieto Valentín contra su padre",
-        "link": "https://www.c5n.com/ratingcero/gustavo-yankelevich-revelo-cual-fue-el-rol-cris-morena-medio-la-denuncia-su-nieto-valentin-contra-su-padre-n251383",
-        "imagen": "https://media.c5n.com/p/f89dd3b90eefdf26e1d5ef734e5efd8a/adjuntos/326/imagenes/000/353/0000353225/1200x675/smart/cris-morena.jpg",
+        "titulo": "Furor por las imágenes inéditas del Indio Solari que se volvieron virales en las redes sociales",
+        "link": "https://www.c5n.com/ratingcero/furor-las-imagenes-ineditas-del-indio-solari-que-se-volvieron-virales-las-redes-sociales-n251380",
+        "imagen": "",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 13:57:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 14:02:00 -0300"
       },
       {
         "titulo": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este lunes 12 de octubre de 2026 en Argentina",
@@ -835,11 +835,11 @@
         "fecha": "Sun, 11 Oct 2026 09:02:00 -0300"
       },
       {
-        "titulo": "Denuncian que una parada de micros se convirtió en \"boca de lobo\" en Altos de San Lorenzo",
-        "link": "https://www.eldia.com/la-ciudad/denuncian-que-una-parada-de-micros-se-convirtio-en-boca-de-lobo-en-altos-de-san-lorenzo-la-ciudad_1791823440",
+        "titulo": "“Soy el mejor jugador de la historia”: la frase que volvió a poner en tendencia a Cristiano Ronaldo",
+        "link": "https://www.eldia.com/deportes/soy-el-mejor-jugador-de-la-historia-la-frase-que-volvio-a-poner-en-tendencia-a-cristiano-ronaldo-deportes_1791819720",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 16:47:10 GMT"
+        "fecha": "Mon, 12 Oct 2026 15:54:10 GMT"
       },
       {
         "titulo": "El Hospital de Niños colocó por primera vez un estimulador cerebral profundo en un paciente",
@@ -863,11 +863,11 @@
         "fecha": "Sat, 10 Oct 2026 21:08:00 -0300"
       },
       {
-        "titulo": "Quebró el aserradero Linor: incautan bienes y prohíben la salida del país a su dueño",
-        "link": "https://www.eldia.com/politica-y-economia/quebro-el-aserradero-linor-srl-incautan-bienes-y-prohiben-la-salida-del-pais-a-su-dueno-politica-y-economia_1791816180",
+        "titulo": "Jugando en Inglaterra, Carlos Alcaráz será papá por primera vez y mostró tierno regalo de Gimnasia",
+        "link": "https://www.eldia.com/deportes/jugando-en-inglaterra-el-platense-carlos-alcaraz-sera-papa-por-primera-vez-y-mostro-tierno-regalo-de-gimnasia-deportes_1791814380",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 14:52:47 GMT"
+        "fecha": "Mon, 12 Oct 2026 14:47:14 GMT"
       },
       {
         "titulo": "BTS llega a La Plata y arranca una Semana Coreana con talleres de Cande Copello, norebang y mucho más",
@@ -891,11 +891,11 @@
         "fecha": "Sat, 10 Oct 2026 10:15:00 -0300"
       },
       {
-        "titulo": "Cuándo se activa el extenso paro de médicos y odontólogos del PAMI, y cómo afectará a La Plata",
-        "link": "https://www.eldia.com/la-ciudad/se-activa-el-extenso-paro-de-medicos-y-odontologos-del-pami-como-afectara-a-la-plata-la-ciudad_1791814260",
+        "titulo": "VIDEO | Ola de reclamos en La Plata por el drama de las calles de tierra y el barro. \"No puedo entrar a mi casa\"",
+        "link": "https://www.eldia.com/la-ciudad/ola-de-reclamos-en-la-plata-por-el-drama-de-las-calles-de-tierra-y-el-barro-no-puedo-entrar-a-mi-casa-la-ciudad_1791810240",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 14:37:07 GMT"
+        "fecha": "Mon, 12 Oct 2026 14:52:44 GMT"
       }
     ]
   }
