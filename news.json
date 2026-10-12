@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T22:15:42.295885+00:00",
+  "actualizado": "2026-10-12T22:47:34.560674+00:00",
   "categorias": {
     "politica": [
       {
@@ -10,11 +10,11 @@
         "fecha": "Mon, 12 Oct 2026 19:02:00 -0300"
       },
       {
-        "titulo": "Por el aumento del antisemitismo, la colectividad judía de Estados Unidos ya gasta en seguridad U$S 1.000 millones al año",
-        "link": "https://www.clarin.com/mundo/aumento-antisemitismo-colectividad-judia-estados-unidos-gasta-seguridad-us-1000-millones-ano_0_zDjV6OusJA.html",
-        "imagen": "https://www.clarin.com/img/2026/10/11/Xc-K7yehN_1200x630__1.jpg",
+        "titulo": "El Gobierno pide esta semana al Tribunal del Mar de Hamburgo suspender la explotación petrolera en Malvinas",
+        "link": "https://www.clarin.com/politica/gobierno-pide-semana-tribunal-mar-hamburgo-suspender-explotacion-petrolera-malvinas_0_aiR30UEZSE.html",
+        "imagen": "https://www.clarin.com/img/2012/07/13/ryQWZm03Qg_1200x630.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 20:29:52 +0000"
+        "fecha": "Mon, 12 Oct 2026 21:38:12 +0000"
       },
       {
         "titulo": "Alerta por ciberataque en Francia: hackers elevaron la temperatura de heladeras de supermercados y provocaron pérdidas millonarias",
@@ -52,11 +52,11 @@
         "fecha": "Mon, 12 Oct 2026 15:33:00 -0300"
       },
       {
-        "titulo": "Alberto Fernández dijo que si le hacía caso a Cristina Kirchner \"hubiera estallado la economía y Argentina en mil pedazos\"",
-        "link": "https://www.clarin.com/politica/alberto-fernandez-dijo-caso-cristina-kirchner-estallado-economia-argentina-mil-pedazos_0_XZ8NXgA5CR.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/ivEkgcpHB_1200x630__1.jpg",
+        "titulo": "Por el aumento del antisemitismo, la colectividad judía de Estados Unidos ya gasta en seguridad U$S 1.000 millones al año",
+        "link": "https://www.clarin.com/mundo/aumento-antisemitismo-colectividad-judia-estados-unidos-gasta-seguridad-us-1000-millones-ano_0_zDjV6OusJA.html",
+        "imagen": "https://www.clarin.com/img/2026/10/11/Xc-K7yehN_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 20:27:53 +0000"
+        "fecha": "Mon, 12 Oct 2026 20:29:52 +0000"
       },
       {
         "titulo": "España: el Tribunal Supremo dejó sin voto a 163.000 nacionalizados por la Ley de Nietos",
@@ -117,13 +117,6 @@
         "fecha": "Mon, 12 Oct 2026 21:20:36 +0000"
       },
       {
-        "titulo": "En medio de los rumores por el rumbo económico, Milei ratificó a Caputo",
-        "link": "https://www.tiempoar.com.ar/ta_article/en-medio-de-los-rumores-por-el-rumbo-economico-milei-ratifico-a-caputo/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 12 Oct 2026 14:38:41 +0000"
-      },
-      {
         "titulo": "¿Cuánto cuesta viajar en el Cybercab de Tesla? El precio del robotaxi",
         "link": "https://www.ambito.com/economia/cuanto-cuesta-viajar-el-cybercab-tesla-el-precio-del-robotaxi-n6332123",
         "imagen": "",
@@ -152,13 +145,6 @@
         "fecha": "Mon, 12 Oct 2026 20:48:17 +0000"
       },
       {
-        "titulo": "Milei insiste con el libertarismo, pero el Nobel de Economía lo ganaron dos neokeynesianos",
-        "link": "https://www.tiempoar.com.ar/ta_article/nobel-economia-neokeynesianos/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 12 Oct 2026 14:00:28 +0000"
-      },
-      {
         "titulo": "Luis Caputo negó rumores sobre su salida del gabinete: \"Quédate tranquilo que no voy a renunciar\"",
         "link": "https://www.ambito.com/economia/luis-caputo-nego-rumores-su-salida-del-gabinete-quedate-tranquilo-que-no-voy-renunciar-n6332824",
         "imagen": "",
@@ -171,6 +157,20 @@
         "imagen": "https://www.clarin.com/img/2026/09/04/Y_RdSo9sr_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Mon, 12 Oct 2026 18:53:13 +0000"
+      },
+      {
+        "titulo": "Los colectivos del AMBA transportaron más pasajeros en septiembre, pero cayeron 11% interanual",
+        "link": "https://www.c5n.com/economia/los-colectivos-del-amba-transportaron-mas-pasajeros-septiembre-pero-cayeron-11-interanual-n251381",
+        "imagen": "",
+        "fuente": "C5N",
+        "fecha": "Mon, 12 Oct 2026 13:41:00 -0300"
+      },
+      {
+        "titulo": "La dura queja de Marcos Galperin contra la norma del BCRA que obliga a informar el costo financiero de los préstamos de su app",
+        "link": "https://www.infobae.com/economia/2026/10/12/la-dura-queja-de-marcos-galperin-contra-la-norma-del-bcra-que-obliga-a-informar-el-costo-financiero-de-los-prestamos-de-su-app/",
+        "imagen": "https://www.infobae.com/resizer/v2/G4PIACV7LRGFLEM2RSRCHIIU7Y.jpg?auth=b0a3e27ce0211679902280c540e2fb24229d768252d77dcbee3a40b434db16bd&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Mon, 12 Oct 2026 18:43:39 +0000"
       }
     ],
     "deportes": [
@@ -182,11 +182,11 @@
         "fecha": "Mon, 12 Oct 2026 14:04:58 -0300"
       },
       {
-        "titulo": "\"Me parece que le erré\": revelaron los audios del VAR de las jugadas clave en la goleada de Rosario Central contra Independiente Rivadavia",
-        "link": "https://www.clarin.com/deportes/parece-erre-revelaron-audios-var-jugadas-clave-goleada-rosario-central-independiente-rivadavia_0_n1S2FxaHqA.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/X2vgZ0W6j_1200x630__1.jpg",
+        "titulo": "Guerra por las apuestas en Brasil: la protesta en el Maracaná que terminó con insultos a Lula",
+        "link": "https://www.clarin.com/deportes/guerra-apuestas-brasil-protesta-maracana-termino-insultos-lula_0_GltBQ22uAC.html",
+        "imagen": "https://www.clarin.com/img/2026/10/12/2YUm6XSc9_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 21:11:43 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:01:10 +0000"
       },
       {
         "titulo": "Daniel Osvaldo publicó su primera foto en el hospital tras sufrir una infección pulmonar",
@@ -196,18 +196,18 @@
         "fecha": "Mon, 12 Oct 2026 14:43:00 -0300"
       },
       {
-        "titulo": "Gimnasia de Mendoza y Newell’s cierran la jornada de lunes del Torneo Clausura",
-        "link": "https://www.infobae.com/deportes/2026/10/12/lanus-velez-y-gimnasia-de-mendoza-newells-cerraran-la-fecha-12-del-torneo-clausura-todo-lo-que-hay-que-saber/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZJHF5BMC6BBCNJMWJMTINZLEH4.png?auth=4b4294ab49ba942f82c4b7ca70e10a9a5facce272347ff9d071a845582ae77fb&smart=true&width=2752&height=1536",
+        "titulo": "Piero Maza dirigirá por tercera vez consecutiva a Boca en la Sudamericana: será el árbitro de la ida ante Vasco da Gama",
+        "link": "https://www.infobae.com/deportes/2026/10/12/piero-maza-dirigira-por-tercera-vez-consecutiva-a-boca-en-la-sudamericana-sera-el-arbitro-de-la-ida-ante-vasco-da-gama/",
+        "imagen": "https://www.infobae.com/resizer/v2/XC7PNIEJCZEJ3NDWM4UU3H76VA.JPG?auth=999e30ef16288854d94e4a77a4cf9981c9f1fed478ef0807a2394244eb2fddcf&smart=true&width=2945&height=1991",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 22:01:08 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:32:07 +0000"
       },
       {
-        "titulo": "Gimnasia de Mendoza vs. Newell's, por el Torneo Clausura, hoy EN VIVO: arrancó en Mendoza",
-        "link": "https://www.ole.com.ar/gimnasia-de-mendoza/gimnasia-mendoza-newells-clausura_0_JLhxmS6XaL.html",
-        "imagen": "https://www.ole.com.ar/images/2026/10/12/j2wNuTKNd_1200x630__1.jpg",
+        "titulo": "Guillermo, tras la derrota con Lanús: \"Nuestra única esperanza es ganar lo que que nos queda\" y el agradecimiento al hincha Granate",
+        "link": "https://www.ole.com.ar/velez/guillermo-barros-schelotto-velez-derrota-lanus_0_Z7FH7RpFen.html",
+        "imagen": "https://www.ole.com.ar/images/2026/10/12/tpuWquW8O_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Mon, 12 Oct 2026 20:51:22 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:19:54 +0000"
       },
       {
         "titulo": "Pereyra analiza el ingreso de Harlen Castillo en el arco por las actuaciones de Insfrán",
@@ -275,11 +275,11 @@
         "fecha": "Mon, 12 Oct 2026 18:56:00 -0300"
       },
       {
-        "titulo": "Tres delincuentes siguieron a una mujer hasta que estacionó su auto, intentaron robarle y quedaron detenidos en Mataderos",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/tres-delincuentes-siguieron-a-una-mujer-hasta-que-estaciono-su-auto-intentaron-robarle-y-quedaron-detenidos-en-mataderos/",
-        "imagen": "https://www.infobae.com/resizer/v2/4RMDFSLI7RB3BCR4IK6KXL7FCY.jpg?auth=cb37172e4e44d63e175f68803a331fad2c65fc07550c6331c083c5bf43a90d24&smart=true&width=1920&height=1080",
+        "titulo": "Pánico en Merlo: un joven de 20 años roció con nafta un auto e intentó prender fuego una estación de servicio",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/panico-en-merlo-un-joven-de-20-anos-rocio-con-nafta-un-auto-e-intento-prender-fuego-una-estacion-de-servicio/",
+        "imagen": "https://www.infobae.com/resizer/v2/GUN33REF4JFCFNJYWOWAUGETWM.png?auth=825208c8273268219e6bdac9ac0d9f83e6ce5618435382fa084c438edac24f16&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 21:34:59 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:36:07 +0000"
       },
       {
         "titulo": "El ex baterista de Callejeros fue uno de los primeros trasladados del penal de Devoto a Marcos Paz",
@@ -296,11 +296,11 @@
         "fecha": "Mon, 12 Oct 2026 17:12:00 -0300"
       },
       {
-        "titulo": "La Justicia volvió a citar a Candela Arizaga en la causa contra Facundo Moyano: cuándo deberá presentarse",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/la-justicia-volvio-a-citar-a-candela-arizaga-en-la-causa-contra-facundo-moyano-cuando-debera-presentarse/",
-        "imagen": "https://www.infobae.com/resizer/v2/XTALKMZY35FEPGXK6VUEXRDJ4E.png?auth=37652d2fea2b3fc2b1ae2235c3b8d03941aba90d76a509301132001cca92d1bb&smart=true&width=2752&height=1536",
+        "titulo": "Tres delincuentes siguieron a una mujer hasta que estacionó su auto, intentaron robarle y quedaron detenidos en Mataderos",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/tres-delincuentes-siguieron-a-una-mujer-hasta-que-estaciono-su-auto-intentaron-robarle-y-quedaron-detenidos-en-mataderos/",
+        "imagen": "https://www.infobae.com/resizer/v2/4RMDFSLI7RB3BCR4IK6KXL7FCY.jpg?auth=cb37172e4e44d63e175f68803a331fad2c65fc07550c6331c083c5bf43a90d24&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 18:48:32 +0000"
+        "fecha": "Mon, 12 Oct 2026 21:34:59 +0000"
       },
       {
         "titulo": "Cómo quedaron los pabellones tras los primeros traslados de presos desde el penal de Devoto al de Marcos Paz",
@@ -317,11 +317,11 @@
         "fecha": "Mon, 12 Oct 2026 12:58:00 -0300"
       },
       {
-        "titulo": "Violento ataque en Quilmes: balearon a un remisero para robarle el auto, pero se resistió y destrozó la moto de los asaltantes",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/violento-ataque-en-quilmes-balearon-a-un-remisero-para-robarle-el-auto-pero-se-resistio-y-destrozo-la-moto-de-los-asaltantes/",
-        "imagen": "https://www.infobae.com/resizer/v2/QQMC3ORHJJAUXOXHAOUG4Z35HU.png?auth=59a9cd8c361580a336130acfd789f01f5341f30d9e8c4cd0bc47062c7a21ea6d&smart=true&width=1920&height=1080",
+        "titulo": "La Justicia volvió a citar a Candela Arizaga en la causa contra Facundo Moyano: cuándo deberá presentarse",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/la-justicia-volvio-a-citar-a-candela-arizaga-en-la-causa-contra-facundo-moyano-cuando-debera-presentarse/",
+        "imagen": "https://www.infobae.com/resizer/v2/XTALKMZY35FEPGXK6VUEXRDJ4E.png?auth=37652d2fea2b3fc2b1ae2235c3b8d03941aba90d76a509301132001cca92d1bb&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 17:03:59 +0000"
+        "fecha": "Mon, 12 Oct 2026 18:48:32 +0000"
       },
       {
         "titulo": "Hallaron el cadáver de una joven dentro de una valija en Rosario: detuvieron a un expolicía con antecedentes narco",
@@ -338,11 +338,11 @@
         "fecha": "Mon, 12 Oct 2026 12:50:00 -0300"
       },
       {
-        "titulo": "Córdoba: lo sorprendieron tras ingresar a una alcantarilla y terminó detenido con un cuchillo y cables",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/cordoba-lo-sorprendieron-tras-ingresar-a-una-alcantarilla-y-termino-detenido-con-un-cuchillo-y-cables/",
-        "imagen": "https://www.infobae.com/resizer/v2/H3TJT5DQ4JFKJDUZAMCCQ6KZMU.png?auth=8fdb73bca6195f3cde5b76f01bfceb9b6ea3479e7aef92a3f91b946a395ab31d&smart=true&width=1920&height=1080",
+        "titulo": "Violento ataque en Quilmes: balearon a un remisero para robarle el auto, pero se resistió y destrozó la moto de los asaltantes",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/12/violento-ataque-en-quilmes-balearon-a-un-remisero-para-robarle-el-auto-pero-se-resistio-y-destrozo-la-moto-de-los-asaltantes/",
+        "imagen": "https://www.infobae.com/resizer/v2/QQMC3ORHJJAUXOXHAOUG4Z35HU.png?auth=59a9cd8c361580a336130acfd789f01f5341f30d9e8c4cd0bc47062c7a21ea6d&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 14:10:46 +0000"
+        "fecha": "Mon, 12 Oct 2026 17:03:59 +0000"
       }
     ],
     "internacional": [
@@ -361,18 +361,18 @@
         "fecha": "Mon, 12 Oct 2026 13:27:00 -0300"
       },
       {
-        "titulo": "El Nobel de Economía fue para los estadounidenses Michael Woodford y Robert Hall",
-        "link": "https://www.clarin.com/economia/nobel-economia-estadounidenses-michael-woodford-robert-hall_0_UpuxBWAJLm.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/PfIo4nsuY_1200x630__1.jpg",
+        "titulo": "Viaje del papa León XIV a la Argentina: la Iglesia mantiene la esperanza de que venga pese a su operación",
+        "link": "https://www.clarin.com/mundo/viaje-papa-leon-xiv-argentina-iglesia-mantiene-esperanza-venga-pese-operacion_0_oYavAuedhL.html",
+        "imagen": "https://www.clarin.com/img/2026/10/12/3zuoUaM1H_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 10:08:47 +0000"
+        "fecha": "Mon, 12 Oct 2026 20:49:45 +0000"
       },
       {
-        "titulo": "Joven costarricense murió durante festival de música en Colombia: investigan posible sobredosis",
-        "link": "https://www.infobae.com/costa-rica/2026/10/12/joven-costarricense-murio-durante-festival-de-musica-en-colombia-investigan-posible-sobredosis/",
-        "imagen": "https://www.infobae.com/resizer/v2/CMLWSGRUH5ADJBTTCD5F2WTWME.png?auth=199a8a55e6d1a8cb5eb23a7ba8dc86486b5410c0b7a7549054610adb7ee5375f&smart=true&width=2550&height=1422",
+        "titulo": "Gobierno de Laura Fernández suma dos nuevas bajas: renuncian vicecanciller y viceministro de Economía de Costa Rica",
+        "link": "https://www.infobae.com/costa-rica/2026/10/12/gobierno-de-laura-fernandez-suma-dos-nuevas-bajas-renuncian-vicecanciller-y-viceministro-de-economia-de-costa-rica/",
+        "imagen": "https://www.infobae.com/resizer/v2/EBG4SK7RDFB5TA4CPYNV7IUNKQ.png?auth=b55a7c86d971eec0787c113e9bc93e5fd25f6d9e7ff6a4a341b742f0308f1b62&smart=true&width=1596&height=1132",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 22:10:07 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:38:09 +0000"
       },
       {
         "titulo": "España: el Tribunal Supremo dejó sin voto a 163.000 nacionalizados por la Ley de Nietos",
@@ -389,18 +389,18 @@
         "fecha": "Mon, 12 Oct 2026 12:52:00 -0300"
       },
       {
-        "titulo": "\"¡Viva la muerte!\", el grito que estremeció a una España rota por la guerra civil naciente",
-        "link": "https://www.clarin.com/mundo/viva-muerte-grito-estremecio-espana-rota-guerra-civil-naciente_0_Dh3jv57TRC.html",
-        "imagen": "https://www.clarin.com/img/2018/05/18/rJi9WSRRf_1200x630.jpg",
+        "titulo": "Por el aumento del antisemitismo, la colectividad judía de Estados Unidos ya gasta en seguridad U$S 1.000 millones al año",
+        "link": "https://www.clarin.com/mundo/aumento-antisemitismo-colectividad-judia-estados-unidos-gasta-seguridad-us-1000-millones-ano_0_zDjV6OusJA.html",
+        "imagen": "https://www.clarin.com/img/2026/10/11/Xc-K7yehN_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 09:00:24 +0000"
+        "fecha": "Mon, 12 Oct 2026 20:29:52 +0000"
       },
       {
-        "titulo": "Gobierno busca agilizar una ayuda que aún no llega a la mayoría de los damnificados por el terremoto del viernes en Panamá",
-        "link": "https://www.infobae.com/panama/2026/10/12/gobierno-busca-agilizar-una-ayuda-que-aun-no-llega-a-la-mayoria-de-los-damnificados-por-el-terremoto-del-viernes-en-panama/",
-        "imagen": "https://www.infobae.com/resizer/v2/BLXXXTR6DBF5FN22TX45BAAPE4.jpeg?auth=30f686c360711bdfb0f00d31b8776af24c2e4a63d4b5db1b382c79afc5769d7e&smart=true&width=1600&height=1200",
+        "titulo": "Cámara de Comercio e Industria de El Salvador proyecta conectar a más de 70 empresas en más de 300 citas de negocios internacionales",
+        "link": "https://www.infobae.com/el-salvador/2026/10/12/camara-de-comercio-e-industria-de-el-salvador-proyecta-conectar-a-mas-de-70-empresas-en-mas-de-300-citas-de-negocios-internacionales/",
+        "imagen": "https://www.infobae.com/resizer/v2/M4GW2LUZAZBDTKZGF2ZJGP6TGQ.jpg?auth=a2a7a52b298d5d45538daa842233eae769dcbfb9ce5f89f41167e4ad074c981d&smart=true&width=4088&height=2300",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 21:53:26 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:32:19 +0000"
       },
       {
         "titulo": "Uruguay impulsa un proyecto para habilitar la jubilación desde los 60 años: quiénes podrán acceder",
@@ -417,18 +417,18 @@
         "fecha": "Mon, 12 Oct 2026 10:46:00 -0300"
       },
       {
-        "titulo": "Un incendio destruyó Enfants Rouges, el mercado cubierto más antiguo de París",
-        "link": "https://www.clarin.com/mundo/incendio-destruyo-enfants-rouges-mercado-cubierto-antiguo-paris_0_RHLCbsMuB3.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/_04rBbPgi_1200x630__1.jpg",
+        "titulo": "Interna de la centroizquierda en Francia: el eurodiputado Raphaël Glucksmann venció a la vieja guardia socialista",
+        "link": "https://www.clarin.com/mundo/interna-centroizquierda-francia-eurodiputado-raphael-glucksmann-vencio-vieja-guardia-socialista_0_9nXwCcX6FN.html",
+        "imagen": "https://www.clarin.com/img/2026/10/12/aUXNUuQLF_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 12 Oct 2026 07:23:41 +0000"
+        "fecha": "Mon, 12 Oct 2026 19:30:31 +0000"
       },
       {
-        "titulo": "Paz anunció encuentros con presidentes de países vecinos para reforzar la lucha contra el narcotráfico",
-        "link": "https://www.infobae.com/america/america-latina/2026/10/12/paz-anuncio-encuentros-con-presidentes-de-paises-vecinos-para-reforzar-la-lucha-contra-el-narcotrafico/",
-        "imagen": "https://www.infobae.com/resizer/v2/GY6HLSNTCNDHBIAKZ42YOZRRII.JPG?auth=15ed54544f622288287442a91fb8865d3e57421ca5d5e421c0c8087b30abd51b&smart=true&width=3979&height=2238",
+        "titulo": "Cuba: Operativo de boinas negras en Camagüey terminó en estampida, agresiones policiales y retención de celulares",
+        "link": "https://www.infobae.com/cuba/2026/10/12/cuba-operativo-de-boinas-negras-en-camaguey-termino-en-estampida-agresiones-policiales-y-retencion-de-celulares/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZYVUJAFW7BAL7INEUWZHCUDGEE.jpg?auth=302e7b6daa45def3b8ac99268e2ea29e7d96bb2d57f8a40f1d92bd7865041f03&smart=true&width=2000&height=1500",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 21:50:25 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:15:38 +0000"
       }
     ],
     "espectaculos": [
@@ -440,25 +440,25 @@
         "fecha": "Mon, 12 Oct 2026 18:46:00 -0300"
       },
       {
-        "titulo": "La razón por la que Azul, la hija menor de Romina Yan, siguió viviendo junto a su padre Darío Giordnado",
-        "link": "https://www.c5n.com/ratingcero/la-razon-la-que-azul-la-hija-menor-romina-yan-siguio-viviendo-junto-su-padre-dario-giordnado-n251405",
-        "imagen": "https://media.c5n.com/p/a2f286ca717717adf4fdbc209e517fdb/adjuntos/326/imagenes/000/402/0000402926/1200x675/smart/valentin-yankelevich-azul-giordano-franco-giordano.jpg",
+        "titulo": "De Lali a Claudia Villafañe: los famosos respaldaron a Cris Morena tras la denuncia de su nieto Valentín",
+        "link": "https://www.c5n.com/ratingcero/de-lali-claudia-villafane-los-famosos-respaldaron-cris-morena-la-denuncia-su-nieto-valentin-n251408",
+        "imagen": "https://media.c5n.com/p/27150aa451a419ec4a4b65defed2f413/adjuntos/326/imagenes/000/402/0000402950/1200x675/smart/lali-esposito-y-cris-morena.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 19:03:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 19:36:00 -0300"
       },
       {
         "titulo": "Murió el actor RJ Mitte, protagonista de Breaking Bad",
         "link": "https://www.clarin.com/espectaculos/murio-actor-rj-mitte-protagonista-breaking-bad_0_DgHBAEIMh9.html",
-        "imagen": "https://www.clarin.com/img/2026/10/12/O3JgfXwcH_1200x630__1.jpg",
+        "imagen": "https://www.clarin.com/img/2026/10/12/xPigbVyRV_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Mon, 12 Oct 2026 21:02:40 +0000"
       },
       {
-        "titulo": "Gustavo Yankelevich contó la verdad de por qué Darío Giordano estuvo en el homenaje a Romina Yan: “Nadie lo invitó”",
-        "link": "https://www.infobae.com/teleshow/2026/10/12/gustavo-yankelevich-conto-la-verdad-de-por-que-dario-giordano-estuvo-en-el-homenaje-a-romina-yan-nadie-lo-invito/",
-        "imagen": "https://www.infobae.com/resizer/v2/2ZZPTFZDN5DMBD6UFY3OO7TMWE.jpg?auth=01e59750073dbf1572025c65bafb42d5d9de49a7ab9f4d1fd627c87d9c1fcdb5&smart=true&width=1980&height=1090",
+        "titulo": "Wanda Nara publicó una foto desnuda para promocionarse en una plataforma para adultos y dividió las opiniones",
+        "link": "https://www.infobae.com/teleshow/2026/10/12/wanda-nara-publico-una-foto-desnuda-para-promocionarse-en-una-plataforma-para-adultos-y-dividio-las-opiniones/",
+        "imagen": "https://www.infobae.com/resizer/v2/6SYOGC5GORHP7AL6A5M4TWDP2I.jpg?auth=665d7b9919b406052d79637cd10a6f46367ab29ba7c1c579e35e62c5bc69135d&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 21:30:26 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:43:42 +0000"
       },
       {
         "titulo": "Jésica Cirio fue mamá por segunda vez: nació su hijo con Nicolás Trombino y revelaron el nombre",
@@ -468,11 +468,11 @@
         "fecha": "Mon, 12 Oct 2026 14:37:00 -0300"
       },
       {
-        "titulo": "De qué murió RJ Mitte, el actor que interpretó al hijo de Walter White en Breaking Bad",
-        "link": "https://www.c5n.com/ratingcero/de-que-murio-rj-mitte-el-actor-que-interpreto-al-hijo-walter-white-breaking-bad-n251406",
-        "imagen": "https://media.c5n.com/p/bcd5fb51d6427954247471fb290fefb3/adjuntos/326/imagenes/000/402/0000402944/1200x675/smart/rj-mitte.png",
+        "titulo": "La razón por la que Azul, la hija menor de Romina Yan, siguió viviendo junto a su padre Darío Giordnado",
+        "link": "https://www.c5n.com/ratingcero/la-razon-la-que-azul-la-hija-menor-romina-yan-siguio-viviendo-junto-su-padre-dario-giordnado-n251405",
+        "imagen": "https://media.c5n.com/p/a2f286ca717717adf4fdbc209e517fdb/adjuntos/326/imagenes/000/402/0000402926/1200x675/smart/valentin-yankelevich-azul-giordano-franco-giordano.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 18:23:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 19:03:00 -0300"
       },
       {
         "titulo": "Aparecen imágenes inéditas de Los Redondos de un recital de hace 40 años en un mítico boliche porteño",
@@ -482,11 +482,11 @@
         "fecha": "Mon, 12 Oct 2026 20:37:32 +0000"
       },
       {
-        "titulo": "Cande Tinelli mostró su nuevo cambio de look y bromeó con el resultado: “Dos mechas”",
-        "link": "https://www.infobae.com/teleshow/2026/10/12/cande-tinelli-mostro-su-nuevo-cambio-de-look-y-bromeo-con-el-resultado-dos-mechas/",
-        "imagen": "https://www.infobae.com/resizer/v2/7JE6LJTQEND67IFCB37AJ3SACI.png?auth=570ff98795bfa8bf9409a1edb8144cc65ab45c68985308ac0f06a6b06de690cc&smart=true&width=1920&height=1080",
+        "titulo": "Gustavo Yankelevich contó la verdad de por qué Darío Giordano estuvo en el homenaje a Romina Yan: “Nadie lo invitó”",
+        "link": "https://www.infobae.com/teleshow/2026/10/12/gustavo-yankelevich-conto-la-verdad-de-por-que-dario-giordano-estuvo-en-el-homenaje-a-romina-yan-nadie-lo-invito/",
+        "imagen": "https://www.infobae.com/resizer/v2/2ZZPTFZDN5DMBD6UFY3OO7TMWE.jpg?auth=01e59750073dbf1572025c65bafb42d5d9de49a7ab9f4d1fd627c87d9c1fcdb5&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 20:03:17 +0000"
+        "fecha": "Mon, 12 Oct 2026 21:30:26 +0000"
       },
       {
         "titulo": "Inesperada cancelación en Disney+: la divertida sitcom que ya no tendrá segunda temporada",
@@ -496,11 +496,11 @@
         "fecha": "Mon, 12 Oct 2026 13:00:00 -0300"
       },
       {
-        "titulo": "Qué dijo Guido Kaczka, íntimo amigo de Romina Yan, sobre la denuncia contra Darío Giordano",
-        "link": "https://www.c5n.com/ratingcero/que-dijo-guido-kaczka-intimo-amigo-romina-yan-la-denuncia-contra-dario-giordano-n251400",
-        "imagen": "https://media.c5n.com/p/c7641d2ccc7221e57d016d70cb5352fa/adjuntos/326/imagenes/000/402/0000402943/1200x675/smart/romina-yan-guido-kaczka.jpg",
+        "titulo": "De qué murió RJ Mitte, el actor que interpretó al hijo de Walter White en Breaking Bad",
+        "link": "https://www.c5n.com/ratingcero/de-que-murio-rj-mitte-el-actor-que-interpreto-al-hijo-walter-white-breaking-bad-n251406",
+        "imagen": "https://media.c5n.com/p/bcd5fb51d6427954247471fb290fefb3/adjuntos/326/imagenes/000/402/0000402944/1200x675/smart/rj-mitte.png",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 18:18:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 18:23:00 -0300"
       },
       {
         "titulo": "La actriz Selma Blair, protagonista de Legalmente Rubia, fue arrestada por intentar abrir la puerta de un avión y atacar a la tripulación en pleno vuelo",
@@ -510,11 +510,11 @@
         "fecha": "Mon, 12 Oct 2026 19:29:04 +0000"
       },
       {
-        "titulo": "El emotivo posteo de Cris Morena, luego de la confesión de su nieto Valentín sobre las agresiones que sufrió de su padre",
-        "link": "https://www.infobae.com/teleshow/2026/10/12/el-emotivo-posteo-de-cris-morena-luego-de-la-confesion-de-su-nieto-valentin-sobre-las-agresiones-que-sufrio-de-su-padre/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZIQRRKCYHRCLTKBSOFXSMQUXX4.jpg?auth=48ac39aec59888dfacf859831cfdb53747984b2d43401f9270a31c8bd84bd991&smart=true&width=1920&height=1080",
+        "titulo": "Cande Tinelli mostró su nuevo cambio de look y bromeó con el resultado: “Dos mechas”",
+        "link": "https://www.infobae.com/teleshow/2026/10/12/cande-tinelli-mostro-su-nuevo-cambio-de-look-y-bromeo-con-el-resultado-dos-mechas/",
+        "imagen": "https://www.infobae.com/resizer/v2/7JE6LJTQEND67IFCB37AJ3SACI.png?auth=570ff98795bfa8bf9409a1edb8144cc65ab45c68985308ac0f06a6b06de690cc&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 19:54:36 +0000"
+        "fecha": "Mon, 12 Oct 2026 20:03:17 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Mon, 12 Oct 2026 18:04:00 -0300"
       },
       {
-        "titulo": "GPT‑6 y su Intelligent UI: así son las nuevas respuestas interactivas de ChatGPT",
-        "link": "https://www.infobae.com/tecno/2026/10/12/gpt6-y-su-intelligent-ui-asi-son-las-nuevas-respuestas-interactivas-de-chatgpt/",
-        "imagen": "https://www.infobae.com/resizer/v2/5FZUP6K6KNEQPAEE62NYE5NY5E.jpg?auth=4add4c26f8128567be5b83d52866be597120ea83d84bd427876dc9c7a36b1a3e&smart=true&width=1920&height=1044",
+        "titulo": "Logran ejecutar juegos de Windows y la plataforma de Xbox en PlayStation 5 con ‘jailbreak’",
+        "link": "https://www.infobae.com/tecno/2026/10/12/logran-ejecutar-juegos-de-windows-y-la-plataforma-de-xbox-en-playstation-5-con-jailbreak/",
+        "imagen": "https://www.infobae.com/resizer/v2/ABBMGUZ4JVHI7F5WBD2MNVYV6I.png?auth=54db93566b134e1f29b7a0cc262d4d277dcc87c61b16bb93cebc68337da85c46&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 12 Oct 2026 21:44:05 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:43:42 +0000"
       },
       {
         "titulo": "Por qué los descubrimientos que hicieron los ganadores del Nobel de Química 2026 son decisivos para el conocimiento de la vida y el desarrollo de medicamentos",
@@ -545,13 +545,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Wed, 07 Oct 2026 18:08:29 +0000"
-      },
-      {
-        "titulo": "Premio Nobel de Química 2026: la diferencia mínima entre moléculas \"espejo\" para explicar el origen de la vida",
-        "link": "https://www.ctys.com.ar/premio-nobel-de-quimica-2026-la-diferencia-minima-entre-moleculas-espejo-que-ayuda-a-explicar-el-origen-de-la-vida/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Thu, 08 Oct 2026 14:43:36 +0000"
       },
       {
         "titulo": "OpenAI incorporará una \"marca de agua invisible\" al texto generado por ChatGPT en Europa",
@@ -568,11 +561,11 @@
         "fecha": "Mon, 12 Oct 2026 17:31:00 -0300"
       },
       {
-        "titulo": "Meta desafía a Anthropic y OpenAI con Muse Wonder: “Permitirá comportamientos mucho más sofisticados”",
-        "link": "https://www.infobae.com/tecno/2026/10/12/meta-desafia-a-anthropic-y-openai-con-muse-wonder-permitira-comportamientos-mucho-mas-sofisticados/",
-        "imagen": "https://www.infobae.com/resizer/v2/2EV3TKURJVBTRAWOJOGLWWBBIQ.png?auth=7f0af2022656c3e96aec9ae1766649dc210753fd8025e88abe5e7371c003a009&smart=true&width=1920&height=1080",
+        "titulo": "GPT‑6 y su Intelligent UI: así son las nuevas respuestas interactivas de ChatGPT",
+        "link": "https://www.infobae.com/tecno/2026/10/12/gpt6-y-su-intelligent-ui-asi-son-las-nuevas-respuestas-interactivas-de-chatgpt/",
+        "imagen": "https://www.infobae.com/resizer/v2/5FZUP6K6KNEQPAEE62NYE5NY5E.jpg?auth=4add4c26f8128567be5b83d52866be597120ea83d84bd427876dc9c7a36b1a3e&smart=true&width=1920&height=1044",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 12 Oct 2026 20:48:31 +0000"
+        "fecha": "Mon, 12 Oct 2026 21:44:05 +0000"
       },
       {
         "titulo": "Cazadores argentinos de mensajeros cósmicos celebran el Nobel de Física 2026 al astrofísico belga Francis Halzen",
@@ -580,13 +573,6 @@
         "imagen": "",
         "fuente": "Agencia CyTA",
         "fecha": "Tue, 06 Oct 2026 17:13:49 +0000"
-      },
-      {
-        "titulo": "Protegido: Una investigación de la UNLaM analiza cómo la IA podría optimizar el gasto público social",
-        "link": "https://www.ctys.com.ar/inteligencia-artificial-optimizar-gasto-publico/",
-        "imagen": "",
-        "fuente": "Agencia CTyS",
-        "fecha": "Wed, 07 Oct 2026 03:07:58 +0000"
       },
       {
         "titulo": "OpenAI y Anthropic respaldan una ley en Australia para notificar filtraciones de datos de sus agentes",
@@ -601,6 +587,20 @@
         "imagen": "https://media.c5n.com/p/cee5edc4f3e88d22283f5978a7746d32/adjuntos/326/imagenes/000/342/0000342991/1200x675/smart/inteligencia-artificial-y-busqueda-trabajo.jpeg",
         "fuente": "C5N",
         "fecha": "Fri, 09 Oct 2026 20:06:00 -0300"
+      },
+      {
+        "titulo": "Meta desafía a Anthropic y OpenAI con Muse Wonder: “Permitirá comportamientos mucho más sofisticados”",
+        "link": "https://www.infobae.com/tecno/2026/10/12/meta-desafia-a-anthropic-y-openai-con-muse-wonder-permitira-comportamientos-mucho-mas-sofisticados/",
+        "imagen": "https://www.infobae.com/resizer/v2/2EV3TKURJVBTRAWOJOGLWWBBIQ.png?auth=7f0af2022656c3e96aec9ae1766649dc210753fd8025e88abe5e7371c003a009&smart=true&width=1920&height=1080",
+        "fuente": "Infobae Tecno",
+        "fecha": "Mon, 12 Oct 2026 20:48:31 +0000"
+      },
+      {
+        "titulo": "“Cambio de paradigma”: Premio Nobel de Fisiología/Medicina 2026 para tres científicos que revolucionaron las neurociencias",
+        "link": "https://www.agenciacyta.org.ar/2026/10/cambio-de-paradigma-premio-nobel-de-fisiologia-medicina-2026-para-tres-cientificos-que-revolucionaron-las-neurociencias/",
+        "imagen": "",
+        "fuente": "Agencia CyTA",
+        "fecha": "Mon, 05 Oct 2026 17:42:34 +0000"
       }
     ],
     "autos": [
@@ -842,11 +842,11 @@
         "fecha": "Sun, 11 Oct 2026 09:02:00 -0300"
       },
       {
-        "titulo": "Pereyra analiza el ingreso de Harlen Castillo en el arco por las actuaciones de Insfrán",
-        "link": "https://www.eldia.com/deportes/cambio-de-arquero-en-gimnasia-ariel-pereyra-analiza-la-titularidad-de-harlen-castillo-tras-las-dudas-de-insfran-deportes_1791840780",
+        "titulo": "Tras el feriado, arranca una semana con marchas y paro de docentes y universitarios",
+        "link": "https://www.eldia.com/la-ciudad/tras-el-feriado-arranca-una-semana-con-marchas-y-paro-de-docentes-y-universitarios-la-ciudad_1791840180",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 21:34:44 GMT"
+        "fecha": "Mon, 12 Oct 2026 21:45:17 GMT"
       },
       {
         "titulo": "Médicos y odontólogos de PAMI anunciaron un paro de 96 horas: ¿qué pasará en La Plata?",
@@ -870,11 +870,11 @@
         "fecha": "Sat, 10 Oct 2026 21:08:00 -0300"
       },
       {
-        "titulo": "Si Flamengo no agota entradas, ¿qué pasará con la platea de 115 en UNO?",
-        "link": "https://www.eldia.com/deportes/si-flamengo-no-agota-entradas-que-pasara-con-la-platea-de-115-en-uno-deportes_1791837660",
+        "titulo": "“Hubiera estallado Argentina”: la dura advertencia de Alberto Fernández si escuchaba a Cristina Kirchner",
+        "link": "https://www.eldia.com/politica-y-economia/hubiera-estallado-argentina-la-dura-advertencia-de-alberto-fernandez-si-escuchaba-a-cristina-kirchner-politica-y-economia_1791838560",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 21:11:52 GMT"
+        "fecha": "Mon, 12 Oct 2026 20:57:13 GMT"
       },
       {
         "titulo": "El peronismo reunió a más de 300 militantes en La Plata y Gisela Marziotta llamó a volver a la Rosada en 2027",
@@ -898,11 +898,11 @@
         "fecha": "Sat, 10 Oct 2026 10:15:00 -0300"
       },
       {
-        "titulo": "VIDEO | Las Cataratas del Iguazú: casi ocultas bajo el agua",
-        "link": "https://www.eldia.com/informacion-general/impactante-video-aereo-de-las-cataratas-del-iguazu-los-saltos-quedaron-casi-ocultos-bajo-el-agua-informacion-general_1791835260",
+        "titulo": "“Nos vemos pronto, en Argentina”: la frase del papa León XIV a un arzobispo a un día de su operación",
+        "link": "https://www.eldia.com/espectaculos/nos-vemos-pronto-en-argentina-la-frase-del-papa-leon-xiv-a-un-arzobispo-a-un-dia-de-su-operacion-espectaculos_1791835980",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 20:09:02 GMT"
+        "fecha": "Mon, 12 Oct 2026 20:14:18 GMT"
       }
     ]
   }
