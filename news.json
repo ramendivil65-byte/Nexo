@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T22:47:34.560674+00:00",
+  "actualizado": "2026-10-12T23:16:35.498793+00:00",
   "categorias": {
     "politica": [
       {
@@ -117,6 +117,13 @@
         "fecha": "Mon, 12 Oct 2026 21:20:36 +0000"
       },
       {
+        "titulo": "En medio de los rumores por el rumbo económico, Milei ratificó a Caputo",
+        "link": "https://www.tiempoar.com.ar/ta_article/en-medio-de-los-rumores-por-el-rumbo-economico-milei-ratifico-a-caputo/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 12 Oct 2026 14:38:41 +0000"
+      },
+      {
         "titulo": "¿Cuánto cuesta viajar en el Cybercab de Tesla? El precio del robotaxi",
         "link": "https://www.ambito.com/economia/cuanto-cuesta-viajar-el-cybercab-tesla-el-precio-del-robotaxi-n6332123",
         "imagen": "",
@@ -145,6 +152,13 @@
         "fecha": "Mon, 12 Oct 2026 20:48:17 +0000"
       },
       {
+        "titulo": "Milei insiste con el libertarismo, pero el Nobel de Economía lo ganaron dos neokeynesianos",
+        "link": "https://www.tiempoar.com.ar/ta_article/nobel-economia-neokeynesianos/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 12 Oct 2026 14:00:28 +0000"
+      },
+      {
         "titulo": "Luis Caputo negó rumores sobre su salida del gabinete: \"Quédate tranquilo que no voy a renunciar\"",
         "link": "https://www.ambito.com/economia/luis-caputo-nego-rumores-su-salida-del-gabinete-quedate-tranquilo-que-no-voy-renunciar-n6332824",
         "imagen": "",
@@ -157,20 +171,6 @@
         "imagen": "https://www.clarin.com/img/2026/09/04/Y_RdSo9sr_1200x630__1.jpg",
         "fuente": "Clarín",
         "fecha": "Mon, 12 Oct 2026 18:53:13 +0000"
-      },
-      {
-        "titulo": "Los colectivos del AMBA transportaron más pasajeros en septiembre, pero cayeron 11% interanual",
-        "link": "https://www.c5n.com/economia/los-colectivos-del-amba-transportaron-mas-pasajeros-septiembre-pero-cayeron-11-interanual-n251381",
-        "imagen": "",
-        "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 13:41:00 -0300"
-      },
-      {
-        "titulo": "La dura queja de Marcos Galperin contra la norma del BCRA que obliga a informar el costo financiero de los préstamos de su app",
-        "link": "https://www.infobae.com/economia/2026/10/12/la-dura-queja-de-marcos-galperin-contra-la-norma-del-bcra-que-obliga-a-informar-el-costo-financiero-de-los-prestamos-de-su-app/",
-        "imagen": "https://www.infobae.com/resizer/v2/G4PIACV7LRGFLEM2RSRCHIIU7Y.jpg?auth=b0a3e27ce0211679902280c540e2fb24229d768252d77dcbee3a40b434db16bd&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 18:43:39 +0000"
       }
     ],
     "deportes": [
@@ -196,11 +196,11 @@
         "fecha": "Mon, 12 Oct 2026 14:43:00 -0300"
       },
       {
-        "titulo": "Piero Maza dirigirá por tercera vez consecutiva a Boca en la Sudamericana: será el árbitro de la ida ante Vasco da Gama",
-        "link": "https://www.infobae.com/deportes/2026/10/12/piero-maza-dirigira-por-tercera-vez-consecutiva-a-boca-en-la-sudamericana-sera-el-arbitro-de-la-ida-ante-vasco-da-gama/",
-        "imagen": "https://www.infobae.com/resizer/v2/XC7PNIEJCZEJ3NDWM4UU3H76VA.JPG?auth=999e30ef16288854d94e4a77a4cf9981c9f1fed478ef0807a2394244eb2fddcf&smart=true&width=2945&height=1991",
+        "titulo": "Boca mostró en 3D cómo será el Gimnasio Miguel Ángel Russo: “Una obra que homenajea a quien dejó una huella imborrable”",
+        "link": "https://www.infobae.com/deportes/2026/10/12/boca-mostro-en-3d-como-sera-el-gimnasio-miguel-angel-russo-una-obra-que-homenajea-a-quien-dejo-una-huella-imborrable/",
+        "imagen": "https://www.infobae.com/resizer/v2/5MGLLBHOUZDSVDVTXWHKGMZKKY.JPG?auth=4b88e0e5eb4beb110bdae316145009a3c67fef9e6317e86d69cc4a93fcc50ce8&smart=true&width=1920&height=1025",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 22:32:07 +0000"
+        "fecha": "Mon, 12 Oct 2026 23:04:10 +0000"
       },
       {
         "titulo": "Guillermo, tras la derrota con Lanús: \"Nuestra única esperanza es ganar lo que que nos queda\" y el agradecimiento al hincha Granate",
@@ -231,6 +231,13 @@
         "fecha": "Mon, 12 Oct 2026 19:35:05 GMT"
       },
       {
+        "titulo": "La preparación especial de Alexis Castro para las semifinales de la Copa Libertadores",
+        "link": "https://www.0221.com.ar/estudiantes/la-preparacion-especial-alexis-castro-las-semifinales-la-copa-libertadores-n135686",
+        "imagen": "https://media.0221.com.ar/p/eee65cfb161b089e07efcdd8fba66a80/adjuntos/357/imagenes/100/299/0100299476/1200x630/smart/estudiantes-entrenamiento-alexis-castro.png",
+        "fuente": "0221 Deportes",
+        "fecha": "Mon, 12 Oct 2026 19:42:00 -0300"
+      },
+      {
         "titulo": "La promesa del arco de Estudiantes fue convocada para jugar el Mundial Sub 15 con la Selección argentina",
         "link": "https://www.0221.com.ar/estudiantes/la-promesa-del-arco-estudiantes-fue-convocada-jugar-el-mundial-sub-15-la-seleccion-argentina-n135681",
         "imagen": "https://media.0221.com.ar/p/4a2ba104314135a4cf257b1e9d01be3f/adjuntos/357/imagenes/100/299/0100299457/1200x630/smart/estudiantes-santino-arias-argentina-1.png",
@@ -243,13 +250,6 @@
         "imagen": "https://media.0221.com.ar/p/b140349f99c95db561dcdd35c1053ab0/adjuntos/357/imagenes/100/293/0100293787/1200x630/1045x398:1065x418/rosario-central-gimnasia-festejo-gol.png",
         "fuente": "0221 Deportes",
         "fecha": "Mon, 12 Oct 2026 17:06:00 -0300"
-      },
-      {
-        "titulo": "Mariano Ojeda, el lateral que sorprendió a Ariel Pereyra por su pegada y debutó en Gimnasia",
-        "link": "https://www.0221.com.ar/gimnasia/mariano-ojeda-el-lateral-que-sorprendio-ariel-pereyra-su-pegada-y-debuto-gimnasia-n135679",
-        "imagen": "https://media.0221.com.ar/p/fc5f570b4f6c806c683f69e7c3ce4618/adjuntos/357/imagenes/100/299/0100299451/1200x630/smart/gimnasia-tucuman-ojeda.png",
-        "fuente": "0221 Deportes",
-        "fecha": "Mon, 12 Oct 2026 16:17:00 -0300"
       },
       {
         "titulo": "Sorpresa en Shanghai Carlos Alcaraz cayó ante Zizou Bergs y quedó eliminado del Masters 1000",
@@ -268,11 +268,11 @@
         "fecha": "Mon, 12 Oct 2026 20:02:10 +0000"
       },
       {
-        "titulo": "Creaba fotos con IA de sus compañeras desnudas y las vendía por WhatsApp y OnlyFans",
-        "link": "https://www.c5n.com/sociedad/creaba-fotos-ia-sus-companeras-desnudas-y-las-vendia-whatsapp-y-onlyfans-n251407",
-        "imagen": "https://media.c5n.com/p/90e5ff2fc07e6ddba616270e1f028f85/adjuntos/326/imagenes/000/402/0000402946/1200x675/smart/colegio-tucuman-protesta.jpg",
+        "titulo": "\"No te cases ni te embarques\": por qué el martes 13 se considera un día de \"mala suerte\"",
+        "link": "https://www.c5n.com/sociedad/no-te-cases-ni-te-embarques-que-el-martes-13-se-considera-un-dia-mala-suerte-n251410",
+        "imagen": "https://media.c5n.com/p/1f2b30a810fba864c8e0d9b128884609/adjuntos/326/imagenes/000/402/0000402952/1200x675/smart/martes-13.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 18:56:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 20:02:00 -0300"
       },
       {
         "titulo": "Pánico en Merlo: un joven de 20 años roció con nafta un auto e intentó prender fuego una estación de servicio",
@@ -289,11 +289,11 @@
         "fecha": "Mon, 12 Oct 2026 18:56:34 +0000"
       },
       {
-        "titulo": "Tragedia en la Ruta 11: un matrimonio y su bebé murieron al chocar de frente con una camioneta",
-        "link": "https://www.c5n.com/sociedad/tragedia-la-ruta-11-un-matrimonio-y-su-bebe-murieron-al-chocar-frente-una-camioneta-n251395",
-        "imagen": "https://media.c5n.com/p/fca184067854435903d7abebff926804/adjuntos/326/imagenes/000/402/0000402934/1200x675/smart/choque-fatal-ruta-11.jpg",
+        "titulo": "Creaba fotos con IA de sus compañeras desnudas y las vendía por WhatsApp y OnlyFans",
+        "link": "https://www.c5n.com/sociedad/creaba-fotos-ia-sus-companeras-desnudas-y-las-vendia-whatsapp-y-onlyfans-n251407",
+        "imagen": "https://media.c5n.com/p/90e5ff2fc07e6ddba616270e1f028f85/adjuntos/326/imagenes/000/402/0000402946/1200x675/smart/colegio-tucuman-protesta.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 17:12:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 18:56:00 -0300"
       },
       {
         "titulo": "Tres delincuentes siguieron a una mujer hasta que estacionó su auto, intentaron robarle y quedaron detenidos en Mataderos",
@@ -310,11 +310,11 @@
         "fecha": "Mon, 12 Oct 2026 17:52:35 +0000"
       },
       {
-        "titulo": "Fin de semana largo confirmado: por qué será feriado el viernes 16 de octubre en 2026",
-        "link": "https://www.c5n.com/sociedad/fin-semana-largo-confirmado-que-sera-feriado-el-viernes-16-octubre-2026-n250993",
-        "imagen": "https://media.c5n.com/p/a7b752f44fba8516c7adaefad0d2ff48/adjuntos/326/imagenes/000/393/0000393392/1200x675/smart/mate.png",
+        "titulo": "Tragedia en la Ruta 11: un matrimonio y su bebé murieron al chocar de frente con una camioneta",
+        "link": "https://www.c5n.com/sociedad/tragedia-la-ruta-11-un-matrimonio-y-su-bebe-murieron-al-chocar-frente-una-camioneta-n251395",
+        "imagen": "https://media.c5n.com/p/fca184067854435903d7abebff926804/adjuntos/326/imagenes/000/402/0000402934/1200x675/smart/choque-fatal-ruta-11.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 12:58:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 17:12:00 -0300"
       },
       {
         "titulo": "La Justicia volvió a citar a Candela Arizaga en la causa contra Facundo Moyano: cuándo deberá presentarse",
@@ -331,11 +331,11 @@
         "fecha": "Mon, 12 Oct 2026 14:50:14 +0000"
       },
       {
-        "titulo": "La salud del papa León XIV: la importancia de los controles de rutina y los desafíos de una cirugía de tórax",
-        "link": "https://www.c5n.com/sociedad/la-salud-del-papa-leon-xiv-la-importancia-los-controles-rutina-y-los-desafios-una-cirugia-torax-n251377",
-        "imagen": "https://media.c5n.com/p/5cdccbf9132c4e00da51ba080d5ddce7/adjuntos/326/imagenes/000/388/0000388274/1200x675/smart/papa-leon.jpg",
+        "titulo": "Fin de semana largo confirmado: por qué será feriado el viernes 16 de octubre en 2026",
+        "link": "https://www.c5n.com/sociedad/fin-semana-largo-confirmado-que-sera-feriado-el-viernes-16-octubre-2026-n250993",
+        "imagen": "https://media.c5n.com/p/a7b752f44fba8516c7adaefad0d2ff48/adjuntos/326/imagenes/000/393/0000393392/1200x675/smart/mate.png",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 12:50:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 12:58:00 -0300"
       },
       {
         "titulo": "Violento ataque en Quilmes: balearon a un remisero para robarle el auto, pero se resistió y destrozó la moto de los asaltantes",
@@ -440,11 +440,11 @@
         "fecha": "Mon, 12 Oct 2026 18:46:00 -0300"
       },
       {
-        "titulo": "De Lali a Claudia Villafañe: los famosos respaldaron a Cris Morena tras la denuncia de su nieto Valentín",
-        "link": "https://www.c5n.com/ratingcero/de-lali-claudia-villafane-los-famosos-respaldaron-cris-morena-la-denuncia-su-nieto-valentin-n251408",
-        "imagen": "https://media.c5n.com/p/27150aa451a419ec4a4b65defed2f413/adjuntos/326/imagenes/000/402/0000402950/1200x675/smart/lali-esposito-y-cris-morena.jpg",
+        "titulo": "Denuncia de Valentín Yankelevich: una periodista reveló que su hija fue clave para descubrir los maltratos",
+        "link": "https://www.c5n.com/ratingcero/denuncia-valentin-yankelevich-una-periodista-revelo-que-su-hija-fue-clave-descubrir-los-maltratos-n251411",
+        "imagen": "https://media.c5n.com/p/1bdd9bd909fc1fdc0d4316d1a896047a/adjuntos/326/imagenes/000/402/0000402953/1200x675/smart/valentin-yankelevich.png",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 19:36:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 19:56:00 -0300"
       },
       {
         "titulo": "Murió el actor RJ Mitte, protagonista de Breaking Bad",
@@ -458,7 +458,7 @@
         "link": "https://www.infobae.com/teleshow/2026/10/12/wanda-nara-publico-una-foto-desnuda-para-promocionarse-en-una-plataforma-para-adultos-y-dividio-las-opiniones/",
         "imagen": "https://www.infobae.com/resizer/v2/6SYOGC5GORHP7AL6A5M4TWDP2I.jpg?auth=665d7b9919b406052d79637cd10a6f46367ab29ba7c1c579e35e62c5bc69135d&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Mon, 12 Oct 2026 22:43:42 +0000"
+        "fecha": "Mon, 12 Oct 2026 22:46:30 +0000"
       },
       {
         "titulo": "Jésica Cirio fue mamá por segunda vez: nació su hijo con Nicolás Trombino y revelaron el nombre",
@@ -468,11 +468,11 @@
         "fecha": "Mon, 12 Oct 2026 14:37:00 -0300"
       },
       {
-        "titulo": "La razón por la que Azul, la hija menor de Romina Yan, siguió viviendo junto a su padre Darío Giordnado",
-        "link": "https://www.c5n.com/ratingcero/la-razon-la-que-azul-la-hija-menor-romina-yan-siguio-viviendo-junto-su-padre-dario-giordnado-n251405",
-        "imagen": "https://media.c5n.com/p/a2f286ca717717adf4fdbc209e517fdb/adjuntos/326/imagenes/000/402/0000402926/1200x675/smart/valentin-yankelevich-azul-giordano-franco-giordano.jpg",
+        "titulo": "De Lali a Claudia Villafañe: los famosos respaldaron a Cris Morena tras la denuncia de su nieto Valentín",
+        "link": "https://www.c5n.com/ratingcero/de-lali-claudia-villafane-los-famosos-respaldaron-cris-morena-la-denuncia-su-nieto-valentin-n251408",
+        "imagen": "https://media.c5n.com/p/27150aa451a419ec4a4b65defed2f413/adjuntos/326/imagenes/000/402/0000402950/1200x675/smart/lali-esposito-y-cris-morena.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 19:03:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 19:36:00 -0300"
       },
       {
         "titulo": "Aparecen imágenes inéditas de Los Redondos de un recital de hace 40 años en un mítico boliche porteño",
@@ -496,11 +496,11 @@
         "fecha": "Mon, 12 Oct 2026 13:00:00 -0300"
       },
       {
-        "titulo": "De qué murió RJ Mitte, el actor que interpretó al hijo de Walter White en Breaking Bad",
-        "link": "https://www.c5n.com/ratingcero/de-que-murio-rj-mitte-el-actor-que-interpreto-al-hijo-walter-white-breaking-bad-n251406",
-        "imagen": "https://media.c5n.com/p/bcd5fb51d6427954247471fb290fefb3/adjuntos/326/imagenes/000/402/0000402944/1200x675/smart/rj-mitte.png",
+        "titulo": "La razón por la que Azul, la hija menor de Romina Yan, siguió viviendo junto a su padre Darío Giordnado",
+        "link": "https://www.c5n.com/ratingcero/la-razon-la-que-azul-la-hija-menor-romina-yan-siguio-viviendo-junto-su-padre-dario-giordnado-n251405",
+        "imagen": "https://media.c5n.com/p/a2f286ca717717adf4fdbc209e517fdb/adjuntos/326/imagenes/000/402/0000402926/1200x675/smart/valentin-yankelevich-azul-giordano-franco-giordano.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 12 Oct 2026 18:23:00 -0300"
+        "fecha": "Mon, 12 Oct 2026 19:03:00 -0300"
       },
       {
         "titulo": "La actriz Selma Blair, protagonista de Legalmente Rubia, fue arrestada por intentar abrir la puerta de un avión y atacar a la tripulación en pleno vuelo",
@@ -547,6 +547,13 @@
         "fecha": "Wed, 07 Oct 2026 18:08:29 +0000"
       },
       {
+        "titulo": "Premio Nobel de Química 2026: la diferencia mínima entre moléculas \"espejo\" para explicar el origen de la vida",
+        "link": "https://www.ctys.com.ar/premio-nobel-de-quimica-2026-la-diferencia-minima-entre-moleculas-espejo-que-ayuda-a-explicar-el-origen-de-la-vida/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Thu, 08 Oct 2026 14:43:36 +0000"
+      },
+      {
         "titulo": "OpenAI incorporará una \"marca de agua invisible\" al texto generado por ChatGPT en Europa",
         "link": "https://www.ambito.com/tecnologia/openai-incorporara-una-marca-agua-invisible-al-texto-generado-chatgpt-europa-n6330668",
         "imagen": "https://media.ambito.com/p/51ce04569fff57e88464753bb0976312/adjuntos/239/imagenes/043/564/0043564537/1200x675/990x460:1010x480/chatgpt-openai-inteligencia-artificial-1500-x-1000.png",
@@ -575,6 +582,13 @@
         "fecha": "Tue, 06 Oct 2026 17:13:49 +0000"
       },
       {
+        "titulo": "Protegido: Una investigación de la UNLaM analiza cómo la IA podría optimizar el gasto público social",
+        "link": "https://www.ctys.com.ar/inteligencia-artificial-optimizar-gasto-publico/",
+        "imagen": "",
+        "fuente": "Agencia CTyS",
+        "fecha": "Wed, 07 Oct 2026 03:07:58 +0000"
+      },
+      {
         "titulo": "OpenAI y Anthropic respaldan una ley en Australia para notificar filtraciones de datos de sus agentes",
         "link": "https://www.ambito.com/tecnologia/openai-y-anthropic-respaldan-una-ley-australia-notificar-filtraciones-datos-sus-agentes-n6330511",
         "imagen": "https://media.ambito.com/p/2742cec9876850d78f85710a180f938c/adjuntos/239/imagenes/043/619/0043619289/1200x675/755x433:775x453/ciberseguridad-inteligencia-artificial-1500-x-1000.png",
@@ -587,20 +601,6 @@
         "imagen": "https://media.c5n.com/p/cee5edc4f3e88d22283f5978a7746d32/adjuntos/326/imagenes/000/342/0000342991/1200x675/smart/inteligencia-artificial-y-busqueda-trabajo.jpeg",
         "fuente": "C5N",
         "fecha": "Fri, 09 Oct 2026 20:06:00 -0300"
-      },
-      {
-        "titulo": "Meta desafía a Anthropic y OpenAI con Muse Wonder: “Permitirá comportamientos mucho más sofisticados”",
-        "link": "https://www.infobae.com/tecno/2026/10/12/meta-desafia-a-anthropic-y-openai-con-muse-wonder-permitira-comportamientos-mucho-mas-sofisticados/",
-        "imagen": "https://www.infobae.com/resizer/v2/2EV3TKURJVBTRAWOJOGLWWBBIQ.png?auth=7f0af2022656c3e96aec9ae1766649dc210753fd8025e88abe5e7371c003a009&smart=true&width=1920&height=1080",
-        "fuente": "Infobae Tecno",
-        "fecha": "Mon, 12 Oct 2026 20:48:31 +0000"
-      },
-      {
-        "titulo": "“Cambio de paradigma”: Premio Nobel de Fisiología/Medicina 2026 para tres científicos que revolucionaron las neurociencias",
-        "link": "https://www.agenciacyta.org.ar/2026/10/cambio-de-paradigma-premio-nobel-de-fisiologia-medicina-2026-para-tres-cientificos-que-revolucionaron-las-neurociencias/",
-        "imagen": "",
-        "fuente": "Agencia CyTA",
-        "fecha": "Mon, 05 Oct 2026 17:42:34 +0000"
       }
     ],
     "autos": [
@@ -842,11 +842,11 @@
         "fecha": "Sun, 11 Oct 2026 09:02:00 -0300"
       },
       {
-        "titulo": "Tras el feriado, arranca una semana con marchas y paro de docentes y universitarios",
-        "link": "https://www.eldia.com/la-ciudad/tras-el-feriado-arranca-una-semana-con-marchas-y-paro-de-docentes-y-universitarios-la-ciudad_1791840180",
+        "titulo": "Murió RJ Mitte, el actor que interpretó al hijo de Walter White en Breaking Bad",
+        "link": "https://www.eldia.com/espectaculos/murio-rj-mitte-el-actor-que-interpreto-al-hijo-de-walter-white-en-breaking-bad-espectaculos_1791843180",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 21:45:17 GMT"
+        "fecha": "Mon, 12 Oct 2026 22:17:14 GMT"
       },
       {
         "titulo": "Médicos y odontólogos de PAMI anunciaron un paro de 96 horas: ¿qué pasará en La Plata?",
@@ -870,11 +870,11 @@
         "fecha": "Sat, 10 Oct 2026 21:08:00 -0300"
       },
       {
-        "titulo": "“Hubiera estallado Argentina”: la dura advertencia de Alberto Fernández si escuchaba a Cristina Kirchner",
-        "link": "https://www.eldia.com/politica-y-economia/hubiera-estallado-argentina-la-dura-advertencia-de-alberto-fernandez-si-escuchaba-a-cristina-kirchner-politica-y-economia_1791838560",
+        "titulo": "Pereyra analiza el ingreso de Harlen Castillo en el arco por las actuaciones de Insfrán",
+        "link": "https://www.eldia.com/deportes/cambio-de-arquero-en-gimnasia-ariel-pereyra-analiza-la-titularidad-de-harlen-castillo-tras-las-dudas-de-insfran-deportes_1791840780",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 20:57:13 GMT"
+        "fecha": "Mon, 12 Oct 2026 21:34:44 GMT"
       },
       {
         "titulo": "El peronismo reunió a más de 300 militantes en La Plata y Gisela Marziotta llamó a volver a la Rosada en 2027",
@@ -898,11 +898,11 @@
         "fecha": "Sat, 10 Oct 2026 10:15:00 -0300"
       },
       {
-        "titulo": "“Nos vemos pronto, en Argentina”: la frase del papa León XIV a un arzobispo a un día de su operación",
-        "link": "https://www.eldia.com/espectaculos/nos-vemos-pronto-en-argentina-la-frase-del-papa-leon-xiv-a-un-arzobispo-a-un-dia-de-su-operacion-espectaculos_1791835980",
+        "titulo": "Si Flamengo no agota entradas, ¿qué pasará con la platea de 115 en UNO?",
+        "link": "https://www.eldia.com/deportes/si-flamengo-no-agota-entradas-que-pasara-con-la-platea-de-115-en-uno-deportes_1791837660",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 12 Oct 2026 20:14:18 GMT"
+        "fecha": "Mon, 12 Oct 2026 21:11:52 GMT"
       }
     ]
   }
