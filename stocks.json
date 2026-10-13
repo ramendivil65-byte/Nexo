@@ -1,78 +1,61 @@
 {
-  "actualizado": "2026-10-13T12:11:20.313680+00:00",
+  "actualizado": "2026-10-13T15:11:37.544177+00:00",
   "merval": {
     "subas": [
       {
-        "simbolo": "YPF",
-        "porcentaje": 3.85692
-      },
-      {
-        "simbolo": "PAM",
-        "porcentaje": 1.48121
-      },
-      {
-        "simbolo": "CRESY",
-        "porcentaje": 1.22592
+        "simbolo": "SUPV",
+        "porcentaje": 4.314
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": 0.63241048
+        "porcentaje": 3.77062
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": 2.68166
       },
       {
         "simbolo": "BMA",
-        "porcentaje": 0.046180387
-      }
-    ],
-    "bajas": [
-      {
-        "simbolo": "SUPV",
-        "porcentaje": -0.84151391
-      },
-      {
-        "simbolo": "TX",
-        "porcentaje": -0.41251577
+        "porcentaje": 2.35421
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": -0.081506636
+        "porcentaje": 1.56335
       }
-    ]
+    ],
+    "bajas": []
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "KO",
-        "porcentaje": 1.97615
-      },
-      {
         "simbolo": "AAPL",
-        "porcentaje": 1.28624
+        "porcentaje": 1.45174
       },
       {
         "simbolo": "MSFT",
-        "porcentaje": 1.1363
+        "porcentaje": 1.032981
+      },
+      {
+        "simbolo": "HD",
+        "porcentaje": 0.76904718
       },
       {
         "simbolo": "JPM",
-        "porcentaje": 0.39340449
+        "porcentaje": 0.70595641
       },
       {
-        "simbolo": "MCD",
-        "porcentaje": 0.17854788
+        "simbolo": "KO",
+        "porcentaje": 0.50673692
       }
     ],
     "bajas": [
       {
-        "simbolo": "NVDA",
-        "porcentaje": -1.29099
-      },
-      {
         "simbolo": "CAT",
-        "porcentaje": -0.13741622
+        "porcentaje": -4.14827
       },
       {
-        "simbolo": "HD",
-        "porcentaje": -0.041272312
+        "simbolo": "NVDA",
+        "porcentaje": -0.71801311
       }
     ]
   }
