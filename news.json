@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T04:29:16.524791+00:00",
+  "actualizado": "2026-10-14T05:04:03.900398+00:00",
   "categorias": {
     "politica": [
       {
@@ -261,11 +261,11 @@
     ],
     "policiales_actualidad": [
       {
-        "titulo": "Caso Loan: una testigo dio detalles clave sobre el hallazgo del botín y reforzó la hipótesis de la pista falsa",
-        "link": "https://www.clarin.com/policiales/caso-loan-testigo-dio-detalles-clave-hallazgo-botin-reforzo-hipotesis-pista-falsa_0_P5R7GCvSft.html",
-        "imagen": "https://www.clarin.com/img/2024/07/08/OKcVFTOFB_1200x630__1.jpg",
+        "titulo": "Denuncian a un policía por presunto abuso sexual a una detenida en una comisaría de Mendoza",
+        "link": "https://www.clarin.com/policiales/denuncian-policia-presunto-abuso-sexual-detenida-comisaria-mendoza_0_hhL9t3HrEE.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/-OHylIHNE_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 21:40:09 +0000"
+        "fecha": "Wed, 14 Oct 2026 03:02:23 +0000"
       },
       {
         "titulo": "Primavera extrema: el SMN emitió una alerta amarilla por fuertes tormentas",
@@ -273,6 +273,48 @@
         "imagen": "https://media.c5n.com/p/e8d1cdad02cbf44e1b8e77c635ab9d5f/adjuntos/326/imagenes/000/401/0000401534/1200x675/smart/pronostico.png",
         "fuente": "C5N",
         "fecha": "Tue, 13 Oct 2026 22:32:00 -0300"
+      },
+      {
+        "titulo": "Tras una persecución, detuvieron a un adolescente por el robo de un auto en Mar del Plata",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/tras-una-persecucion-detuvieron-a-un-adolescente-por-el-robo-de-un-auto-en-mar-del-plata/",
+        "imagen": "https://www.infobae.com/resizer/v2/FUIBNW2HTZGO5A7PTNX4G73HV4.jpg?auth=e5dadf177f322c5a13143670ff7df05472722b4108466a8e3767c20e32d6a381&smart=true&width=1434&height=1004",
+        "fuente": "Infobae",
+        "fecha": "Wed, 14 Oct 2026 04:57:53 +0000"
+      },
+      {
+        "titulo": "Un patrullero seguía a una moto tras un llamado al 911, chocó con un auto y murió un nene de 2 años",
+        "link": "https://www.clarin.com/policiales/patrullero-seguia-moto-llamado-911-choco-auto-murio-nene-2-anos_0_3ob3J9IdTh.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/FWXHF_kak_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 13 Oct 2026 23:52:58 +0000"
+      },
+      {
+        "titulo": "Dos jóvenes acosaron sexualmente a una adolescente con un robot teledirigido",
+        "link": "https://www.c5n.com/sociedad/dos-jovenes-acosaron-sexualmente-una-adolescente-un-robot-teledirigido-n251513",
+        "imagen": "https://media.c5n.com/p/6b8c1cac8acea01f269b16cbe6e846eb/adjuntos/326/imagenes/000/403/0000403119/1200x675/smart/robot-alemania.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 13 Oct 2026 20:08:00 -0300"
+      },
+      {
+        "titulo": "Una adolescente fue raptada y abusada en un gimnasio en Salta: el acusado seguirá detenido con prisión preventiva",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/una-adolescente-fue-raptada-y-abusada-en-un-gimnasio-en-salta-el-acusado-seguira-detenido-con-prision-preventiva/",
+        "imagen": "https://www.infobae.com/resizer/v2/BQHAQ3FUUBES5OS2S452G2CDLA.jpg?auth=029dacab88dab08bfc6f787cb147328ecb4a19c4bd85e843a92247d0d1644e14&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Wed, 14 Oct 2026 04:51:00 +0000"
+      },
+      {
+        "titulo": "Caso Loan: una testigo dio detalles clave sobre el hallazgo del botín y reforzó la hipótesis de la pista falsa",
+        "link": "https://www.clarin.com/policiales/caso-loan-testigo-dio-detalles-clave-hallazgo-botin-reforzo-hipotesis-pista-falsa_0_P5R7GCvSft.html",
+        "imagen": "https://www.clarin.com/img/2024/07/08/OKcVFTOFB_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Tue, 13 Oct 2026 21:40:09 +0000"
+      },
+      {
+        "titulo": "Planeaban un tiroteo en una universidad de Corrientes, el FBI los descubrió y fueron detenidos",
+        "link": "https://www.c5n.com/sociedad/planeaban-un-tiroteo-una-universidad-corrientes-el-fbi-los-descubrio-y-fueron-detenidos-n251507",
+        "imagen": "https://media.c5n.com/p/1a4a4ffcd097003c39068e20ae002133/adjuntos/326/imagenes/000/403/0000403111/1200x675/smart/allanamiento-chaco-tiroteo-corrientes-universidad.jpg",
+        "fuente": "C5N",
+        "fecha": "Tue, 13 Oct 2026 19:06:00 -0300"
       },
       {
         "titulo": "Femicidio en Santiago del Estero: mató a su pareja cerca de sus hijos y quedó detenido",
@@ -289,48 +331,6 @@
         "fecha": "Tue, 13 Oct 2026 21:00:01 +0000"
       },
       {
-        "titulo": "Dos jóvenes acosaron sexualmente a una adolescente con un robot teledirigido",
-        "link": "https://www.c5n.com/sociedad/dos-jovenes-acosaron-sexualmente-una-adolescente-un-robot-teledirigido-n251513",
-        "imagen": "https://media.c5n.com/p/6b8c1cac8acea01f269b16cbe6e846eb/adjuntos/326/imagenes/000/403/0000403119/1200x675/smart/robot-alemania.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 13 Oct 2026 20:08:00 -0300"
-      },
-      {
-        "titulo": "Juicio por Loan: qué declararon los testigos sobre la búsqueda y el botín, y quiénes están citados para este miércoles",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/juicio-por-loan-que-declararon-los-testigos-sobre-la-busqueda-y-el-botin-y-quienes-estan-citados-para-este-miercoles/",
-        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Wed, 14 Oct 2026 03:30:00 +0000"
-      },
-      {
-        "titulo": "\"Una banda de irresponsables y desalmados\": piden hasta 16 años para los acusados por la muerte de Diego Maradona",
-        "link": "https://www.clarin.com/policiales/banda-irresponsables-desalmados-piden-16-anos-acusados-muerte-diego-maradona_0_ay8aa8jCVv.html",
-        "imagen": "https://www.clarin.com/img/2021/11/24/EJPBAN7Ah_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 20:47:09 +0000"
-      },
-      {
-        "titulo": "Planeaban un tiroteo en una universidad de Corrientes, el FBI los descubrió y fueron detenidos",
-        "link": "https://www.c5n.com/sociedad/planeaban-un-tiroteo-una-universidad-corrientes-el-fbi-los-descubrio-y-fueron-detenidos-n251507",
-        "imagen": "https://media.c5n.com/p/1a4a4ffcd097003c39068e20ae002133/adjuntos/326/imagenes/000/403/0000403111/1200x675/smart/allanamiento-chaco-tiroteo-corrientes-universidad.jpg",
-        "fuente": "C5N",
-        "fecha": "Tue, 13 Oct 2026 19:06:00 -0300"
-      },
-      {
-        "titulo": "Condenaron a dos cordobeses por ser parte de una banda que robaba en dos ciudades de Santa Fe",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/condenaron-a-dos-cordobeses-por-ser-parte-de-una-banda-que-robaba-en-dos-ciudades-de-santa-fe/",
-        "imagen": "https://www.infobae.com/resizer/v2/ZEICPLDPUJHZ5A3M3FNYGT3QOI.jpg?auth=12a48e428fd87a18b392ee6284437688cc8c55df2404f05c0a8ecc07749dee57&smart=true&width=620&height=393",
-        "fuente": "Infobae",
-        "fecha": "Wed, 14 Oct 2026 03:07:58 +0000"
-      },
-      {
-        "titulo": "Crimen de Andrés Blaquier: con el tope de la nueva ley, fijan en 15 años las penas para los dos menores condenados",
-        "link": "https://www.clarin.com/policiales/crimen-andres-blaquier-aplicacion-nueva-ley-fijan-15-anos-penas-menores-condenados_0_lAdLXodA0j.html",
-        "imagen": "https://www.clarin.com/img/2022/10/30/8RGYBxL33_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 18:44:00 +0000"
-      },
-      {
         "titulo": "Condenaron a 15 años de prisión a los dos adolescentes que mataron al empresario Andrés Blaquier para robarle la moto",
         "link": "https://www.c5n.com/sociedad/condenaron-15-anos-prision-los-dos-adolescentes-que-mataron-al-empresario-andres-blaquier-robarle-la-moto-n251499",
         "imagen": "https://media.c5n.com/p/88252820bdbf47a95d4234c7e3d5eb7a/adjuntos/326/imagenes/000/403/0000403091/1200x675/smart/andres-blaquier.jpg",
@@ -338,11 +338,11 @@
         "fecha": "Tue, 13 Oct 2026 18:00:00 -0300"
       },
       {
-        "titulo": "Asaltaron, abusaron y amenazaron de muerte a una mujer dentro de su casa en Rosario",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/asaltaron-abusaron-y-amenazaron-de-muerte-a-una-mujer-dentro-de-su-casa-en-rosario/",
-        "imagen": "https://www.infobae.com/resizer/v2/IKT3AUGQLND4BNKSG2B653FZBY.png?auth=c9d19c07081629111bf4c709b4a798421515504a2fad1a168a5af6ef8ef3a0d8&smart=true&width=1113&height=664",
+        "titulo": "Juicio por Loan: qué declararon los testigos sobre la búsqueda y el botín, y quiénes están citados para este miércoles",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/juicio-por-loan-que-declararon-los-testigos-sobre-la-busqueda-y-el-botin-y-quienes-estan-citados-para-este-miercoles/",
+        "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Wed, 14 Oct 2026 03:05:23 +0000"
+        "fecha": "Wed, 14 Oct 2026 03:30:00 +0000"
       }
     ],
     "internacional": [
@@ -361,18 +361,18 @@
         "fecha": "Tue, 13 Oct 2026 20:57:00 -0300"
       },
       {
-        "titulo": "Qué dice el comunicado completo que confirma el diagnóstico de cáncer de pulmón del papa León XIV",
-        "link": "https://www.clarin.com/mundo/dice-comunicado-completo-confirma-diagnostico-cancer-pulmon-papa-leon-xiv_0_T60onG3PZU.html",
-        "imagen": "https://www.clarin.com/img/2026/09/28/vRT73ob97_1200x630__1.jpg",
+        "titulo": "El papa León XIV fue operado por un cáncer de pulmón y se abren dudas sobre su viaje a la Argentina",
+        "link": "https://www.clarin.com/mundo/salud-papa-leon-xiv-operacion-noticia-cayo-bomba-abre-interrogantes_0_jBk16TxdUM.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/BX4lpbIb6_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 20:26:12 +0000"
+        "fecha": "Wed, 14 Oct 2026 00:47:58 +0000"
       },
       {
-        "titulo": "Bukele inauguró el puente binacional General Manuel José Arce, el segundo más largo de El Salvador",
-        "link": "https://www.infobae.com/el-salvador/2026/10/14/bukele-inauguro-el-puente-binacional-general-manuel-jose-arce-el-segundo-mas-largo-de-el-salvador/",
-        "imagen": "https://www.infobae.com/resizer/v2/GK22Q7EAIBGHNBWHUZ7IHW6264.jpg?auth=e1e856eadb4601467cd2364a43717d8ed50ca514dc36ff2a9a0edc8860ee3b98&smart=true&width=790&height=450",
+        "titulo": "El jefe de la NASA abrió la puerta a la hipótesis extraterrestre y pidió que la agencia sea parte del debate: “Debemos estar en la mesa”",
+        "link": "https://www.infobae.com/america/ciencia-america/2026/10/14/el-jefe-de-la-nasa-abrio-la-puerta-a-la-hipotesis-extraterrestre-y-pidio-que-la-agencia-sea-parte-del-debate-debemos-estar-en-la-mesa/",
+        "imagen": "https://www.infobae.com/resizer/v2/AN2OTB24ZZBJXDPL4EISMOSOWY.JPG?auth=188a187de63d166be71047e860c3d7ed4523ab651d9005f0dc8c118b9b6ad2f1&smart=true&width=6500&height=4335",
         "fuente": "Infobae",
-        "fecha": "Wed, 14 Oct 2026 04:22:26 +0000"
+        "fecha": "Wed, 14 Oct 2026 05:00:00 +0000"
       },
       {
         "titulo": "La reacción de los diarios del mundo a la operación de León XIV por un tumor maligno",
@@ -389,18 +389,18 @@
         "fecha": "Tue, 13 Oct 2026 20:03:00 -0300"
       },
       {
-        "titulo": "Ciberataque a los supermercados en Francia: ahora temen por la seguridad del metro, los trenes y hasta los ascensores",
-        "link": "https://www.clarin.com/mundo/ciberataque-supermercados-francia-ahora-temen-seguridad-metro-trenes-ascensores_0_6V72bznqH5.html",
-        "imagen": "https://www.clarin.com/img/2026/10/13/87q7NQ76g_1200x630__1.jpg",
+        "titulo": "Louis Prevost, uno de los hermanos del Papa León XIV, también se encuentra internado por un cáncer",
+        "link": "https://www.clarin.com/mundo/louis-prevost-hermanos-papa-leon-xiv-encuentra-internado-cancer_0_DbfV093PB8.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/OG_dtAn5l_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 20:13:21 +0000"
+        "fecha": "Tue, 13 Oct 2026 23:48:27 +0000"
       },
       {
-        "titulo": "Por qué Abinader señaló a Nicaragua y Cuba como contraste frente a los avances democráticos de República Dominicana",
-        "link": "https://www.infobae.com/republica-dominicana/2026/10/14/por-que-abinader-senalo-a-nicaragua-y-cuba-como-contraste-frente-a-los-avances-democraticos-de-republica-dominicana/",
-        "imagen": "https://www.infobae.com/resizer/v2/2NCG3I6VZRG6RLYAP3VEYFG4UE.jpg?auth=61f356d4eb615e95db9b73769a40d1ec5a485d7a83c3ef4e48fd47955730ecea&smart=true&width=4088&height=2300",
+        "titulo": "Hallan bajo el mar un anillo con la imagen del Faro de Alejandría, una de las siete maravillas del mundo antiguo",
+        "link": "https://www.infobae.com/america/ciencia-america/2026/10/14/hallan-bajo-el-mar-un-anillo-con-la-imagen-del-faro-de-alejandria-una-de-las-siete-maravillas-del-mundo-antiguo/",
+        "imagen": "https://www.infobae.com/resizer/v2/SPAG4FLJMNEMPFM4OYSUA2FSEE.jpg?auth=082a2cabe6e8996735dbd00b7b30a4932cc5d6346bf2e61bf22157d31041812a&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 14 Oct 2026 04:19:57 +0000"
+        "fecha": "Wed, 14 Oct 2026 05:00:00 +0000"
       },
       {
         "titulo": "Especialistas no descartan la visita del papa León XIV a la Argentina pero advierten que dependerá del posoperatorio",
@@ -417,18 +417,18 @@
         "fecha": "Tue, 13 Oct 2026 18:49:00 -0300"
       },
       {
-        "titulo": "La salud de los papas, un tema delicado para el Vaticano",
-        "link": "https://www.clarin.com/mundo/salud-papas-tema-delicado-vaticano_0_YIaL88f3Aa.html",
-        "imagen": "https://www.clarin.com/img/2026/10/13/G1_E48mS7_1200x630__1.jpg",
+        "titulo": "Tras el aluvión, El Niño vuelve a golpear en Santiago de Chile: voladura de techos, inundaciones y granizo como nieve",
+        "link": "https://www.clarin.com/mundo/aluvion-nino-vuelve-golpear-santiago-chile-voladura-techos-inundaciones-granizo-nieve_0_UyOVItYyZi.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/Kke0m3jJe_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 18:51:04 +0000"
+        "fecha": "Tue, 13 Oct 2026 22:29:14 +0000"
       },
       {
-        "titulo": "Triple homicidio en Honduras: matan a dos hombres y una mujer en Ocotepeque",
-        "link": "https://www.infobae.com/honduras/2026/10/14/triple-homicidio-en-honduras-matan-a-dos-hombres-y-una-mujer-en-ocotepeque/",
-        "imagen": "https://www.infobae.com/resizer/v2/QQIIUICRRFG7DHYLXX2WUQXQJI.webp?auth=d748e858007e0ff99ce95a328db0da861002be7f4f7023714542d440221ba447&smart=true&width=1199&height=692",
+        "titulo": "Zelensky propuso entablar nuevas conversaciones con Estados Unidos para poner fin a la guerra con Rusia",
+        "link": "https://www.infobae.com/america/mundo/2026/10/14/zelensky-propuso-entablar-nuevas-conversaciones-con-estados-unidos-para-poner-fin-a-la-guerra-con-rusia/",
+        "imagen": "https://www.infobae.com/resizer/v2/SNYZ5VCFHVFUFJIV47TQTYFWDQ.jpg?auth=1245b3a9c3e1b11e1e2954cfa8dad08590aedf968082b91de6ba853bdd7648c7&smart=true&width=1920&height=1279",
         "fuente": "Infobae",
-        "fecha": "Wed, 14 Oct 2026 04:19:28 +0000"
+        "fecha": "Wed, 14 Oct 2026 04:55:02 +0000"
       }
     ],
     "espectaculos": [
@@ -447,11 +447,11 @@
         "fecha": "Tue, 13 Oct 2026 22:33:00 -0300"
       },
       {
-        "titulo": "Vienen los Red Hot Chili Peppers: tocarán por primera vez en Rosario, cuándo será el show y cómo conseguir entradas",
-        "link": "https://www.clarin.com/espectaculos/vienen-red-hot-chili-peppers-tocaran-primera-vez-rosario-show-conseguir-entradas_0_smjL5x2KMo.html",
-        "imagen": "https://www.clarin.com/img/2022/04/13/T1_RgyXPD_1200x630__1.jpg",
+        "titulo": "Aaron Paul, de Breaking Bad, despidió a RJ Mitte con un emotivo mensaje: “Estoy desconsolado”",
+        "link": "https://www.clarin.com/espectaculos/aaron-paul-breaking-bad-despidio-rj-mitte-emotivo-mensaje-desconsolado_0_O7OIcgkfzi.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/a_xgmO1AL_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 20:04:27 +0000"
+        "fecha": "Tue, 13 Oct 2026 19:06:51 +0000"
       },
       {
         "titulo": "Pamela David reveló el cambio de look que se hizo para una película y contó su desilusión al no ser elegida: “Lo hizo otra”",
@@ -475,11 +475,11 @@
         "fecha": "Tue, 13 Oct 2026 21:38:00 -0300"
       },
       {
-        "titulo": "Aaron Paul, de Breaking Bad, despidió a RJ Mitte con un emotivo mensaje: “Estoy desconsolado”",
-        "link": "https://www.clarin.com/espectaculos/aaron-paul-breaking-bad-despidio-rj-mitte-emotivo-mensaje-desconsolado_0_O7OIcgkfzi.html",
-        "imagen": "https://www.clarin.com/img/2026/10/13/a_xgmO1AL_1200x630__1.jpg",
+        "titulo": "Los hermanos de Michael Jackson desempolvan el pasado para armar un documental sobre The Jackson 5",
+        "link": "https://www.clarin.com/espectaculos/hermanos-michael-jackson-desempolvan-pasado-armar-documental-jackson-five_0_G6SEQRpha4.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/IWhwGylGk_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 19:06:51 +0000"
+        "fecha": "Tue, 13 Oct 2026 17:02:04 +0000"
       },
       {
         "titulo": "Shakira compartió una foto junto a Antonio de la Rúa tras reunirse en Madrid: “Ha marcado un antes y un después”",
@@ -503,11 +503,11 @@
         "fecha": "Tue, 13 Oct 2026 20:47:00 -0300"
       },
       {
-        "titulo": "Los hermanos de Michael Jackson desempolvan el pasado para armar un documental sobre The Jackson 5",
-        "link": "https://www.clarin.com/espectaculos/hermanos-michael-jackson-desempolvan-pasado-armar-documental-jackson-five_0_G6SEQRpha4.html",
-        "imagen": "https://www.clarin.com/img/2026/10/13/IWhwGylGk_1200x630__1.jpg",
+        "titulo": "Antonio Banderas será Hernán Cortés en una película que usará inteligencia artificial",
+        "link": "https://www.clarin.com/espectaculos/antonio-banderas-hernan-cortes-pelicula-usara-inteligencia-artificial_0_pbr09ExN5K.html",
+        "imagen": "https://www.clarin.com/img/2026/10/13/JuX3TFjWE_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Tue, 13 Oct 2026 17:02:04 +0000"
+        "fecha": "Tue, 13 Oct 2026 15:16:43 +0000"
       },
       {
         "titulo": "Edith Hermida enfrentó a Wanda Nara: “No me gustaba que le ponías la camiseta de Mauro Icardi a los chicos de Maxi López”",
@@ -842,11 +842,11 @@
         "fecha": "Tue, 13 Oct 2026 12:46:00 -0300"
       },
       {
-        "titulo": "Lula propone condonar deudas para sumar votos",
-        "link": "https://www.eldia.com/el-mundo/lula-propone-condonar-deudas-para-sumar-votos-el-mundo_1791951906",
+        "titulo": "El Niño y las lluvias suman otro factor de riesgo: caída de árboles",
+        "link": "https://www.eldia.com/la-ciudad/el-nino-y-las-lluvias-suman-otro-factor-de-riesgo-caida-de-arboles-la-ciudad_1791953779",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 14 Oct 2026 04:25:06 GMT"
+        "fecha": "Wed, 14 Oct 2026 04:56:19 GMT"
       },
       {
         "titulo": "De la mano de Giro 360 y No Juegan con Nadie, la tarde de 0221 Play sigue a pura info y entretenimiento",
@@ -870,11 +870,11 @@
         "fecha": "Sun, 11 Oct 2026 09:02:00 -0300"
       },
       {
-        "titulo": "Recuperación económica lenta: un momento para pensar más allá del corto plazo",
-        "link": "https://www.eldia.com/opinion/recuperacion-economica-lenta-un-momento-para-pensar-mas-alla-del-corto-plazo-opinion_1791951255",
+        "titulo": "Ya no le ponen tope al bono de los médicos",
+        "link": "https://www.eldia.com/la-ciudad/ya-no-le-ponen-tope-al-bono-de-los-medicos-la-ciudad_1791953659",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 14 Oct 2026 04:14:15 GMT"
+        "fecha": "Wed, 14 Oct 2026 04:54:19 GMT"
       },
       {
         "titulo": "Video: comenzó el armado del escenario para los shows de BTS en el Estadio Único de La Plata",
@@ -898,11 +898,11 @@
         "fecha": "Sat, 10 Oct 2026 21:08:00 -0300"
       },
       {
-        "titulo": "Revisión médica a miles de chicos del fútbol infantil",
-        "link": "https://www.eldia.com/opinion/revision-medica-a-miles-de-chicos-del-futbol-infantil-opinion_1791951135",
+        "titulo": "Piden que el arroyo El Pescado sea reserva natural",
+        "link": "https://www.eldia.com/la-ciudad/piden-que-el-arroyo-el-pescado-sea-reserva-natural-la-ciudad_1791953539",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 14 Oct 2026 04:12:15 GMT"
+        "fecha": "Wed, 14 Oct 2026 04:52:19 GMT"
       }
     ]
   }
