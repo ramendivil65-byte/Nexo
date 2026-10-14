@@ -1,70 +1,70 @@
 {
-  "actualizado": "2026-10-14T15:22:56.538297+00:00",
+  "actualizado": "2026-10-14T18:21:12.971078+00:00",
   "merval": {
     "subas": [
       {
         "simbolo": "YPF",
-        "porcentaje": 1.1006
+        "porcentaje": 1.79571
       }
     ],
     "bajas": [
       {
-        "simbolo": "BBAR",
-        "porcentaje": -2.43243
+        "simbolo": "CRESY",
+        "porcentaje": -3.22997
       },
       {
         "simbolo": "BMA",
-        "porcentaje": -2.16101
-      },
-      {
-        "simbolo": "CRESY",
-        "porcentaje": -1.98105
-      },
-      {
-        "simbolo": "TX",
-        "porcentaje": -1.83082
+        "porcentaje": -2.28276
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": -1.69883
+        "porcentaje": -2.17451
+      },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": -1.50579
+      },
+      {
+        "simbolo": "TX",
+        "porcentaje": -1.076456
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "AAPL",
-        "porcentaje": 1.28784
-      },
-      {
         "simbolo": "KO",
-        "porcentaje": 1.28177
+        "porcentaje": 1.91988
       },
       {
         "simbolo": "JPM",
-        "porcentaje": 0.54310333
+        "porcentaje": 0.75280071
+      },
+      {
+        "simbolo": "MCD",
+        "porcentaje": 0.72940183
+      },
+      {
+        "simbolo": "AAPL",
+        "porcentaje": 0.42488676
       }
     ],
     "bajas": [
       {
-        "simbolo": "NVDA",
-        "porcentaje": -2.35866
+        "simbolo": "CAT",
+        "porcentaje": -3.52882
       },
       {
-        "simbolo": "CAT",
-        "porcentaje": -2.1248
+        "simbolo": "NVDA",
+        "porcentaje": -3.38264
       },
       {
         "simbolo": "MSFT",
-        "porcentaje": -0.93845102
+        "porcentaje": -1.64689
       },
       {
         "simbolo": "HD",
-        "porcentaje": -0.56818636
-      },
-      {
-        "simbolo": "MCD",
-        "porcentaje": -0.033924583
+        "porcentaje": -0.26538289
       }
     ]
   }
