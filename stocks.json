@@ -1,66 +1,78 @@
 {
-  "actualizado": "2026-10-16T13:39:17.573664+00:00",
+  "actualizado": "2026-10-16T18:33:28.447458+00:00",
   "merval": {
     "subas": [
       {
+        "simbolo": "YPF",
+        "porcentaje": 1.55547
+      },
+      {
         "simbolo": "CRESY",
-        "porcentaje": 1.71203
+        "porcentaje": 1.27304
       },
       {
         "simbolo": "TX",
-        "porcentaje": 1.35373
-      },
-      {
-        "simbolo": "YPF",
-        "porcentaje": 0.99784657
-      },
-      {
-        "simbolo": "BBAR",
-        "porcentaje": 0.69552104
-      },
-      {
-        "simbolo": "GGAL",
-        "porcentaje": 0.13709563
+        "porcentaje": 0.11427379
       }
     ],
     "bajas": [
       {
-        "simbolo": "PAM",
-        "porcentaje": -0.33436117
+        "simbolo": "SUPV",
+        "porcentaje": -2.86104
       },
       {
         "simbolo": "BMA",
-        "porcentaje": -0.046130678
+        "porcentaje": -2.39889
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": -2.27585
+      },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": -1.62287
+      },
+      {
+        "simbolo": "PAM",
+        "porcentaje": -0.14910953
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "JPM",
-        "porcentaje": 2.17268
-      },
-      {
         "simbolo": "KO",
-        "porcentaje": 1.36957
+        "porcentaje": 0.98913043
       },
       {
-        "simbolo": "MCD",
-        "porcentaje": 0.75463918
+        "simbolo": "JPM",
+        "porcentaje": 0.71826699
       },
       {
         "simbolo": "HD",
-        "porcentaje": 0.50934655
+        "porcentaje": 0.37795543
       },
       {
-        "simbolo": "AAPL",
-        "porcentaje": 0.49122807
+        "simbolo": "MCD",
+        "porcentaje": 0.13814433
       }
     ],
     "bajas": [
       {
+        "simbolo": "MSFT",
+        "porcentaje": -2.4062
+      },
+      {
         "simbolo": "NVDA",
-        "porcentaje": -0.69511382
+        "porcentaje": -1.31197
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": -0.30993619
+      },
+      {
+        "simbolo": "AAPL",
+        "porcentaje": -0.084795322
       }
     ]
   }
