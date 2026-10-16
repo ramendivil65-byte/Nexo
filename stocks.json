@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T23:28:01.862949+00:00",
+  "actualizado": "2026-10-16T02:22:17.137436+00:00",
   "merval": {
     "subas": [
       {
@@ -8,7 +8,7 @@
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": 3.63709
+        "porcentaje": 3.43724
       },
       {
         "simbolo": "GGAL",
@@ -26,15 +26,15 @@
     "bajas": [
       {
         "simbolo": "TX",
-        "porcentaje": -2.92058
+        "porcentaje": -2.85226
       },
       {
         "simbolo": "YPF",
-        "porcentaje": -2.16268
+        "porcentaje": -2.18182
       },
       {
         "simbolo": "PAM",
-        "porcentaje": -0.47058824
+        "porcentaje": -0.33436117
       }
     ]
   },
