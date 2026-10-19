@@ -1,13 +1,55 @@
 {
-  "actualizado": "2026-10-19T17:10:48.654743+00:00",
+  "actualizado": "2026-10-19T21:33:55.641845+00:00",
   "categorias": {
     "politica": [
       {
-        "titulo": "Se acumulan proyectos en el Congreso y crecen las chances de que Javier Milei llame a extraordinarias",
-        "link": "https://www.ambito.com/politica/se-acumulan-proyectos-el-congreso-y-crecen-las-chances-que-javier-milei-llame-extraordinarias-n6335382",
-        "imagen": "https://media.ambito.com/p/bf569c5378b2c44d27aabc69190b64e8/adjuntos/239/imagenes/043/336/0043336773/1200x675/3252x1062:3272x1082/javier-milei-karina-milei-congreso.jpg",
+        "titulo": "Javier Milei defendió el superávit energético y aseguró que “estamos a pocos pasos del millón de barriles diarios\"",
+        "link": "https://www.ambito.com/politica/javier-milei-defendio-el-superavit-energetico-y-aseguro-que-estamos-pocos-pasos-del-millon-barriles-diarios-n6335529",
+        "imagen": "https://media.ambito.com/p/cc23471446370f8d65a1c8af084195f6/adjuntos/239/imagenes/043/713/0043713927/1200x675/smart/milei-nequen.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 14:04:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 18:00:00 -0300"
+      },
+      {
+        "titulo": "Corrupción en la AFA: Tapia y Toviggino ya nombraron diez intermediarios para cobrar contratos de la Selección y hay sospechas por transferencias millonarias",
+        "link": "https://www.clarin.com/politica/corrupcion-afa-tapia-toviggino-nombraron-intermediarios-cobrar-contratos-seleccion-sospechas-transferencias-millonarias_0_ZOzJJM92uL.html",
+        "imagen": "https://www.clarin.com/img/2026/10/17/_mS-aoHWn_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 19 Oct 2026 20:22:22 +0000"
+      },
+      {
+        "titulo": "Brasil llega al balotaje entre Lula da Silva y Flávio Bolsonaro con la corrupción entre las principales preocupaciones",
+        "link": "https://www.ambito.com/mundo/brasil-llega-al-balotaje-lula-da-silva-y-flavio-bolsonaro-la-corrupcion-las-principales-preocupaciones-n6335396",
+        "imagen": "https://media.ambito.com/p/5f7631fd2d5303da4a699421d97f1349/adjuntos/239/imagenes/043/683/0043683847/1200x675/1677x719:1697x739/lula-da-silva-flavio-bolsonaro.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Mon, 19 Oct 2026 14:40:00 -0300"
+      },
+      {
+        "titulo": "Javier Milei en Neuquén: \"Las exportaciones argentinas van a superar los 100 mil millones de dólares\"",
+        "link": "https://www.c5n.com/politica/javier-milei-apertura-expo-oil-gas-neuquen-19-octubre-2026",
+        "imagen": "https://media.c5n.com/p/7ace319086627847b5bafa3048ca2e6b/adjuntos/326/videos/000/403/0000403980/1200x675/smart/discurso-del-presidente-milei-la-argentina-oil-gas-expo-neuquen.jpg",
+        "fuente": "C5N",
+        "fecha": "Mon, 19 Oct 2026 17:35:00 -0300"
+      },
+      {
+        "titulo": "Milei defendió su modelo económico y celebró las exportaciones récord: “En otro contexto, hubiéramos volado por los aires”",
+        "link": "https://www.infobae.com/politica/2026/10/19/milei-defendio-su-modelo-economico-y-celebro-las-exportaciones-record-en-otro-contexto-hubieramos-volado-por-los-aires/",
+        "imagen": "https://www.infobae.com/resizer/v2/6AQTV7OCW5FPZOXY3EZRUHMIWM.jpg?auth=9d237f29aea0fe7fbe6eeccee69367f4940cf624a65a5dc1d24d29eed3b3b424&smart=true&width=3704&height=2134",
+        "fuente": "Infobae",
+        "fecha": "Mon, 19 Oct 2026 21:24:01 +0000"
+      },
+      {
+        "titulo": "Medio siglo después, se juzga la represión en el sur cordobés",
+        "link": "https://www.tiempoar.com.ar/ta_article/medio-siglo-despues-se-juzga-la-represion-en-el-sur-cordobes/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Mon, 19 Oct 2026 20:50:57 +0000"
+      },
+      {
+        "titulo": "FMI: Casación dejó firme el archivo de la denuncia contra Mauricio Macri por el acuerdo de u$s57.100 millones",
+        "link": "https://www.ambito.com/politica/fmi-casacion-dejo-firme-el-archivo-la-denuncia-contra-macri-el-acuerdo-us57100-millones-n6335515",
+        "imagen": "https://media.ambito.com/p/e6ae715eae0f0893c1946de1ec7fc7b3/adjuntos/239/imagenes/043/246/0043246370/mauricio-macri.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Mon, 19 Oct 2026 17:53:00 -0300"
       },
       {
         "titulo": "Otra denuncia de Kicillof contra Milei: ahora por demoras en la transferencia de fondos para atenuar los efectos del Niño",
@@ -24,97 +66,55 @@
         "fecha": "Mon, 19 Oct 2026 13:55:00 -0300"
       },
       {
-        "titulo": "Oro del Banco Central: piden allanar el BCRA e investigar si se pagaron comisiones millonarias",
-        "link": "https://www.c5n.com/politica/oro-del-banco-central-piden-allanar-el-bcra-e-investigar-si-se-pagaron-comisiones-millonarias-n251986",
-        "imagen": "https://media.c5n.com/p/61c2e67f1eddf34aeaaf9f0c8b6519a9/adjuntos/326/imagenes/000/393/0000393626/1200x675/smart/santiago-bausili.png",
+        "titulo": "Claudio Vidal anunció la entrega de terrenos para familias: \"La producción y el trabajo es el camino\"",
+        "link": "https://www.c5n.com/politica/claudio-vidal-anuncio-la-entrega-terrenos-familias-la-produccion-y-el-trabajo-es-el-camino-n252016",
+        "imagen": "https://media.c5n.com/p/126952321451e3464d7b63e9e2f1c1e1/adjuntos/326/imagenes/000/403/0000403975/1200x675/smart/claudio-vidal-santa-cruz.png",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 12:34:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 17:33:00 -0300"
       },
       {
-        "titulo": "Vidal habló del futuro político del PRO: “Soy de las que quieren construir una segunda fuerza y dejar al kirchnerismo tercero”",
-        "link": "https://www.infobae.com/politica/2026/10/19/vidal-hablo-del-futuro-politico-del-pro-soy-de-las-que-quieren-construir-una-segunda-fuerza-y-dejar-al-kirchnerismo-tercero/",
-        "imagen": "https://www.infobae.com/resizer/v2/O7XN3PI7PBF2TM6Q4QWPTDUDBM.png?auth=bca300dbd3f6a5b029f4b726d6c83576d7946d33ae09904cd9e55671efb0e79d&smart=true&width=1299&height=717",
+        "titulo": "La incertidumbre global y el escenario electoral: cómo explica el Gobierno la suba del riesgo país",
+        "link": "https://www.infobae.com/politica/2026/10/19/la-incertidumbre-global-y-el-escenario-electoral-como-explica-el-gobierno-la-suba-del-riesgo-pais/",
+        "imagen": "https://www.infobae.com/resizer/v2/UAV4M7OAMRA37LMIPYCNLFJE7Y.JPG?auth=6bb12580490f463fb6b8522eaf8e4a1d44f4fda3b8b707efa8a4b6c3ce04abbb&smart=true&width=5500&height=3667",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 16:28:55 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:04:42 +0000"
       },
       {
-        "titulo": "«No es retiro voluntario, es despido extorsivo»: ATE marcha a la Quinta de Olivos contra un nuevo ajuste del gobierno",
-        "link": "https://www.tiempoar.com.ar/ta_article/no-es-retiro-voluntario-es-despido-extorsivo-ate-marcha-a-la-quinta-de-olivos-contra-un-nuevo-ajuste-del-gobierno/",
+        "titulo": "Basado en un decreto de 1963, el gobierno de Milei declaró “secreto militar” la compra de equipamiento para las FF AA",
+        "link": "https://www.tiempoar.com.ar/ta_article/basado-en-un-decreto-de-1963-el-gobierno-de-milei-declaro-secreto-militar-la-compra-de-equipamiento-para-las-ff-aa/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 19 Oct 2026 16:10:20 +0000"
-      },
-      {
-        "titulo": "El Gobierno trasladó a 1.400 presos a Marcos Paz y avanza con el cierre de la cárcel de Devoto",
-        "link": "https://www.ambito.com/politica/el-gobierno-traslado-1400-presos-marcos-paz-y-avanza-el-cierre-la-carcel-devoto-n6335310",
-        "imagen": "https://media.ambito.com/p/60b3e1153c3d0759605fe0775131abc0/adjuntos/239/imagenes/043/713/0043713043/devoto-karina-milei-alejandra-monteoliva.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 11:48:00 -0300"
-      },
-      {
-        "titulo": "Milei vuelve a hacer campaña por un líder extranjero: viaja a España para militar por Vox y contra Pedro Sánchez",
-        "link": "https://www.clarin.com/politica/milei-vuelve-hacer-campana-lider-extranjero-viaja-espana-militar-vox-pedro-sanchez_0_UqMenF4mPL.html",
-        "imagen": "https://www.clarin.com/img/2026/05/06/dsjEWOuiz_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 15:50:34 +0000"
-      },
-      {
-        "titulo": "Malvinas: Donald Trump busca cerrar el comité de la ONU que respalda el reclamo argentino",
-        "link": "https://www.ambito.com/mundo/malvinas-donald-trump-busca-cerrar-el-comite-la-onu-que-respalda-el-reclamo-argentino-n6335314",
-        "imagen": "https://media.ambito.com/p/b70d585b1e9efdb5fbef0ff226534721/adjuntos/239/imagenes/043/677/0043677596/milei-trump-.jpg",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Mon, 19 Oct 2026 11:43:00 -0300"
-      },
-      {
-        "titulo": "Con Karina Milei a la cabeza, el Gobierno celebró el final del traslado de presos de Devoto: \"Es un hito\"",
-        "link": "https://www.c5n.com/politica/con-karina-milei-la-cabeza-el-gobierno-celebro-el-final-del-traslado-presos-devoto-es-un-hito-n251972",
-        "imagen": "",
-        "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 10:16:00 -0300"
-      },
-      {
-        "titulo": "Karina Milei gana protagonismo: cerró la primera etapa de traslados de reclusos de Devoto y espera una definición del papa León XIV",
-        "link": "https://www.infobae.com/politica/2026/10/19/karina-milei-gana-protagonismo-cerro-la-primera-etapa-de-traslados-de-reclusos-de-devoto-y-espera-una-definicion-del-papa-leon-xiv/",
-        "imagen": "https://www.infobae.com/resizer/v2/UVOVL4TCSVD43IBCMZD2H2RZFY.jpg?auth=df0dd861e8998c012139dd868b6335076660a1e75873ea999602ec7305a3eab7&smart=true&width=1280&height=853",
-        "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 15:58:22 +0000"
-      },
-      {
-        "titulo": "El Gobierno sin votos para eliminar las PASO y pocos avances en otros proyectos",
-        "link": "https://www.tiempoar.com.ar/ta_article/paso-gobierno-sin-votos-eliminar/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Mon, 19 Oct 2026 15:01:18 +0000"
+        "fecha": "Mon, 19 Oct 2026 20:10:15 +0000"
       }
     ],
     "economia": [
       {
-        "titulo": "Las exportaciones de las pymes alcanzaron su mayor valor en 13 años",
-        "link": "https://www.ambito.com/economia/las-exportaciones-las-pymes-alcanzaron-su-mayor-valor-13-anos-n6335392",
-        "imagen": "https://media.ambito.com/p/bae678eacfb422f94ea7eb64b7400aad/adjuntos/239/imagenes/042/878/0042878726/1200x675/smart/exportacion-696x348.jpg",
+        "titulo": "El superávit comercial de septiembre rozó los u$s3.000 millones, segundo máximo de 2026",
+        "link": "https://www.ambito.com/economia/el-superavit-comercial-septiembre-rozo-los-us3000-millones-segundo-maximo-2026-n6335477",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 13:46:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 16:39:00 -0300"
       },
       {
-        "titulo": "¿100 millones de ingresos con solo 45 empleados? Ya está pasando",
-        "link": "https://www.clarin.com/economia/100-millones-ingresos-solo-45-empleados-pasando_0_whLLP2yt8C.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/8Aq_0ZSuA_1200x630__1.jpg",
+        "titulo": "“Extrema gravedad”: una asociación empresaria pide la remoción del juez que absolvió a dirigentes de Camioneros que bloquearon una fábrica",
+        "link": "https://www.clarin.com/economia/extrema-gravedad-asociacion-empresaria-pide-remocion-juez-absolvio-dirigentes-camioneros-bloquearon-fabrica_0_Wn7l4CWdR8.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/15R_eKaOm_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 15:16:36 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:39:06 +0000"
       },
       {
-        "titulo": "El riesgo país trepó a 675 puntos y alcanzó su nivel más alto en el año",
+        "titulo": "El riesgo país se acercó a los 700 puntos y alcanzó su nivel más alto en el año",
         "link": "https://www.c5n.com/economia/riesgo-pais-bonos-bolsa-19-octubre-2026",
         "imagen": "",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 12:02:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 17:28:00 -0300"
       },
       {
-        "titulo": "Un laboratorio del partido bonaerense de Ituzaingó desvinculó a la mitad de sus trabajadores",
-        "link": "https://www.infobae.com/economia/2026/10/19/un-laboratorio-del-partido-bonaerense-ituzaingo-desvinculo-a-la-mitad-de-sus-trabajadores/",
-        "imagen": "https://www.infobae.com/resizer/v2/BJHU3TWOWVDYNJ7SN5DZEOQIRA.jpeg?auth=751a5ed79d41ab05ba8dfffecb0bdf6006469ea8790ded27183fac4300f9dcfe&smart=true&width=1274&height=668",
+        "titulo": "Las exportaciones superaron los USD 10.000 millones en un solo mes por primera vez en la historia",
+        "link": "https://www.infobae.com/economia/2026/10/19/con-exportaciones-en-niveles-record-la-balanza-comercial-marco-un-superavit-de-usd-2976-millones-en-septiembre/",
+        "imagen": "https://www.infobae.com/resizer/v2/TFJLRFPPFAOKVGSGCVTBJY4DSA.jpg?auth=cdb5a0e5075e9f70888429a876d9affc2236a0aa22211aecc011b46bbdfa0450&smart=true&width=8149&height=5433",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 16:59:55 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:28:43 +0000"
       },
       {
         "titulo": "El riesgo país se dispara a 675 puntos y alcanza el mayor nivel del año",
@@ -124,32 +124,32 @@
         "fecha": "Mon, 19 Oct 2026 16:19:20 +0000"
       },
       {
-        "titulo": "La industria metalúrgica volvió a caer y tuvo el septiembre con más máquinas paradas desde 2016",
-        "link": "https://www.ambito.com/economia/la-industria-metalurgica-volvio-caer-y-tuvo-el-septiembre-mas-maquinas-paradas-2016-n6335225",
-        "imagen": "https://media.ambito.com/p/396acf8ba1b8369cf37a06b26e47ea5d/adjuntos/239/imagenes/037/605/0037605459/1200x675/smart/industria-metalurgicajpg.jpg",
+        "titulo": "Cifra récord: el costo de los intereses de la deuda de EEUU superó el u$s1 billón",
+        "link": "https://www.ambito.com/economia/cifra-record-el-costo-los-intereses-la-deuda-eeuu-supero-el-us1-billon-n6335424",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 09:49:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 15:58:00 -0300"
       },
       {
-        "titulo": "El riesgo país vuelve a subir y llega a su nivel más alto en lo que va del año",
-        "link": "https://www.clarin.com/economia/riesgo-pais-vuelve-subir-llega-nivel-alto-va-ano_0_YEInVFF33j.html",
-        "imagen": "https://www.clarin.com/img/2026/09/30/ykBXzSnMC_1200x630__1.jpg",
+        "titulo": "Otro récord para las exportaciones: por primera vez superaron los US$ 10.000 millones en un solo mes",
+        "link": "https://www.clarin.com/economia/balanza-comercial-dejo-superavit-usd-2976-millones-septiembre_0_ul2CL0xXzb.html",
+        "imagen": "https://www.clarin.com/img/2026/09/02/HjMwqnwkR_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 14:49:06 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:05:09 +0000"
       },
       {
-        "titulo": "La industria metalúrgica cayó 3,3% interanual en septiembre y usó apenas el 40,2% de su capacidad instalada",
-        "link": "https://www.c5n.com/economia/la-industria-metalurgica-cayo-33-interanual-septiembre-y-uso-apenas-el-402-su-capacidad-instalada-n251974",
-        "imagen": "https://media.c5n.com/p/255aa0db91b09e87c3f2ce600edf4f8a/adjuntos/326/imagenes/000/386/0000386189/1200x675/782x171:802x191/metalurgicos.jpeg",
+        "titulo": "Dólar hoy, dólar blue hoy: a cuánto cotizó el 19 de octubre",
+        "link": "https://www.c5n.com/economia/dolar-hoy-dolar-blue-hoy-cuanto-cotizo-el-19-octubre-n251966",
+        "imagen": "https://media.c5n.com/p/240f273dd9d67f4637df9f0c506426ef/adjuntos/326/imagenes/000/262/0000262390/1200x675/smart/dolar-blue-dolares-billetes-divisas.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 10:53:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 17:28:00 -0300"
       },
       {
-        "titulo": "Si recibís este SMS en el celular, vas a pasar a ser cliente de una nueva empresa de telefonía: qué tenés que saber",
-        "link": "https://www.infobae.com/economia/2026/10/19/si-recibis-este-sms-en-el-celular-vas-a-pasar-a-ser-cliente-de-una-nueva-empresa-de-telefonia-que-tenes-que-saber/",
-        "imagen": "https://www.infobae.com/resizer/v2/UP5BO2QOBREHBKR4OCYUNWDZVU.png?auth=59b5dc10f6bfd03bdf2a39b15d9ba8b45026cadc8034121534c98cadb8547e8a&smart=true&width=2752&height=1536",
+        "titulo": "Un laboratorio del partido bonaerense de Ituzaingó desvinculó a la mitad de sus trabajadores",
+        "link": "https://www.infobae.com/economia/2026/10/19/un-laboratorio-del-partido-bonaerense-ituzaingo-desvinculo-a-la-mitad-de-sus-trabajadores/",
+        "imagen": "https://www.infobae.com/resizer/v2/BJHU3TWOWVDYNJ7SN5DZEOQIRA.jpeg?auth=751a5ed79d41ab05ba8dfffecb0bdf6006469ea8790ded27183fac4300f9dcfe&smart=true&width=1274&height=668",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 16:59:44 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:00:52 +0000"
       },
       {
         "titulo": "Caputo vuelve de Tailandia con las manos vacías",
@@ -159,55 +159,55 @@
         "fecha": "Sun, 18 Oct 2026 01:25:14 +0000"
       },
       {
-        "titulo": "La economía de China creció 4,5% en el tercer trimestre y superó las proyecciones del mercado",
-        "link": "https://www.ambito.com/economia/la-china-crecio-45-el-tercer-trimestre-y-supero-las-proyecciones-del-mercado-n6335189",
-        "imagen": "https://media.ambito.com/p/a477954e6472d3df496870459d2253d4/adjuntos/239/imagenes/041/881/0041881068/economia-china.jpg",
+        "titulo": "Las exportaciones de las pymes alcanzaron su mayor valor en 13 años",
+        "link": "https://www.ambito.com/economia/las-exportaciones-las-pymes-alcanzaron-su-mayor-valor-13-anos-n6335392",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 09:24:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 13:46:00 -0300"
       },
       {
-        "titulo": "El Gobierno dio luz verde a una inversión de Mindlin y Sielecki por más de US$ 3.200 millones en Vaca Muerta",
-        "link": "https://www.clarin.com/energia-y-mineria/gobierno-dio-luz-verde-inversion-mindlin-sielecki-us-3200-millones-vaca-muerta_0_MkO2n4Z4Rr.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/lKrVk_PKj_1200x630__1.jpg",
+        "titulo": "En Buenos Aires se adelantan a la crecida del Paraná: el drama por sacar a los miles de animales que quedan en las islas y conseguir campos para ubicarlos",
+        "link": "https://www.clarin.com/rural/buenos-aires-adelantan-crecida-parana-drama-sacar-miles-animales-quedan-islas-conseguir-campos-ubicarlos_0_6MV5TohvRr.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/3gFiiGUmV_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 14:00:03 +0000"
+        "fecha": "Mon, 19 Oct 2026 17:50:46 +0000"
       }
     ],
     "deportes": [
       {
-        "titulo": "Fecha FIFA de noviembre 2026: qué días serán los partidos y quiénes son los próximos rivales de la Selección argentina",
-        "link": "https://www.ambito.com/deportes/fecha-fifa-noviembre-2026-que-dias-seran-los-partidos-y-quienes-son-los-proximos-rivales-la-seleccion-argentina-n6335349",
-        "imagen": "",
+        "titulo": "La insólita multa que le puso Portugal a Cristiano Ronaldo",
+        "link": "https://www.ambito.com/deportes/la-insolita-multa-que-le-puso-portugal-cristiano-ronaldo-n6335499",
+        "imagen": "https://media.ambito.com/p/47e9eb9f0a95d341f12a4ec2b25b5d31/adjuntos/239/imagenes/043/497/0043497386/1200x675/898x256:918x276/cristiano-ronaldo-risas.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 13:06:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 17:29:00 -0300"
       },
       {
-        "titulo": "Juan Martín Del Potro, otra vez nominado para el Salón de la Fama del Tenis: cómo votar al argentino para acompañar a Vilas y Sabatini",
-        "link": "https://www.clarin.com/deportes/juan-martin-potro-vez-nominado-salon-fama-tenis-votar-argentino-acompanar-vilas-sabatini_0_zfVcqE8bZI.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/zqXZP46CL_1200x630__1.jpg",
+        "titulo": "Las posibles sanciones para el Manchester City por el escándalo en la Premier League: ¿el equipo de Enzo Fernández puede descender?",
+        "link": "https://www.clarin.com/deportes/posibles-sanciones-manchester-city-escandalo-premier-league-equipo-enzo-fernandez-puede-descender_0_5fqTuiDniP.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/dfXUul_XS_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 15:35:48 +0000"
+        "fecha": "Mon, 19 Oct 2026 20:02:38 +0000"
       },
       {
-        "titulo": "El jugador de Los Leones Nicolás Keenan anunció que se convertirá en padre junto al primer ministro de los Países Bajos",
-        "link": "https://www.c5n.com/deportes/el-jugador-los-leones-nicolas-keenan-anuncio-que-se-convertira-padre-junto-al-primer-ministro-los-paises-bajos-n251992",
-        "imagen": "https://media.c5n.com/p/bf1d087840cbfd0c53c6c558ff17a249/adjuntos/326/imagenes/000/403/0000403943/1200x675/smart/nicolas-keenan-y-rob-jetten.jpg",
+        "titulo": "Conmoción en Inglaterra: Manchester City podría sufrir una enorme quita de puntos que lo haría descender a la Championship",
+        "link": "https://www.c5n.com/deportes/conmocion-inglaterra-manchester-city-podria-sufrir-una-enorme-quita-puntos-que-lo-haria-descender-la-championship-n252014",
+        "imagen": "https://media.c5n.com/p/1d90e041561e97b70c2eb434af664064/adjuntos/326/imagenes/000/296/0000296629/1200x675/smart/manchester-city-campeon-premier-league.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 13:54:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 17:13:00 -0300"
       },
       {
-        "titulo": "Se cerrará la fecha 13 del Torneo Clausura con tres partidos: todo lo que hay que saber",
+        "titulo": "Newell’s recibe a Central Córdoba en el cierre de la fecha 13 del Torneo Clausura",
         "link": "https://www.infobae.com/deportes/2026/10/19/se-cerrara-la-fecha-13-del-torneo-clausura-con-tres-partidos-todo-lo-que-hay-que-saber/",
-        "imagen": "https://www.infobae.com/resizer/v2/5M75L2CFMVEWJA5AAL3UK2AYS4.png?auth=777053914a7e73f943ffd4b3f8706360acd35997efa91a32a261f14c4deb53d7&smart=true&width=2752&height=1536",
+        "imagen": "https://www.infobae.com/resizer/v2/MB3NNOUKTJFPFNZCBTDGT7NY6A.png?auth=693f8d5182125434739562cd61442db86b8ab47e5b770f485bf2c4e61afa3a82&smart=true&width=2752&height=1536",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 17:04:58 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:31:50 +0000"
       },
       {
-        "titulo": "Respira San Lorenzo: se confirmó la lesión de Facundo Farías",
-        "link": "https://www.ole.com.ar/san-lorenzo/sanlorenzo-facundofarias-estudiantes-laplata_0_hjI7FYKd8r.html",
-        "imagen": "https://www.ole.com.ar/images/2026/10/19/Fnibz6fyT_1200x630__1.jpg",
+        "titulo": "Insólito: a Sarmiento le autorizaron público dos horas antes del partido",
+        "link": "https://www.ole.com.ar/futbol-primera/sarmiento-barracascentral-estadioevaperon-aprevide-juanatiliobazzani-medidacautelar_0_by8ZH5biAy.html",
+        "imagen": "https://www.ole.com.ar/images/2026/10/19/82gJ75BHn_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Mon, 19 Oct 2026 16:51:23 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:02:40 +0000"
       },
       {
         "titulo": "Estando cuarto y a dos fechas del Reducido, echaron a Licht de Talleres de Remedios de Escalada",
@@ -231,35 +231,56 @@
         "fecha": "Mon, 19 Oct 2026 06:22:18 GMT"
       },
       {
-        "titulo": "Bombazo: Flamengo confía en recuperar a Giorgian de Arrascaeta para la revancha con Estudiantes",
-        "link": "https://www.0221.com.ar/estudiantes/bombazo-flamengo-confia-recuperar-giorgian-arrascaeta-la-revancha-estudiantes-n136054",
-        "imagen": "https://media.0221.com.ar/p/e983262310eeba45ef427cebcdf50bf9/adjuntos/357/imagenes/100/300/0100300373/1200x630/1059x461:1079x481/giorgian-arrascaeta-flamengo.png",
+        "titulo": "¿Cómo será el viaje de Estudiantes a Brasil para la revancha de las semis de Copa Libertadores ante Flamengo?",
+        "link": "https://www.0221.com.ar/estudiantes/como-sera-el-viaje-estudiantes-brasil-la-revancha-las-semis-copa-libertadores-flamengo-n136069",
+        "imagen": "https://media.0221.com.ar/p/d57211b995685a26b1e0c66e61114107/adjuntos/357/imagenes/100/273/0100273210/1200x630/smart/estudiantes-viaje-hotel-gonzalez-pirez.png",
         "fuente": "0221 Deportes",
-        "fecha": "Mon, 19 Oct 2026 13:57:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 18:14:00 -0300"
       },
       {
-        "titulo": "¿Qué hacía Boca en el predio de Flamengo a pocos días del partido con Estudiantes?",
-        "link": "https://www.0221.com.ar/estudiantes/que-boca-el-predio-flamengo-pocos-dias-del-partido-estudiantes-n136050",
-        "imagen": "https://media.0221.com.ar/p/9f8b8a58fae9a6afd681bc8fccc5ac1a/adjuntos/357/imagenes/100/300/0100300367/1200x630/smart/jose-boto-marcelo-delgado-flamengo-boca-2.jpg",
+        "titulo": "El buen momento de Gimnasia abre un interrogante para Ariel Pereyra de cara al duelo con Sarmiento",
+        "link": "https://www.0221.com.ar/gimnasia/el-buen-momento-gimnasia-abre-un-interrogante-ariel-pereyra-cara-al-duelo-sarmiento-n136062",
+        "imagen": "https://media.0221.com.ar/p/7ba910764cf530318eb55bd24aadb2e5/adjuntos/357/imagenes/100/299/0100299035/1200x630/smart/ariel-pereyra-entrenamiento-gimnasia.png",
         "fuente": "0221 Deportes",
-        "fecha": "Mon, 19 Oct 2026 13:03:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 18:09:00 -0300"
       },
       {
-        "titulo": "Tras un regreso especial al Estadio UNO ante Estudiantes, Facundo Farías conoció la gravedad de su lesión",
-        "link": "https://www.0221.com.ar/estudiantes/tras-un-regreso-especial-al-estadio-uno-estudiantes-facundo-farias-conocio-la-gravedad-su-lesion-n136042",
-        "imagen": "https://media.0221.com.ar/p/f1651b0fac30f5189903767ad908892e/adjuntos/357/imagenes/100/300/0100300288/1200x630/1493x1107:1513x1127/estudiantes-san-lorenzo-rojo-1.jpeg",
+        "titulo": "Gimnasia bajó casi a la mitad su déficit mensual y prepara una Asamblea clave: los datos más importantes",
+        "link": "https://www.0221.com.ar/gimnasia/gimnasia-casi-la-mitad-su-deficit-mensual-y-prepara-una-asamblea-clave-los-datos-mas-importantes-n136052",
+        "imagen": "https://media.0221.com.ar/p/0b0fb82c86875fad6357555ca4227a0e/adjuntos/357/imagenes/100/293/0100293152/1200x630/1889x1472:1909x1492/conferencia-gimnasia-anacleto-dirigencia.jpeg",
         "fuente": "0221 Deportes",
-        "fecha": "Mon, 19 Oct 2026 12:02:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 15:09:00 -0300"
       },
       {
-        "titulo": "Kicillof encabezará la apertura de los Juegos Bonaerenses: 30.000 finalistas, una inversión de más de $21.000 millones y un beneficio para Mar deo Plata de $3.200 millones",
-        "link": "https://www.ambito.com/deportes/kicillof-encabezara-la-apertura-los-juegos-bonaerenses-30000-finalistas-una-inversion-mas-21000-millones-y-un-beneficio-mar-deo-plata-3200-millones-n6335249",
-        "imagen": "",
+        "titulo": "El argentino que correrá en uno de los mejores equipos de Fórmula 3 en 2027",
+        "link": "https://www.ambito.com/deportes/el-argentino-que-correra-uno-los-mejores-equipos-formula-3-2027-n6335478",
+        "imagen": "https://media.ambito.com/p/75d00cc291d440fb9e7c323b3a5f50d0/adjuntos/239/imagenes/043/713/0043713763/1200x675/359x454:379x474/mattia-colnaghi-formula-3.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 11:13:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 16:40:00 -0300"
       }
     ],
     "policiales_actualidad": [
+      {
+        "titulo": "La absurda muerte de dos hermanos en una ruta de Santa Fe: un futuro papá de mellizos y el empleado tambero",
+        "link": "https://www.clarin.com/policiales/absurda-muerte-hermanos-ruta-santa-fe-futuro-papa-mellizos-empleado-tambero_0_6XqyZYBUiL.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/OuwfCbv-B_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 19 Oct 2026 20:38:42 +0000"
+      },
+      {
+        "titulo": "Pagan 2500 euros por mes por contar pingüinos: buscan empleados para trabajar menos de medio año",
+        "link": "https://www.c5n.com/sociedad/pagan-2500-euros-mes-contar-pinguinos-buscan-empleados-trabajar-menos-medio-ano-n252004",
+        "imagen": "https://media.c5n.com/p/f291419bb158f593d1673423dd229ca7/adjuntos/326/imagenes/000/341/0000341149/1200x675/smart/isla-martillo-ushuaia-pinguinos.png",
+        "fuente": "C5N",
+        "fecha": "Mon, 19 Oct 2026 15:15:00 -0300"
+      },
+      {
+        "titulo": "Candela Arizaga no se presentó a la nueva citación en la causa contra Facundo Moyano y pidió reprogramarla",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/candela-arizaga-no-se-presento-a-la-nueva-citacion-en-la-causa-contra-facundo-moyano-y-pidio-reprogramarla/",
+        "imagen": "https://www.infobae.com/resizer/v2/XTALKMZY35FEPGXK6VUEXRDJ4E.png?auth=37652d2fea2b3fc2b1ae2235c3b8d03941aba90d76a509301132001cca92d1bb&smart=true&width=2752&height=1536",
+        "fuente": "Infobae",
+        "fecha": "Mon, 19 Oct 2026 20:50:56 +0000"
+      },
       {
         "titulo": "La inesperada muerte del periodista Gastón \"Pampa\" Leturia: \"Hasta el próximo asado, mono\"",
         "link": "https://www.clarin.com/sociedad/inesperada-muerte-periodista-gaston-pampa-leturia-proximo-asado-mono_0_zMWbZWwK14.html",
@@ -268,18 +289,18 @@
         "fecha": "Mon, 19 Oct 2026 14:05:30 +0000"
       },
       {
-        "titulo": "Revelaron audios clave sobre la docente desaparecida en Corrientes: \"Todos mienten\"",
-        "link": "https://www.c5n.com/sociedad/revelaron-audios-clave-la-docente-desaparecida-corrientes-todos-mienten-n251985",
-        "imagen": "https://media.c5n.com/p/67487da4141f1ec887c0c7b38adb3c05/adjuntos/326/videos/000/403/0000403933/1200x675/smart/no-le-creo-nadie-la-desconfianza-la-familia-la-docente-desaparecida-corrientes.jpg",
+        "titulo": "Quién era Aldana Novik Rojas, la peluquera asesinada por su novio en Valeria del Mar",
+        "link": "https://www.c5n.com/sociedad/quien-era-aldana-novik-rojas-la-peluquera-asesinada-su-novio-valeria-del-mar-n252000",
+        "imagen": "https://media.c5n.com/p/d8cb44c06a43432800c362444686e55b/adjuntos/326/imagenes/000/403/0000403955/1200x675/smart/aldana-novik-rojas.png",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 12:34:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 14:54:00 -0300"
       },
       {
-        "titulo": "Procesaron a los sospechosos del crimen narco de Palermo: la suela de zapatilla que fue clave para la acusación",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/procesaron-a-los-sospechosos-del-crimen-narco-de-palermo/",
-        "imagen": "https://www.infobae.com/resizer/v2/T6ON4KS2EBBXHPKQ5RYG5A7FMA.jpg?auth=42fa06db245f1c616a840ca7d84000e2fc8746d6d21fe840b0aa2b8290caf52b&smart=true&width=1920&height=1080",
+        "titulo": "Habló el hijo de Nancy Godoy, la docente desaparecida en Corrientes: “Están jugando con nuestra angustia”",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/hablo-el-hijo-de-nancy-godoy-la-docente-desaparecida-en-corrientes-estan-jugando-con-nuestra-angustia/",
+        "imagen": "https://www.infobae.com/resizer/v2/Q3LWE7WEY5DWFF46QRWTVZT7EA.jpg?auth=41c5b6f962c553d0a63e089cb68c5bae178d5440ea6a014c10cef12de8b4e811&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 17:07:54 +0000"
+        "fecha": "Mon, 19 Oct 2026 20:19:45 +0000"
       },
       {
         "titulo": "Desalojo de la cárcel de Devoto: quedan sólo 74 presos a la espera de que se confirme la visita del papa León XIV",
@@ -289,18 +310,18 @@
         "fecha": "Mon, 19 Oct 2026 13:39:55 +0000"
       },
       {
-        "titulo": "El arzobispo de Luján ratificó la visita del papa León XIV a la Argentina: \"Todo sigue en pie\"",
-        "link": "https://www.c5n.com/sociedad/el-arzobispo-lujan-ratifico-la-visita-del-papa-leon-xiv-la-argentina-todo-sigue-pie-n251984",
-        "imagen": "https://media.c5n.com/p/5773dca3fbd5325b2f509a2e9c14b790/adjuntos/326/imagenes/000/401/0000401822/1200x675/smart/el-papa-leon-xiv-y-el-arzobispo-lujan-jorge-eduardo-scheinig.jpg",
+        "titulo": "Los videos de la casa donde estuvo Nanci Godoy antes de su desaparición en Corrientes",
+        "link": "https://www.c5n.com/sociedad/los-videos-la-casa-donde-estuvo-nanci-godoy-antes-su-desaparicion-corrientes-n251995",
+        "imagen": "https://media.c5n.com/p/934fbfb325b1ff7b3d53b7e6566f1634/adjuntos/326/videos/000/403/0000403945/1200x675/smart/nancy-godoy.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 12:29:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 14:06:00 -0300"
       },
       {
-        "titulo": "Hallaron cuchillos y prendas con manchas rojas en la casa de un sospechoso detenido por la desaparición de Nancy Godoy",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/hallaron-cuchillos-y-prendas-con-manchas-rojas-en-la-casa-de-un-sospechoso-detenido-por-la-desaparicion-de-nancy-godoy/",
-        "imagen": "https://www.infobae.com/resizer/v2/6R43OUJKBJEJDJCNWA27OJFCJE.gif?auth=a185570379f0469af245cc189f7a837a5b378f70672a1935f9e3ce29044efdef&smart=true&width=1920&height=1080",
+        "titulo": "Excarcelaron al ex abogado de Wanda Nara acusado de once estafas millonarias: los argumentos de la Justicia",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/excarcelaron-al-ex-abogado-de-wanda-nara-acusado-de-once-estafas-millonarias-los-argumentos-de-la-justicia/",
+        "imagen": "https://www.infobae.com/resizer/v2/SBHAT2J6N5GZ5LX4C7XYLBWQOU.jpg?auth=1f38ca8fc00ce3ce40e5e5917667586e6824c7b3ff5f974a702b9716165435f4&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 15:43:52 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:46:58 +0000"
       },
       {
         "titulo": "Charlas con duendes y juicio oral en puerta: que pasó con Matías Jurado, el \"asesino serial\" de Jujuy",
@@ -310,42 +331,49 @@
         "fecha": "Mon, 19 Oct 2026 09:00:16 +0000"
       },
       {
-        "titulo": "La cuñada de la docente desaparecida en Corrientes cuestionó a la Policía: \"Tardaron en buscarla\"",
-        "link": "https://www.c5n.com/sociedad/la-cunada-la-docente-desaparecida-corrientes-cuestiono-la-policia-tardaron-buscarla-n251964",
-        "imagen": "https://media.c5n.com/p/a9da0f944854247e07ed540a3960ccfb/adjuntos/326/videos/000/403/0000403909/1200x675/smart/nancy.png",
+        "titulo": "Revelaron audios clave sobre la docente desaparecida en Corrientes: \"Todos mienten\"",
+        "link": "https://www.c5n.com/sociedad/revelaron-audios-clave-la-docente-desaparecida-corrientes-todos-mienten-n251985",
+        "imagen": "https://media.c5n.com/p/67487da4141f1ec887c0c7b38adb3c05/adjuntos/326/videos/000/403/0000403933/1200x675/smart/no-le-creo-nadie-la-desconfianza-la-familia-la-docente-desaparecida-corrientes.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 08:58:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 12:34:00 -0300"
       },
       {
-        "titulo": "Moreno: lo acusaron de robar un kiosco, lo persiguieron y lo asesinaron en un búnker derrumbado",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/moreno-lo-acusaron-de-robar-un-kiosco-lo-persiguieron-y-lo-asesinaron-en-un-bunker-derrumbado/",
-        "imagen": "https://www.infobae.com/resizer/v2/LDHNLO2VHJG3XHMX5ENIBN5VXA.jpg?auth=f0bc8ab4c77051f16e19e00d34e9ab608c0899ab5d3d434a8f74951da0770219&smart=true&width=1920&height=1080",
+        "titulo": "Salvaje ataque en Villa Lugano: golpeó a una mujer que caminaba por la calle, escapó y terminó detenido",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/salvaje-ataque-en-villa-lugano-golpeo-a-una-mujer-que-caminaba-por-la-calle-escapo-y-termino-detenido/",
+        "imagen": "https://www.infobae.com/resizer/v2/UP5DQ3R3L5HAJN67W37DOLTEYE.jpg?auth=f946b46ce98c4baee5cdfb52c513799b0de1f2f0306f1f413b7bfefca09fb21e&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 13:28:37 +0000"
-      },
-      {
-        "titulo": "Cayó el femicida de Cruz del Eje: mató a su pareja y ocultó el cuerpo en la heladera",
-        "link": "https://www.clarin.com/policiales/conmocion-cruz-eje-violento-pasado-acusado-matar-pareja-ocultar-cuerpo-heladera_0_p8Wdh4X3Un.html",
-        "imagen": "https://www.clarin.com/img/2026/10/16/Eq0Ivxy37_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Sun, 18 Oct 2026 15:11:14 +0000"
-      },
-      {
-        "titulo": "Arranque de semana sin lluvias en el AMBA; ahora, solo falta el sol",
-        "link": "https://www.c5n.com/sociedad/clima-pronostico-alertas-smn-19-octubre-2026",
-        "imagen": "https://media.c5n.com/p/80112053bdef93aebd5c2f966a16233a/adjuntos/326/imagenes/000/403/0000403907/1200x675/smart/ciudad-buenos-aires-nubes-nublado-tormenta.jpg",
-        "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 08:35:00 -0300"
-      },
-      {
-        "titulo": "Detuvieron al presunto femicida de Camila Iglesias, la joven cuyo cuerpo había sido hallado dentro de la heladera de su casa",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/10/19/detuvieron-al-presunto-femicida-de-camila-iglesias-la-joven-cuyo-cuerpo-habia-sido-hallado-dentro-de-la-heladera-de-su-casa/",
-        "imagen": "https://www.infobae.com/resizer/v2/7D5YJ5TZWZD37LOKVQA33ZONYA.jpg?auth=376081d19037f5da1f141abd6b73bf50b68489f831cc03e8e6bbadeafe81d9a8&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 13:19:30 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:07:15 +0000"
       }
     ],
     "internacional": [
+      {
+        "titulo": "Brasil llega al balotaje entre Lula da Silva y Flávio Bolsonaro con la corrupción entre las principales preocupaciones",
+        "link": "https://www.ambito.com/mundo/brasil-llega-al-balotaje-lula-da-silva-y-flavio-bolsonaro-la-corrupcion-las-principales-preocupaciones-n6335396",
+        "imagen": "https://media.ambito.com/p/5f7631fd2d5303da4a699421d97f1349/adjuntos/239/imagenes/043/683/0043683847/1200x675/1677x719:1697x739/lula-da-silva-flavio-bolsonaro.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Mon, 19 Oct 2026 14:40:00 -0300"
+      },
+      {
+        "titulo": "La Justicia de Florida emitió una orden de arresto contra Raúl Castro por el derribo de dos aviones en 1996",
+        "link": "https://www.c5n.com/mundo/la-justicia-florida-emitio-una-orden-arresto-contra-raul-castro-el-derribo-dos-aviones-1996-n252015",
+        "imagen": "https://media.c5n.com/p/d02f274a1a0a9241ef11c0062fa6ff96/adjuntos/326/imagenes/000/382/0000382704/1200x675/smart/raul-castro-cuba.jpg",
+        "fuente": "C5N",
+        "fecha": "Mon, 19 Oct 2026 17:35:00 -0300"
+      },
+      {
+        "titulo": "\"Sencillo, tranquilo, fraterno y cercano a los jóvenes\": quién era el sacerdote que murió aplastado por una cruz mientras daba misa",
+        "link": "https://www.clarin.com/mundo/sencillo-tranquilo-fraterno-cercano-jovenes-sacerdote-murio-aplastado-cruz-daba-misa_0_sJCvTSTu0H.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/MUgImjPqy_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Mon, 19 Oct 2026 20:25:36 +0000"
+      },
+      {
+        "titulo": "Los subtipos de cáncer de mama que determinan el tratamiento y por qué el diagnóstico no es igual para todas las pacientes",
+        "link": "https://www.infobae.com/el-salvador/2026/10/19/los-subtipos-de-cancer-de-mama-que-determinan-el-tratamiento-y-por-que-el-diagnostico-no-es-igual-para-todas-las-pacientes/",
+        "imagen": "https://www.infobae.com/resizer/v2/N2AYM4NB6NHI3ERGK6Y7ZFFEPQ.jpg?auth=e2f8916274915562c5f21c5dcf296036c4127aa22ef0b1d9c8dc69a37db09d4f&smart=true&width=953&height=569",
+        "fuente": "Infobae",
+        "fecha": "Mon, 19 Oct 2026 21:27:51 +0000"
+      },
       {
         "titulo": "El primer ministro de los Países Bajos será padre junto a su esposo argentino que juega en Los Leones",
         "link": "https://www.ambito.com/mundo/el-primer-ministro-los-paises-bajos-sera-padre-junto-su-esposo-argentino-que-juega-los-leones-n6335384",
@@ -361,18 +389,18 @@
         "fecha": "Mon, 19 Oct 2026 11:38:00 -0300"
       },
       {
-        "titulo": "Una jueza de Florida firma una orden de arresto contra Raúl Castro por el derribo de dos aviones humanitarios en 1996",
-        "link": "https://www.clarin.com/mundo/jueza-florida-firma-orden-arresto-raul-castro-derribo-aviones-humanitarios-1996_0_JkvK0vNkIm.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/H7HNS46bJ_1200x630__1.jpg",
+        "titulo": "Las lluvias torrenciales y las graves inundaciones en el este de España dejan al menos cuatro muertos",
+        "link": "https://www.clarin.com/mundo/lluvias-torrenciales-graves-inundaciones-espana-dejan-muertos_0_nMUCCFNAe5.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/3YU9sAniGv_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 15:21:48 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:41:07 +0000"
       },
       {
-        "titulo": "Las cifras del terremoto en Panamá: un fallecido, 27 lesionados, 619 escuelas y 42 centros de salud afectados, entre puentes y edificios",
-        "link": "https://www.infobae.com/panama/2026/10/19/las-cifras-del-terremoto-en-panama-un-fallecido-27-lesionados-619-escuelas-y-42-centros-de-salud-afectados-entre-puentes-y-edificios/",
-        "imagen": "https://www.infobae.com/resizer/v2/A4FIUIIU4ZH6BC5DUWKZ3YAGPU.jpg?auth=e70ea8dfcda42c7fcf49a22db34042e88b56fd4b8ef3eb4b34fc7762d1e49b2c&smart=true&width=1920&height=1080",
+        "titulo": "Alimentación durante la quimioterapia: los errores que pueden complicar el tratamiento, según una cirujana oncóloga",
+        "link": "https://www.infobae.com/el-salvador/2026/10/19/alimentacion-durante-la-quimioterapia-los-errores-que-pueden-complicar-el-tratamiento-segun-una-cirujana-oncologa/",
+        "imagen": "https://www.infobae.com/resizer/v2/BNBJAC7ESBFDFDTEUKHIUDUR34.jpg?auth=8fb2e9d79d81f0c8766ef488dd266c4b5dd9e209bb790c1b1121c1224ff877c7&smart=true&width=1080&height=622",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 17:06:42 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:26:57 +0000"
       },
       {
         "titulo": "Malvinas: Donald Trump busca cerrar el comité de la ONU que respalda el reclamo argentino",
@@ -389,132 +417,104 @@
         "fecha": "Mon, 19 Oct 2026 09:19:00 -0300"
       },
       {
-        "titulo": "Elecciones en Brasil, EN VIVO: quién ganó el debate entre Lula y Bolsonaro, últimas encuestas y cuenta regresiva al balotaje",
-        "link": "https://www.clarin.com/mundo/elecciones-brasil-vivo-gano-debate-lula-bolsonaro-ultimas-encuestas-cuenta-regresiva-balotaje_0_ErniuibZ3J.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/lHGeaL4Nh_1200x630__1.jpg",
+        "titulo": "El otoño del descontento: vivienda, recortes e inflación, las razones detrás del estallido social que recorre a Europa",
+        "link": "https://www.clarin.com/mundo/otono-descontento-vivienda-recortes-inflacion-razones-detras-estallido-social-recorre-europa_0_RlLc8pK3SL.html",
+        "imagen": "https://www.clarin.com/img/2026/10/19/NJ4bOlmOc_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 15:17:46 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:18:42 +0000"
       },
       {
-        "titulo": "“Yo tenía miedo de morirme”: la historia de Yorleny Álvarez y el cáncer que atravesó a su familia en Costa Rica",
-        "link": "https://www.infobae.com/costa-rica/2026/10/19/yo-tenia-miedo-de-morirme-la-historia-de-yorleny-alvarez-y-el-cancer-que-atraveso-a-su-familia-en-costa-rica/",
-        "imagen": "https://www.infobae.com/resizer/v2/ANQOIPYCNFH6DIL53YCZDDVBFI.png?auth=e99763022362fbcbbe22d6ad78835090e8aa968e377fd7842d94bee601504c0c&smart=true&width=396&height=235",
+        "titulo": "Carlo Díaz es reelegido por unanimidad como fiscal general de Costa Rica y permanecerá en el cargo hasta 2030",
+        "link": "https://www.infobae.com/costa-rica/2026/10/19/carlo-diaz-es-reelegido-por-unanimidad-como-fiscal-general-de-costa-rica-y-permanecera-en-el-cargo-hasta-2030/",
+        "imagen": "https://www.infobae.com/resizer/v2/AJDTVRUZRNA5FLCLISZ2WORJHM.png?auth=aac8287a8874697d67c519987c133932197d8d27e9884b4b7a39ac2e57620c90&smart=true&width=1444&height=992",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 17:02:32 +0000"
-      },
-      {
-        "titulo": "Elon Musk prometió regalar acciones de SpaceX a todos los niños de EEUU",
-        "link": "https://www.ambito.com/mundo/elon-musk-prometio-regalar-acciones-spacex-todos-los-ninos-eeuu-n6335284",
-        "imagen": "https://media.ambito.com/p/f7ee2032749eedb8e2e81e661d9f6f50/adjuntos/239/imagenes/043/336/0043336635/elon-musk-getty-images.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 11:34:00 -0300"
-      },
-      {
-        "titulo": "Un vuelo de Tel Aviv a Viena fue desviado por una amenaza de bomba que resultó ser falsa",
-        "link": "https://www.c5n.com/mundo/un-vuelo-tel-aviv-viena-fue-desviado-una-amenaza-bomba-que-resulto-ser-falsa-n251965",
-        "imagen": "",
-        "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 08:45:00 -0300"
-      },
-      {
-        "titulo": "La salud del Papa: entre una recuperación increíble y la cautela de un famoso especialista de Milán",
-        "link": "https://www.clarin.com/mundo/salud-papa-recuperacion-increible-cautela-famoso-especialista-milan_0_ISZfsreY0e.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/7axet1fJP_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 14:12:48 +0000"
-      },
-      {
-        "titulo": "Saltó desde 7.600 metros sin paracaídas y ahora quiere hacerlo desde el espacio: el nuevo desafío que busca lograr Luke Aikins",
-        "link": "https://www.infobae.com/america/mundo/2026/10/19/salto-desde-7600-metros-sin-paracaidas-y-ahora-quiere-hacerlo-desde-el-espacio-el-nuevo-desafio-que-busca-lograr-luke-aikins/",
-        "imagen": "https://www.infobae.com/resizer/v2/UHQD3GSBVZD65GH2YKRSZGMZHA.jpg?auth=435016db19406f2eaaf179dd264c41876f3cc2ddf97de83a2174c3732c720e87&smart=true&width=1280&height=720",
-        "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 16:24:49 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:18:54 +0000"
       }
     ],
     "espectaculos": [
       {
-        "titulo": "Los Red Hot Chili Peppers dieron un show benéfico en Los Ángeles tras dos años alejados de los escenarios",
-        "link": "https://www.ambito.com/espectaculos/los-red-hot-chili-peppers-dieron-un-show-benefico-los-angeles-dos-anos-alejados-los-escenarios-n6335319",
-        "imagen": "",
+        "titulo": "Silvestre y La Naranja despidió \"Alter Ego\" con dos shows agotados en Buenos Aires",
+        "link": "https://www.ambito.com/espectaculos/silvestre-y-la-naranja-despidio-alter-ego-dos-shows-agotados-buenos-aires-n6335418",
+        "imagen": "https://media.ambito.com/p/1e6a92f15f2829524ec3dae57990ec2c/adjuntos/239/imagenes/043/713/0043713578/silvestre-y-la-naranja.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 12:40:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 15:15:00 -0300"
       },
       {
-        "titulo": "El comunicado de la productora luego de la cancelación del show de Tini Stoessel en Miami",
-        "link": "https://www.c5n.com/ratingcero/el-comunicado-la-productora-luego-la-cancelacion-del-show-tini-stoessel-miami-n251991",
-        "imagen": "https://media.c5n.com/p/6926df1fdf770982352fcce2d172a38a/adjuntos/326/imagenes/000/397/0000397469/1200x675/smart/tini.jpg",
+        "titulo": "Matías Bagnato, sobre su vida después de la masacre de Flores: \"Recién ahora estoy haciendo un duelo sano\"",
+        "link": "https://www.c5n.com/ratingcero/matias-bagnato-su-vida-despues-la-masacre-flores-recien-ahora-estoy-haciendo-un-duelo-sano-n252010",
+        "imagen": "https://media.c5n.com/p/ae1c03f2bdb92e9343d888955ffea01e/adjuntos/326/imagenes/000/403/0000403968/1200x675/smart/matias-bagnato.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 13:46:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 16:28:00 -0300"
       },
       {
-        "titulo": "Premios ACE 2026: todos los detalles de la 35ª ceremonia que distingue lo mejor del teatro argentino",
-        "link": "https://www.clarin.com/espectaculos/premios-ace-2026-detalles-35-ceremonia-distingue-mejor-teatro-argentino_0_srtW7TY5Vj.html",
-        "imagen": "https://www.clarin.com/img/2026/01/16/51uubJnBb_1200x630__1.jpg",
+        "titulo": "Apu volvió a hablar en Los Simpson después de casi diez años: por qué había sido silenciado y quién es su nueva voz",
+        "link": "https://www.clarin.com/espectaculos/apu-volvio-hablar-simpson-despues-anos-silenciado-nueva-voz_0_OtehCuQ1Rx.html",
+        "imagen": "https://www.clarin.com/img/2018/04/27/BJkXmebTG_1200x630.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 14:51:08 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:41:17 +0000"
       },
       {
-        "titulo": "Las siete producciones detrás de la denuncia contra Hernán Casciari: de películas que no podían fallar a retornos de centavos",
-        "link": "https://www.infobae.com/teleshow/2026/10/17/las-siete-producciones-detras-de-la-denuncia-contra-hernan-casciari-de-peliculas-que-no-podian-fallar-a-retornos-de-centavos/",
-        "imagen": "https://www.infobae.com/resizer/v2/WSAP5QCYKZHR3EAGP5OJIVR7XE.jpg?auth=ef548e31c155101b4185a23cafeea51bb6ae04c3c510b72e9563d09439b6e641&smart=true&width=1920&height=1080",
+        "titulo": "Luciana Salazar habló del escándalo en la separación de Julieta Prandi y Emanuel Ortega: “Es mi familia”",
+        "link": "https://www.infobae.com/teleshow/2026/10/19/luciana-salazar-hablo-del-escandalo-en-la-separacion-de-julieta-prandi-y-emanuel-ortega-es-mi-familia/",
+        "imagen": "https://www.infobae.com/resizer/v2/SSKLBY2CFZA6BGKFNHPNQ63JIE.png?auth=40f73a736863df6265fdbfddfd8cfd5d3d4b4e015a3d870a7ef69f246a4b79da&smart=true&width=1280&height=720",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 17:01:08 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:09:59 +0000"
       },
       {
-        "titulo": "Apu volvió a Los Simpson tras casi 10 años de ausencia: quién es el nuevo actor en ponerle voz al personaje",
-        "link": "https://www.ambito.com/espectaculos/apu-volvio-los-simpson-casi-10-anos-ausencia-quien-es-el-nuevo-actor-ponerle-voz-al-personaje-n6335301",
-        "imagen": "",
+        "titulo": "Cómo es la pieza de 50 millones de dólares que usó Kylie Jenner en el desfile de Victoria's Secret",
+        "link": "https://www.ambito.com/espectaculos/como-es-la-pieza-50-millones-dolares-que-uso-kylie-jenner-el-desfile-victorias-secret-n6335411",
+        "imagen": "https://media.ambito.com/p/21dddaeb5e666a15a31293ec3f12df34/adjuntos/239/imagenes/043/713/0043713397/1200x675/744x390:764x410/victoriass-secret-1500-x-1000-2.png",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 11:56:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 14:35:00 -0300"
       },
       {
-        "titulo": "Gritos y reproches: así habría sido la reacción de Tini Stoessel tras la cancelación de su show en Miami",
-        "link": "https://www.c5n.com/ratingcero/gritos-y-reproches-asi-habria-sido-la-reaccion-tini-stoessel-la-cancelacion-su-show-miami-n251990",
-        "imagen": "https://media.c5n.com/p/da59cc5a6d0e1e8a785256a2f4c6ec43/adjuntos/326/imagenes/000/396/0000396448/1200x675/smart/tini-stoessel.jpg",
+        "titulo": "Se filtraron charlas secretas sobre la separación entre La Joaqui y Luck Ra: \"Trapitos al sol\"",
+        "link": "https://www.c5n.com/ratingcero/se-filtraron-charlas-secretas-la-separacion-la-joaqui-y-luck-ra-trapitos-al-sol-n252008",
+        "imagen": "https://media.c5n.com/p/61d70840a9bf94fc5fa22717f7897ed9/adjuntos/326/imagenes/000/391/0000391929/1200x675/smart/luck-ra-la-joaqui.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 13:38:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 16:04:00 -0300"
       },
       {
-        "titulo": "Rating del domingo: un Día de la Madre con bajo encendido a la tarde y una gala de delantales negros en MasterChef Celebrity",
-        "link": "https://www.clarin.com/espectaculos/rating-domingo-dia-madre-encendido-tarde-gala-delantales-negros-masterchef-celebrity_0_Zor3U1uaXM.html",
-        "imagen": "https://www.clarin.com/img/2026/10/19/K5PSxamjz_1200x630__1.jpg",
+        "titulo": "Kristin Davis reveló el calvario que vivió durante \"Sex and the City\": las dietas extremas y los crueles comentarios sobre su cuerpo",
+        "link": "https://www.clarin.com/espectaculos/kristin-davis-revelo-calvario-vivio-sex-and-the-city-dietas-extremas-crueles-comentarios-cuerpo_0_D7OZ15Xade.html",
+        "imagen": "https://www.clarin.com/img/2021/12/09/K2fax-DLC_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 14:05:18 +0000"
+        "fecha": "Mon, 19 Oct 2026 17:42:24 +0000"
       },
       {
-        "titulo": "La increíble imitación de Damián Betular con la que se lució Campi en MasterChef: “Soy el Betu corto”",
-        "link": "https://www.infobae.com/teleshow/2026/10/19/la-increible-imitacion-de-damian-betular-con-la-que-se-lucio-campi-en-masterchef-soy-el-betu-corto/",
-        "imagen": "https://www.infobae.com/resizer/v2/YZ7DP4E6FZBCBBVT2VTKUK45VI.jpg?auth=11d7d9548e36fce3d6765715f775d6fc62ae7730dc64bd31159a4d571298523f&smart=true&width=1920&height=1031",
+        "titulo": "Teresa Costantini asegura que su exmarido Eduardo le pidió retirar los restos de sus padres del Jardín de Paz: cuál fue su respuesta",
+        "link": "https://www.infobae.com/teleshow/2026/10/19/teresa-costantini-asegura-que-su-exmarido-eduardo-le-pidio-retirar-los-restos-de-sus-padres-del-jardin-de-paz-cual-fue-su-respuesta/",
+        "imagen": "https://www.infobae.com/resizer/v2/ZDJWL45SWRCAFBPUU2YRZ5TJ2I.jpg?auth=2aaee8c47e4edd9802fa8b548850fbfaa5a63db738441bf29e36a79198721f60&smart=true&width=1920&height=1075",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 16:48:21 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:57:49 +0000"
       },
       {
-        "titulo": "La novela de una autora fantasma que Borges premió y después despreció",
-        "link": "https://www.ambito.com/espectaculos/la-novela-una-autora-fantasma-que-borges-premio-y-despues-desprecio-n6335286",
-        "imagen": "https://media.ambito.com/p/44b1eeb5a2f352748a8cf9ce486f2319/adjuntos/239/imagenes/043/712/0043712958/1200x675/smart/19-ottobre-1945.jpg",
+        "titulo": "La \"Semana Charly\": la Ciudad de Buenos Aires celebra los 75 años de Charly García",
+        "link": "https://www.ambito.com/espectaculos/la-semana-charly-la-ciudad-buenos-aires-celebra-los-75-anos-charly-garcia-n6335390",
+        "imagen": "https://media.ambito.com/p/1d4ec58af9dde74acaf0d6ef735ef5ec/adjuntos/239/imagenes/043/713/0043713373/charly-garcia3.jpg",
         "fuente": "Ámbito",
-        "fecha": "Mon, 19 Oct 2026 11:49:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 14:07:00 -0300"
       },
       {
-        "titulo": "El romántico gesto entre Zaira Nara y Jakob Von Plessen tras confirmar su reconciliación",
-        "link": "https://www.c5n.com/ratingcero/el-romantico-gesto-zaira-nara-y-jakob-von-plessen-confirmar-su-reconciliacion-n251989",
-        "imagen": "https://media.c5n.com/p/e72bd86f92383e67983e73e783aaec27/adjuntos/326/imagenes/000/148/0000148841/1200x675/smart/zaira-nara-se-separo-jakob.jpg",
+        "titulo": "Quedó mal parado: la versión de L-Gante por la que no forma parte de MasterChef",
+        "link": "https://www.c5n.com/ratingcero/quedo-mal-parado-la-version-l-gante-la-que-no-forma-parte-masterchef-n252003",
+        "imagen": "https://media.c5n.com/p/048fe16956dbe6ffa3a73e53c94f4b3b/adjuntos/326/imagenes/000/398/0000398864/1200x675/smart/lgante-masterchef-1.jpg",
         "fuente": "C5N",
-        "fecha": "Mon, 19 Oct 2026 13:23:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 15:39:35 -0300"
       },
       {
-        "titulo": "BTS en Argentina: qué se puede llevar al Estadio Único y todo lo que hay que saber antes del recital",
-        "link": "https://www.clarin.com/espectaculos/bts-argentina-puede-llevar-estadio-unico-saber-recital_0_9GuLQPE1zW.html",
-        "imagen": "https://www.clarin.com/img/2026/10/15/ZLwlORi0H_1200x630__1.jpg",
+        "titulo": "Lo que viene: la cuarta temporada de Lupin encabeza los estrenos de la semana en el streaming",
+        "link": "https://www.clarin.com/espectaculos/viene-cuarta-temporada-lupin-encabeza-estrenos-semana-streaming_0_6b0JF54rA2.html",
+        "imagen": "https://www.clarin.com/img/2025/10/20/wUsyiMhkY_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Mon, 19 Oct 2026 12:00:16 +0000"
+        "fecha": "Mon, 19 Oct 2026 14:55:00 +0000"
       },
       {
-        "titulo": "Las frases de Wanda Nara en MasterChef Celebrity que reviven el Wandagate: de “zorra” a los consejos prenupciales",
-        "link": "https://www.infobae.com/teleshow/2026/10/19/las-frases-de-wanda-nara-en-masterchef-celebrity-que-reviven-el-wandagate-de-zorra-a-los-consejos-prenupciales/",
-        "imagen": "https://www.infobae.com/resizer/v2/52PW33NVNNCYDBKO6XQVCL5I5E.png?auth=f515dfba088c80d9ad5c94f32ba4005f1b7af2b3fe53d9a2001bada8c654fa85&smart=true&width=2752&height=1536",
+        "titulo": "Una serie de posteos de la madre de Tini Stoessel generó polémica en las redes",
+        "link": "https://www.infobae.com/teleshow/2026/10/19/una-serie-de-posteos-de-la-madre-de-tini-stoessel-genero-polemica-en-las-redes/",
+        "imagen": "https://www.infobae.com/resizer/v2/MBSIHERM7JBD7BLEH6NUPM363I.jpg?auth=6f7c05fde4fbaabfa8ecbd01a932c80a04803aecc5e34281a441112b16633955&smart=true&width=1920&height=1097",
         "fuente": "Infobae",
-        "fecha": "Mon, 19 Oct 2026 16:40:51 +0000"
+        "fecha": "Mon, 19 Oct 2026 18:43:49 +0000"
       }
     ],
     "tecnologia": [
@@ -526,18 +526,18 @@
         "fecha": "Tue, 13 Oct 2026 11:37:00 -0300"
       },
       {
-        "titulo": "OpenAI reveló que sus modelos accedieron a datos reservados y gastaron criptomonedas ajenas",
-        "link": "https://www.c5n.com/tecnologia/openai-revelo-que-sus-modelos-accedieron-datos-reservados-y-gastaron-criptomonedas-ajenas-n251880",
-        "imagen": "https://media.c5n.com/p/e85ae7a65b7b4fde4c88b2508b574228/adjuntos/326/imagenes/000/403/0000403755/1200x675/smart/samuel-harris-altman-director-ejecutivo-openai.jpg",
+        "titulo": "Se agotó la preventa del iPhone Duo en minutos: hasta cuándo habrá que esperar para comprar uno",
+        "link": "https://www.c5n.com/tecnologia/se-agoto-la-preventa-del-iphone-duo-minutos-cuando-habra-que-esperar-comprar-uno-n252009",
+        "imagen": "https://media.c5n.com/p/54b458242bedccd87a74b4970600e3db/adjuntos/326/imagenes/000/403/0000403965/1200x675/smart/iphone-duo-1.jpg",
         "fuente": "C5N",
-        "fecha": "Sat, 17 Oct 2026 19:29:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 16:34:56 -0300"
       },
       {
-        "titulo": "“No estamos prestando atención a los riesgos y ni a sus daños”, Bill Gates, sobre el avance global de la IA",
-        "link": "https://www.infobae.com/tecno/2026/10/19/no-estamos-prestando-atencion-a-los-riesgos-y-ni-a-sus-danos-bill-gates-sobre-el-avance-global-de-la-ia/",
-        "imagen": "https://www.infobae.com/resizer/v2/ONU4672PP5XOENNSPYAOOXTGLM.jpg?auth=043f61152851494d56205a432870ff92247f5077f879e28ec764cbd595b27a51&smart=true&width=5500&height=3667",
+        "titulo": "Una aeronave no tripulada voló de Estados Unidos a Japón para funcionar como torre de celular en el cielo",
+        "link": "https://www.infobae.com/tecno/2026/10/19/una-aeronave-no-tripulada-volo-de-estados-unidos-a-japon-para-funcionar-como-torre-de-celular-en-el-cielo/",
+        "imagen": "https://www.infobae.com/resizer/v2/3BEXU5LTHVB7FMGNBLE2PKJZPU.png?auth=f57bda94ef50472f64ee618c84999bc8614948f0629cc9e28203a6db73392617&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 19 Oct 2026 16:17:53 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:22:02 +0000"
       },
       {
         "titulo": "Por qué los descubrimientos que hicieron los ganadores del Nobel de Química 2026 son decisivos para el conocimiento de la vida y el desarrollo de medicamentos",
@@ -554,18 +554,18 @@
         "fecha": "Tue, 13 Oct 2026 11:15:00 -0300"
       },
       {
-        "titulo": "Riot Games confirmó el cierre de League of Legends Classic tras el fracaso de su modo permanente: qué pasó",
-        "link": "https://www.c5n.com/tecnologia/riot-games-confirmo-el-cierre-league-of-legends-classic-el-fracaso-su-modo-permanente-que-paso-n251840",
-        "imagen": "https://media.c5n.com/p/093e5eac65136fc5918e6c6e3fe03230/adjuntos/326/imagenes/000/403/0000403663/1200x675/smart/league-of-legends-classic.jpg",
+        "titulo": "Este es el error que se puede corregir en el GTA 6 después de una queja de los usuarios de hace años",
+        "link": "https://www.c5n.com/tecnologia/este-es-el-error-que-se-puede-corregir-el-gta-6-despues-una-queja-los-usuarios-hace-anos-n251997",
+        "imagen": "https://media.c5n.com/p/f37636b83ea5015dc7195365596924f9/adjuntos/326/imagenes/000/396/0000396490/1200x675/smart/gta-6.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 16 Oct 2026 21:45:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 14:36:00 -0300"
       },
       {
-        "titulo": "El jefe de Epic Games aseguró que la IA permitirá crear juegos que antes eran imposibles de hacer",
-        "link": "https://www.infobae.com/tecno/2026/10/19/el-jefe-de-epic-games-aseguro-que-la-ia-permitira-crear-juegos-que-antes-eran-imposibles-de-hacer/",
-        "imagen": "https://www.infobae.com/resizer/v2/TYU2RIUWVRFVDAXYHI46E6TOCQ.jpg?auth=3f8fc57e47cbab8096e46c27b18766189f6ec9cfaa2b6d2005b7b46c937b5c8e&smart=true&width=1920&height=1343",
+        "titulo": "Encuentran nuevo software espía en iPhone: llavero, fotos y notas quedan a la vista",
+        "link": "https://www.infobae.com/tecno/2026/10/19/encuentran-nuevo-software-espia-en-iphone-llavero-fotos-y-notas-quedan-a-la-vista/",
+        "imagen": "https://www.infobae.com/resizer/v2/ETW5T3MU2ZZ32YWSINVHQFW27Y.jpg?auth=7ac7238ea2712f2da31a2b512b33a06f104127b6cf3a5fb92ccfc72e523f78f1&smart=true&width=800&height=534",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 19 Oct 2026 16:08:53 +0000"
+        "fecha": "Mon, 19 Oct 2026 21:20:48 +0000"
       },
       {
         "titulo": "Cazadores argentinos de mensajeros cósmicos celebran el Nobel de Física 2026 al astrofísico belga Francis Halzen",
@@ -582,18 +582,18 @@
         "fecha": "Wed, 07 Oct 2026 11:46:00 -0300"
       },
       {
-        "titulo": "YouTube busca competir con Spotify: aseguran que ofrecerá audiolibros a partir de 2027",
-        "link": "https://www.c5n.com/tecnologia/youtube-busca-competir-spotify-aseguran-que-ofrecera-audiolibros-partir-2027-n251826",
-        "imagen": "https://media.c5n.com/p/5882e98683a336ea625c98824925e73f/adjuntos/326/imagenes/000/373/0000373019/1200x675/smart/mujer-auriculares.png",
+        "titulo": "OpenAI reveló que sus modelos accedieron a datos reservados y gastaron criptomonedas ajenas",
+        "link": "https://www.c5n.com/tecnologia/openai-revelo-que-sus-modelos-accedieron-datos-reservados-y-gastaron-criptomonedas-ajenas-n251880",
+        "imagen": "https://media.c5n.com/p/e85ae7a65b7b4fde4c88b2508b574228/adjuntos/326/imagenes/000/403/0000403755/1200x675/smart/samuel-harris-altman-director-ejecutivo-openai.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 16 Oct 2026 19:18:00 -0300"
+        "fecha": "Sat, 17 Oct 2026 19:29:00 -0300"
       },
       {
-        "titulo": "Cómo vaciar la papelera de reciclaje de WhatsApp sin eliminar chats",
-        "link": "https://www.infobae.com/tecno/2026/10/19/como-vaciar-la-papelera-de-reciclaje-de-whatsapp-sin-eliminar-chats/",
-        "imagen": "https://www.infobae.com/resizer/v2/FMQQR3H4NBAOXKFOG7YLCM7DGM.png?auth=2c5547c7949741a066681584588baf6dbdeacd8c9993c56a3900d0f389dc588f&smart=true&width=2752&height=1536",
+        "titulo": "Dragon Ball Super Beerus con subtítulos en español latino: dónde ver el anime de forma segura y sin virus",
+        "link": "https://www.infobae.com/tecno/2026/10/19/dragon-ball-super-beerus-con-subtitulos-en-espanol-latino-donde-ver-el-anime-de-forma-segura-y-sin-virus/",
+        "imagen": "https://www.infobae.com/resizer/v2/E6SO3FX6LNGMFBOP4PEDKC4YHA.jpg?auth=e9885730609562021045ba8ee863d30390db68af4fa81e5d6d87b03dca8baf40&smart=true&width=1920&height=1080",
         "fuente": "Infobae Tecno",
-        "fecha": "Mon, 19 Oct 2026 15:33:27 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:23:06 +0000"
       },
       {
         "titulo": "“Cambio de paradigma”: Premio Nobel de Fisiología/Medicina 2026 para tres científicos que revolucionaron las neurociencias",
@@ -612,11 +612,11 @@
         "fecha": "Mon, 05 Oct 2026 22:16:25 GMT"
       },
       {
-        "titulo": "Con tanque de 47 litros, este es el presupuesto para llenar el Toyota Corolla Cross en octubre 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/10/19/con-tanque-de-47-litros-este-es-el-presupuesto-para-llenar-el-toyota-corolla-cross-en-octubre-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/TCTFKE3PSVCPPFIHUFTTJH5B6M.jpg?auth=4cffb707069bd35b9eb8de03558f2e9f4c99d0bd1801f015757357005570f367",
+        "titulo": "Línea Swift, Jimny 3 y 5 puertas y lista oficial: todos los precios de Suzuki en octubre de 2026 en Argentina",
+        "link": "https://tn.com.ar/autos/novedades/2026/10/19/linea-swift-jimny-3-y-5-puertas-y-lista-oficial-todos-los-precios-de-suzuki-en-octubre-de-2026-en-argentina/",
+        "imagen": "https://tn.com.ar/resizer/v2/WUSASQKD5RCQJKTF7BMPCOKA2I.jpg?auth=6d90befca4413dd7385506548ca6528298136b1e8fc166aee713a4cb8e224689",
         "fuente": "TN Autos",
-        "fecha": "2026-10-19T14:00:31-03:00"
+        "fecha": "2026-10-19T17:16:00-03:00"
       },
       {
         "titulo": "ARCFOX: el lujo también se muestra en autos eléctricos",
@@ -626,11 +626,11 @@
         "fecha": "Mon, 05 Oct 2026 21:16:15 GMT"
       },
       {
-        "titulo": "Autos de hasta 2.500 kg, motos y cronograma por patente: los precios oficiales de la VTV bonaerense en octubre de 2026",
-        "link": "https://tn.com.ar/autos/novedades/2026/10/19/autos-de-hasta-2500-kg-motos-y-cronograma-por-patente-los-precios-oficiales-de-la-vtv-bonaerense-en-octubre-de-2026/",
-        "imagen": "https://tn.com.ar/resizer/v2/LQHO57FBERBXNOTHTWXOGZ5NZA.jpg?auth=62db6183a87d8057fb9d4f533235a51ea06678c751d46b1cd64a4c968b99fd63",
+        "titulo": "Formación de gel, radiadores tapados y recalentamiento: los motivos para no mezclar distintos líquidos refrigerantes",
+        "link": "https://tn.com.ar/autos/novedades/2026/10/19/formacion-de-gel-radiadores-tapados-y-recalentamiento-los-motivos-para-no-mezclar-distintos-liquidos-refrigerantes/",
+        "imagen": "https://tn.com.ar/resizer/v2/W5VLVVALQBAW5MXXIS22SOABCE.jpg?auth=8a87b45954bfa540a79ffe1064f8ce794607ce4e2c5e2da78afd7507db6e351b",
         "fuente": "TN Autos",
-        "fecha": "2026-10-19T13:43:23-03:00"
+        "fecha": "2026-10-19T14:41:04-03:00"
       },
       {
         "titulo": "BAIC: un universo tecnológico al alcance del público",
@@ -640,11 +640,11 @@
         "fecha": "Mon, 05 Oct 2026 20:31:20 GMT"
       },
       {
-        "titulo": "Ángel Gaitán, mecánico: “Si tenés un auto viejo y funciona dando tirones, se soluciona cambiando un tubito”",
-        "link": "https://tn.com.ar/autos/novedades/2026/10/19/angel-gaitan-mecanico-si-tenes-un-auto-viejo-y-funciona-dando-tirones-se-soluciona-cambiando-un-tubito/",
-        "imagen": "https://tn.com.ar/resizer/v2/WPA56O4CFZGFVP56UNHQ3FKYCQ.jpg?auth=36338905118dbb51fc112f3e5eef313db280a18c9e98fe34c37a04eb2b1bde4b",
+        "titulo": "Con tanque de 47 litros, este es el presupuesto para llenar el Toyota Corolla Cross en octubre 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/10/19/con-tanque-de-47-litros-este-es-el-presupuesto-para-llenar-el-toyota-corolla-cross-en-octubre-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/TCTFKE3PSVCPPFIHUFTTJH5B6M.jpg?auth=4cffb707069bd35b9eb8de03558f2e9f4c99d0bd1801f015757357005570f367",
         "fuente": "TN Autos",
-        "fecha": "2026-10-19T11:13:02-03:00"
+        "fecha": "2026-10-19T14:00:31-03:00"
       },
       {
         "titulo": "Dongfeng: una reducida, pero interesante gama electrificada en la Argentina",
@@ -654,11 +654,11 @@
         "fecha": "Mon, 05 Oct 2026 19:04:27 GMT"
       },
       {
-        "titulo": "Juan José Ebenezer, mecánico: “Cuando se hace el cambio de aceite, también hay que cambiar una junta que se traga el turbo”",
-        "link": "https://tn.com.ar/autos/novedades/2026/10/19/juan-jose-ebenezer-mecanico-cuando-se-hace-el-cambio-de-aceite-tambien-hay-que-cambiar-una-junta-que-se-traga-el-turbo/",
-        "imagen": "https://tn.com.ar/resizer/v2/AVGELFFLAJCANPRTGHHM5BDKLQ.jpg?auth=862fc4a488e7482f8d1109e9b3f567b205880a306e85050f452b0c4d2498e00c",
+        "titulo": "Autos de hasta 2.500 kg, motos y cronograma por patente: los precios oficiales de la VTV bonaerense en octubre de 2026",
+        "link": "https://tn.com.ar/autos/novedades/2026/10/19/autos-de-hasta-2500-kg-motos-y-cronograma-por-patente-los-precios-oficiales-de-la-vtv-bonaerense-en-octubre-de-2026/",
+        "imagen": "https://tn.com.ar/resizer/v2/LQHO57FBERBXNOTHTWXOGZ5NZA.jpg?auth=62db6183a87d8057fb9d4f533235a51ea06678c751d46b1cd64a4c968b99fd63",
         "fuente": "TN Autos",
-        "fecha": "2026-10-19T11:10:25-03:00"
+        "fecha": "2026-10-19T13:43:23-03:00"
       },
       {
         "titulo": "Jetour: modelos actuales, un SUV asombroso y anticipo de novedades",
@@ -668,11 +668,11 @@
         "fecha": "Mon, 05 Oct 2026 18:39:52 GMT"
       },
       {
-        "titulo": "Pick-ups compactas, medianas y pesadas: la lista de precios oficial de RAM en octubre de 2026 en Argentina",
-        "link": "https://tn.com.ar/autos/novedades/2026/10/19/pick-ups-compactas-medianas-y-pesadas-la-lista-de-precios-oficial-de-ram-en-octubre-de-2026-en-argentina/",
-        "imagen": "https://tn.com.ar/resizer/v2/P632VY3ZWNCBJLFMLNDVY6PCKQ.jpg?auth=d554a91b234f00d24203bb0a83fee05fa6b48520799951cb74ac57e7b1435647",
+        "titulo": "Ángel Gaitán, mecánico: “Si tenés un auto viejo y funciona dando tirones, se soluciona cambiando un tubito”",
+        "link": "https://tn.com.ar/autos/novedades/2026/10/19/angel-gaitan-mecanico-si-tenes-un-auto-viejo-y-funciona-dando-tirones-se-soluciona-cambiando-un-tubito/",
+        "imagen": "https://tn.com.ar/resizer/v2/WPA56O4CFZGFVP56UNHQ3FKYCQ.jpg?auth=36338905118dbb51fc112f3e5eef313db280a18c9e98fe34c37a04eb2b1bde4b",
         "fuente": "TN Autos",
-        "fecha": "2026-10-19T09:06:56-03:00"
+        "fecha": "2026-10-19T11:13:02-03:00"
       },
       {
         "titulo": "Leapmotor: avant-première, posibles llegadas y dos SUV conocidos",
@@ -682,20 +682,20 @@
         "fecha": "Mon, 05 Oct 2026 17:33:25 GMT"
       },
       {
-        "titulo": "Quiénes pueden recibir una multa de $4.692.320 en octubre en Buenos Aires por incumplir con esta ley de tránsito",
-        "link": "https://tn.com.ar/autos/novedades/2026/10/18/quienes-pueden-recibir-una-multa-de-4692320-en-octubre-en-buenos-aires-por-incumplir-con-esta-ley-de-transito/",
-        "imagen": "https://tn.com.ar/resizer/v2/UN7DLBIA5ZHTXPJBVYFHUQP5YA.png?auth=5adc452db979844f2e0d8d2a14bc7d293452637305b3ae8f0c307ff4414c4841",
+        "titulo": "Juan José Ebenezer, mecánico: “Cuando se hace el cambio de aceite, también hay que cambiar una junta que se traga el turbo”",
+        "link": "https://tn.com.ar/autos/novedades/2026/10/19/juan-jose-ebenezer-mecanico-cuando-se-hace-el-cambio-de-aceite-tambien-hay-que-cambiar-una-junta-que-se-traga-el-turbo/",
+        "imagen": "https://tn.com.ar/resizer/v2/AVGELFFLAJCANPRTGHHM5BDKLQ.jpg?auth=862fc4a488e7482f8d1109e9b3f567b205880a306e85050f452b0c4d2498e00c",
         "fuente": "TN Autos",
-        "fecha": "2026-10-18T22:49:46-03:00"
+        "fecha": "2026-10-19T11:10:25-03:00"
       }
     ],
     "turismo": [
       {
-        "titulo": "Un verano 2027 en Brasil: descubrí las playas y los encantos de Salvador de Bahía",
-        "link": "https://argentina.viajando.travel/vacaciones/un-verano-2027-brasil-descubri-las-playas-y-los-encantos-salvador-bahia-n107715",
+        "titulo": "Pedernales, el rincón de República Dominicana con playas turquesas, flamencos y montañas",
+        "link": "https://argentina.viajando.travel/vacaciones/pedernales-el-rincon-republica-dominicana-playas-turquesas-flamencos-y-montanas-n107759",
         "imagen": "",
         "fuente": "Viajando Destinos",
-        "fecha": "Mon, 19 Oct 2026 14:06:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 18:11:00 -0300"
       },
       {
         "titulo": "Descubriendo Dubái y Abu Dhabi con paquete todo resuelto por U$S 1026",
@@ -705,6 +705,13 @@
         "fecha": "Thu, 15 Oct 2026 19:32:00 -0300"
       },
       {
+        "titulo": "Escapadas de un día: ¿Qué hacer en el delta del Tigre?",
+        "link": "https://argentina.viajando.travel/escapadas/escapadas-un-dia-que-hacer-el-delta-del-tigre-n31006",
+        "imagen": "https://media.viajando.travel/p/ad13b127bf49eeb0a5b822bff3623a5b/adjuntos/236/imagenes/000/539/0000539835/1200x675/smart/escapadas-tigrepng.png",
+        "fuente": "Viajando Escapadas",
+        "fecha": "Mon, 19 Oct 2026 16:10:00 -0300"
+      },
+      {
         "titulo": "Mar del Plata: las mejores playas y paradores para el verano",
         "link": "https://argentina.viajando.travel/mar-del-plata/mar-del-plata-las-mejores-playas-y-paradores-el-verano-n46165",
         "imagen": "https://media.viajando.travel/p/6e695d6150c7ff133daecc0114341be8/adjuntos/236/imagenes/000/804/0000804524/precios-playa-mar-del-plata.jpg",
@@ -712,11 +719,11 @@
         "fecha": "Thu, 15 Jan 2026 18:38:00 -0300"
       },
       {
-        "titulo": "5 lugares de Asia tan sorprendentes que cuesta creer que existen",
-        "link": "https://argentina.viajando.travel/vacaciones/5-lugares-asia-tan-sorprendentes-que-cuesta-creer-que-existen-n107498",
+        "titulo": "Un verano 2027 en Brasil: descubrí las playas y los encantos de Salvador de Bahía",
+        "link": "https://argentina.viajando.travel/vacaciones/un-verano-2027-brasil-descubri-las-playas-y-los-encantos-salvador-bahia-n107715",
         "imagen": "",
         "fuente": "Viajando Destinos",
-        "fecha": "Wed, 14 Oct 2026 17:47:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 14:06:00 -0300"
       },
       {
         "titulo": "Super Dubái: paquete 5 días ideal shopping y cultura por U$S 274",
@@ -726,6 +733,13 @@
         "fecha": "Thu, 15 Oct 2026 17:35:00 -0300"
       },
       {
+        "titulo": "Tigre: 5 restaurantes en las islas del Delta para comer frente al río",
+        "link": "https://argentina.viajando.travel/escapadas/tigre-5-restaurantes-las-islas-del-delta-comer-frente-al-rio-n107520",
+        "imagen": "https://media.viajando.travel/p/ba7989a04ca955c77c79d6fc36674a63/adjuntos/236/imagenes/000/902/0000902209/1200x675/smart/tigre-shutterstock_2279732199.jpg",
+        "fuente": "Viajando Escapadas",
+        "fecha": "Mon, 19 Oct 2026 16:03:00 -0300"
+      },
+      {
         "titulo": "Verano 2026: por qué elegir Balneario Camboriú para tus vacaciones",
         "link": "https://argentina.viajando.travel/vacaciones/verano-2026-que-elegir-balneario-camboriu-tus-vacaciones-n94393",
         "imagen": "https://media.viajando.travel/p/c4640c3ea8963d0a50d8a979a2d82540/adjuntos/236/imagenes/000/863/0000863609/1200x675/smart/balneario-camboriu-brasil.jpg",
@@ -733,11 +747,11 @@
         "fecha": "Fri, 02 Jan 2026 14:31:00 -0300"
       },
       {
-        "titulo": "Fin de Año en Nueva York: la magia de recibir el 2027 en la ciudad más vibrante del mundo",
-        "link": "https://argentina.viajando.travel/experiencias/fin-ano-nueva-york-la-magia-recibir-el-2027-la-ciudad-mas-vibrante-del-mundo-n107464",
+        "titulo": "5 lugares de Asia tan sorprendentes que cuesta creer que existen",
+        "link": "https://argentina.viajando.travel/vacaciones/5-lugares-asia-tan-sorprendentes-que-cuesta-creer-que-existen-n107498",
         "imagen": "",
         "fuente": "Viajando Destinos",
-        "fecha": "Wed, 14 Oct 2026 11:11:00 -0300"
+        "fecha": "Wed, 14 Oct 2026 17:47:00 -0300"
       },
       {
         "titulo": "Dubai Esencial: un paquete para conocer los imperdibles del destino desde US$ 608",
@@ -747,41 +761,34 @@
         "fecha": "Thu, 15 Oct 2026 17:30:00 -0300"
       },
       {
+        "titulo": "Escapadas: 5 playas de Tigre para huir del calor del verano",
+        "link": "https://argentina.viajando.travel/escapadas/escapadas-5-playas-tigre-huir-del-calor-del-verano-n48569",
+        "imagen": "https://media.viajando.travel/p/7bb76b9c319e544f5916d20b5d4263f8/adjuntos/236/imagenes/000/688/0000688799/1200x675/smart/playa-tigre-sdd-portada-xxxpng.png",
+        "fuente": "Viajando Escapadas",
+        "fecha": "Tue, 13 Oct 2026 17:18:00 -0300"
+      },
+      {
         "titulo": "10 playas de Bariloche para disfrutar del verano en la Patagonia",
         "link": "https://argentina.viajando.travel/vacaciones/10-playas-bariloche-disfrutar-del-verano-la-patagonia-n94339",
         "imagen": "https://media.viajando.travel/p/16179b6f21f9ae03812e796bbfb20e12/adjuntos/236/imagenes/000/863/0000863488/1200x675/smart/bariloche-verano-playas.jpg",
         "fuente": "Viajando Sol y Playa",
         "fecha": "Tue, 30 Dec 2025 14:11:00 -0300"
-      },
-      {
-        "titulo": "Orange Walk y Lamanai: el rincón de Belice donde la cultura Maya convive con la selva",
-        "link": "https://argentina.viajando.travel/experiencias/orange-walk-y-lamanai-el-rincon-belice-donde-la-cultura-maya-convive-la-selva-n107438",
-        "imagen": "",
-        "fuente": "Viajando Destinos",
-        "fecha": "Tue, 13 Oct 2026 17:20:37 -0300"
-      },
-      {
-        "titulo": "Dubái: descubre las tres religiones de los emiratos en un paquete combinado con Abu Dhabi",
-        "link": "https://argentina.viajando.travel/oferta-turistica/dubai-descubre-las-tres-religiones-los-emiratos-un-paquete-combinado-abu-dhabi-n107579",
-        "imagen": "",
-        "fuente": "Viajando Últimas Noticias",
-        "fecha": "Thu, 15 Oct 2026 17:19:00 -0300"
-      },
-      {
-        "titulo": "¿Cuánto cuesta una semana en Miramar esta temporada?",
-        "link": "https://argentina.viajando.travel/vacaciones/cuanto-cuesta-una-semana-miramar-esta-temporada-n74975",
-        "imagen": "https://media.viajando.travel/p/3f6f8dde8d9a7046e8bad84ed02f0c5f/adjuntos/236/imagenes/000/784/0000784818/miramar-verano-2025.jpg",
-        "fuente": "Viajando Sol y Playa",
-        "fecha": "Mon, 29 Dec 2025 09:00:00 -0300"
       }
     ],
     "vida_sana": [
+      {
+        "titulo": "La prevención como clave del autocuidado: los chequeos que pueden cambiar el tratamiento del cáncer de mama y las enfermedades cardiovasculares",
+        "link": "https://www.infobae.com/salud/2026/10/19/la-prevencion-como-clave-del-autocuidado-los-chequeos-que-pueden-cambiar-el-tratamiento-del-cancer-de-mama-y-las-enfermedades-cardiovasculares/",
+        "imagen": "https://www.infobae.com/resizer/v2/QDPPPC4GRZD35MXIPIEJF6DZCI.jpg?auth=1b70da2d928ee0bdbc881767fb456144c71d35b1ff020415c29f4975eb332428&smart=true&width=1456&height=816",
+        "fuente": "Infobae Salud",
+        "fecha": "Mon, 19 Oct 2026 20:11:19 +0000"
+      },
       {
         "titulo": "Cuáles son los mejores ejercicios para tonificar los brazos y evitar la piel caída",
         "link": "https://www.infobae.com/salud/2026/10/19/cuales-son-los-mejores-ejercicios-para-tonificar-los-brazos-y-evitar-la-piel-caida/",
         "imagen": "https://www.infobae.com/resizer/v2/375E4M3GDRC45JIBMQD2S4YCV4.png?auth=fd727fa6ebd08f3df77a2dcfb7462179cd73633a1f6a0700fc1db74e7677b38f&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
-        "fecha": "Mon, 19 Oct 2026 16:49:04 +0000"
+        "fecha": "Mon, 19 Oct 2026 19:59:48 +0000"
       },
       {
         "titulo": "Investigadores de Harvard identificaron una proteína que protege la memoria y podría retrasar el deterioro cognitivo",
@@ -810,22 +817,71 @@
         "imagen": "https://www.infobae.com/resizer/v2/WVHNM3U32FDW3CRH4BFHSQ77E4?auth=35eb718cdb74588db2fefcc5cad880b682d4bf4f193cb04a111d0650c284e874&smart=true&width=5500&height=3094",
         "fuente": "Infobae Salud",
         "fecha": "Mon, 19 Oct 2026 12:34:31 +0000"
-      },
-      {
-        "titulo": "Cinco posturas de yoga que activan el core mejor que los abdominales clásicos: ayudan a ganar fuerza, equilibrio y movilidad",
-        "link": "https://www.infobae.com/tendencias/2026/10/19/cinco-posturas-de-yoga-que-activan-el-core-mejor-que-los-abdominales-clasicos-ayudan-a-ganar-fuerza-equilibrio-y-movilidad/",
-        "imagen": "https://www.infobae.com/resizer/v2/5C4UL3J7LFDE5GXSS56JRUKYPU.png?auth=4e9a5187d8026e82a1a92ba76d23429c5e5db83f998f176bd9a862a342421d5f&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Mon, 19 Oct 2026 12:16:50 +0000"
       }
     ],
     "local": [
       {
-        "titulo": "Loteos ilegales en La Plata: secuestraron documentos clave en una escribanía céntrica",
-        "link": "https://www.0221.com.ar/la-plata/loteos-ilegales-la-plata-secuestraron-documentos-clave-una-escribania-centrica-n136043",
-        "imagen": "https://media.0221.com.ar/p/c820af326d16ba1b62ceab1edcd2ee19/adjuntos/357/imagenes/100/227/0100227825/1200x630/2661x2430:2681x2450/loteos-ilegales-privados-17jpg.jpg",
+        "titulo": "Video: un auto se prendió fuego en plena avenida de La Plata y generó preocupación entre los vecinos",
+        "link": "https://www.0221.com.ar/la-plata/video-un-auto-se-prendio-fuego-plena-avenida-la-plata-y-genero-preocupacion-los-vecinos-n136068",
+        "imagen": "https://media.0221.com.ar/p/803fea7134e0ff44828b58e8fdc269f5/adjuntos/357/imagenes/100/300/0100300413/1200x630/smart/auto-prendido-fuego-532-y-117.png",
         "fuente": "0221",
-        "fecha": "Mon, 19 Oct 2026 12:21:00 -0300"
+        "fecha": "Mon, 19 Oct 2026 18:02:00 -0300"
+      },
+      {
+        "titulo": "Dolor en la Facultad de Ciencias Económicas de la UNLP por la muerte de un histórico abogado y docente",
+        "link": "https://www.0221.com.ar/universidad/dolor-la-facultad-ciencias-economicas-la-unlp-la-muerte-un-historico-abogado-y-docente-n136049",
+        "imagen": "https://media.0221.com.ar/p/946589d9947f671558affb3a61247d4b/adjuntos/357/imagenes/100/300/0100300366/1200x630/1030x553:1050x573/portada.png",
+        "fuente": "0221 Universidad",
+        "fecha": "Mon, 19 Oct 2026 16:11:00 -0300"
+      },
+      {
+        "titulo": "Luis Machín relata el horror de interpretar al femicida Ricardo Barreda y revela que lo soñó matándolo",
+        "link": "https://www.0221.com.ar/que-hago/luis-machin-relata-el-horro-interpretar-al-femicida-ricardo-barreda-y-revela-que-lo-sono-matandolo-n136063",
+        "imagen": "https://media.0221.com.ar/p/25250f9b90cfa6dea8d5995e2303678e/adjuntos/357/imagenes/100/288/0100288086/1200x630/smart/pelicula-ricardo-barreda-1.jpg",
+        "fuente": "0221 ¿Qué Hago?",
+        "fecha": "Mon, 19 Oct 2026 16:16:00 -0300"
+      },
+      {
+        "titulo": "La UNLP fue ratificada como la segunda mejor universidad de Argentina y 15° en América Latina",
+        "link": "https://www.eldia.com/la-ciudad/la-unlp-fue-ratificada-como-la-segunda-mejor-universidad-de-argentina-y-15-en-america-latina-la-ciudad_1792440900",
+        "imagen": "",
+        "fuente": "El Día",
+        "fecha": "Mon, 19 Oct 2026 20:16:36 GMT"
+      },
+      {
+        "titulo": "Sortearán entradas para los recitales de BTS en La Plata durante la apertura de la Semana Coreana",
+        "link": "https://www.0221.com.ar/la-plata/sortearan-entradas-los-recitales-bts-la-plata-la-apertura-la-semana-coreana-n136066",
+        "imagen": "https://media.0221.com.ar/p/2163fc1d1c23ba321418c51b8012ff72/adjuntos/357/imagenes/100/300/0100300176/1200x630/2573x2093:2593x2113/army-bts-fanaticas.jpg",
+        "fuente": "0221",
+        "fecha": "Mon, 19 Oct 2026 17:22:00 -0300"
+      },
+      {
+        "titulo": "La UNLP se metió entre las 15 mejores universidades de América Latina según un ranking internacional",
+        "link": "https://www.0221.com.ar/universidad/la-unlp-se-metio-las-15-mejores-universidades-america-latina-segun-un-ranking-internacional-n136025",
+        "imagen": "https://media.0221.com.ar/p/a615a528fdf31c48dcf536732a542132/adjuntos/357/imagenes/100/291/0100291945/1200x630/1202x1593:1222x1613/banderazo-rectorado-unlp-1.jpeg",
+        "fuente": "0221 Universidad",
+        "fecha": "Mon, 19 Oct 2026 16:02:00 -0300"
+      },
+      {
+        "titulo": "Así se vive el paso de BTS por La Plata: preparativos, novedades y cobertura de los shows",
+        "link": "https://www.0221.com.ar/la-plata/asi-se-vive-el-paso-bts-la-plata-preparativos-novedades-y-cobertura-los-shows-n135812",
+        "imagen": "https://media.0221.com.ar/p/55d5701afe6c7c49941dca71e97d1330/adjuntos/357/imagenes/100/300/0100300335/1200x630/smart/bts-chile-3.jpeg",
+        "fuente": "0221 ¿Qué Hago?",
+        "fecha": "Mon, 19 Oct 2026 10:59:00 -0300"
+      },
+      {
+        "titulo": "VIDEO. Tensión en Tolosa por un auto que se prendió fuego",
+        "link": "https://www.eldia.com/policiales/tension-en-tolosa-por-un-auto-que-se-prendio-fuego-policiales_1792439220",
+        "imagen": "",
+        "fuente": "El Día",
+        "fecha": "Mon, 19 Oct 2026 19:56:36 GMT"
+      },
+      {
+        "titulo": "Familiares y amigos del joven de La Plata que murió atropellado por un micro marcharon para exigir respuestas",
+        "link": "https://www.0221.com.ar/la-plata/familiares-y-amigos-del-joven-la-plata-que-murio-atropellado-un-micro-marcharon-exigir-respuestas-n136064",
+        "imagen": "https://media.0221.com.ar/p/0dc9c1df99b234106ec0b48e38c1ad67/adjuntos/357/imagenes/100/300/0100300399/1200x630/2308x2293:2328x2313/marcha-justicia-luis-yauri-8.jpeg",
+        "fuente": "0221",
+        "fecha": "Mon, 19 Oct 2026 16:32:00 -0300"
       },
       {
         "titulo": "La quinta Marcha Federal Universitaria volvió a poner en agenda el conflicto por el financiamiento educativo",
@@ -835,34 +891,6 @@
         "fecha": "Thu, 15 Oct 2026 19:41:00 -0300"
       },
       {
-        "titulo": "Así se vive el paso de BTS por La Plata: preparativos, novedades y cobertura de los shows",
-        "link": "https://www.0221.com.ar/la-plata/asi-se-vive-el-paso-bts-la-plata-preparativos-novedades-y-cobertura-los-shows-n135812",
-        "imagen": "https://media.0221.com.ar/p/55d5701afe6c7c49941dca71e97d1330/adjuntos/357/imagenes/100/300/0100300335/1200x630/smart/bts-chile-3.jpeg",
-        "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Mon, 19 Oct 2026 10:59:00 -0300"
-      },
-      {
-        "titulo": "Reclamo en un barrio de Romero por una calle intransitable",
-        "link": "https://www.eldia.com/la-ciudad/reclamo-en-un-barrio-de-romero-por-una-calle-intransitable-la-ciudad_1792417260",
-        "imagen": "",
-        "fuente": "El Día",
-        "fecha": "Mon, 19 Oct 2026 15:53:31 GMT"
-      },
-      {
-        "titulo": "Así se vive el paso de BTS por La Plata: preparativos, novedades y cobertura de los shows",
-        "link": "https://www.0221.com.ar/la-plata/asi-se-vive-el-paso-bts-la-plata-preparativos-novedades-y-cobertura-los-shows-n135812",
-        "imagen": "https://media.0221.com.ar/p/55d5701afe6c7c49941dca71e97d1330/adjuntos/357/imagenes/100/300/0100300335/1200x630/smart/bts-chile-3.jpeg",
-        "fuente": "0221",
-        "fecha": "Mon, 19 Oct 2026 10:59:00 -0300"
-      },
-      {
-        "titulo": "Tensión en la Marcha Federal Universitaria con piedrazos, gases lacrimógenos y un camión hidrante",
-        "link": "https://www.0221.com.ar/nacional/tension-la-marcha-federal-universitaria-piedrazos-gases-lacrimogenos-y-un-camion-hidrante-n135877",
-        "imagen": "https://media.0221.com.ar/p/c1134429650ed1c64c364cb0fff15d8c/adjuntos/357/imagenes/100/299/0100299945/1200x630/555x545:575x565/incidentes-marcha-federal-universitaria.png",
-        "fuente": "0221 Universidad",
-        "fecha": "Thu, 15 Oct 2026 16:29:00 -0300"
-      },
-      {
         "titulo": "El Teatro Argentino se transforma: house en vinilos, gastronomía y arte con el Face To Face",
         "link": "https://www.0221.com.ar/que-hago/el-teatro-argentino-se-transforma-house-vinilos-gastronomia-y-arte-el-face-to-face-n135946",
         "imagen": "https://media.0221.com.ar/p/d07bb4de44705c6ee8e58eb2d867d552/adjuntos/357/imagenes/100/300/0100300181/1200x630/800x455:820x475/teatro-argentino.png",
@@ -870,39 +898,11 @@
         "fecha": "Mon, 19 Oct 2026 07:09:00 -0300"
       },
       {
-        "titulo": "Estando cuarto y a dos fechas del Reducido, echaron a Licht de Talleres de Remedios de Escalada",
-        "link": "https://www.eldia.com/deportes/estando-cuarto-y-a-dos-fechas-del-reducido-echaron-a-licht-de-talleres-de-remedios-de-escalada-deportes_1792424940",
+        "titulo": "¿Peligran los shows de BTS en La Plata? Un gremio amenaza con tomar medidas de fuerza",
+        "link": "https://www.eldia.com/la-ciudad/peligran-los-shows-de-bts-en-la-plata-un-gremio-amenaza-con-tomar-medidas-de-fuerza-la-ciudad_1792437660",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Mon, 19 Oct 2026 15:52:58 GMT"
-      },
-      {
-        "titulo": "Anuncian los horarios para los conciertos de BTS en La Plata: apertura de puertas, telonera e inicio del show",
-        "link": "https://www.0221.com.ar/la-plata/anuncian-los-horarios-los-conciertos-bts-la-plata-apertura-puertas-telonera-e-inicio-del-show-n136030",
-        "imagen": "https://media.0221.com.ar/p/45460dae4f87894ccdef67ffc2368833/adjuntos/357/imagenes/100/300/0100300333/1200x630/smart/bts-chile-1.jpeg",
-        "fuente": "0221",
-        "fecha": "Mon, 19 Oct 2026 10:45:00 -0300"
-      },
-      {
-        "titulo": "La movilización de estudiantes y docentes de la UNLP a la Marcha Federal Universitaria",
-        "link": "https://www.0221.com.ar/universidad/la-movilizacion-estudiantes-y-docentes-la-unlp-la-marcha-federal-universitaria-n135858",
-        "imagen": "https://media.0221.com.ar/p/b578dd5fac9048c6aefaf576fd3e3269/adjuntos/357/imagenes/100/299/0100299919/1200x630/1152x1074:1172x1094/preparativos-marcha-federal-universitaria-7.jpg",
-        "fuente": "0221 Universidad",
-        "fecha": "Thu, 15 Oct 2026 12:50:00 -0300"
-      },
-      {
-        "titulo": "La Plata palpita la llegada de BTS y abre la Semana Coreana con un show gratuito en el Teatro Coliseo Podestá",
-        "link": "https://www.0221.com.ar/que-hago/la-plata-palpita-la-llegada-bts-y-abre-la-semana-coreana-un-show-gratuito-el-teatro-coliseo-podesta-n135993",
-        "imagen": "https://media.0221.com.ar/p/860e2159d61c968d5f79531eadb22190/adjuntos/357/imagenes/100/300/0100300246/1200x630/smart/cultura-coreana.jpg",
-        "fuente": "0221 ¿Qué Hago?",
-        "fecha": "Sun, 18 Oct 2026 11:30:00 -0300"
-      },
-      {
-        "titulo": "El Mate cayó en su cancha y preocupa a todo el barrio",
-        "link": "https://www.eldia.com/quilmes/el-mate-cayo-en-su-cancha-y-preocupa-a-todo-el-barrio-quilmes_1792422780",
-        "imagen": "",
-        "fuente": "El Día",
-        "fecha": "Mon, 19 Oct 2026 15:26:32 GMT"
+        "fecha": "Mon, 19 Oct 2026 19:21:23 GMT"
       }
     ]
   }
