@@ -1,70 +1,74 @@
 {
-  "actualizado": "2026-10-20T08:03:43.330826+00:00",
+  "actualizado": "2026-10-20T13:59:47.376385+00:00",
   "merval": {
     "subas": [
       {
-        "simbolo": "TX",
-        "porcentaje": 1.85639
+        "simbolo": "SUPV",
+        "porcentaje": 2.1097
+      },
+      {
+        "simbolo": "BMA",
+        "porcentaje": 2.097905
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": 1.88088
+      },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": 1.5949
+      },
+      {
+        "simbolo": "YPF",
+        "porcentaje": 1.37108
       }
     ],
     "bajas": [
       {
-        "simbolo": "YPF",
-        "porcentaje": -2.70633
+        "simbolo": "CRESY",
+        "porcentaje": -0.17621481
       },
       {
-        "simbolo": "GGAL",
-        "porcentaje": -2.5819
-      },
-      {
-        "simbolo": "BBAR",
-        "porcentaje": -1.87793
-      },
-      {
-        "simbolo": "BMA",
-        "porcentaje": -1.74891
-      },
-      {
-        "simbolo": "PAM",
-        "porcentaje": -1.72627
+        "simbolo": "TX",
+        "porcentaje": -0.068775529
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "NVDA",
-        "porcentaje": 1.38233
-      },
-      {
-        "simbolo": "MSFT",
-        "porcentaje": 0.84491671
-      },
-      {
         "simbolo": "HD",
-        "porcentaje": 0.080741529
+        "porcentaje": 2.3977
+      },
+      {
+        "simbolo": "JPM",
+        "porcentaje": 1.43915
+      },
+      {
+        "simbolo": "MCD",
+        "porcentaje": 1.21152
       }
     ],
     "bajas": [
       {
-        "simbolo": "JPM",
-        "porcentaje": -1.82209
+        "simbolo": "NVDA",
+        "porcentaje": -1.2253
       },
       {
         "simbolo": "CAT",
-        "porcentaje": -0.68011819
+        "porcentaje": -1.12567
       },
       {
-        "simbolo": "KO",
-        "porcentaje": -0.51118568
+        "simbolo": "MSFT",
+        "porcentaje": -0.79378831
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": -0.15139726
+        "porcentaje": -0.45780674
       },
       {
-        "simbolo": "MCD",
-        "porcentaje": -0.12347329
+        "simbolo": "KO",
+        "porcentaje": -0.042815425
       }
     ]
   }
