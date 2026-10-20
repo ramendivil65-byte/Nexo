@@ -1,40 +1,40 @@
 {
-  "actualizado": "2026-10-20T18:51:19.091745+00:00",
+  "actualizado": "2026-10-20T23:33:32.656082+00:00",
   "merval": {
     "subas": [
       {
         "simbolo": "TX",
-        "porcentaje": 2.89718
+        "porcentaje": 2.63067
       },
       {
         "simbolo": "GGAL",
-        "porcentaje": 0.55571344
-      },
-      {
-        "simbolo": "SUPV",
-        "porcentaje": 0.28129207
+        "porcentaje": 1.054428
       },
       {
         "simbolo": "BMA",
-        "porcentaje": 0.25429408
+        "porcentaje": 0.5880527
+      },
+      {
+        "simbolo": "SUPV",
+        "porcentaje": 0.56258736
+      },
+      {
+        "simbolo": "YPF",
+        "porcentaje": 0.17755012
       }
     ],
     "bajas": [
       {
         "simbolo": "PAM",
-        "porcentaje": -1.94479
+        "porcentaje": -2.045166
       },
       {
         "simbolo": "CRESY",
-        "porcentaje": -1.4978
+        "porcentaje": -1.76212
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": -0.75757546
-      },
-      {
-        "simbolo": "YPF",
-        "porcentaje": -0.59183002
+        "porcentaje": -0.23923232
       }
     ]
   },
@@ -42,37 +42,37 @@
     "subas": [
       {
         "simbolo": "HD",
-        "porcentaje": 1.90073
+        "porcentaje": 1.68774
       },
       {
         "simbolo": "MCD",
-        "porcentaje": 1.30218
+        "porcentaje": 1.58652
       },
       {
         "simbolo": "JPM",
-        "porcentaje": 0.47971733
+        "porcentaje": 0.51869727
       },
       {
-        "simbolo": "CAT",
-        "porcentaje": 0.22665262
+        "simbolo": "KO",
+        "porcentaje": 0.074930097
       }
     ],
     "bajas": [
       {
         "simbolo": "AAPL",
-        "porcentaje": -0.85437756
-      },
-      {
-        "simbolo": "KO",
-        "porcentaje": -0.52986318
+        "porcentaje": -1.0030916
       },
       {
         "simbolo": "MSFT",
-        "porcentaje": -0.31489344
+        "porcentaje": -0.30927132
       },
       {
         "simbolo": "NVDA",
-        "porcentaje": -0.22110477
+        "porcentaje": -0.28559359
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": -0.075777816
       }
     ]
   }
