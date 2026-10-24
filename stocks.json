@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T02:37:14.376884+00:00",
+  "actualizado": "2026-10-24T07:46:40.968964+00:00",
   "merval": {
     "subas": [
       {
@@ -15,12 +15,12 @@
         "porcentaje": 5.045873
       },
       {
-        "simbolo": "GGAL",
-        "porcentaje": 4.95571
+        "simbolo": "BMA",
+        "porcentaje": 4.9722
       },
       {
-        "simbolo": "BMA",
-        "porcentaje": 4.90866
+        "simbolo": "GGAL",
+        "porcentaje": 4.95571
       }
     ],
     "bajas": []
@@ -35,15 +35,15 @@
     "bajas": [
       {
         "simbolo": "KO",
-        "porcentaje": -2.75855
-      },
-      {
-        "simbolo": "CAT",
-        "porcentaje": -2.4217
+        "porcentaje": -2.76904
       },
       {
         "simbolo": "HD",
-        "porcentaje": -2.41053
+        "porcentaje": -2.46849
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": -2.44727
       },
       {
         "simbolo": "MCD",
