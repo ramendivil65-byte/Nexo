@@ -1,65 +1,78 @@
 {
-  "actualizado": "2026-10-27T08:45:40.164580+00:00",
+  "actualizado": "2026-10-27T15:03:03.074021+00:00",
   "merval": {
-    "subas": [],
-    "bajas": [
+    "subas": [
       {
-        "simbolo": "SUPV",
-        "porcentaje": -9.43152
+        "simbolo": "TX",
+        "porcentaje": 1.64632
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": -7.97267
-      },
-      {
-        "simbolo": "GGAL",
-        "porcentaje": -6.75284
+        "porcentaje": 1.15512
       },
       {
         "simbolo": "BMA",
-        "porcentaje": -6.29921
+        "porcentaje": 0.90497563
       },
       {
         "simbolo": "CRESY",
-        "porcentaje": -5.76419
+        "porcentaje": 0.6487492
+      },
+      {
+        "simbolo": "YPF",
+        "porcentaje": 0.61941168
+      }
+    ],
+    "bajas": [
+      {
+        "simbolo": "SUPV",
+        "porcentaje": -0.28530996
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": -0.16972695
+      },
+      {
+        "simbolo": "PAM",
+        "porcentaje": -0.09136354
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "NVDA",
-        "porcentaje": 2.38908
-      },
-      {
-        "simbolo": "MSFT",
-        "porcentaje": 1.54239
-      },
-      {
-        "simbolo": "MCD",
-        "porcentaje": 0.95387388
-      },
-      {
         "simbolo": "CAT",
-        "porcentaje": 0.7467256
+        "porcentaje": 2.49664
+      },
+      {
+        "simbolo": "NVDA",
+        "porcentaje": 0.80092593
+      },
+      {
+        "simbolo": "AAPL",
+        "porcentaje": 0.79235739
       },
       {
         "simbolo": "JPM",
-        "porcentaje": 0.74190906
+        "porcentaje": 0.69602185
+      },
+      {
+        "simbolo": "MSFT",
+        "porcentaje": 0.16710936
       }
     ],
     "bajas": [
       {
-        "simbolo": "AAPL",
-        "porcentaje": -1.098556
-      },
-      {
-        "simbolo": "HD",
-        "porcentaje": -0.14069403
+        "simbolo": "MCD",
+        "porcentaje": -0.70565794
       },
       {
         "simbolo": "KO",
-        "porcentaje": -0.010788627
+        "porcentaje": -0.41531495
+      },
+      {
+        "simbolo": "HD",
+        "porcentaje": -0.24735577
       }
     ]
   }
