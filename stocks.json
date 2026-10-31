@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T21:49:49.409710+00:00",
+  "actualizado": "2026-10-31T03:24:12.432013+00:00",
   "merval": {
     "subas": [],
     "bajas": [
@@ -29,37 +29,37 @@
     "subas": [
       {
         "simbolo": "KO",
-        "porcentaje": 1.38979
+        "porcentaje": 1.35747
       },
       {
         "simbolo": "MCD",
-        "porcentaje": 0.31081971
+        "porcentaje": 0.28750883
       },
       {
         "simbolo": "HD",
-        "porcentaje": 0.082068516
+        "porcentaje": 0.066873735
       }
     ],
     "bajas": [
       {
         "simbolo": "NVDA",
-        "porcentaje": -4.1421
+        "porcentaje": -4.22166
       },
       {
         "simbolo": "CAT",
-        "porcentaje": -3.81609
+        "porcentaje": -3.80605
       },
       {
         "simbolo": "JPM",
-        "porcentaje": -1.88311
+        "porcentaje": -1.90348
       },
       {
         "simbolo": "MSFT",
-        "porcentaje": -1.5543
+        "porcentaje": -1.55243
       },
       {
         "simbolo": "AAPL",
-        "porcentaje": -1.18082
+        "porcentaje": -1.22668
       }
     ]
   }
