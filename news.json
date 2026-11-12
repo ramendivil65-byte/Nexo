@@ -1,34 +1,76 @@
 {
-  "actualizado": "2026-11-11T22:10:17.551375+00:00",
+  "actualizado": "2026-11-12T03:03:53.379455+00:00",
   "categorias": {
     "politica": [
       {
         "titulo": "Papa León XIV en Argentina EN VIVO último día: cárcel de Devoto, misa en Luján y últimas noticias",
         "link": "https://www.ambito.com/politica/papa-leon-XIV-argentina-javier-milei-iglesia-vaticano-caba-lujan-misa-carcel-devoto-en-vivo-minuto-a-minuto-11-noviembre",
-        "imagen": "https://media.ambito.com/p/880695fe3ce27b8121a8c7ed051a6ac0/adjuntos/239/imagenes/043/764/0043764095/1200x675/774x313:794x333/papa-leon-xiv-credito-mariano-fuchila-ambito-financiero.jpg",
+        "imagen": "https://media.ambito.com/p/2464c88d7f8066136127ef2647b0f52c/adjuntos/239/imagenes/043/765/0043765401/1200x675/smart/leon-xiv-peru-1.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 18:50:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 22:50:00 -0300"
       },
       {
-        "titulo": "En el Gobierno ya evalúan medidas luego que Irán declaró a la Armada y a la Fuerza Aérea argentinas como organizaciones terroristas",
-        "link": "https://www.clarin.com/politica/gobierno-evaluan-medidas-luego-iran-declaro-armada-fuerza-aerea-argentinas-organizaciones-terroristas_0_cVEuFRTqzT.html",
-        "imagen": "https://www.clarin.com/img/2026/11/11/HcDWf0YqK_1200x630__1.jpg",
+        "titulo": "Los milagros de León XIV: Milei se acercará a Macri y el peronismo se une a la fuerza",
+        "link": "https://www.clarin.com/politica/milagros-leon-xiv-milei-acercara-macri-peronismo-une-fuerza_0_9Gc4sI9rIm.html",
+        "imagen": "https://www.clarin.com/img/2026/11/11/knPmOFJuk_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 21:32:25 +0000"
+        "fecha": "Wed, 11 Nov 2026 23:20:11 +0000"
       },
       {
-        "titulo": "Scott Bessent y su familia fueron refugiados en una base militar por las amenazas iraníes",
-        "link": "https://www.ambito.com/mundo/scott-bessent-y-su-familia-fueron-refugiados-una-base-militar-las-amenazas-iranies-n6344165",
-        "imagen": "",
+        "titulo": "Las acciones de NVIDIA se desploman casi 8% ante la posible destitución de su CEO",
+        "link": "https://www.ambito.com/mundo/las-acciones-nvidia-se-desploman-casi-8-la-posible-destitucion-su-ceo-n6344266",
+        "imagen": "https://media.ambito.com/p/dbcd250578052abca3803977cd0b5ec0/adjuntos/239/imagenes/042/197/0042197162/nvidia.jpg",
         "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 11 Nov 2026 18:06:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 23:07:00 -0300"
       },
       {
-        "titulo": "Vidal encabezó histórica entrega de flota de vehículos y equipamiento para la Policía",
-        "link": "https://www.c5n.com/politica/vidal-encabezo-historica-entrega-flota-vehiculos-y-equipamiento-la-policia-n254055",
-        "imagen": "https://media.c5n.com/p/4a718be8febc926d910dd2820ddcf298/adjuntos/326/imagenes/000/407/0000407315/1200x675/smart/portada28092.jpg",
+        "titulo": "Javier Milei difundió un video de despedida al papa León XIV: \"Argentina, faro de luz de Occidente\"",
+        "link": "https://www.c5n.com/politica/javier-milei-difundio-un-video-despedida-al-papa-leon-xiv-argentina-faro-luz-occidente-n254089",
+        "imagen": "https://media.c5n.com/p/0d73ea6e75ee11fd2faefeb0c0cebb90/adjuntos/326/imagenes/000/407/0000407374/1200x675/smart/papa-leon-xiv-y-javier-milei.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:20:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 22:36:00 -0300"
+      },
+      {
+        "titulo": "“El operativo más grande de nuestra historia”: Milei agradeció a las fuerzas de seguridad por el despliegue en la visita del Papa",
+        "link": "https://www.infobae.com/politica/2026/11/11/el-operativo-mas-grande-de-nuestra-historia-milei-agradecio-a-las-fuerzas-de-seguridad-por-el-despliegue-en-la-visita-del-papa/",
+        "imagen": "https://www.infobae.com/resizer/v2/KS2IVUTOKZATBCLCFDNK4Q6KTA.jpg?auth=1e8ecb429b27ff03fe030fa89abf8e0dd2f28847fc595d94323ac59ceca64f16&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Wed, 11 Nov 2026 23:55:29 +0000"
+      },
+      {
+        "titulo": "El gobierno retoma la agenda legislativa y se diluye el sueño de una navidad sin PASO",
+        "link": "https://www.tiempoar.com.ar/ta_article/el-gobierno-retoma-la-agenda-legislativa-y-se-diluye-el-sueno-de-una-navidad-sin-paso/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 11 Nov 2026 23:08:43 +0000"
+      },
+      {
+        "titulo": "Caso $LIBRA: Eduardo Taiano se opuso al pedido de la fiscalía anticorrupción para reabrir la causa",
+        "link": "https://www.ambito.com/politica/caso-libra-eduardo-taiano-se-opuso-al-pedido-la-fiscalia-anticorrupcion-reabrir-la-causa-n6344250",
+        "imagen": "https://media.ambito.com/p/09a5f3708d65d794a1f80f70890ddd5f/adjuntos/239/imagenes/043/568/0043568854/milei-caso-libra.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 11 Nov 2026 21:50:00 -0300"
+      },
+      {
+        "titulo": "Radiografía de los discursos del Papa: el trabajo como eje y diez críticas centrales a la política y a la economía",
+        "link": "https://www.clarin.com/politica/radiografia-discursos-papa-trabajo-eje-criticas-centrales-politica-economia_0_s10NLQRTZX.html",
+        "imagen": "https://www.clarin.com/img/2026/11/11/uj1Lww0qD_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 11 Nov 2026 22:17:15 +0000"
+      },
+      {
+        "titulo": "Murió \"repentinamente\" el embajador de Rusia en EEUU a los 66 años",
+        "link": "https://www.ambito.com/mundo/murio-repentinamente-el-embajador-rusia-eeuu-los-66-anos-n6344252",
+        "imagen": "https://media.ambito.com/p/a5d92982fefd899381f1e01c28868117/adjuntos/239/imagenes/043/765/0043765351/1200x675/smart/alexandre-darchiev.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Wed, 11 Nov 2026 21:54:00 -0300"
+      },
+      {
+        "titulo": "Axel Kicillof, tras la visita del Papa: \"La doctrina social de la Iglesia es un componente fuerte del peronismo\"",
+        "link": "https://www.c5n.com/politica/kicillof-la-visita-del-papa-la-doctrina-social-la-iglesia-es-un-componente-fuerte-del-peronismo-n254085",
+        "imagen": "https://media.c5n.com/p/ae43be997fa76ac717ffeac24bdddb14/adjuntos/326/videos/000/407/0000407373/1200x675/smart/leon-xiv-hablo-los-temas-que-el-gobierno-quiere-invisibilizar-axel-kicillof-minuto-uno.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 11 Nov 2026 21:55:00 -0300"
       },
       {
         "titulo": "Qué figuras del peronismo asistieron en Luján a la misa que ofició el papa León XIV",
@@ -43,51 +85,44 @@
         "imagen": "",
         "fuente": "Tiempo Argentino",
         "fecha": "Wed, 11 Nov 2026 21:37:11 +0000"
-      },
-      {
-        "titulo": "El Gobierno rechazó la decisión de Irán de declarar terroristas a la Armada y la Fuerza Aérea",
-        "link": "https://www.ambito.com/politica/el-gobierno-rechazo-la-decision-iran-declarar-terroristas-la-armada-y-la-fuerza-aerea-n6344123",
-        "imagen": "https://media.ambito.com/p/e3eb04ce05d17b27ae9e200ef13bc027/adjuntos/239/imagenes/043/748/0043748915/1200x675/505x335:525x355/javier-milei-pablo-quirno.jpeg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 16:53:00 -0300"
-      },
-      {
-        "titulo": "Cerca de Bullrich se desmarcaron del llamativo mensaje de Milei: \"Patricia no se da por aludida\"",
-        "link": "https://www.clarin.com/politica/cerca-bullrich-desmarcaron-llamativo-mensaje-milei-patricia-da-aludida_0_mSB7Hkh5hm.html",
-        "imagen": "https://www.clarin.com/img/2026/11/03/sfDcibrAR_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 20:58:46 +0000"
-      },
-      {
-        "titulo": "Santiago Peña podría recibir la pena máxima de prisión en Paraguay luego de la crisis por Ueno Bank",
-        "link": "https://www.ambito.com/mundo/santiago-pena-podria-recibir-la-pena-maxima-prision-paraguay-luego-la-crisis-ueno-bank-n6344042",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Wed, 11 Nov 2026 17:50:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno rechazó la decisión de Irán de calificar como \"terroristas\" a la Armada y a la Fuerza Aérea",
-        "link": "https://www.c5n.com/politica/el-gobierno-rechazo-la-decision-iran-calificar-como-terroristas-la-armada-y-la-fuerza-aerea-n254038",
-        "imagen": "https://media.c5n.com/p/4102de6c8815e564b89b2ff04dea01e8/adjuntos/326/imagenes/000/407/0000407289/1200x675/smart/iran-argentina.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 16:11:00 -0300"
-      },
-      {
-        "titulo": "El Gobierno afirmó que no hay contradicción entre la doctrina social de la Iglesia y la economía de mercado",
-        "link": "https://www.infobae.com/politica/2026/11/11/tras-la-visita-del-papa-el-gobierno-destaco-no-creemos-en-eso-de-que-las-ideas-catolicas-son-compatibles-con-las-socialistas/",
-        "imagen": "https://www.infobae.com/resizer/v2/QTK4UYUB2JD5DMCUZTQB7WLHEY.jpeg?auth=0dd289fc08397b586573887df9579534bd9ee395c9b9c28299996c2f8c31f576&smart=true&width=1280&height=853",
-        "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:09:26 +0000"
-      },
-      {
-        "titulo": "El peronismo, gobernadores y funcionarios de Milei asistieron a la misa del Papa León XIV en Luján",
-        "link": "https://www.tiempoar.com.ar/ta_article/el-peronismo-gobernadores-y-funcionarios-de-milei-asistieron-a-la-misa-del-papa-leon-xiv-en-lujan/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 11 Nov 2026 20:58:08 +0000"
       }
     ],
     "economia": [
+      {
+        "titulo": "Plazo fijo UVA: lo que tenés que saber antes de invertir y los riesgos que tiene",
+        "link": "https://www.ambito.com/economia/plazo-fijo-uva-lo-que-tenes-que-saber-antes-invertir-y-los-riesgos-que-tiene-n6344085",
+        "imagen": "https://media.ambito.com/p/ed09ffebf351087dc944702a5cee30b4/adjuntos/239/imagenes/043/649/0043649940/1200x675/783x563:803x583/finanzas-plazo-fijo-arca-monotributo-1500-x-1000.png",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 11 Nov 2026 21:00:00 -0300"
+      },
+      {
+        "titulo": "El Gobierno posterga las nuevas privatizaciones hidroeléctricas hasta 2027",
+        "link": "https://www.clarin.com/energia-y-mineria/gobierno-posterga-nuevas-privatizaciones-hidroelectricas-2027_0_EU0KtRjkfI.html",
+        "imagen": "https://www.clarin.com/img/2026/07/28/m_CiBT0q5_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 11 Nov 2026 21:54:22 +0000"
+      },
+      {
+        "titulo": "El Banco Central compró u$s29 millones, pero las reservas cayeron por pagos de deuda y factores externos",
+        "link": "https://www.c5n.com/economia/el-banco-central-compro-us29-millones-pero-las-reservas-cayeron-pagos-deuda-y-factores-externos-n254090",
+        "imagen": "https://media.c5n.com/p/edc780914f96ac0c8f96e85e33088f71/adjuntos/326/imagenes/000/364/0000364208/1200x675/smart/banco-central-la-republica.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 11 Nov 2026 22:38:00 -0300"
+      },
+      {
+        "titulo": "Se desploman las acciones de Nvidia tras las nuevas versiones del escándalo que involucra a su CEO Jensen Huang",
+        "link": "https://www.infobae.com/economia/2026/11/11/se-desploman-las-acciones-de-nvidia-tras-las-nuevas-versiones-del-escandalo-que-involucra-a-su-ceo-jensen-huang/",
+        "imagen": "https://www.infobae.com/resizer/v2/V4YY6G3V2REFTNHJ6T4B37KP54.JPG?auth=f32c898ac672fa6cacd895dcdb463dd1ee93523d0ce87c254ee6b4abafd7a7c0&smart=true&width=8055&height=5372",
+        "fuente": "Infobae",
+        "fecha": "Wed, 11 Nov 2026 23:17:07 +0000"
+      },
+      {
+        "titulo": "Bajó el riesgo país: en Wall Street apuestan por los bonos argentinos porque son una ganga",
+        "link": "https://www.tiempoar.com.ar/ta_article/bajo-el-riesgo-pais-en-wall-street-apuestan-por-los-bonos-argentinos-porque-son-una-ganga/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Wed, 11 Nov 2026 23:07:06 +0000"
+      },
       {
         "titulo": "La construcción repunta de la mano de la obra pública, pero el m2 en dólares continúa caro y retrae la inversión privada",
         "link": "https://www.ambito.com/economia/la-construccion-repunta-la-mano-la-obra-publica-pero-el-m2-dolares-continua-caro-y-retrae-la-inversion-privada-n6344195",
@@ -96,25 +131,25 @@
         "fecha": "Wed, 11 Nov 2026 18:55:00 -0300"
       },
       {
-        "titulo": "Cierra la única fábrica en una pequeña localidad de San Luis",
-        "link": "https://www.clarin.com/economia/cierra-unica-fabrica-pequena-localidad-san-luis_0_5TCaU5r4dX.html",
-        "imagen": "https://www.clarin.com/img/2026/05/18/qd26pm_Zz_1200x630__1.jpg",
+        "titulo": "Señal al mercado: Finanzas no renovó el 100% de los vencimientos de la deuda y dejó pesos en el mercado",
+        "link": "https://www.clarin.com/economia/finanzas-renovo-vencimientos-deuda-licitacion_0_PpJ00FRD82.html",
+        "imagen": "https://www.clarin.com/img/2026/10/22/hHGgakDyP_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 21:12:59 +0000"
+        "fecha": "Wed, 11 Nov 2026 21:40:34 +0000"
       },
       {
-        "titulo": "Deuda: el Gobierno renovó el 84% de los vencimientos e inyectó $1,7 billones a la economía",
-        "link": "https://www.c5n.com/economia/deuda-el-gobierno-renovo-el-84-los-vencimientos-e-inyecto-17-billones-la-economia-n254056",
-        "imagen": "https://media.c5n.com/p/47068d0e2ddbd7d5a60a517636229853/adjuntos/326/imagenes/000/385/0000385107/1200x675/smart/ministerio-economia.jpg",
+        "titulo": "El Gobierno acelera la privatización de activos estratégicos y prorroga la concesión de cinco hidroeléctricas",
+        "link": "https://www.c5n.com/economia/el-gobierno-acelera-la-privatizacion-activos-estrategicos-y-prorroga-la-concesion-cinco-hidroelectricas-n254086",
+        "imagen": "",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:44:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:28:00 -0300"
       },
       {
         "titulo": "Licitación clave: el Gobierno renovó los vencimientos de deuda, pero inyectó pesos al mercado",
         "link": "https://www.infobae.com/economia/2026/11/11/licitacion-clave-el-gobierno-renovo-el-84-de-los-vencimientos-de-deuda-y-libero-pesos-al-mercado/",
         "imagen": "https://www.infobae.com/resizer/v2/R5UVSAX3YNBPNKOGFTNHI6L7DE.JPG?auth=c34cd6141e9e86ae8c62f2380a7f3a0ac0590563e3893ca01c1d50279a44b72e&smart=true&width=4620&height=3177",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 22:01:07 +0000"
+        "fecha": "Wed, 11 Nov 2026 22:50:51 +0000"
       },
       {
         "titulo": "Para la CGT, el Papa los interpeló para «volver a construir la agenda del diálogo»",
@@ -131,104 +166,83 @@
         "fecha": "Wed, 11 Nov 2026 16:07:00 -0300"
       },
       {
-        "titulo": "Tras lograr destrabar las exportaciones, un productor de Chaco hizo un nuevo envío de sandías a Uruguay",
-        "link": "https://www.clarin.com/rural/messi-sandia-hizo-nuevo-lograr-destrabar-exportaciones-recupero-mercados-hizo-nuevo-envio-apunta-generar-polo-productivo_0_IaXRELpM2L.html",
-        "imagen": "https://www.clarin.com/img/2026/11/11/5jOS7Y7h0_1200x630__1.jpg",
+        "titulo": "Cierra la única fábrica en una pequeña localidad de San Luis",
+        "link": "https://www.clarin.com/economia/cierra-unica-fabrica-pequena-localidad-san-luis_0_5TCaU5r4dX.html",
+        "imagen": "https://www.clarin.com/img/2026/05/18/qd26pm_Zz_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 20:19:58 +0000"
-      },
-      {
-        "titulo": "Pese al alza de las exportaciones, el intercambio comercial con Brasil cayó un 3% interanual en octubre",
-        "link": "https://www.c5n.com/economia/pese-al-alza-las-exportaciones-el-intercambio-comercial-brasil-cayo-un-3-interanual-octubre-n254049",
-        "imagen": "https://media.c5n.com/p/c44a551466f5c5833470715e63da1c7d/adjuntos/326/imagenes/000/014/0000014530/1200x675/smart/exportaciones-telamjpg.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 17:42:00 -0300"
-      },
-      {
-        "titulo": "La Bolsa porteña cayó por cuarta rueda seguida y se mantiene la cautela sobre las acciones y los bonos argentinos",
-        "link": "https://www.infobae.com/economia/2026/11/11/la-bolsa-portena-cayo-por-cuarta-rueda-seguida-y-se-mantiene-la-cautela-sobre-las-acciones-y-los-bonos-argentinos/",
-        "imagen": "https://www.infobae.com/resizer/v2/S4YQBUAV3JHW3HVKDKIC7ZCIMM.JPG?auth=15c50857d760f3ea5e4f0d9f70a7942defd62d389c8a56be3e1ba7f59afc2ddd&smart=true&width=5521&height=3681",
-        "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:50:16 +0000"
-      },
-      {
-        "titulo": "Las empresas destacan “diálogo y unidad”, tras el paso de León XIV",
-        "link": "https://www.tiempoar.com.ar/ta_article/las-empresas-destacan-dialogo-y-unidad-tras-el-paso-de-leon-xiv/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Wed, 11 Nov 2026 20:04:46 +0000"
-      },
-      {
-        "titulo": "La visita del papa León XIV oxigenó al turismo: movilizó una multitud y el impacto económico superó los u$s88 millones en CABA",
-        "link": "https://www.ambito.com/economia/la-visita-del-papa-leon-xiv-oxigeno-al-turismo-movilizo-una-multitud-y-el-impacto-economico-supero-los-us88-millones-caba-n6344016",
-        "imagen": "https://media.ambito.com/p/8bc9ffaca7568ee92c06913acbbe890c/adjuntos/239/imagenes/043/763/0043763178/papa-leon-xiv-argentina-misa-lujan.jpeg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 13:34:00 -0300"
-      },
-      {
-        "titulo": "Carlos Tevez suma un nuevo emprendimiento: armó una empresa para organizar su despedida en La Bombonera",
-        "link": "https://www.clarin.com/economia/carlos-tevez-suma-nuevo-emprendimiento-armo-empresa-organizar-despedida-bombonera_0_333rzCO7ZF.html",
-        "imagen": "https://www.clarin.com/img/2026/08/14/grRoO2uEQ_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 18:27:18 +0000"
+        "fecha": "Wed, 11 Nov 2026 21:12:59 +0000"
       }
     ],
     "deportes": [
       {
-        "titulo": "\"Por más amistosos que sean...\": la advertencia que le dio Diego Forlán a la Selección argentina",
-        "link": "https://www.ambito.com/deportes/por-mas-amistosos-que-sean-la-advertencia-que-le-dio-diego-forlan-la-seleccion-argentina-n6344204",
-        "imagen": "https://media.ambito.com/p/f5ec9f1e9d8ea50ab76024894e7b56d7/adjuntos/239/imagenes/043/567/0043567068/1200x675/872x395:892x415/forlan.jpg",
-        "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 18:56:00 -0300"
-      },
-      {
-        "titulo": "Hasta siempre, \"Inglés\": Carlos Babington hizo hablar a la pelota en la era dorada de un fútbol argentino repleto de \"10\" de calidad",
-        "link": "https://www.clarin.com/deportes/siempre-ingles-carlos-babington-hizo-hablar-pelota-dorada-futbol-argentino-repleto-10-calidad_0_vMzgggThHI.html",
-        "imagen": "https://www.clarin.com/img/2026/11/11/xZcpSmi6Q_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 20:27:00 +0000"
-      },
-      {
-        "titulo": "Un fanático se cruzó a Messi, le hizo un pedido especial y su gesto lo sorprendió por completo",
-        "link": "https://www.c5n.com/deportes/un-fanatico-se-cruzo-messi-le-hizo-un-pedido-especial-y-su-gesto-lo-sorprendio-completo-n254033",
+        "titulo": "Qué dijo Franco Colapinto del adelantamiento que enloqueció a los fanáticos de la Fórmula 1",
+        "link": "https://www.ambito.com/deportes/que-dijo-franco-colapinto-del-adelantamiento-que-enloquecio-los-fanaticos-la-formula-1-n6344216",
         "imagen": "",
+        "fuente": "Ámbito",
+        "fecha": "Wed, 11 Nov 2026 20:14:00 -0300"
+      },
+      {
+        "titulo": "¿Problema en puerta? Estados Unidos se bajaría del Mundial Sub 17 en Qatar por motivos de seguridad",
+        "link": "https://www.clarin.com/deportes/problema-puerta-estados-unidos-bajaria-mundial-sub-17-qatar-motivos-seguridad_0_zs0ttCXjDi.html",
+        "imagen": "https://www.clarin.com/img/2026/11/11/PJD1_2bIDE_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Thu, 12 Nov 2026 01:18:27 +0000"
+      },
+      {
+        "titulo": "Bombazo: Pep Guardiola es el gran candidato para dirigir a EEUU si Mauricio Pochettino se va al Manchester United",
+        "link": "https://www.c5n.com/deportes/bombazo-pep-guardiola-es-el-gran-candidato-dirigir-eeuu-si-mauricio-pochettino-se-va-al-manchester-united-n254095",
+        "imagen": "https://media.c5n.com/p/ff3dcd37d667f0217f8423ebd3504925/adjuntos/326/imagenes/000/307/0000307373/1200x675/smart/pep-guardiola.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 15:15:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 23:31:00 -0300"
       },
       {
-        "titulo": "Batalla campal en un hotel: los videos de la cruenta pelea entre estrellas de UFC que terminó con un detenido",
-        "link": "https://www.infobae.com/deportes/2026/11/11/batalla-campal-en-un-hotel-los-videos-de-la-cruenta-pelea-entre-estrellas-de-ufc-que-termino-con-un-detenido/",
-        "imagen": "https://www.infobae.com/resizer/v2/BUZNZOCHGNGJ3NVV7J357NLLKY.png?auth=2efe7eb304e86ab40d956b2c9d5741fbb147141b771567205b3dfa54dbd7f3f4&smart=true&width=2752&height=1536",
+        "titulo": "Dibu Martínez compartió un video con el imponente asado de la Selección: su menú especial por la fractura de mandíbula",
+        "link": "https://www.infobae.com/deportes/2026/11/12/dibu-martinez-compartio-un-video-con-el-imponente-asado-de-la-seleccion-su-menu-especial-por-la-fractura-de-mandibula/",
+        "imagen": "https://www.infobae.com/resizer/v2/I7QXSIXSMRHL5ODNVG6BUR3IPA.jpg?auth=ea2d0c6b0514055c2af4d5de41229f1669fc770b3cc945c2c22f1892e8277a9a&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:13:06 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:48:54 +0000"
       },
       {
-        "titulo": "La IA analizó las chances de River de coronar en el Clausura: ¿qué tan concretas son?",
-        "link": "https://www.ole.com.ar/river-plate/river-ia-clausura-chances-campeon-probabilidades-estadisticas-analisis_0_5wM2W96xYm.html",
-        "imagen": "https://www.ole.com.ar/images/2026/11/05/8XtzMSWya_1200x630__1.jpg",
+        "titulo": "Holan, sobre el título de Campeón de Liga a Central: \"Ahora están todos contentos...\"",
+        "link": "https://www.ole.com.ar/rosario-central/arielholan-titulo-campeondeliga-rosariocentral-ahora-contentos-boca_0_IwcAFhu0bD.html",
+        "imagen": "https://www.ole.com.ar/images/2025/11/20/wwuRTW1uC_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Wed, 11 Nov 2026 21:43:41 +0000"
+        "fecha": "Thu, 12 Nov 2026 01:58:06 +0000"
       },
       {
-        "titulo": "Gimnasia vs Newell's: cómo llegan al cruce por los octavos de final",
+        "titulo": "FOTOS | Colorido recibimiento al Pincha en Córdoba",
+        "link": "https://www.eldia.com/deportes/fotos-colorido-recibimiento-al-pincha-en-cordoba-deportes_1794443521",
+        "imagen": "",
+        "fuente": "El Día Deportes",
+        "fecha": "Thu, 12 Nov 2026 00:32:18 GMT"
+      },
+      {
+        "titulo": "Gimnasia vs Newell's: con día y hora confirmada, cómo llegan al cruce",
         "link": "https://www.eldia.com/deportes/gimnasia-vs-newell-s-como-llegan-al-cruce-por-los-octavos-de-final-deportes_1794428894",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Wed, 11 Nov 2026 20:28:24 GMT"
+        "fecha": "Thu, 12 Nov 2026 00:04:45 GMT"
       },
       {
-        "titulo": "Bronca de los hinchas de Estudiantes: arrancó la venta y en segundos aparecieron sectores agotados",
+        "titulo": "Agotado | Fue casi imposible comprar platea para la Final y crece la bronca de los hinchas del Pincha",
         "link": "https://www.eldia.com/deportes/nueva-ventana-de-venta-de-plateas-para-los-pinchas-deportes_1794376896",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Wed, 11 Nov 2026 20:34:29 GMT"
+        "fecha": "Wed, 11 Nov 2026 23:00:27 GMT"
       },
       {
-        "titulo": "Murio Carlos Babington, leyenda de Huracán que terminó entre polémicas",
-        "link": "https://www.eldia.com/deportes/murio-carlos-babington-leyenda-de-huracan-que-termino-entre-polemicas-deportes_1794408034",
-        "imagen": "",
-        "fuente": "El Día Deportes",
-        "fecha": "Wed, 11 Nov 2026 14:40:43 GMT"
+        "titulo": "Franco Colapinto reveló cuál es su principal dificultad en la Fórmula 1 y cómo busca superarla",
+        "link": "https://www.0221.com.ar/deportes/franco-colapinto-revelo-cual-es-su-principal-dificultad-la-formula-1-y-como-busca-superarla-n137314",
+        "imagen": "https://media.0221.com.ar/p/e9aadca287dbe0855ef1e27f9afe250e/adjuntos/357/imagenes/100/303/0100303277/1200x630/1106x451:1126x471/colapinto-brasil-5.png",
+        "fuente": "0221 Deportes",
+        "fecha": "Wed, 11 Nov 2026 20:35:00 -0300"
+      },
+      {
+        "titulo": "Estudiantes vs. Independiente Rivadavia por la Supercopa Argentina: hora, TV, cómo verlo en vivo y formaciones",
+        "link": "https://www.0221.com.ar/estudiantes/estudiantes-vs-independiente-rivadavia-la-supercopa-argentina-hora-tv-como-verlo-vivo-y-formaciones-n137303",
+        "imagen": "https://media.0221.com.ar/p/0e51eb0b2e1d0657809c43026a77342c/adjuntos/357/imagenes/100/302/0100302245/1200x630/1557x775:1577x795/estudiantes-instituto-palacios-gol-festejo-2.jpeg",
+        "fuente": "0221 Deportes",
+        "fecha": "Wed, 11 Nov 2026 20:10:00 -0300"
       },
       {
         "titulo": "Video: Nacho Fernández cumplió el sueño de un reconocido hincha de Gimnasia en Estancia Chica",
@@ -238,28 +252,35 @@
         "fecha": "Wed, 11 Nov 2026 15:49:00 -0300"
       },
       {
-        "titulo": "Con tres bajas sensibles, Estudiantes prepara el equipo para la final ante Independiente Rivadavia en Córdoba",
-        "link": "https://www.0221.com.ar/estudiantes/con-tres-bajas-sensibles-estudiantes-prepara-el-equipo-la-final-independiente-rivadavia-cordoba-n137300",
-        "imagen": "https://media.0221.com.ar/p/cc51f945e5266e0bb3b5f01a6bf3c1e6/adjuntos/357/imagenes/100/303/0100303525/1200x630/1298x484:1318x504/entrenamiento-estudiantes-medina-2.png",
-        "fuente": "0221 Deportes",
-        "fecha": "Wed, 11 Nov 2026 15:45:00 -0300"
-      },
-      {
-        "titulo": "¿Cómo será el ingreso de los hinchas de Estudiantes para la final ante Independiente Rivadavia en Córdoba?",
-        "link": "https://www.0221.com.ar/estudiantes/como-sera-el-ingreso-los-hinchas-estudiantes-la-final-independiente-rivadavia-cordoba-n137298",
-        "imagen": "https://media.0221.com.ar/p/b9fda4c97b5b5dcda3a0c45960b96298/adjuntos/357/imagenes/100/303/0100303605/1200x630/smart/estadio-julio-cesar-villagra-cordoba-estudiantes-independiente.jpg",
-        "fuente": "0221 Deportes",
-        "fecha": "Wed, 11 Nov 2026 15:27:00 -0300"
-      },
-      {
-        "titulo": "Cómo fue la visita de Enzo Fernández al Estadio Monumental: el guiño a los hinchas de River",
-        "link": "https://www.ambito.com/deportes/como-fue-la-visita-enzo-fernandez-al-estadio-monumental-el-guino-los-hinchas-river-n6344138",
-        "imagen": "https://media.ambito.com/p/5b6fb272f78e9e90a436cea86e9a7445/adjuntos/239/imagenes/043/764/0043764793/1200x675/748x146:768x166/enzo-fernandez-river.jpg",
+        "titulo": "\"Por más amistosos que sean...\": la advertencia que le dio Diego Forlán a la Selección argentina",
+        "link": "https://www.ambito.com/deportes/por-mas-amistosos-que-sean-la-advertencia-que-le-dio-diego-forlan-la-seleccion-argentina-n6344204",
+        "imagen": "",
         "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 18:15:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 18:56:00 -0300"
       }
     ],
     "policiales_actualidad": [
+      {
+        "titulo": "Juicio por Loan: una testigo complicó a los \"falsos Dupuy\" y el misterio de un pelo en el botín \"plantado\"",
+        "link": "https://www.clarin.com/policiales/juicio-loan-testigo-complico-falsos-dupuy-misterio-pelo-botin-plantado_0_0fkW4k8RMb.html",
+        "imagen": "https://www.clarin.com/img/2024/07/08/OKcVFTOFB_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Wed, 11 Nov 2026 21:57:44 +0000"
+      },
+      {
+        "titulo": "Loto Plus: resultado del sorteo 3934 del miércoles 11 de noviembre de 2026",
+        "link": "https://www.c5n.com/sociedad/loto-plus-resultado-del-sorteo-3934-del-miercoles-11-noviembre-2026-n254093",
+        "imagen": "https://media.c5n.com/p/64460317b3918eda553f4aaf79bb26b2/adjuntos/326/imagenes/000/154/0000154521/1200x675/smart/loto-plus.jpg",
+        "fuente": "C5N",
+        "fecha": "Wed, 11 Nov 2026 23:11:00 -0300"
+      },
+      {
+        "titulo": "Detuvieron a uno de los acusados de participar del ataque en patota contra mujeres trans en Palermo",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/12/detuvieron-a-uno-de-los-acusados-de-participar-del-ataque-en-patota-contra-mujeres-trans-en-palermo/",
+        "imagen": "https://www.infobae.com/resizer/v2/GO24AFG2YJA2NFXRL3UUDR2AMU.jpg?auth=95bafdc02cb6d13505c13392c4de2ecc760e95a4b83606b2389a40eb89556a1f&smart=true&width=1980&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Thu, 12 Nov 2026 02:00:56 +0000"
+      },
       {
         "titulo": "\"Jugó a ser Dios\": el fiscal pidió 18 años y medio de prisión para para \"Pity\" Álvarez por matar a su vecino",
         "link": "https://www.clarin.com/policiales/jugo-dios-fiscal-pidio-18-anos-medio-prision-pity-alvarez-matar-vecino_0_PIKJ22XgRQ.html",
@@ -268,18 +289,18 @@
         "fecha": "Wed, 11 Nov 2026 19:09:02 +0000"
       },
       {
-        "titulo": "Cómo eligieron a los presos que participaron del encuentro con el papa León XlV",
-        "link": "https://www.c5n.com/sociedad/como-eligieron-los-presos-que-participaron-del-encuentro-el-papa-leon-xlv-n254058",
-        "imagen": "https://media.c5n.com/p/a0f07057f80e142ee58bccf0422c78ac/adjuntos/326/videos/000/407/0000407197/1200x675/smart/cristian-maximiliano-y-reinaldo-le-leyeron-unas-palabras-al-papa-leon-xiv-su-visita-la-carcel-devoto.jpeg",
+        "titulo": "Quini 6: los resultados del sorteo 3.425 del miércoles 11 de noviembre de 2026",
+        "link": "https://www.c5n.com/sociedad/quini-6-los-resultados-del-sorteo-3425-del-miercoles-11-noviembre-2026-n254092",
+        "imagen": "https://media.c5n.com/p/ba2c95dac92b0aea411f56a66ff82e33/adjuntos/326/imagenes/000/238/0000238127/1200x675/smart/quini-6.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:56:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 23:03:00 -0300"
       },
       {
-        "titulo": "Juicio a “Pity” Álvarez: la Fiscalía pidió que el cantante sea condenado a 18 años y 6 meses de prisión",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-a-pity-alvarez-en-vivo-el-fiscal-sandro-abraldes-dara-a-conocer-que-pena-pide-para-el-musico/",
-        "imagen": "https://www.infobae.com/resizer/v2/62YXF47SHVD4NFIUDL2RX4OOQI.jpg?auth=2dab1649ac5e466472c717b791f1bc12652025dd0231954dede347803377b42f&smart=true&width=1920&height=1080",
+        "titulo": "Juicio por el femicidio de Micaela García: la fiscalía pidió prisión perpetua para el acusado de violar y asesinar a la joven",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-por-el-femicidio-de-micaela-garcia-la-fiscalia-pidio-prision-perpetua-para-nestor-pavon/",
+        "imagen": "https://www.infobae.com/resizer/v2/VE7XIMQT45CSFFQTBOOFU25HT4.jpg?auth=2110d4f6ce57345af038f96f8d3d771647ef8070ecd85caa4f5379e62fabd2b7&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:59:07 +0000"
+        "fecha": "Thu, 12 Nov 2026 00:06:24 +0000"
       },
       {
         "titulo": "Así fue la fuga de Leonardo Bertulazzi, el ex Brigadas Rojas italianas, en Monserrat: a lo \"hombre araña\" y con 74 años",
@@ -289,18 +310,18 @@
         "fecha": "Wed, 11 Nov 2026 14:35:39 +0000"
       },
       {
-        "titulo": "Marcha del Orgullo: dos personas robaron un celular, quedaron filmadas y el video se viralizó",
-        "link": "https://www.c5n.com/sociedad/marcha-del-orgullo-dos-personas-robaron-un-celular-quedaron-filmadas-y-el-video-se-viralizo-n254054",
-        "imagen": "https://media.c5n.com/p/9d09f7ccb3cd1187b7ecaff04793e5f5/adjuntos/326/imagenes/000/407/0000407313/1200x675/smart/robo-punga-la-marcha-del-orgullo.jpg",
+        "titulo": "Femicidio de Micaela García: la Fiscalía y la querella pidieron perpetua para Néstor Pavón",
+        "link": "https://www.c5n.com/sociedad/femicidio-micaela-garcia-la-fiscalia-y-la-querella-pidieron-perpetua-nestor-pavon-n254078",
+        "imagen": "https://media.c5n.com/p/f49f0f50913d930e4798bcba82801465/adjuntos/326/imagenes/000/407/0000407365/1200x675/smart/mica-garcia-femicida-nestor-pavon.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:47:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:37:00 -0300"
       },
       {
-        "titulo": "El crimen de Cristian Díaz y un alegato demoledor para “Pity” Álvarez: “Jugó a ser Dios”, aseguró el fiscal",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/el-crimen-de-cristian-diaz-y-un-alegato-demoledor-para-pity-alvarez-jugo-a-ser-dios-aseguro-el-fiscal/",
-        "imagen": "https://www.infobae.com/resizer/v2/VGPTGR7XJ5APZLE36IBU2M5JJM.jpg?auth=d84ccefd45e17aeaf83702e8f5aa7dec45f76b793a83c28a34861d8b4e1a9188&smart=true&width=1920&height=1080",
+        "titulo": "Video: así fue el momento en el que dispararon al menos 16 veces contra una radio de Caleta Olivia",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/video-asi-fue-el-momento-en-el-que-dispararon-al-menos-16-veces-contra-una-radio-de-caleta-olivia/",
+        "imagen": "https://www.infobae.com/resizer/v2/FCARAEJLP5GQPGXAAXXLVU7VWU.jpg?auth=abdfdad87ed441acf4d5269f9b4406dfcb23f645a1d31c4d71f0b023ad87a333&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:57:03 +0000"
+        "fecha": "Wed, 11 Nov 2026 23:58:32 +0000"
       },
       {
         "titulo": "El mensaje del Papa en la cárcel de Devoto: droga, \"el falso poder del dinero fácil\", impunidad y corrupción",
@@ -310,125 +331,104 @@
         "fecha": "Wed, 11 Nov 2026 11:12:35 +0000"
       },
       {
-        "titulo": "Tragedia en Coronel Dorrego: un productor rural apareció muerto e investigan si lo atacó un carnero",
-        "link": "https://www.c5n.com/sociedad/tragedia-coronel-dorrego-un-productor-rural-aparecio-muerto-e-investigan-si-lo-ataco-un-carnero-n254057",
-        "imagen": "https://media.c5n.com/p/89868613be58c85658118d6438fa64c6/adjuntos/326/imagenes/000/407/0000407319/1200x675/smart/carlos-narciso-castineira.jpg",
+        "titulo": "Tras la partida del papa León XIV, hasta cuándo durarán los cortes en Palermo y Recoleta",
+        "link": "https://www.c5n.com/sociedad/papa-leon-xiv-la-ciudad-buenos-aires-cuando-duraran-los-cortes-palermo-y-recoleta-n253850",
+        "imagen": "https://media.c5n.com/p/2e072e78355cab5d48cb0181c660e3b0/adjuntos/326/imagenes/000/406/0000406763/1200x675/smart/monumento-los-espanoles-ciudad-buenos-aires.png",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:36:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:11:00 -0300"
       },
       {
-        "titulo": "Juicio por el femicidio de Micaela García: la fiscalía pidió prisión perpetua para Néstor Pavón",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/juicio-por-el-femicidio-de-micaela-garcia-la-fiscalia-pidio-prision-perpetua-para-nestor-pavon/",
-        "imagen": "https://www.infobae.com/resizer/v2/VE7XIMQT45CSFFQTBOOFU25HT4.jpg?auth=2110d4f6ce57345af038f96f8d3d771647ef8070ecd85caa4f5379e62fabd2b7&smart=true&width=1920&height=1080",
+        "titulo": "Una testigo apuntó contra Nicolás Soria en el juicio por la desaparición de Loan: quiénes declararán este jueves",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/una-testigo-apunto-contra-nicolas-soria-en-el-juicio-por-la-desaparicion-de-loan-quienes-declararan-este-jueves/",
+        "imagen": "https://www.infobae.com/resizer/v2/XKVZNGNXLJFANCPPNLHN43VJJQ.jpg?auth=322c7add19b6ce4dfce458cb895b41bb30f92e4359554cfe9d5fd8a105ace04b&smart=true&width=969&height=545",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 18:58:30 +0000"
-      },
-      {
-        "titulo": "El brutal crimen de la estanciera en un camino rural, a manos de un peón de 17 años al que le brindó su ayuda",
-        "link": "https://www.clarin.com/policiales/brutal-crimen-estanciera-camino-rural-manos-peon-17-anos-brindo-ayuda_0_DGdIxBB2wD.html",
-        "imagen": "https://www.clarin.com/img/2026/11/11/xxOgJtHH9_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 09:00:05 +0000"
-      },
-      {
-        "titulo": "Santiago del Estero: una mujer descubrió que su expareja dormía en el tanque de agua",
-        "link": "https://www.c5n.com/sociedad/santiago-del-estero-una-mujer-descubrio-que-su-expareja-dormia-el-tanque-agua-n254052",
-        "imagen": "https://media.c5n.com/p/cc14e433c51d7117fb550f86e40c48f7/adjuntos/326/imagenes/000/407/0000407312/1200x675/smart/tanque-agua-santiago-del-estero.jpg",
-        "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:06:00 -0300"
-      },
-      {
-        "titulo": "Cuádruple crimen de La Loma: apelaron la absolución de los dos testigos condenados por falso testimonio",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/11/cuadruple-crimen-de-la-loma-apelaron-la-absolucion-de-los-dos-testigos-condenados-por-falso-testimonio/",
-        "imagen": "https://www.infobae.com/resizer/v2/DLAPJ42Q6ZBW3K72AY2KDTQBH4.jpg?auth=8d71aaab26a1cad8b4ea4bd39615f68cd20aa15707cf43c4de454ce9a79e28f6&smart=true&width=1024&height=640",
-        "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 16:50:46 +0000"
+        "fecha": "Wed, 11 Nov 2026 22:48:59 +0000"
       }
     ],
     "internacional": [
       {
-        "titulo": "Scott Bessent y su familia fueron refugiados en una base militar por las amenazas iraníes",
-        "link": "https://www.ambito.com/mundo/scott-bessent-y-su-familia-fueron-refugiados-una-base-militar-las-amenazas-iranies-n6344165",
-        "imagen": "",
+        "titulo": "Las acciones de NVIDIA se desploman casi 8% ante la posible destitución de su CEO",
+        "link": "https://www.ambito.com/mundo/las-acciones-nvidia-se-desploman-casi-8-la-posible-destitucion-su-ceo-n6344266",
+        "imagen": "https://media.ambito.com/p/dbcd250578052abca3803977cd0b5ec0/adjuntos/239/imagenes/042/197/0042197162/nvidia.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 18:06:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 23:07:00 -0300"
       },
       {
-        "titulo": "España en huelga general por primera vez en 14 años: reclamos contra el costo de vida y la crisis habitacional",
-        "link": "https://www.c5n.com/mundo/espana-huelga-general-primera-vez-14-anos-reclamos-contra-el-costo-vida-y-la-crisis-habitacional-n254028",
-        "imagen": "https://media.c5n.com/p/d6b89ec0d0b50d9e4e6f00ca2e4e7c30/adjuntos/326/imagenes/000/407/0000407273/1200x675/smart/huelga-general-espana-ap-2.png",
+        "titulo": "Murió un obrero al desplomarse un arco que preparaban para recibir al papa León XIV en Perú",
+        "link": "https://www.c5n.com/mundo/murio-un-obrero-al-desplomarse-un-arco-que-preparaban-recibir-al-papa-leon-xiv-peru-n254084",
+        "imagen": "https://media.c5n.com/p/7e8f1b29a9d6df8b45eb3b02d9c4bedd/adjuntos/326/imagenes/000/407/0000407357/1200x675/smart/derrumbe.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 16:33:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:26:00 -0300"
       },
       {
-        "titulo": "Seis días, tres regiones y una historia personal: Perú, la escala más larga y profunda del viaje del Papa León XIV",
-        "link": "https://www.clarin.com/mundo/dias-regiones-historia-personal-peru-escala-larga-profunda-viaje-papa-leon-xiv_0_qqBBg6rntb.html",
-        "imagen": "https://www.clarin.com/img/2026/11/11/6H6rTeJik_1200x630__1.jpg",
+        "titulo": "Nvidia se prepara para despedir a su CEO, Jensen Huang, tras el escándalo de su amante y las acusaciones de espionaje chino",
+        "link": "https://www.clarin.com/mundo/nvidia-prepara-despedir-ceo-jensen-huang-escandalo-amante-acusaciones-espionaje-chino_0_O48slPGMbJ.html",
+        "imagen": "https://www.clarin.com/img/2026/11/11/nMBa6Ezo5_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 21:00:10 +0000"
+        "fecha": "Wed, 11 Nov 2026 23:24:22 +0000"
       },
       {
-        "titulo": "Golpe a las pandillas en Honduras: capturan a cinco presuntos miembros de la 18 y la MS-13 con rangos dentro de sus estructuras",
-        "link": "https://www.infobae.com/honduras/2026/11/11/golpe-a-las-pandillas-en-honduras-capturan-a-cinco-presuntos-miembros-de-la-18-y-la-ms-13-con-rangos-dentro-de-sus-estructuras/",
-        "imagen": "https://www.infobae.com/resizer/v2/CHDCWSC5DJFHHNLLIWFMTTRZIE.jpeg?auth=79161cb49b74d7220bb6856137ea15bb32b1e9d77c94aa35efe976e39bec5181&smart=true&width=1280&height=720",
+        "titulo": "La neoyorquina que levantó un santuario de memoria y arte en El Salvador",
+        "link": "https://www.infobae.com/el-salvador/2026/11/12/una-mision-temporal-que-se-volvio-hogar-la-neoyorquina-que-levanto-un-santuario-de-memoria-y-arte-en-el-salvador/",
+        "imagen": "https://www.infobae.com/resizer/v2/WRM7QR2GCBBFLJF45WCL6LJP64.jpg?auth=db5edc44cd4193d9c7a078dd3205095f221519dcf32af36c78474903b7d2bf51&smart=true&width=2048&height=1365",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 22:00:29 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:22:34 +0000"
       },
       {
-        "titulo": "Santiago Peña podría recibir la pena máxima de prisión en Paraguay luego de la crisis por Ueno Bank",
-        "link": "https://www.ambito.com/mundo/santiago-pena-podria-recibir-la-pena-maxima-prision-paraguay-luego-la-crisis-ueno-bank-n6344042",
-        "imagen": "",
+        "titulo": "Murió \"repentinamente\" el embajador de Rusia en EEUU a los 66 años",
+        "link": "https://www.ambito.com/mundo/murio-repentinamente-el-embajador-rusia-eeuu-los-66-anos-n6344252",
+        "imagen": "https://media.ambito.com/p/a5d92982fefd899381f1e01c28868117/adjuntos/239/imagenes/043/765/0043765351/1200x675/smart/alexandre-darchiev.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 17:50:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:54:00 -0300"
       },
       {
-        "titulo": "Vox suspendió la entrevista de Santiago Abascal con Jordi Wild tras acusar a La Revuelta de censura",
-        "link": "https://www.c5n.com/mundo/vox-suspendio-la-entrevista-santiago-abascal-jordi-wild-acusar-la-revuelta-censura-n254016",
-        "imagen": "https://media.c5n.com/p/cb5a7e22c4bc39ae474c6a00dcea6b71/adjuntos/326/imagenes/000/407/0000407257/1200x675/smart/santiago-abascal-jordi-wild.jpg",
+        "titulo": "Keiko Fujimori viajará a China durante la visita del Papa a Perú: \"Tengo obligaciones que cumplir\"",
+        "link": "https://www.c5n.com/mundo/keiko-fujimori-viajara-china-la-visita-del-papa-peru-tengo-obligaciones-que-cumplir-n254070",
+        "imagen": "https://media.c5n.com/p/48476828daa12f531ef41a46827147cd/adjuntos/326/imagenes/000/388/0000388431/1200x675/smart/keiko-fujimori-2.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 14:14:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 19:48:00 -0300"
       },
       {
-        "titulo": "La caída de Santiago Peña, una \"implosión controlada\" del oficialismo para preservar el poder en Paraguay",
-        "link": "https://www.clarin.com/mundo/caida-santiago-pena-implosion-controlada-oficialismo-preservar-poder-paraguay_0_SQyQX8VGML.html",
-        "imagen": "https://www.clarin.com/img/2026/11/08/i0KSdFyw9_1200x630__1.jpg",
+        "titulo": "León XIV ya está en Perú, su segunda patria, por primera vez desde su elección como papa",
+        "link": "https://www.clarin.com/mundo/leon-xiv-peru-segunda-patria-primera-vez-eleccion-papa_0_tBIDGBFxiA.html",
+        "imagen": "https://www.clarin.com/img/2026/11/11/5WEt9tAsX_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 19:30:09 +0000"
+        "fecha": "Wed, 11 Nov 2026 22:28:28 +0000"
       },
       {
-        "titulo": "Alrededor de 220 detenidos por violencia doméstica y maltrato familiar en Honduras durante 2026",
-        "link": "https://www.infobae.com/honduras/2026/11/11/alrededor-de-220-detenidos-por-violencia-domestica-y-maltrato-familiar-en-honduras-durante-2026/",
-        "imagen": "https://www.infobae.com/resizer/v2/MEWBPBB7FNHBVENZHBQMHZARPA.png?auth=6b27a8bb880e0b8b7fbcb7712eec33e46b3e6698eb5a8028710edc44152740c8&smart=true&width=2752&height=1536",
+        "titulo": "Panamá busca convertirse en el centro regional de congresos y convenciones",
+        "link": "https://www.infobae.com/panama/2026/11/12/panama-busca-convertirse-en-el-centro-regional-de-congresos-y-convenciones/",
+        "imagen": "https://www.infobae.com/resizer/v2/JEDYE7U7ZRHVJM7MGDCROTJMME.jpg?auth=ff8c8a9764f1fd11009eeca04de713d7aa9ed74119ccc621d309beaf2aa55b6e&smart=true&width=4000&height=2556",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:59:48 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:18:18 +0000"
       },
       {
-        "titulo": "Keiko Fujimori estará ausente durante la visita del papa León XIV a Perú",
-        "link": "https://www.ambito.com/mundo/keiko-fujimori-estara-ausente-la-visita-del-papa-leon-xiv-peru-n6343930",
-        "imagen": "",
+        "titulo": "León XIV en Perú: el Papa fue recibido por Keiko Fujimori y cantó el Himno Nacional",
+        "link": "https://www.ambito.com/mundo/leon-xiv-peru-el-papa-fue-recibido-keiko-fujimori-y-canto-el-himno-nacional-n6344249",
+        "imagen": "https://media.ambito.com/p/244c65da9870d5acc11dd439f68ff0d2/adjuntos/239/imagenes/043/765/0043765282/1200x675/smart/leon-xiv-fujimori-1.jpg",
         "fuente": "Ámbito",
-        "fecha": "Wed, 11 Nov 2026 17:50:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:47:00 -0300"
       },
       {
-        "titulo": "Los reyes de España asistieron a una misa para recordar a las víctimas del choque de trenes en Toledo",
-        "link": "https://www.c5n.com/mundo/los-reyes-espana-asistieron-una-misa-recordar-las-victimas-del-choque-trenes-toledo-n253969",
-        "imagen": "https://media.c5n.com/p/8f11e04fad265012646b9aa7264eedbc/adjuntos/326/imagenes/000/407/0000407164/1200x675/smart/espana-misa-victimas-choque-trenes.jpeg",
+        "titulo": "El secretario del Tesoro de Estados Unidos se mudó a una base militar por razones de seguridad",
+        "link": "https://www.c5n.com/mundo/el-secretario-del-tesoro-estados-unidos-se-mudo-una-base-militar-razones-seguridad-n254053",
+        "imagen": "https://media.c5n.com/p/71c767753fb652a4345733744a0c9dc7/adjuntos/326/imagenes/000/407/0000407335/1200x675/smart/scott-bessent.jpg",
         "fuente": "C5N",
-        "fecha": "Tue, 10 Nov 2026 21:27:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 19:33:00 -0300"
       },
       {
-        "titulo": "Mercedes, Audi, Bentley, Land Rover... así es la flota de casi 40 autos de lujo de Miguel Vázquez, el CEO del quebrado Ueno Bank en Paraguay",
-        "link": "https://www.clarin.com/mundo/mercedes-audi-bentley-land-rover-flota-40-autos-lujo-miguel-vazquez-ceo-quebrado-ueno-bank-paraguay_0_R7n2MBAQuf.html",
-        "imagen": "https://www.clarin.com/img/2026/11/11/N434hw7tc_1200x630__1.jpg",
+        "titulo": "El régimen de Nicaragua: Daniel Ortega cumple 81 años casi ausente de la vida pública y delegando el poder en Rosario Murillo",
+        "link": "https://www.clarin.com/mundo/regimen-nicaragua-daniel-ortega-cumple-81-anos-ausente-vida-publica-delegando-poder-rosario-murillo_0_bA7MikPAA3.html",
+        "imagen": "https://www.clarin.com/img/2025/10/06/tVWxckgi6_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Wed, 11 Nov 2026 18:00:08 +0000"
+        "fecha": "Wed, 11 Nov 2026 22:20:10 +0000"
       },
       {
-        "titulo": "Chile sumó una nueva región de infraestructura de Amazon Web Services tras una inversión de USD 4.000 millones",
-        "link": "https://www.infobae.com/america/america-latina/2026/11/11/chile-sumo-una-nueva-region-de-infraestructura-de-amazon-web-services-tras-una-inversion-de-usd-4000-millones/",
-        "imagen": "https://www.infobae.com/resizer/v2/3XMA4CUAEZG43LUOLSJQUQM6BE.JPG?auth=35e8aa8f8fa334fe77d4cc514e0ab4d775aad81200d98f4a4ed86ad03c2bea0b&smart=true&width=3136&height=1855",
+        "titulo": "En Panamá un hombre quedó detenido por amenazar de muerte a su madre de 66 años y a su abuela de 90 años",
+        "link": "https://www.infobae.com/panama/2026/11/12/en-panama-un-hombre-quedo-detenido-por-amenazar-de-muerte-a-su-madre-de-66-anos-y-a-su-abuela-de-90-anos/",
+        "imagen": "https://www.infobae.com/resizer/v2/AGADR23QQ5BPFMMHMIFD2YHB6M.png?auth=fe73e6a0c76eb97cbac21167918158e73d4d1eb0c163066eff70201313e9856c&smart=true&width=1408&height=768",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:57:34 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:17:01 +0000"
       }
     ],
     "espectaculos": [
@@ -440,11 +440,11 @@
         "fecha": "Wed, 11 Nov 2026 18:50:00 -0300"
       },
       {
-        "titulo": "Norberto Marcos y Fátima Florez se reconciliaron y el productor terminó internado por presión alta",
-        "link": "https://www.c5n.com/ratingcero/norberto-marcos-y-fatima-florez-se-reconciliaron-y-el-productor-termino-internado-presion-alta-n254050",
-        "imagen": "https://media.c5n.com/p/aa4fa11e95c875465c93cced8d3d66d6/adjuntos/326/imagenes/000/395/0000395882/1200x675/smart/norberto-marcos-fatima-florez.jpg",
+        "titulo": "El abogado de la China Suárez defendió a Mauro Icardi: \"Él es una víctima y vive una persecución\"",
+        "link": "https://www.c5n.com/ratingcero/el-abogado-la-china-suarez-defendio-mauro-icardi-el-es-una-victima-y-vive-una-persecucion-n254079",
+        "imagen": "https://media.c5n.com/p/2c85f91fb612156ee2a7ad3a0a7d9342/adjuntos/326/imagenes/000/390/0000390466/1200x675/smart/china-suarez-y-mauro-icardi-2138989.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:35:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:06:00 -0300"
       },
       {
         "titulo": "Gazir hizo historia: rompió un récord Guinness tras disputar 200 batallas de freestyle en apenas 12 horas",
@@ -454,11 +454,11 @@
         "fecha": "Wed, 11 Nov 2026 18:39:27 +0000"
       },
       {
-        "titulo": "Julieta Nair Calvo apuntó contra el jurado de MasterChef: “Ayudan a los que rinden para el show”",
-        "link": "https://www.infobae.com/teleshow/2026/11/11/julieta-nair-calvo-apunto-contra-el-jurado-de-masterchef-ayudan-a-los-que-rinden-para-el-show/",
-        "imagen": "https://www.infobae.com/resizer/v2/V7PGT6LFVBAT7B373KFZYTFCKE.png?auth=a6f39beb5845c9a3dbcdb6a7f9b85d1974b8c3ca05eb5b6dff0d2708edb04957&smart=true&width=2752&height=1536",
+        "titulo": "Nora Colosimo habló de la denuncia a Mauro Icardi: “Wanda está rota y yo como abuela me siento muy preocupada”",
+        "link": "https://www.infobae.com/teleshow/2026/11/12/nora-colosimo-hablo-de-la-denuncia-a-mauro-icardi-wanda-esta-rota-y-yo-como-abuela-me-siento-muy-preocupada/",
+        "imagen": "https://www.infobae.com/resizer/v2/XEEFIDG55NAVZJPCB4TM2TEZ6I.jpg?auth=01d0cbdbe32b5d1c81806118cbb2d59f05321343e1f1bfe06829765edf589fe3&smart=true&width=1920&height=1188",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 22:02:44 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:28:35 +0000"
       },
       {
         "titulo": "Juicio contra Pity Álvarez: la Fiscalía pidió 18 años y medio de prisión",
@@ -468,11 +468,11 @@
         "fecha": "Wed, 11 Nov 2026 18:09:00 -0300"
       },
       {
-        "titulo": "Marcela Baños rompió en llanto al recordar a Marcos Camino tras su inesperada muerte: \"Estoy en shock\"",
-        "link": "https://www.c5n.com/ratingcero/marcela-banos-rompio-llanto-al-recordar-marcos-camino-su-inesperada-muerte-estoy-shock-n254051",
-        "imagen": "https://media.c5n.com/p/874fa064bf241954819333c7df5ac5e0/adjuntos/326/imagenes/000/407/0000407314/1200x675/smart/marcela-banos-llanto.png",
+        "titulo": "Midachi despidió a Marcos Camino con un emotivo mensaje y volvió a salir a la luz la historia detrás de \"El bombón asesino\"",
+        "link": "https://www.c5n.com/ratingcero/midachi-despidio-marcos-camino-un-emotivo-mensaje-y-volvio-salir-la-luz-la-historia-detras-el-bombon-asesino-n254077",
+        "imagen": "https://media.c5n.com/p/f7ff7e417cd8e2979885188e47a58d7e/adjuntos/326/imagenes/000/407/0000407351/1200x675/smart/midachi-marcos-camino.png",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 18:20:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 21:00:00 -0300"
       },
       {
         "titulo": "Rating del martes: cómo le fue a la gala de eliminación de MasterChef Celebrity en otro día marcado por la visita del Papa",
@@ -482,11 +482,11 @@
         "fecha": "Wed, 11 Nov 2026 15:27:07 +0000"
       },
       {
-        "titulo": "Norberto Marcos debió ser internado tras llegar a un inesperado acuerdo con Fátima Florez: “El tema personal repercutió mucho en su salud”",
-        "link": "https://www.infobae.com/teleshow/2026/11/11/norberto-marcos-debio-ser-internado-tras-llegar-a-un-inesperado-acuerdo-con-fatima-florez-el-tema-personal-repercutio-mucho-en-su-salud/",
-        "imagen": "https://www.infobae.com/resizer/v2/G6J7ZDFNQJFNDAFGZAIG6UH4FQ.jpg?auth=0d23b951694f3cc452b550d41bcb5cf03817e9b6bd7dec41b4b6c48a75b61ac2&smart=true&width=1920&height=1080",
+        "titulo": "Soledad Pastorutti contó qué le dijo al papa León XIV cuando lo saludó y cuál fue el regalo que le dio",
+        "link": "https://www.infobae.com/teleshow/2026/11/12/soledad-pastorutti-conto-que-le-dijo-al-papa-leon-xiv-cuando-lo-saludo-y-cual-fue-el-regalo-que-le-dio/",
+        "imagen": "https://www.infobae.com/resizer/v2/W3MMXVS225CGVCUZRA4ITTEQYE.png?auth=80c67ca86ddda00aa8a681dda56e11264ee6116baa99567e2a0b85c22f57c5e6&smart=true&width=1280&height=720",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 22:02:04 +0000"
+        "fecha": "Thu, 12 Nov 2026 01:38:24 +0000"
       },
       {
         "titulo": "\"Avengers: Endgame - Encore\" llega a Disney+: cuándo se estrena",
@@ -496,11 +496,11 @@
         "fecha": "Wed, 11 Nov 2026 17:10:00 -0300"
       },
       {
-        "titulo": "Escándalo con Pampita en la misa del papa León XIV: aseguran que un grupo de fieles la habría echado del lugar",
-        "link": "https://www.c5n.com/ratingcero/escandalo-pampita-la-misa-del-papa-leon-xiv-aseguran-que-un-grupo-fieles-la-habria-echado-del-lugar-n254046",
-        "imagen": "https://media.c5n.com/p/0e57942ad33193bcabc46c3102a94091/adjuntos/326/imagenes/000/407/0000407308/1200x675/smart/pampita-peregrinacion.png",
+        "titulo": "Pibes Chorros tocará en el festival de Coachella: \"¡Nos vemos en el desierto, wachines!\"",
+        "link": "https://www.c5n.com/ratingcero/pibes-chorros-tocara-el-festival-coachella-nos-vemos-el-desierto-wachines-n254074",
+        "imagen": "https://media.c5n.com/p/875983aabbe3769bdd0939e4d5342905/adjuntos/326/imagenes/000/407/0000407341/1200x675/smart/pibes-choros-2026.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 17:39:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 20:17:00 -0300"
       },
       {
         "titulo": "Murió Stacy Keach, el inolvidable Mike Hammer, a los 85 años",
@@ -510,11 +510,11 @@
         "fecha": "Wed, 11 Nov 2026 10:42:30 +0000"
       },
       {
-        "titulo": "Daniela Celis contó que su vínculo con los hombres cambió tras revelar detalles de su intimidad: “Todos se me regalan”",
-        "link": "https://www.infobae.com/teleshow/2026/11/11/daniela-celis-conto-que-su-vinculo-con-los-hombres-cambio-tras-revelar-detalles-de-su-intimidad-todos-se-me-regalan/",
-        "imagen": "https://www.infobae.com/resizer/v2/AOVFFMYOA5CKRGTXKSD6Z4AZSM.png?auth=4c92634c17f11d446ed907505ad84e0a7593f85575906ca9c89cdeab2227b933&smart=true&width=1920&height=1080",
+        "titulo": "Pilar Smith confirmó su separación de Rafael Ruiz Huidobro después de 7 años juntos: “Hubo desgaste”",
+        "link": "https://www.infobae.com/teleshow/2026/11/12/pilar-smith-confirmo-su-separacion-de-rafael-ruiz-huidobro-despues-de-7-anos-juntos-hubo-desgaste/",
+        "imagen": "https://www.infobae.com/resizer/v2/64QPM52X5JFIVGBAYDMKBT5TVU.jpg?auth=ba7b158ac21115c3900dbebd2b554a4629ab7d8ba7bb7161d600a20441162339&smart=true&width=1980&height=1090",
         "fuente": "Infobae",
-        "fecha": "Wed, 11 Nov 2026 21:43:03 +0000"
+        "fecha": "Thu, 12 Nov 2026 01:03:47 +0000"
       }
     ],
     "tecnologia": [
@@ -526,18 +526,18 @@
         "fecha": "Mon, 02 Nov 2026 14:37:00 -0300"
       },
       {
-        "titulo": "La Justicia brasileña multó a Meta por incumplir requerimientos durante las elecciones",
-        "link": "https://www.c5n.com/tecnologia/la-justicia-brasilena-multo-meta-incumplir-requerimientos-las-elecciones-n254041",
-        "imagen": "https://media.c5n.com/p/0bbafed16d520523ebaced645a478f03/adjuntos/326/imagenes/000/403/0000403039/1200x675/smart/ia-meta.jpg",
+        "titulo": "China avanza con la creación de un avión eléctrico para pasajeros y 500 km de autonomía",
+        "link": "https://www.c5n.com/tecnologia/china-avanza-la-creacion-un-avion-electrico-pasajeros-y-500-km-autonomia-n254094",
+        "imagen": "https://media.c5n.com/p/ea3e730f1e8effdc165ddec1dd49b41a/adjuntos/326/imagenes/000/407/0000407383/1200x675/smart/comac-ce-25a.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 17:39:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 23:20:00 -0300"
       },
       {
-        "titulo": "Chile sumó una nueva región de infraestructura de Amazon Web Services tras una inversión de USD 4.000 millones",
-        "link": "https://www.infobae.com/america/america-latina/2026/11/11/chile-sumo-una-nueva-region-de-infraestructura-de-amazon-web-services-tras-una-inversion-de-usd-4000-millones/",
-        "imagen": "https://www.infobae.com/resizer/v2/3XMA4CUAEZG43LUOLSJQUQM6BE.JPG?auth=35e8aa8f8fa334fe77d4cc514e0ab4d775aad81200d98f4a4ed86ad03c2bea0b&smart=true&width=3136&height=1855",
+        "titulo": "Los modelos de IA ahora tienen una vida media de solo 6 semanas: esta es la causa",
+        "link": "https://www.infobae.com/tecno/2026/11/12/los-modelos-de-ia-ahora-tienen-una-vida-media-de-solo-6-semanas-esta-es-la-causa/",
+        "imagen": "https://www.infobae.com/resizer/v2/IA2Y37CRCZF2PG2MW6WZC52J5E.jpg?auth=77a6c73b654a22444872ead1467aa20f29ea05a02e8d0efbdb52046e1dfab5b0&smart=true&width=1920&height=1092",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 11 Nov 2026 21:57:34 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:53:32 +0000"
       },
       {
         "titulo": "Estudios con una proteína en células madre inspiran nuevas alternativas para curar heridas",
@@ -561,18 +561,18 @@
         "fecha": "Wed, 04 Nov 2026 10:55:00 -0300"
       },
       {
-        "titulo": "El error que Apple corrigió que aterraba a millones de usuarios: extraños ya no podrán espiarte",
-        "link": "https://www.c5n.com/tecnologia/el-error-que-apple-corrigio-que-aterraba-millones-usuarios-extranos-ya-no-podran-espiarte-n254039",
-        "imagen": "https://media.c5n.com/p/2c188e55ddbd62cbbf31fbda684c8572/adjuntos/326/imagenes/000/400/0000400726/1200x675/smart/apple.jpg",
+        "titulo": "La Justicia brasileña multó a Meta por incumplir requerimientos durante las elecciones",
+        "link": "https://www.c5n.com/tecnologia/la-justicia-brasilena-multo-meta-incumplir-requerimientos-las-elecciones-n254041",
+        "imagen": "https://media.c5n.com/p/0bbafed16d520523ebaced645a478f03/adjuntos/326/imagenes/000/403/0000403039/1200x675/smart/ia-meta.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 16:13:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 17:39:00 -0300"
       },
       {
-        "titulo": "Samsung, LG y Amazon responden al rastreo de usuarios en TV: “Ningún audio se envía a la nube sin la palabra de activación”",
-        "link": "https://www.infobae.com/tecno/2026/11/11/samsung-lg-y-amazon-responden-al-rastreo-de-usuarios-en-tv-ningun-audio-se-envia-a-la-nube-sin-la-palabra-de-activacion/",
-        "imagen": "https://www.infobae.com/resizer/v2/66U6J3H4CJCZJI6DCCMYSN73SQ.png?auth=ed1319a5938c31ad846298d546e427bec92a0161ff499c34b42c6bebf47e4b25&smart=true&width=2752&height=1536",
+        "titulo": "Microsoft prometió que otros clientes no pagarán la electricidad que consumen sus centros de datos",
+        "link": "https://www.infobae.com/tecno/2026/11/12/microsoft-prometio-que-otros-clientes-no-pagaran-la-electricidad-que-consumen-sus-centros-de-datos/",
+        "imagen": "https://www.infobae.com/resizer/v2/CJZDQ732QZEG7MGGG6Z5VL4HQA.JPG?auth=1c4dcdda3a1c6b11d0fb78153aa480675c83a5eb822a76b44cd91384127c5fc3&smart=true&width=4000&height=2666",
         "fuente": "Infobae Tecno",
-        "fecha": "Wed, 11 Nov 2026 21:53:14 +0000"
+        "fecha": "Thu, 12 Nov 2026 02:26:52 +0000"
       },
       {
         "titulo": "Premian un desarrollo científico que busca optimizar las cirugías de epilepsias que no responden a la medicación",
@@ -596,20 +596,20 @@
         "fecha": "Thu, 29 Oct 2026 09:17:00 -0300"
       },
       {
-        "titulo": "Los exitosos videojuegos de 2026 que más podrían perder por el lanzamiento del GTA 6",
-        "link": "https://www.c5n.com/tecnologia/los-exitosos-videojuegos-2026-que-mas-podrian-perder-el-lanzamiento-del-gta-6-n254017",
-        "imagen": "https://media.c5n.com/p/9b47ee6c6235ab4f9f97e54f40f9a653/adjuntos/326/imagenes/000/407/0000407255/1200x675/smart/gta-6.jpg",
+        "titulo": "El error que Apple corrigió que aterraba a millones de usuarios: extraños ya no podrán espiarte",
+        "link": "https://www.c5n.com/tecnologia/el-error-que-apple-corrigio-que-aterraba-millones-usuarios-extranos-ya-no-podran-espiarte-n254039",
+        "imagen": "https://media.c5n.com/p/2c188e55ddbd62cbbf31fbda684c8572/adjuntos/326/imagenes/000/400/0000400726/1200x675/smart/apple.jpg",
         "fuente": "C5N",
-        "fecha": "Wed, 11 Nov 2026 13:42:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 16:13:00 -0300"
       }
     ],
     "autos": [
       {
-        "titulo": "Chevrolet presentó la nueva Trax 2027: rediseño, más seguridad y motor de software renovado",
-        "link": "https://parabrisas.perfil.com/noticias/novedades/chevrolet-presento-la-nueva-trax-2027-rediseno-mas-seguridad-y-motor-de-software-renovado.phtml",
-        "imagen": "https://fotos.perfil.com/2026/09/30/trim/540/304/chevrolet-trax-2337135.jpg",
+        "titulo": "Mercedes-Benz en FENATRAN Brasil: Unimog, Zetros y mucho más",
+        "link": "https://parabrisas.perfil.com/noticias/salones/mercedes-benz-en-fenatran-brasil-unimog-zetros-y-mucho-mas.phtml",
+        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/mercedes-benz-en-fenatran-2363774.jpg",
         "fuente": "Parabrisas",
-        "fecha": "Wed, 11 Nov 2026 13:48:13 GMT"
+        "fecha": "Wed, 11 Nov 2026 23:50:30 GMT"
       },
       {
         "titulo": "Juan José Ebenezer, mecánico: “Si tu auto consume agua, se te puede complicar hasta el punto de tener que hacer el motor”",
@@ -619,11 +619,11 @@
         "fecha": "2026-11-11T18:31:23-03:00"
       },
       {
-        "titulo": "Audi registró pérdidas y ajustó sus previsiones financieras en un 2026 complejo",
-        "link": "https://parabrisas.perfil.com/noticias/novedades/audi-registro-perdidas-y-ajusto-sus-previsiones-financieras-en-un-2026-complejo.phtml",
-        "imagen": "https://fotos.perfil.com/2026/10/15/trim/540/304/audi-q7-2027-record-historico-de-seguridad-en-las-pruebas-de-impacto-de-euro-ncap-2348883.jpg",
+        "titulo": "Chevrolet presentó la nueva Trax 2027: rediseño, más seguridad y motor de software renovado",
+        "link": "https://parabrisas.perfil.com/noticias/novedades/chevrolet-presento-la-nueva-trax-2027-rediseno-mas-seguridad-y-motor-de-software-renovado.phtml",
+        "imagen": "https://fotos.perfil.com/2026/09/30/trim/540/304/chevrolet-trax-2337135.jpg",
         "fuente": "Parabrisas",
-        "fecha": "Wed, 11 Nov 2026 13:37:21 GMT"
+        "fecha": "Wed, 11 Nov 2026 13:48:13 GMT"
       },
       {
         "titulo": "Los 10 autos híbridos enchufables (PHEV) más vendidos en la Argentina: ranking de patentamientos y modelos líderes",
@@ -633,11 +633,11 @@
         "fecha": "2026-11-11T12:15:26-03:00"
       },
       {
-        "titulo": "FENATRAN Brasil: FOTON anticipó la llegada del Galaxus a la Argentina",
-        "link": "https://parabrisas.perfil.com/noticias/salones/fenatran-brasil-foton-anticipo-la-llegada-del-galaxus-a-la-argentina.phtml",
-        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/foton-en-fenetran-2363390.jpg",
+        "titulo": "Audi registró pérdidas y ajustó sus previsiones financieras en un 2026 complejo",
+        "link": "https://parabrisas.perfil.com/noticias/novedades/audi-registro-perdidas-y-ajusto-sus-previsiones-financieras-en-un-2026-complejo.phtml",
+        "imagen": "https://fotos.perfil.com/2026/10/15/trim/540/304/audi-q7-2027-record-historico-de-seguridad-en-las-pruebas-de-impacto-de-euro-ncap-2348883.jpg",
         "fuente": "Parabrisas",
-        "fecha": "Wed, 11 Nov 2026 13:27:59 GMT"
+        "fecha": "Wed, 11 Nov 2026 13:37:21 GMT"
       },
       {
         "titulo": "Precios oficiales de Chevrolet en noviembre de 2026: cuánto cuesta cada versión de Onix, Tracker, Spin, Montana y S10",
@@ -647,11 +647,11 @@
         "fecha": "2026-11-05T13:48:30-03:00"
       },
       {
-        "titulo": "Toyota desarrolló dos papamóviles sobre la Hilux para la visita de León XIV: cómo son y qué tecnología incorporan",
-        "link": "https://parabrisas.perfil.com/noticias/autos/toyota-desarrollo-dos-papamoviles-hilux-visita-papa-leon-xiv-como-son-que-tecnologia-incorporan.phtml",
-        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/toyota-hilux-papamovil-2363271.jpg",
+        "titulo": "FENATRAN Brasil: FOTON anticipó la llegada del Galaxus a la Argentina",
+        "link": "https://parabrisas.perfil.com/noticias/salones/fenatran-brasil-foton-anticipo-la-llegada-del-galaxus-a-la-argentina.phtml",
+        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/foton-en-fenetran-2363390.jpg",
         "fuente": "Parabrisas",
-        "fecha": "Wed, 11 Nov 2026 03:01:00 GMT"
+        "fecha": "Wed, 11 Nov 2026 13:27:59 GMT"
       },
       {
         "titulo": "Toyota Corolla Cross en noviembre de 2026: la gama mantiene sus precios congelados y arranca en $51.918.000.",
@@ -661,9 +661,9 @@
         "fecha": "2026-11-11T10:13:27-03:00"
       },
       {
-        "titulo": "Ford Transit City: así es la nueva van eléctrica que ya se vende en Argentina y puede cargar hasta 1.600 kilos",
-        "link": "https://parabrisas.perfil.com/noticias/autos/ford-transit-city-asi-es-nueva-van-electrica-se-vende-argentina-puede-cargar-1600-kilos-precio-versiones.phtml",
-        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/ford-transit-city-2363284.jpg",
+        "titulo": "Toyota desarrolló dos papamóviles sobre la Hilux para la visita de León XIV: cómo son y qué tecnología incorporan",
+        "link": "https://parabrisas.perfil.com/noticias/autos/toyota-desarrollo-dos-papamoviles-hilux-visita-papa-leon-xiv-como-son-que-tecnologia-incorporan.phtml",
+        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/toyota-hilux-papamovil-2363271.jpg",
         "fuente": "Parabrisas",
         "fecha": "Wed, 11 Nov 2026 03:01:00 GMT"
       },
@@ -675,11 +675,11 @@
         "fecha": "2026-11-11T09:59:56-03:00"
       },
       {
-        "titulo": "Ora 5 HEV: probamos el \"Porsche chino\"",
-        "link": "https://parabrisas.perfil.com/noticias/autos/prueba-de-manejo-test-ora-5-hev-suv-chino-great-wall-motors.phtml",
-        "imagen": "https://fotos.perfil.com/2026/11/10/trim/540/304/ora-5-hev-2362929.jpg",
+        "titulo": "Ford Transit City: así es la nueva van eléctrica que ya se vende en Argentina y puede cargar hasta 1.600 kilos",
+        "link": "https://parabrisas.perfil.com/noticias/autos/ford-transit-city-asi-es-nueva-van-electrica-se-vende-argentina-puede-cargar-1600-kilos-precio-versiones.phtml",
+        "imagen": "https://fotos.perfil.com/2026/11/11/trim/540/304/ford-transit-city-2363284.jpg",
         "fuente": "Parabrisas",
-        "fecha": "Tue, 10 Nov 2026 11:12:59 GMT"
+        "fecha": "Wed, 11 Nov 2026 03:01:00 GMT"
       },
       {
         "titulo": "Cómo elegir el aceite de transmisión correcto: la guía técnica para cajas manuales, automáticas, CVT y DCT",
@@ -777,6 +777,20 @@
     ],
     "vida_sana": [
       {
+        "titulo": "La neurocientífica Lara Boyd afirma que cada experiencia nueva modifica la estructura del cerebro humano",
+        "link": "https://www.infobae.com/generacion-silver/2026/11/12/la-neurocientifica-lara-boyd-afirma-que-cada-experiencia-nueva-modifica-la-estructura-del-cerebro-humano/",
+        "imagen": "https://www.infobae.com/resizer/v2/DVWFQ4OMIREYRJX4A6NH2EL2ZI.png?auth=4ad419c4ab2784c66fdf79c03915c950de52bf7a1b3a0f055d2d82c3a02190db&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Thu, 12 Nov 2026 03:02:00 +0000"
+      },
+      {
+        "titulo": "Bursitis o artritis de cadera: cuáles son las diferencias y cómo reconocerlas",
+        "link": "https://www.infobae.com/generacion-silver/2026/11/12/bursitis-o-artritis-de-cadera-cuales-son-las-diferencias-y-como-reconocerlas/",
+        "imagen": "https://www.infobae.com/resizer/v2/R7UEVUU2FVA5XDPR4NOL7CKYKU.png?auth=bcadf7aa48099542ba44fa25eb39d19594ab559232be51f77250f4e77a633cb6&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Thu, 12 Nov 2026 03:01:00 +0000"
+      },
+      {
         "titulo": "El impacto de la gripe más allá de los síntomas: cómo la vacuna previene casos críticos y descomprime el sistema de salud",
         "link": "https://www.infobae.com/salud/2026/11/11/el-impacto-de-la-gripe-mas-alla-de-los-sintomas-como-la-vacuna-previene-cuadros-criticos-y-descomprime-el-sistema-de-salud/",
         "imagen": "https://www.infobae.com/resizer/v2/GSBR2WDUNZEZLJ66KLT266YTPE.png?auth=2654aa5af136c1eacbc33048863e54c50c513386dd4d08e9864511495af58dae&smart=true&width=2752&height=1536",
@@ -803,29 +817,15 @@
         "imagen": "https://www.infobae.com/resizer/v2/25P5DVZRFBB6TPI4U2DWWR2LVU.png?auth=faa199110d40e59ff42626ab0e7a6e07a7118bf6e1142fe328d6916e43c3ce0d&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Wed, 11 Nov 2026 14:45:21 +0000"
-      },
-      {
-        "titulo": "Una ducha fría puede hacer más que despertarte: qué sugiere un estudio sobre el riesgo de enfermarse",
-        "link": "https://www.infobae.com/salud/ciencia/2026/11/11/una-ducha-fria-puede-hacer-mas-que-despertarte-que-sugiere-un-estudio-sobre-el-riesgo-de-enfermarse/",
-        "imagen": "https://www.infobae.com/resizer/v2/OYQH4GJFDRHH7JWJ7TWIDSI3KA.png?auth=ec561f090acbd511435763cc75635287875bbe6effc58e2dab4d53b24fc21a45&smart=true&width=1408&height=768",
-        "fuente": "Infobae Salud",
-        "fecha": "Wed, 11 Nov 2026 11:57:14 +0000"
-      },
-      {
-        "titulo": "La prueba de segundos que puede revelar si los zapatos afectan la forma de caminar sin que se note",
-        "link": "https://www.infobae.com/salud/2026/11/11/la-prueba-de-segundos-que-puede-revelar-si-los-zapatos-afectan-la-forma-de-caminar-sin-que-se-note/",
-        "imagen": "https://www.infobae.com/resizer/v2/TKQQ7AQOHNDNZHVCIXFZGPQJL4.png?auth=04e8c6d049798eb77352c4794ea777a07b311a8aae7f00b10ff713ae61bc3953&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Wed, 11 Nov 2026 09:00:01 +0000"
       }
     ],
     "local": [
       {
-        "titulo": "La Fundación Kim Gómez eligió a los seis clubes de La Plata que recibirán ayuda con un sorteo de una camioneta",
-        "link": "https://www.0221.com.ar/la-plata/la-fundacion-kim-gomez-eligio-los-seis-clubes-la-plata-que-recibiran-ayuda-un-sorteo-una-camioneta-n137306",
-        "imagen": "https://media.0221.com.ar/p/b6c9debfcf45adc2f520255669f98d66/adjuntos/357/imagenes/100/224/0100224113/1200x630/smart/homenaje-kim-gomez-8jpeg.jpeg",
+        "titulo": "Edelap realizará trabajos de mantenimiento en La Plata y podría haber cortes de luz este jueves",
+        "link": "https://www.0221.com.ar/la-plata/edelap-realizara-trabajos-mantenimiento-la-plata-y-podria-haber-cortes-luz-este-jueves-n137311",
+        "imagen": "",
         "fuente": "0221",
-        "fecha": "Wed, 11 Nov 2026 18:33:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 19:49:00 -0300"
       },
       {
         "titulo": "Una investigadora del Conicet La Plata fue distinguida en el Senado por sus aportes contra la tos convulsa",
@@ -842,18 +842,18 @@
         "fecha": "Wed, 11 Nov 2026 15:33:00 -0300"
       },
       {
-        "titulo": "Peleaban en las calles de Meridiano V, los separaron y les hallaron un medidor de gas robado",
-        "link": "https://www.eldia.com/policiales/peleaban-en-las-calles-de-meridiano-v-los-separaron-y-les-hallaron-un-medidor-de-gas-robado-policiales_1794432894",
+        "titulo": "Matambre arrollado: una cocción paciente para conquistar a toda la familia",
+        "link": "https://www.eldia.com/gourmet/matambre-arrollado-una-coccion-paciente-para-conquistar-a-toda-la-familia-gourmet_1794447472",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 11 Nov 2026 21:34:54 GMT"
+        "fecha": "Thu, 12 Nov 2026 01:46:21 GMT"
       },
       {
-        "titulo": "Un incendio destruyó por completo una vivienda precaria en Abasto y una mujer y sus hijas lograron escapar",
-        "link": "https://www.0221.com.ar/la-plata/un-incendio-destruyo-completo-una-vivienda-precaria-abasto-y-una-mujer-y-sus-hijas-lograron-escapar-n137296",
-        "imagen": "https://media.0221.com.ar/p/b879d51a67c0ea32d0ecec6740f01509/adjuntos/357/imagenes/100/285/0100285780/1200x630/1001x1167:1021x1187/bomberos-genericas-3.jpg",
+        "titulo": "La Fundación Kim Gómez eligió a los seis clubes de La Plata que recibirán ayuda con un sorteo de una camioneta",
+        "link": "https://www.0221.com.ar/la-plata/la-fundacion-kim-gomez-eligio-los-seis-clubes-la-plata-que-recibiran-ayuda-un-sorteo-una-camioneta-n137306",
+        "imagen": "https://media.0221.com.ar/p/b6c9debfcf45adc2f520255669f98d66/adjuntos/357/imagenes/100/224/0100224113/1200x630/smart/homenaje-kim-gomez-8jpeg.jpeg",
         "fuente": "0221",
-        "fecha": "Wed, 11 Nov 2026 18:12:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 18:33:00 -0300"
       },
       {
         "titulo": "La Facultad de Medicina de la UNLP anunció la creación de la tecnicatura en Diagnóstico por Imágenes",
@@ -870,18 +870,18 @@
         "fecha": "Wed, 11 Nov 2026 08:38:00 -0300"
       },
       {
-        "titulo": "Una científica platense fue distinguida por sus aportes a la investigación de la tos convulsa",
-        "link": "https://www.eldia.com/la-ciudad/una-cientifica-platense-fue-distinguida-por-sus-aportes-a-la-investigacion-de-la-tos-convulsa-la-ciudad_1794430291",
+        "titulo": "Noche de las Heladerías: promociones, nuevos sabores y varias sorpresas en la Ciudad",
+        "link": "https://www.eldia.com/gourmet/noche-de-las-heladerias-promociones-nuevos-sabores-y-varias-sorpresas-en-la-ciudad-gourmet_1794447352",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 11 Nov 2026 20:51:48 GMT"
+        "fecha": "Thu, 12 Nov 2026 01:41:20 GMT"
       },
       {
-        "titulo": "Una investigadora del Conicet La Plata fue distinguida en el Senado por sus aportes contra la tos convulsa",
-        "link": "https://www.0221.com.ar/la-plata/una-investigadora-del-conicet-la-plata-fue-distinguida-el-senado-sus-aportes-contra-la-tos-convulsa-n137307",
-        "imagen": "https://media.0221.com.ar/p/b168b04db919f27d411a239a3964b33b/adjuntos/357/imagenes/100/303/0100303633/1200x630/smart/daniela-hozbor-conicet-la-plata-1.jpg",
+        "titulo": "Un incendio destruyó por completo una vivienda precaria en Abasto y una mujer y sus hijas lograron escapar",
+        "link": "https://www.0221.com.ar/la-plata/un-incendio-destruyo-completo-una-vivienda-precaria-abasto-y-una-mujer-y-sus-hijas-lograron-escapar-n137296",
+        "imagen": "https://media.0221.com.ar/p/b879d51a67c0ea32d0ecec6740f01509/adjuntos/357/imagenes/100/285/0100285780/1200x630/1001x1167:1021x1187/bomberos-genericas-3.jpg",
         "fuente": "0221",
-        "fecha": "Wed, 11 Nov 2026 17:32:00 -0300"
+        "fecha": "Wed, 11 Nov 2026 18:12:00 -0300"
       },
       {
         "titulo": "Cuenta regresiva para el streaming del Conicet y la UNLP que mostrará una expedición arqueológica en Catamarca",
@@ -898,11 +898,11 @@
         "fecha": "Tue, 10 Nov 2026 17:45:00 -0300"
       },
       {
-        "titulo": "La Provincia descontó a los docentes un día de paro y gremios exigen la devolución",
-        "link": "https://www.eldia.com/politica-y-economia/la-provincia-desconto-a-los-docentes-un-dia-de-paro-y-gremios-exigen-la-devolucion-politica-y-economia_1794428218",
+        "titulo": "FOTOS | Colorido recibimiento al Pincha en Córdoba",
+        "link": "https://www.eldia.com/deportes/fotos-colorido-recibimiento-al-pincha-en-cordoba-deportes_1794443521",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Wed, 11 Nov 2026 20:17:34 GMT"
+        "fecha": "Thu, 12 Nov 2026 00:32:18 GMT"
       }
     ]
   }
