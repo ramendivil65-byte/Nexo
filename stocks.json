@@ -1,61 +1,70 @@
 {
-  "actualizado": "2026-11-13T13:40:48.944876+00:00",
+  "actualizado": "2026-11-13T21:06:42.382816+00:00",
   "merval": {
-    "subas": [],
-    "bajas": [
+    "subas": [
       {
-        "simbolo": "BMA",
-        "porcentaje": -3.49467
-      },
-      {
-        "simbolo": "BBAR",
-        "porcentaje": -2.90806
-      },
-      {
-        "simbolo": "GGAL",
-        "porcentaje": -2.77871
+        "simbolo": "CRESY",
+        "porcentaje": 8.60335
       },
       {
         "simbolo": "SUPV",
-        "porcentaje": -2.4055
+        "porcentaje": 4.57747
       },
       {
+        "simbolo": "PAM",
+        "porcentaje": 3.053316
+      },
+      {
+        "simbolo": "BMA",
+        "porcentaje": 2.9513
+      },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": 2.70531
+      }
+    ],
+    "bajas": [
+      {
         "simbolo": "TX",
-        "porcentaje": -2.11486
+        "porcentaje": -1.20912
       }
     ]
   },
   "dowjones": {
     "subas": [
       {
-        "simbolo": "CAT",
-        "porcentaje": 0.61003707
+        "simbolo": "KO",
+        "porcentaje": 1.85755
+      },
+      {
+        "simbolo": "JPM",
+        "porcentaje": 1.012191
+      },
+      {
+        "simbolo": "AAPL",
+        "porcentaje": 0.42831241
       },
       {
         "simbolo": "MSFT",
-        "porcentaje": 0.35883467
+        "porcentaje": 0.22753346
+      },
+      {
+        "simbolo": "HD",
+        "porcentaje": 0.13064671
       }
     ],
     "bajas": [
       {
         "simbolo": "NVDA",
-        "porcentaje": -4.34006
+        "porcentaje": -2.0067407
       },
       {
-        "simbolo": "HD",
-        "porcentaje": -0.86817563
+        "simbolo": "CAT",
+        "porcentaje": -0.85415494
       },
       {
         "simbolo": "MCD",
-        "porcentaje": -0.42575799
-      },
-      {
-        "simbolo": "AAPL",
-        "porcentaje": -0.21089334
-      },
-      {
-        "simbolo": "JPM",
-        "porcentaje": -0.16599415
+        "porcentaje": -0.60117855
       }
     ]
   }
