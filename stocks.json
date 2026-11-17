@@ -1,27 +1,36 @@
 {
-  "actualizado": "2026-11-17T05:48:42.577692+00:00",
+  "actualizado": "2026-11-17T15:13:45.136799+00:00",
   "merval": {
-    "subas": [],
-    "bajas": [
-      {
-        "simbolo": "SUPV",
-        "porcentaje": -7.74411
-      },
-      {
-        "simbolo": "BBAR",
-        "porcentaje": -7.35155
-      },
+    "subas": [
       {
         "simbolo": "PAM",
-        "porcentaje": -6.54808
+        "porcentaje": 2.7404
       },
       {
         "simbolo": "YPF",
-        "porcentaje": -5.96307
+        "porcentaje": 1.89394
+      },
+      {
+        "simbolo": "BMA",
+        "porcentaje": 1.55989
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": 1.27659
+      },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": 1.16989
+      }
+    ],
+    "bajas": [
+      {
+        "simbolo": "SUPV",
+        "porcentaje": -4.014599
       },
       {
         "simbolo": "CRESY",
-        "porcentaje": -5.85215
+        "porcentaje": -8.3199564e-07
       }
     ]
   },
@@ -29,33 +38,37 @@
     "subas": [
       {
         "simbolo": "MCD",
-        "porcentaje": 0.99276104
+        "porcentaje": 1.090394
       },
       {
-        "simbolo": "KO",
-        "porcentaje": 0.23174142
+        "simbolo": "AAPL",
+        "porcentaje": 0.64487818
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": 0.46100892
       }
     ],
     "bajas": [
       {
-        "simbolo": "CAT",
-        "porcentaje": -4.95002
+        "simbolo": "MSFT",
+        "porcentaje": -1.35717
       },
       {
-        "simbolo": "NVDA",
-        "porcentaje": -4.12036
+        "simbolo": "HD",
+        "porcentaje": -1.35536
       },
       {
         "simbolo": "JPM",
-        "porcentaje": -2.3051
+        "porcentaje": -1.0082468
       },
       {
-        "simbolo": "MSFT",
-        "porcentaje": -1.12431
+        "simbolo": "NVDA",
+        "porcentaje": -0.88382182
       },
       {
-        "simbolo": "AAPL",
-        "porcentaje": -0.97959142
+        "simbolo": "KO",
+        "porcentaje": -0.16586585
       }
     ]
   }
