@@ -1,36 +1,36 @@
 {
-  "actualizado": "2026-11-17T15:13:45.136799+00:00",
+  "actualizado": "2026-11-18T00:15:45.641744+00:00",
   "merval": {
     "subas": [
       {
         "simbolo": "PAM",
-        "porcentaje": 2.7404
+        "porcentaje": 2.67476
       },
       {
         "simbolo": "YPF",
-        "porcentaje": 1.89394
-      },
-      {
-        "simbolo": "BMA",
-        "porcentaje": 1.55989
-      },
-      {
-        "simbolo": "GGAL",
-        "porcentaje": 1.27659
+        "porcentaje": 2.1605
       },
       {
         "simbolo": "BBAR",
-        "porcentaje": 1.16989
+        "porcentaje": 2.034586
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": 1.17021
+      },
+      {
+        "simbolo": "BMA",
+        "porcentaje": 1.16992
       }
     ],
     "bajas": [
       {
-        "simbolo": "SUPV",
-        "porcentaje": -4.014599
+        "simbolo": "CRESY",
+        "porcentaje": -2.07198
       },
       {
-        "simbolo": "CRESY",
-        "porcentaje": -8.3199564e-07
+        "simbolo": "TX",
+        "porcentaje": -1.17671
       }
     ]
   },
@@ -38,37 +38,33 @@
     "subas": [
       {
         "simbolo": "MCD",
-        "porcentaje": 1.090394
-      },
-      {
-        "simbolo": "AAPL",
-        "porcentaje": 0.64487818
+        "porcentaje": 0.418682
       },
       {
         "simbolo": "CAT",
-        "porcentaje": 0.46100892
+        "porcentaje": 0.052584234
       }
     ],
     "bajas": [
       {
-        "simbolo": "MSFT",
-        "porcentaje": -1.35717
-      },
-      {
         "simbolo": "HD",
-        "porcentaje": -1.35536
+        "porcentaje": -2.44597
       },
       {
         "simbolo": "JPM",
-        "porcentaje": -1.0082468
+        "porcentaje": -2.43931
       },
       {
-        "simbolo": "NVDA",
-        "porcentaje": -0.88382182
+        "simbolo": "MSFT",
+        "porcentaje": -2.26838
       },
       {
         "simbolo": "KO",
-        "porcentaje": -0.16586585
+        "porcentaje": -0.69360919
+      },
+      {
+        "simbolo": "NVDA",
+        "porcentaje": -0.43550191
       }
     ]
   }
