@@ -1,61 +1,57 @@
 {
-  "actualizado": "2026-11-19T10:57:18.986676+00:00",
+  "actualizado": "2026-11-19T19:46:50.917574+00:00",
   "merval": {
-    "subas": [],
-    "bajas": [
-      {
-        "simbolo": "CRESY",
-        "porcentaje": -6.68151
-      },
-      {
-        "simbolo": "YPF",
-        "porcentaje": -3.59792
-      },
-      {
-        "simbolo": "SUPV",
-        "porcentaje": -3.10219
-      },
-      {
-        "simbolo": "BBAR",
-        "porcentaje": -2.69192
-      },
-      {
-        "simbolo": "GGAL",
-        "porcentaje": -2.62881
-      }
-    ]
-  },
-  "dowjones": {
     "subas": [
       {
-        "simbolo": "MSFT",
-        "porcentaje": 0.4049499
-      },
-      {
-        "simbolo": "AAPL",
-        "porcentaje": 0.15345075
+        "simbolo": "PAM",
+        "porcentaje": 0.11214648
       }
     ],
     "bajas": [
       {
-        "simbolo": "NVDA",
-        "porcentaje": -2.89464
+        "simbolo": "SUPV",
+        "porcentaje": -7.15631
       },
+      {
+        "simbolo": "BBAR",
+        "porcentaje": -4.96926
+      },
+      {
+        "simbolo": "YPF",
+        "porcentaje": -4.58689
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": -4.24766
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": -4.17661
+      }
+    ]
+  },
+  "dowjones": {
+    "subas": [],
+    "bajas": [
       {
         "simbolo": "CAT",
-        "porcentaje": -2.10585
-      },
-      {
-        "simbolo": "JPM",
-        "porcentaje": -1.77294
+        "porcentaje": -2.84196
       },
       {
         "simbolo": "KO",
-        "porcentaje": -0.70857837
+        "porcentaje": -1.82485
+      },
+      {
+        "simbolo": "NVDA",
+        "porcentaje": -1.72894
+      },
+      {
+        "simbolo": "MSFT",
+        "porcentaje": -1.11157
       },
       {
         "simbolo": "MCD",
-        "porcentaje": -0.64897705
+        "porcentaje": -0.82107754
       }
     ]
   }
