@@ -1,25 +1,67 @@
 {
-  "actualizado": "2026-11-20T23:52:34.701526+00:00",
+  "actualizado": "2026-11-21T06:38:21.273292+00:00",
   "categorias": {
     "politica": [
       {
+        "titulo": "Tesla desembarcó en Argentina: con aparición de Elon Musk, Javier Milei aseguró que \"estamos mirando de frente al mundo\"",
+        "link": "https://www.ambito.com/politica/tesla-desembarco-argentina-aparicion-elon-musk-javier-milei-aseguro-que-estamos-mirando-frente-al-mundo-n6347819",
+        "imagen": "https://media.ambito.com/p/8796f1165cbbbb7aca89466607c72c86/adjuntos/239/imagenes/043/786/0043786609/1200x675/smart/javier-milei-tesla.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 20 Nov 2026 21:43:00 -0300"
+      },
+      {
+        "titulo": "La emoción de Milei por la Cybetruck personalizada y la incómoda videollamada de Elon Musk en la presentación de Tesla Argentina",
+        "link": "https://www.clarin.com/politica/emocion-milei-cybetruck-ploteada-incomoda-videollamada-elon-musk-presentacion-tesla-argentina_0_RVCJsnAjFc.html",
+        "imagen": "https://www.clarin.com/img/2026/11/21/T5IU3Q91S_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Sat, 21 Nov 2026 02:20:37 +0000"
+      },
+      {
+        "titulo": "Elección en la ONU: Rebeca Grynspan y Rafael Grossi encabezan votación, pero los vetos traban definición",
+        "link": "https://www.ambito.com/mundo/eleccion-la-onu-rebeca-grynspan-y-rafael-grossi-encabezan-votacion-pero-los-vetos-traban-definicion-n6347795",
+        "imagen": "https://media.ambito.com/p/6ab811a1eb0ed55fce0686e1411f0e16/adjuntos/239/imagenes/043/751/0043751075/1200x675/smart/grynspan-grossi.jpg",
+        "fuente": "Ámbito Mundo",
+        "fecha": "Fri, 20 Nov 2026 21:15:00 -0300"
+      },
+      {
+        "titulo": "Nancy Pazos expuso las contradicciones de Javier Milei y fue lapidaria: \"Los mercados ya no le creen\"",
+        "link": "https://www.c5n.com/politica/nancy-pazos-expuso-las-contradicciones-javier-milei-y-fue-lapidaria-los-mercados-ya-no-le-creen-n254938",
+        "imagen": "",
+        "fuente": "C5N",
+        "fecha": "Fri, 20 Nov 2026 23:38:00 -0300"
+      },
+      {
+        "titulo": "Las mañas de la casta, las internas sin fin y los riesgos de insistir con el “riesgo kuka”",
+        "link": "https://www.infobae.com/opinion/2026/11/21/las-manas-de-la-casta-las-internas-sin-fin-y-los-riesgos-de-insistir-con-el-riesgo-kuka/",
+        "imagen": "https://www.infobae.com/resizer/v2/IGJD4BRAWZAGPPIVCXJMTRU2MY.JPG?auth=fa9ef155da90a7fdb669122b0c1181e2059b73b2f5ddaea126a2af025c467a67&smart=true&width=4627&height=3085",
+        "fuente": "Infobae",
+        "fecha": "Sat, 21 Nov 2026 06:13:27 +0000"
+      },
+      {
+        "titulo": "Exigen avances para esclarecer el atentado contra el gremialista Luis Pérez",
+        "link": "https://www.tiempoar.com.ar/ta_article/atentado-luis-perez/",
+        "imagen": "",
+        "fuente": "Tiempo Argentino",
+        "fecha": "Fri, 20 Nov 2026 22:26:04 +0000"
+      },
+      {
         "titulo": "Denunciaron a Javier Milei ante la Oficina Anticorrupción por promocionar a LEGO y Tesla desde sus redes oficiales",
         "link": "https://www.ambito.com/politica/denunciaron-javier-milei-la-oficina-anticorrupcion-promocionar-lego-y-tesla-sus-redes-oficiales-n6347771",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/7923059ea708cf336ae00a277e8f83e5/adjuntos/239/imagenes/043/786/0043786280/1200x675/1057x324:1077x344/javier-milei-lego.jpg",
         "fuente": "Ámbito",
         "fecha": "Fri, 20 Nov 2026 19:26:00 -0300"
       },
       {
-        "titulo": "Debate de gobernadores por la suspensión de las PASO: dos a favor y uno en contra",
-        "link": "https://www.clarin.com/politica/debate-gobernadores-suspension-paso-favor_0_TYNgZELfGr.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/ZMp7GO1Fr_1200x630__1.jpg",
+        "titulo": "Milei, Trump y el juego de las apariencias",
+        "link": "https://www.clarin.com/politica/milei-trump-juego-apariencias_0_oHsb72k5Oy.html",
+        "imagen": "https://www.clarin.com/img/2026/11/02/hC2mV-IUB_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 19:39:02 +0000"
+        "fecha": "Fri, 20 Nov 2026 23:41:38 +0000"
       },
       {
         "titulo": "Científicos de Oxford hallaron un reservorio de metales a 2 km de profundidad bajo un volcán activo del Caribe",
         "link": "https://www.ambito.com/mundo/cientificos-oxford-hallaron-un-reservorio-metales-2-km-profundidad-un-volcan-activo-del-caribe-n6347763",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/6c784277f8d3d35293486e79dfc4fadb/adjuntos/239/imagenes/043/786/0043786105/1200x675/710x475:730x495/volcan-soufriere-hills-1500-x-1000.png",
         "fuente": "Ámbito Mundo",
         "fecha": "Fri, 20 Nov 2026 17:46:00 -0300"
       },
@@ -31,53 +73,11 @@
         "fecha": "Fri, 20 Nov 2026 20:34:00 -0300"
       },
       {
-        "titulo": "Máximo Kirchner volvió a apuntar contra el RIGI: \"Vamos a armar todo el quilombo que haya que armar\"",
-        "link": "https://www.infobae.com/politica/2026/11/20/maximo-kirchner-volvio-a-apuntar-contra-el-rigi-vamos-a-armar-todo-el-quilombo-que-haya-que-armar/",
-        "imagen": "https://www.infobae.com/resizer/v2/5CEWBALCNZGZTC466RNKTVFR2Q.jpg?auth=eb3aa19308c0d93963b5c89e791f90a13191c0d132190f8ed3928e9762d5fc42&smart=true&width=1920&height=1080",
+        "titulo": "Alerta en el conurbano: intervinieron la fábrica que provee luminarias LED e investigan un faltante millonario",
+        "link": "https://www.infobae.com/politica/2026/11/21/alerta-en-el-conurbano-intervinieron-la-fabrica-que-provee-luminarias-led-e-investigan-un-faltante-millonario/",
+        "imagen": "https://www.infobae.com/resizer/v2/JYKXHHEMXRB2DGZ6Y5BZFRGEDI.png?auth=2df9dc514454dfb00508338e7c3dc7b725b92452ed690116bb18e47ea16193d3&smart=true&width=2655&height=1494",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 21:15:31 +0000"
-      },
-      {
-        "titulo": "Exigen avances para esclarecer el atentado contra el gremialista Luis Pérez",
-        "link": "https://www.tiempoar.com.ar/ta_article/atentado-luis-perez/",
-        "imagen": "",
-        "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 20 Nov 2026 22:26:04 +0000"
-      },
-      {
-        "titulo": "Victoria Villarruel le marcó la cancha al Gobierno en el Día de la Soberanía: \"Es nuestro deber siempre\"",
-        "link": "https://www.ambito.com/politica/victoria-villarruel-le-marco-la-cancha-al-gobierno-el-dia-la-soberania-es-nuestro-deber-siempre-n6347762",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 20 Nov 2026 19:21:00 -0300"
-      },
-      {
-        "titulo": "La advertencia de Máximo Kirchner si el peronismo vuelve al poder: \"Vamos a armar todo el quilombo que haya que armar\"",
-        "link": "https://www.clarin.com/politica/advertencia-maximo-kirchner-peronismo-vuelve-poder-vamos-armar-quilombo-armar_0_bRUSK3epql.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/20Xk2hAoL_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 19:20:32 +0000"
-      },
-      {
-        "titulo": "El Reino Unido y la Unión Europea firman un \"acuerdo histórico\" a diez años del Brexit",
-        "link": "https://www.ambito.com/mundo/el-reino-unido-y-la-union-europea-firman-un-acuerdo-historico-diez-anos-del-brexit-n6347645",
-        "imagen": "",
-        "fuente": "Ámbito Mundo",
-        "fecha": "Fri, 20 Nov 2026 14:47:00 -0300"
-      },
-      {
-        "titulo": "El Senado aprobó los cambios a la Ley de Inviolabilidad de la Propiedad Privada y restituyó la Ley de Tierras",
-        "link": "https://www.c5n.com/politica/el-senado-aprobo-los-cambios-la-ley-inviolabilidad-la-propiedad-privada-y-restituyo-la-ley-tierras-n254863",
-        "imagen": "https://media.c5n.com/p/da44c5989fc39c05085c4fc883a5d908/adjuntos/326/imagenes/000/405/0000405410/1200x675/smart/senado-votacion.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 19 Nov 2026 22:40:00 -0300"
-      },
-      {
-        "titulo": "Kicillof se aferra a sostener las PASO en Buenos Aires para negociar a nivel nacional con Massa y CFK",
-        "link": "https://www.infobae.com/politica/2026/11/20/kicillof-se-aferra-a-sostener-las-paso-en-buenos-aires-para-negociar-a-nivel-nacional-con-massa-y-cfk/",
-        "imagen": "https://www.infobae.com/resizer/v2/A4BRWN7K2BA5NOZBJR2PIZKQME.jpg?auth=a932724f5682587b37097ae492197e5eb2c84ccdbae0d73df7562745c3a61f7b&smart=true&width=5402&height=3602",
-        "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 20:04:09 +0000"
+        "fecha": "Sat, 21 Nov 2026 04:53:51 +0000"
       },
       {
         "titulo": "La fábrica de la intemperie",
@@ -96,32 +96,32 @@
         "fecha": "Fri, 20 Nov 2026 20:35:00 -0300"
       },
       {
-        "titulo": "La caída de los mercados globales: cambió el viento para la Argentina",
-        "link": "https://www.clarin.com/economia/caida-mercados-globales-cambio-viento-argentina_0_XSxp3nkNrI.html",
-        "imagen": "https://www.clarin.com/img/2026/10/06/ofB0Qz9tQ_1200x630__1.jpg",
+        "titulo": "La caída de Jensen Huang representa el freno de la IA en EE.UU.",
+        "link": "https://www.clarin.com/economia/caida-jensen-huang-representa-freno-ia-eeuu_0_725Sn7rxWv.html",
+        "imagen": "https://www.clarin.com/img/2026/11/19/dllfHtFp4_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 22:48:46 +0000"
+        "fecha": "Sat, 21 Nov 2026 03:46:41 +0000"
       },
       {
-        "titulo": "El Gobierno anunció un nuevo ingreso al RIGI: \"Es la mayor inversión de la historia argentina\"",
-        "link": "https://www.c5n.com/economia/el-gobierno-anuncio-un-nuevo-ingreso-al-rigi-es-la-mayor-inversion-la-historia-argentina-n254926",
-        "imagen": "https://media.c5n.com/p/8ade4b49e7ac1895b8850dce9db31910/adjuntos/326/imagenes/000/395/0000395277/1200x675/smart/argentina-lng.jpg",
+        "titulo": "El mercado ya juega las elecciones 2027: qué dice sobre el riesgo país, el dólar y la chance de reelección de Javier Milei",
+        "link": "https://www.c5n.com/economia/el-mercado-ya-juega-las-elecciones-2027-que-dice-el-riesgo-pais-el-dolar-y-la-chance-reeleccion-javier-milei-n254806",
+        "imagen": "https://media.c5n.com/p/2d20b548e5c5e551333017e54ac385bf/adjuntos/326/imagenes/000/408/0000408602/1200x675/smart/dolar_milei.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 20 Nov 2026 18:13:00 -0300"
+        "fecha": "Fri, 20 Nov 2026 23:57:00 -0300"
       },
       {
-        "titulo": "Tesla se presentó en el país: los elogios de Javier Milei y el confuso mensaje de Elon Musk desde un avión",
-        "link": "https://www.infobae.com/economia/2026/11/20/tesla-se-presento-en-el-pais-los-elogios-de-javier-milei-y-el-confuso-mensaje-de-elon-musk-desde-un-avion/",
-        "imagen": "https://www.infobae.com/resizer/v2/C5XVENXW7JALRBTZ6PUVOVHE4I.jpeg?auth=22fcfa6f54c9a14efd7e90b4c950779c14e69b4272f1381ecd09210a3ba2ee3c&smart=true&width=912&height=513",
+        "titulo": "Ante el freno de la actividad, el Gobierno descarta un cambio de rumbo, se ata a la ortodoxia y profundiza el ajuste",
+        "link": "https://www.infobae.com/economia/2026/11/21/ante-el-freno-de-la-actividad-el-gobierno-descarta-un-cambio-de-rumbo-se-ata-a-la-ortodoxia-y-profundiza-el-ajuste/",
+        "imagen": "https://www.infobae.com/resizer/v2/QMR3W7MAK5CXBGU4YHVJK2UKXM.jpg?auth=7913c645f77b6729fdc927b150ac97698f828770368546632ad1f427685c00ef&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:46:22 +0000"
+        "fecha": "Sat, 21 Nov 2026 05:08:58 +0000"
       },
       {
-        "titulo": "Alarma en los mercados por la jornada financiera: riesgo país y dólar fuga en máximos",
-        "link": "https://www.tiempoar.com.ar/ta_article/dolar-riesgo-pais-mercados/",
+        "titulo": "Con el dólar fuga casi en $ 1800, el indicador país trepó a 1070 tras otra venta masiva de bonos",
+        "link": "https://www.tiempoar.com.ar/ta_article/dolar-fuga-1800-1070-bonos/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Fri, 20 Nov 2026 12:19:48 +0000"
+        "fecha": "Sat, 21 Nov 2026 00:04:23 +0000"
       },
       {
         "titulo": "El economista que Javier Milei invitó a una reunión de Gabinete advirtió: \"El problema está más en la deuda que en el dólar\"",
@@ -131,32 +131,32 @@
         "fecha": "Fri, 20 Nov 2026 20:15:00 -0300"
       },
       {
-        "titulo": "El Gobierno aprobó el RIGI de YPF para exportar gas licuado: con US$ 50.750 millones, será \"la mayor inversión de la historia\"",
-        "link": "https://www.clarin.com/energia-y-mineria/gobierno-aprobo-rigi-ypf-exportar-gas-licuado-us-50750-millones-mayor-inversion-historia_0_8Yx4O90clj.html",
-        "imagen": "https://www.clarin.com/img/2026/02/12/UWhU8j3Ml_1200x630__1.jpg",
+        "titulo": "Australia queda lejos: por qué desarmar la industria automotriz argentina sería un lujo que no podemos pagar",
+        "link": "https://www.clarin.com/economia/australia-queda-lejos-desarmar-industria-automotriz-argentina-lujo-podemos-pagar_0_p6S15eU17f.html",
+        "imagen": "https://www.clarin.com/img/2026/05/27/J9k_hLoyI_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 19:08:09 +0000"
+        "fecha": "Sat, 21 Nov 2026 03:46:41 +0000"
       },
       {
-        "titulo": "El Banco Central no compró dólares por tercera vez en noviembre y cayeron las reservas",
-        "link": "https://www.c5n.com/economia/el-banco-central-no-compro-dolares-tercera-vez-noviembre-y-cayeron-las-reservas-n254921",
-        "imagen": "https://media.c5n.com/p/ae6c2ea1c19c6cdca0fe829243b6c838/adjuntos/326/imagenes/000/296/0000296793/1200x675/smart/bcra.png",
+        "titulo": "El Gobierno anunció un nuevo ingreso al RIGI: \"Es la mayor inversión de la historia argentina\"",
+        "link": "https://www.c5n.com/economia/el-gobierno-anuncio-un-nuevo-ingreso-al-rigi-es-la-mayor-inversion-la-historia-argentina-n254926",
+        "imagen": "https://media.c5n.com/p/8ade4b49e7ac1895b8850dce9db31910/adjuntos/326/imagenes/000/395/0000395277/1200x675/smart/argentina-lng.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 20 Nov 2026 17:46:00 -0300"
+        "fecha": "Fri, 20 Nov 2026 18:13:00 -0300"
       },
       {
-        "titulo": "Tesla le cumplió el sueño a Javier Milei y mostró su súper camioneta eléctrica “tuneada” con un león",
-        "link": "https://www.infobae.com/economia/2026/11/20/tesla-le-cumplio-el-sueno-a-javier-milei-y-mostro-su-super-camioneta-electrica-tuneada-con-un-leon/",
-        "imagen": "https://www.infobae.com/resizer/v2/IA5CNTBKA5D6TBES3P2UFMOMUM.jpeg?auth=33b1492d69615efea103218d89cc172e6b2a69403732cf4864eb3f4d7c01aadc&smart=true&width=1136&height=639",
+        "titulo": "De 400 a más de 1.000 puntos en solo cuatro meses: qué explica la escalada del riesgo país y el derrumbe de los bonos argentinos",
+        "link": "https://www.infobae.com/economia/2026/11/21/de-400-a-mas-de-1000-puntos-en-solo-cuatro-meses-que-explica-la-escalada-del-riesgo-pais-y-el-derrumbe-de-los-bonos-argentinos/",
+        "imagen": "https://www.infobae.com/resizer/v2/3B2BGYNZXNG33KZ5VULGJORGFE.jpg?auth=3ed54e7b41fe0c1f144fc2752af52cde53a262fea91fae4e52c3975833a3306f&smart=true&width=1360&height=765",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:28:00 +0000"
+        "fecha": "Sat, 21 Nov 2026 05:06:51 +0000"
       },
       {
-        "titulo": "Al Cybermonday le llegó el impacto Milei",
-        "link": "https://www.tiempoar.com.ar/ta_article/cybermonday-impacto-milei/",
+        "titulo": "Alarma en los mercados por la jornada financiera: riesgo país y dólar fuga en máximos",
+        "link": "https://www.tiempoar.com.ar/ta_article/dolar-riesgo-pais-mercados/",
         "imagen": "",
         "fuente": "Tiempo Argentino",
-        "fecha": "Thu, 19 Nov 2026 23:33:46 +0000"
+        "fecha": "Fri, 20 Nov 2026 12:19:48 +0000"
       },
       {
         "titulo": "Morosidad: las tarjetas aliviaron los atrasos en familias, pero en empresas se vio un nuevo récord desde 2024",
@@ -166,11 +166,11 @@
         "fecha": "Fri, 20 Nov 2026 20:05:00 -0300"
       },
       {
-        "titulo": "\"Vamos a salir adelante\": una importante empresa de tecnología agrícola pidió la apertura de un concurso de acreedores",
-        "link": "https://www.clarin.com/rural/vamos-salir-adelante-importante-empresa-tecnologia-agricola-pidio-apertura-concurso-acreedores_0_iCIfqpWGXq.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/9dE0ZzFlK_1200x630__1.jpg",
+        "titulo": "Entre milanesas y un chivito, el pacto radical con el cual el gobierno bajó las PASO",
+        "link": "https://www.clarin.com/economia/milanesas-chivito-el-pacto-radical-con-gobierno-paso_0_TgLrPLO4wi.html",
+        "imagen": "https://www.clarin.com/img/2026/11/20/qXQfMX5JR_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 18:46:27 +0000"
+        "fecha": "Sat, 21 Nov 2026 03:44:41 +0000"
       }
     ],
     "deportes": [
@@ -182,60 +182,60 @@
         "fecha": "Fri, 20 Nov 2026 20:42:00 -0300"
       },
       {
-        "titulo": "Jesús Owono reapareció tras la muerte de Jesús de Miguel en España: rezó durante el homenaje al futbolista",
-        "link": "https://www.clarin.com/deportes/jesus-owono-reaparecio-muerte-jesus-miguel-espana-rezo-homenaje-futbolista_0_fP9TVdZmxJ.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/lHWH4Xhbp_1200x630__1.jpg",
+        "titulo": "María Codino habla por primera vez tras el asesinato de Federico Martín Aramburú: “Conocimos la atrocidad más grande, pero también el amor en todas su formas”",
+        "link": "https://www.clarin.com/deportes/maria-codino-habla-primera-vez-asesinato-federico-martin-aramburu-conocimos-atrocidad-grande-amor-todas-formas_0_TWPgsNhpBF.html",
+        "imagen": "https://www.clarin.com/img/2026/09/18/cg-46ooUd_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 20:48:48 +0000"
+        "fecha": "Fri, 20 Nov 2026 23:56:39 +0000"
       },
       {
-        "titulo": "Rodolfo Arruabarrena, confiado en la previa de la final entre Boca y Atlético Mineiro: \"Tengo jugadores con los que iría a la guerra\"",
-        "link": "https://www.c5n.com/deportes/rodolfo-arruabarrena-confiado-la-previa-la-final-boca-y-atletico-mineiro-tengo-jugadores-los-que-iria-la-guerra-n254934",
-        "imagen": "https://media.c5n.com/p/6badd08cd186c63f3b8a2e47b6db857c/adjuntos/326/imagenes/000/408/0000408665/1200x675/smart/rodolfo-arruabarrena.jpg",
+        "titulo": "Con la eliminación del último campeón, comenzaron los playoffs del Torneo Clausura: así quedan los cruces",
+        "link": "https://www.c5n.com/deportes/torneo-clausura-playoffs-octavos-de-final-liga-profesional-resultados-goles",
+        "imagen": "https://media.c5n.com/p/82328ba9e34a1c98f8791f3657c32eff/adjuntos/326/imagenes/000/408/0000408685/1200x675/smart/godoy-belgrano.jpg",
         "fuente": "C5N",
-        "fecha": "Fri, 20 Nov 2026 20:18:00 -0300"
+        "fecha": "Fri, 20 Nov 2026 23:22:00 -0300"
       },
       {
-        "titulo": "Vélez pierde con Belgrano de Córdoba en el inicio de los octavos de final del Torneo Clausura",
-        "link": "https://www.infobae.com/deportes/2026/11/20/velez-recibira-a-belgrano-de-cordoba-en-el-inicio-de-los-octavos-de-final-del-torneo-clausura-hora-tv-y-formaciones/",
-        "imagen": "https://www.infobae.com/resizer/v2/XKCXXVYYDREU5CAWZUITRTTMCU.JPG?auth=f688e4470e8edcd667bc025000bc47684279d5ad1da8a1e72149a9dee3ace126&smart=true&width=3096&height=1742",
+        "titulo": "Franco Colapinto largará en la 9° posición del Gran Premio de Las Vegas de Fórmula 1: Verstappen se quedó con la pole",
+        "link": "https://www.infobae.com/deportes/2026/11/20/antes-de-la-clasificacion-franco-colapinto-afrontara-la-ultima-practica-del-gran-premio-de-las-vegas-de-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
+        "imagen": "https://www.infobae.com/resizer/v2/SX2UUOUHSVHNVG2LDDGZS5MNRM.JPG?auth=72261c25753a7512fdd615545b65a74b19fa674766dd1aa577f030dd1e0c6383&smart=true&width=5760&height=3826",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:35:06 +0000"
+        "fecha": "Sat, 21 Nov 2026 06:19:46 +0000"
       },
       {
-        "titulo": "Independiente y el partido del semestre ante Argentinos, en busca de los cuartos de final",
-        "link": "https://www.ole.com.ar/futbol-primera/independiente-argentinos-torneo-clausura-jadson-viera_0_AlyLD2MKaV.html",
-        "imagen": "https://www.ole.com.ar/images/2026/11/20/XDflYVzav_1200x630__1.jpg",
+        "titulo": "Tomás Marchiori, el héroe de Vélez que atajó tres penales en la definición: \"Habíamos estudiado a los pateadores\"",
+        "link": "https://www.ole.com.ar/velez/velez-belgrano-clausura_0_SbcOevz2Ia.html",
+        "imagen": "https://www.ole.com.ar/images/2026/09/11/Nr77Hboux_1200x630__1.jpg",
         "fuente": "Olé",
-        "fecha": "Fri, 20 Nov 2026 23:31:12 +0000"
+        "fecha": "Sat, 21 Nov 2026 02:42:42 +0000"
       },
       {
-        "titulo": "La Conmebol lanzó una convocatoria para los hinchas más chicos de Estudiantes",
-        "link": "https://www.eldia.com/deportes/la-conmebol-lanzo-una-convocatoria-para-los-hinchas-mas-chicos-de-estudiantes-antes-de-la-final-de-la-libertadores-deportes_1795217498",
+        "titulo": "Boca va por la gloria en la Copa Sudamericana",
+        "link": "https://www.eldia.com/deportes/boca-va-por-la-gloria-en-la-copa-sudamericana-deportes_1795233709",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Fri, 20 Nov 2026 23:32:52 GMT"
+        "fecha": "Sat, 21 Nov 2026 05:43:08 GMT"
       },
       {
-        "titulo": "VIDEO | “Acá en Montevideo hay más afinidad por Estudiantes”",
-        "link": "https://www.eldia.com/deportes/aca-hay-mas-afinidad-por-estudiantes-deportes_1795216532",
+        "titulo": "“Sabemos jugar este tipo de partidos”, dijo el Vasco",
+        "link": "https://www.eldia.com/deportes/sabemos-jugar-este-tipo-de-partidos-dijo-el-vasco-deportes_1795233649",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Fri, 20 Nov 2026 23:16:21 GMT"
+        "fecha": "Sat, 21 Nov 2026 04:00:49 GMT"
       },
       {
-        "titulo": "Un hincha partió en bicicleta hacia Montevideo para alentar a Estudiantes en la final de la Libertadores",
-        "link": "https://www.eldia.com/deportes/un-hincha-partio-en-bicicleta-hacia-montevideo-para-alentar-a-estudiantes-en-la-final-de-la-libertadores-deportes_1795209939",
+        "titulo": "Domínguez se siente visitante: “Sabemos que Colombia es de Boca”",
+        "link": "https://www.eldia.com/deportes/dominguez-se-siente-visitante-sabemos-que-colombia-es-de-boca-deportes_1795233589",
         "imagen": "",
         "fuente": "El Día Deportes",
-        "fecha": "Fri, 20 Nov 2026 21:27:54 GMT"
+        "fecha": "Sat, 21 Nov 2026 03:59:49 GMT"
       },
       {
         "titulo": "Gimnasia en modo playoff: la sorpresa que Ariel Pereyra piensa para el equipo",
         "link": "https://www.0221.com.ar/gimnasia/gimnasia-modo-playoff-la-sorpresa-que-ariel-pereyra-piensa-el-equipo-n137789",
         "imagen": "https://media.0221.com.ar/p/af04963c99921423946c9ab8ba485678/adjuntos/357/imagenes/100/302/0100302924/1200x630/1043x825:1063x845/gimnasia-belgrano-ariel-pereyra.jpeg",
         "fuente": "0221 Deportes",
-        "fecha": "Fri, 20 Nov 2026 20:02:00 -0300"
+        "fecha": "Fri, 20 Nov 2026 20:00:00 -0300"
       },
       {
         "titulo": "La Conmebol lanzó una convocatoria especial para los pequeños hinchas de Estudiantes",
@@ -261,6 +261,27 @@
     ],
     "policiales_actualidad": [
       {
+        "titulo": "\"Está destrozado\": dolor e indignación tras el abuso de un nene en un supermercado chino que terminó saqueado",
+        "link": "https://www.clarin.com/policiales/destrozado-dolor-indignacion-abuso-nene-supermercado-chino-termino-saqueado_0_9xbH9wmoE2.html",
+        "imagen": "https://www.clarin.com/img/2026/11/20/IOaDMq_7n_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 20 Nov 2026 22:13:01 +0000"
+      },
+      {
+        "titulo": "\"Preppers\" en Argentina: cómo armar un kit de supervivencia para crisis reales",
+        "link": "https://www.c5n.com/sociedad/preppers-argentina-como-armar-un-kit-supervivencia-crisis-reales-n254854",
+        "imagen": "https://media.c5n.com/p/bee77a0e27f1aed2d957246d3ba5c4c2/adjuntos/326/imagenes/000/408/0000408669/1200x675/smart/leonardo-azzolin-prepper-argentino.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 20 Nov 2026 23:52:00 -0300"
+      },
+      {
+        "titulo": "A una semana de la tragedia: cómo sigue la investigación por la explosión de Lanús",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/21/sin-firmaa-una-semana-de-la-tragedia-como-sigue-la-investigacion-por-la-explosion-de-lanus/",
+        "imagen": "https://www.infobae.com/resizer/v2/B6FZU25ISRB7ZG2IUX4UJIJUC4.jpg?auth=155ef98747b09b1de998e27718f7ddbb7a9095b80fe97f7c5c6efe00179c9425&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Sat, 21 Nov 2026 03:30:00 +0000"
+      },
+      {
         "titulo": "Generación Zoe: ordenan volver a investigar a 22 sobreseídos y confirman el procesamiento de Cositorto por otras 1095 estafas",
         "link": "https://www.clarin.com/policiales/generacion-zoe-ordenan-volver-investigar-22-sobreseidos-confirman-procesamiento-cositorto-1095-estafas_0_6HFlrYA0c8.html",
         "imagen": "https://www.clarin.com/img/2024/11/25/mnSSFToXQ_1200x630__1.jpg",
@@ -275,11 +296,11 @@
         "fecha": "Fri, 20 Nov 2026 19:02:00 -0300"
       },
       {
-        "titulo": "Detuvieron a cuatro nuevos sospechosos por la fuga del ex terrorista italiano Leonardo Bertulazzi",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/20/detuvieron-a-cuatro-nuevos-sospechosos-por-la-fuga-del-ex-terrorista-italiano-leonardo-bertulazzi/",
-        "imagen": "https://www.infobae.com/resizer/v2/OX3RQGGOLRBNVLDW6WNVDK5UAU.jpg?auth=31bf880f8b7ca3cbb3cc1875a8dbbcc1ccd7c1a33e0c1135afe600dab9aa7178&smart=true&width=1920&height=1080",
+        "titulo": "Una por una, las claves del caso de Tatiana Fernández y las pruebas contra el presunto homicida",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/21/una-por-una-las-claves-del-caso-de-tatiana-fernandez-y-las-pruebas-contra-el-presunto-homicida/",
+        "imagen": "https://www.infobae.com/resizer/v2/ANKF2KZ74FHAJLTILRWHB443XA.jpeg?auth=85dbffc493013808ce4c588bbf395eecef23fc1390aaa16653c5abd502d265e8&smart=true&width=528&height=287",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:45:40 +0000"
+        "fecha": "Sat, 21 Nov 2026 03:30:00 +0000"
       },
       {
         "titulo": "Quién era la encargada del bar asesinada en Córdoba: dedicación full time a la crianza de su hijo y el trabajo",
@@ -296,11 +317,11 @@
         "fecha": "Fri, 20 Nov 2026 18:40:00 -0300"
       },
       {
-        "titulo": "El abogado de Pity Álvarez defendió su inocencia y adelantó que recurrirá la condena: “Jurídicamente es inocente”",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/20/el-abogado-de-pity-alvarez-defendio-su-inocencia-y-adelanto-que-recurrira-la-condena-juridicamente-es-inocente/",
-        "imagen": "https://www.infobae.com/resizer/v2/62YXF47SHVD4NFIUDL2RX4OOQI.jpg?auth=2dab1649ac5e466472c717b791f1bc12652025dd0231954dede347803377b42f&smart=true&width=1920&height=1080",
+        "titulo": "Horas antes del femicidio en Córdoba, la víctima llamó a la Policía por otro episodio de violencia con su ex",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/21/horas-antes-del-femicidio-en-cordoba-la-victima-llamo-a-la-policia-por-otro-episodio-de-violencia-con-su-ex/",
+        "imagen": "https://www.infobae.com/resizer/v2/BMP4ML6GERFVHL37XOVWLWA5NM.jpg?auth=b8280a1d217f87bb3d4e66ba4a98aa49a1a5dcd69ca38918a170ae90d7c1a958&smart=true&width=1980&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:25:51 +0000"
+        "fecha": "Sat, 21 Nov 2026 03:00:17 +0000"
       },
       {
         "titulo": "Envenenó a sus dos hijas recién nacidas en Jujuy y una murió: condenaron a perpetua al padre homicida que estuvo prófugo ocho años",
@@ -317,41 +338,76 @@
         "fecha": "Fri, 20 Nov 2026 17:55:00 -0300"
       },
       {
-        "titulo": "Condenaron a “Pity” Álvarez: cómo se vivió la lectura de la sentencia y por qué cumplirá arresto domiciliario",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/20/juicio-a-pity-alvarez-como-se-vivio-la-lectura-de-la-sentencia-y-por-que-el-musico-cumplira-arresto-domiciliario/",
-        "imagen": "https://www.infobae.com/resizer/v2/O65G4F2HZZCP7I3V7YE7WYI27Q.jpg?auth=f7c5baf12f6eb197e373dfae9e4648629fa363321a38011fec5070ec62dc9305&smart=true&width=4000&height=2696",
+        "titulo": "Detuvieron a cuatro nuevos sospechosos por la fuga del ex terrorista italiano Leonardo Bertulazzi",
+        "link": "https://www.infobae.com/sociedad/policiales/2026/11/20/detuvieron-a-cuatro-nuevos-sospechosos-por-la-fuga-del-ex-terrorista-italiano-leonardo-bertulazzi/",
+        "imagen": "https://www.infobae.com/resizer/v2/OX3RQGGOLRBNVLDW6WNVDK5UAU.jpg?auth=31bf880f8b7ca3cbb3cc1875a8dbbcc1ccd7c1a33e0c1135afe600dab9aa7178&smart=true&width=1920&height=1080",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 22:40:16 +0000"
-      },
-      {
-        "titulo": "Juicio a \"Pity\" Álvarez: lo condenaron a 12 años de prisión por matar a tiros a un vecino en Villa Lugano",
-        "link": "https://www.clarin.com/policiales/alegato-fiscal-parecio-excesivo-ultimas-palabras-pity-alvarez-veredicto-crimen-vecino-villa-lugano_0_7CmHIP9Znc.html",
-        "imagen": "https://www.clarin.com/img/2026/11/02/YUKUfQJKX_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 15:56:54 +0000"
-      },
-      {
-        "titulo": "Está en la UBA, no tiene CBC y dura 4 años: la nueva carrera orientada a la IA con fuerte salida laboral",
-        "link": "https://www.c5n.com/sociedad/esta-la-uba-no-tiene-cbc-y-dura-4-anos-la-nueva-carrera-orientada-la-ia-fuerte-salida-laboral-n254909",
-        "imagen": "https://media.c5n.com/p/fc83d16444ebaca9c96d74652b1ce37a/adjuntos/326/imagenes/000/408/0000408626/1200x675/smart/licenciatura-sistemas-complejos-3.jpg",
-        "fuente": "C5N",
-        "fecha": "Fri, 20 Nov 2026 15:17:00 -0300"
-      },
-      {
-        "titulo": "“Fue en chiste”: indagaron al dueño del supermercado chino de Benavídez acusado de abusar del hijo de uno de sus empleados",
-        "link": "https://www.infobae.com/sociedad/policiales/2026/11/20/fue-en-chiste-indagaron-al-dueno-del-supermercado-chino-de-benavidez-acusado-de-abusar-del-hijo-de-uno-de-sus-empleados/",
-        "imagen": "https://www.infobae.com/resizer/v2/OAADI53KVRDDBHYMCMF3EA6UZA.jpg?auth=294854ba03f2395ec232b1f21bf1d24b59af21709184596b519fc71a61170281&smart=true&width=1920&height=1080",
-        "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 22:28:40 +0000"
+        "fecha": "Sat, 21 Nov 2026 00:20:23 +0000"
       }
     ],
     "internacional": [
       {
+        "titulo": "Elección en la ONU: Rebeca Grynspan y Rafael Grossi encabezan votación, pero los vetos traban definición",
+        "link": "https://www.ambito.com/mundo/eleccion-la-onu-rebeca-grynspan-y-rafael-grossi-encabezan-votacion-pero-los-vetos-traban-definicion-n6347795",
+        "imagen": "https://media.ambito.com/p/6ab811a1eb0ed55fce0686e1411f0e16/adjuntos/239/imagenes/043/751/0043751075/1200x675/smart/grynspan-grossi.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 20 Nov 2026 21:15:00 -0300"
+      },
+      {
+        "titulo": "Un fuerte terremoto de magnitud 6,7 sacudió el centro de Perú y generó alarma en varias regiones",
+        "link": "https://www.c5n.com/mundo/terremoto-peru-junin-sismo-lima-heridos-victimas-viernes-20-noviembre-2026",
+        "imagen": "https://media.c5n.com/p/d3175cef29adb6a673059c30524b3f02/adjuntos/326/imagenes/000/408/0000408687/1200x675/smart/sismo-peru.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 20 Nov 2026 23:41:00 -0300"
+      },
+      {
+        "titulo": "Un nuevo temporal azotó Brasil en menos de 24 horas: esta vez, en Foz de Iguazú",
+        "link": "https://www.clarin.com/mundo/nuevo-temporal-azoto-brasil-24-horas-vez-foz-iguazu_0_wiMx4dVxhD.html",
+        "imagen": "https://www.clarin.com/img/2026/11/21/cq6LB6QW2_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Sat, 21 Nov 2026 03:33:09 +0000"
+      },
+      {
+        "titulo": "Miles de jóvenes protestaron en Suiza por el aumento del costo de vida, los recortes presupuestarios y el rearme militar de Europa",
+        "link": "https://www.infobae.com/america/mundo/2026/11/21/miles-de-jovenes-protestaron-en-suiza-por-el-aumento-del-costo-de-vida-los-recortes-presupuestarios-y-el-rearme-militar-de-europa/",
+        "imagen": "https://www.infobae.com/resizer/v2/UXI5F4P5T5GSFOTXT74AO5Y6DA.jpg?auth=cea51613fa2be4250869a399379e33ecacb51fd0a78cb8479e873d0c91dd3589&smart=true&width=5000&height=3333",
+        "fuente": "Infobae",
+        "fecha": "Sat, 21 Nov 2026 04:38:30 +0000"
+      },
+      {
         "titulo": "Científicos de Oxford hallaron un reservorio de metales a 2 km de profundidad bajo un volcán activo del Caribe",
         "link": "https://www.ambito.com/mundo/cientificos-oxford-hallaron-un-reservorio-metales-2-km-profundidad-un-volcan-activo-del-caribe-n6347763",
-        "imagen": "",
+        "imagen": "https://media.ambito.com/p/6c784277f8d3d35293486e79dfc4fadb/adjuntos/239/imagenes/043/786/0043786105/1200x675/710x475:730x495/volcan-soufriere-hills-1500-x-1000.png",
         "fuente": "Ámbito",
         "fecha": "Fri, 20 Nov 2026 17:46:00 -0300"
+      },
+      {
+        "titulo": "Jair Bolsonaro fue internado de urgencia en Brasilia por dolores abdominales",
+        "link": "https://www.c5n.com/mundo/jair-bolsonaro-fue-internado-urgencia-brasilia-dolores-abdominales-n254939",
+        "imagen": "https://media.c5n.com/p/9046ddb39c5243a7342bb03b90a9f467/adjuntos/326/imagenes/000/256/0000256923/1200x675/smart/jair-bolsonaro.jpg",
+        "fuente": "C5N",
+        "fecha": "Fri, 20 Nov 2026 22:57:00 -0300"
+      },
+      {
+        "titulo": "Un fuerte sismo de magnitud 6,7 sacudió el centro de Perú: también se sintió en Quito, Ecuador",
+        "link": "https://www.clarin.com/mundo/fuerte-sismo-magnitud-67-sacudio-centro-peru-sintio-quito-ecuador_0_LOjtwdcHtd.html",
+        "imagen": "https://www.clarin.com/img/2026/11/21/n3Qq4kgGr_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Sat, 21 Nov 2026 00:56:16 +0000"
+      },
+      {
+        "titulo": "Medio Oriente: un petrolero fue alcanzado por un proyectil y se incendió frente a la costa de Omán",
+        "link": "https://www.infobae.com/america/mundo/2026/11/21/medio-oriente-un-petrolero-fue-alcanzado-por-un-proyectil-y-se-incendio-frente-a-la-costa-de-oman/",
+        "imagen": "https://www.infobae.com/resizer/v2/KMNZKC4TFJDZXMJHV4Q2WLD3XQ.jpg?auth=2734fbc742e05042a8e04484059af49ab2d264de10081fa21fd779b38baaafd3&smart=true&width=1920&height=1080",
+        "fuente": "Infobae",
+        "fecha": "Sat, 21 Nov 2026 04:06:59 +0000"
+      },
+      {
+        "titulo": "El Reino Unido y la Unión Europea firman un \"acuerdo histórico\" a diez años del Brexit",
+        "link": "https://www.ambito.com/mundo/el-reino-unido-y-la-union-europea-firman-un-acuerdo-historico-diez-anos-del-brexit-n6347645",
+        "imagen": "https://media.ambito.com/p/ccb8677a55f600903da27c389baf9cd8/adjuntos/239/imagenes/043/785/0043785502/1200x675/smart/andy-burnham-y-ursula-von-der-leyen.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 20 Nov 2026 14:47:00 -0300"
       },
       {
         "titulo": "Estados Unidos despidió al jefe de Ciberseguridad tras los fallos tecnológicos",
@@ -361,74 +417,18 @@
         "fecha": "Fri, 20 Nov 2026 10:05:00 -0300"
       },
       {
-        "titulo": "Donald Trump amenazó con multas y un \"enorme impuesto\" a las empresas de Estados Unidos que construyan centros de datos en el exterior",
-        "link": "https://www.clarin.com/mundo/donald-trump-amenazo-multas-enorme-impuesto-empresas-estados-unidos-construyan-centros-datos-exterior_0_b5Tg5f5FrH.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/xHYR4wP1w_1200x630__1.jpg",
+        "titulo": "Internaron de urgencia a Jair Bolsonaro por \"fuertes dolores abdominales\"",
+        "link": "https://www.clarin.com/mundo/internaron-urgencia-jair-bolsonaro-fuertes-dolores-abdominales_0_2teFrns5Gi.html",
+        "imagen": "https://www.clarin.com/img/2026/01/01/MDzMexRYY_1200x630__1.jpg",
         "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 19:41:01 +0000"
+        "fecha": "Sat, 21 Nov 2026 00:07:07 +0000"
       },
       {
-        "titulo": "¿Quién es Kensy Ivette García Torres, “La Muñeca de la Mafia”, y por qué volvió a ser capturada en Honduras?",
-        "link": "https://www.infobae.com/honduras/2026/11/20/quien-es-kensy-ivette-garcia-torres-la-muneca-de-la-mafia-y-por-que-volvio-a-ser-capturada-en-honduras/",
-        "imagen": "https://www.infobae.com/resizer/v2/5UAW3MMAN5EXPE2BNMYCCMDRWQ.webp?auth=60f9c1df6cd42a46bee92536947067fd80245632ea3f24c3e398b21a8190a9c2&smart=true&width=1280&height=720",
+        "titulo": "Dolores Redondo vuelve con ‘Todas las noches, todas las ciudades’ una novela sobre los límites entre ficción y realidad",
+        "link": "https://www.infobae.com/cultura/2026/11/21/dolores-redondo-vuelve-con-todas-las-noches-todas-las-ciudades-una-novela-sobre-los-limites-entre-ficcion-y-realidad/",
+        "imagen": "https://www.infobae.com/resizer/v2/EQ76TVYV6VHP3JQ4VSVCNIAL3A.jpg?auth=29db3679f43e68deb0b86ca000f7524b8f554a4f4cfc088e10bb64c5f8e49fdd&smart=true&width=6346&height=4231",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:33:59 +0000"
-      },
-      {
-        "titulo": "El Reino Unido y la Unión Europea firman un \"acuerdo histórico\" a diez años del Brexit",
-        "link": "https://www.ambito.com/mundo/el-reino-unido-y-la-union-europea-firman-un-acuerdo-historico-diez-anos-del-brexit-n6347645",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 20 Nov 2026 14:47:00 -0300"
-      },
-      {
-        "titulo": "Guerra entre Rusia y Ucrania: Polonia denunció una \"provocación\" tras la caída de dos misiles y un dron",
-        "link": "https://www.c5n.com/mundo/guerra-rusia-y-ucrania-polonia-denuncio-una-provocacion-la-caida-dos-misiles-y-un-dron-n254869",
-        "imagen": "",
-        "fuente": "C5N",
-        "fecha": "Fri, 20 Nov 2026 08:34:00 -0300"
-      },
-      {
-        "titulo": "Donald Trump dice que Vladimir Putin le \"expresó su deseo\" de terminar la guerra de Ucrania",
-        "link": "https://www.clarin.com/mundo/donald-trump-dice-vladimir-putin-expreso-deseo-terminar-guerra-ucrania_0_vYY7caeKd2.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/dkDlIwiFq_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 18:57:21 +0000"
-      },
-      {
-        "titulo": "Gritos, ruegos y una hora de retraso: los minutos finales de Reinaldo Dennes en el corredor de la muerte de Texas",
-        "link": "https://www.infobae.com/cuba/2026/11/20/gritos-ruegos-y-una-hora-de-retraso-los-minutos-finales-de-reinaldo-dennes-en-el-corredor-de-la-muerte-de-texas/",
-        "imagen": "https://www.infobae.com/resizer/v2/NFWSXREKNBFSFPCY64JH66XDIY.png?auth=5b17738bd4dee43bad5a4d6f9b2adb4263ca2912905900de9b1721a4baeaf548&smart=true&width=683&height=427",
-        "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:31:47 +0000"
-      },
-      {
-        "titulo": "Rusia respondió a la ofensiva de Crimea con misiles balísticos contra puentes e infraestructura energética de Ucrania",
-        "link": "https://www.ambito.com/mundo/rusia-respondio-la-ofensiva-crimea-misiles-balisticos-contra-puentes-e-infraestructura-energetica-ucrania-n6347461",
-        "imagen": "",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 20 Nov 2026 11:58:00 -0300"
-      },
-      {
-        "titulo": "Con miles de personas en la calle, Colombia realizó el primer paro nacional contra el gobierno de De la Espriella",
-        "link": "https://www.c5n.com/mundo/colombia-paro-nacional-gobierno-De-la-Espriella-jueves-19-noviembre-2026",
-        "imagen": "https://media.c5n.com/p/351cccef3241c981ca2dc7b5bfc13a03/adjuntos/326/imagenes/000/408/0000408456/1200x675/smart/colombia.jpg",
-        "fuente": "C5N",
-        "fecha": "Thu, 19 Nov 2026 20:47:00 -0300"
-      },
-      {
-        "titulo": "Confiado en una popularidad inédita y en plena ofensiva en Haití, Nayib Bukele se lanza a un tercer mandato en El Salvador",
-        "link": "https://www.clarin.com/mundo/confiado-popularidad-inedita-plena-ofensiva-haiti-nayib-bukele-lanza-tercer-mandato-salvador_0_jjtKiUCpV0.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/gAuBPsBmz_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 18:17:49 +0000"
-      },
-      {
-        "titulo": "Usan gotas de helio y vapor de oro para revelar un misterio de más de 120 años: así huyen las cargas entre sí",
-        "link": "https://www.infobae.com/america/ciencia-america/2026/11/20/usan-gotas-de-helio-y-vapor-de-oro-para-revelar-un-misterio-de-mas-de-120-anos-asi-huyen-las-cargas-entre-si/",
-        "imagen": "https://www.infobae.com/resizer/v2/IBPQBRP5LNBZ7I2RD322BE4UCE.png?auth=ad2867c6ff0b2f2040dc453a3d725bac1275d5fc9ec0beb608ac63e70665d13b&smart=true&width=2752&height=1536",
-        "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:15:42 +0000"
+        "fecha": "Sat, 21 Nov 2026 04:00:00 +0000"
       }
     ],
     "espectaculos": [
@@ -438,6 +438,34 @@
         "imagen": "https://media.ambito.com/p/0746c8a174633cf7c491412bae864a4b/adjuntos/239/imagenes/043/139/0043139203/mi-pobre-angelito.jpg",
         "fuente": "Ámbito",
         "fecha": "Fri, 20 Nov 2026 20:41:00 -0300"
+      },
+      {
+        "titulo": "Flor de la V lanzó una bomba en vivo y dejó en shock a sus panelistas: el incómodo momento al aire",
+        "link": "https://www.c5n.com/ratingcero/flor-la-v-lanzo-una-bomba-vivo-y-dejo-shock-sus-panelistas-el-incomodo-momento-al-aire-n254935",
+        "imagen": "https://media.c5n.com/p/efe41d683c503b3da9f3f49b00d84d5f/adjuntos/326/imagenes/000/408/0000408672/1200x675/smart/florencia-la-v.png",
+        "fuente": "C5N",
+        "fecha": "Fri, 20 Nov 2026 21:38:00 -0300"
+      },
+      {
+        "titulo": "Fútbol por TV: dónde gana Boca, en qué lidera River y cómo quedan las ligas europeas en el rating de 2026",
+        "link": "https://www.clarin.com/espectaculos/futbol-tv-gana-boca-lidera-river-quedan-ligas-europeas-rating-2026_0_DCsLer8vDw.html",
+        "imagen": "https://www.clarin.com/img/2026/11/20/7BFgu6nfF_1200x630__1.jpg",
+        "fuente": "Clarín",
+        "fecha": "Fri, 20 Nov 2026 22:05:02 +0000"
+      },
+      {
+        "titulo": "Todo lo que hay que saber del gran festival de música folklórica: cómo llegar, horarios, gastronomía y las mejores experiencias",
+        "link": "https://www.infobae.com/teleshow/2026/11/21/todo-lo-que-hay-que-saber-del-gran-festival-de-musica-folklorica-como-llegar-horarios-gastronomia-y-las-mejores-experiencias/",
+        "imagen": "https://www.infobae.com/resizer/v2/G62UCSHT5FE7JCXUCCRIGJKC64.JPG?auth=2455e0d1789ff48da8887a0d68f199cf00fa8396aa07a4d309204437e88e179e&smart=true&width=5443&height=3626",
+        "fuente": "Infobae",
+        "fecha": "Sat, 21 Nov 2026 05:02:00 +0000"
+      },
+      {
+        "titulo": "Los Brujos presentan \"#TeatroBeatCore\", su primer álbum en vivo",
+        "link": "https://www.ambito.com/espectaculos/los-brujos-presentan-teatrobeatcore-su-primer-album-vivo-n6347689",
+        "imagen": "https://media.ambito.com/p/2f2eaabc8a37c74e465111354098ae8d/adjuntos/239/imagenes/043/785/0043785847/losbrujos_teatrobeatcore_planogeneral_pabloastudillofotografias_webjpg.jpg",
+        "fuente": "Ámbito",
+        "fecha": "Fri, 20 Nov 2026 17:19:00 -0300"
       },
       {
         "titulo": "La China Suárez se metió en plena pelea entre Wanda Nara y Mauro Icardi: un nuevo video expuso su comentario desubicado",
@@ -454,18 +482,18 @@
         "fecha": "Fri, 20 Nov 2026 17:09:39 +0000"
       },
       {
-        "titulo": "Luck Ra estrenó un nuevo videoclip y un detalle llamó la atención de sus fans: ¿una indirecta a La Joaqui?",
-        "link": "https://www.infobae.com/teleshow/2026/11/20/luck-ra-estreno-un-nuevo-videoclip-y-un-detalle-llamo-la-atencion-de-sus-fans-una-indirecta-a-la-joaqui/",
-        "imagen": "https://www.infobae.com/resizer/v2/52XMWC3OB5BUZGN4OEGNZL7AYA.jpg?auth=44a06c4b4225e27f10c439232c9039c48ab269fd234c4c570a7bfdd17e249c6c&smart=true&width=1920&height=1080",
+        "titulo": "Meno Fernández de Los Rancheros: \"Cuando sos independiente, los fracasos son sólo tuyos y los triunfos también\"",
+        "link": "https://www.infobae.com/teleshow/2026/11/21/meno-fernandez-de-los-rancheros-cuando-sos-independiente-los-fracasos-son-solo-tuyos-y-los-triunfos-tambien/",
+        "imagen": "https://www.infobae.com/resizer/v2/3OINPU3RENBZJA2XZWIOPSWVFY.jpg?auth=d3a0ea7cd484710daa59c56761703bbed67b90de632ac985b8f258e943a208f4&smart=true&width=664&height=487",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:43:01 +0000"
+        "fecha": "Sat, 21 Nov 2026 05:00:00 +0000"
       },
       {
-        "titulo": "Los Brujos presentan \"#TeatroBeatCore\", su primer álbum en vivo",
-        "link": "https://www.ambito.com/espectaculos/los-brujos-presentan-teatrobeatcore-su-primer-album-vivo-n6347689",
-        "imagen": "https://media.ambito.com/p/2f2eaabc8a37c74e465111354098ae8d/adjuntos/239/imagenes/043/785/0043785847/losbrujos_teatrobeatcore_planogeneral_pabloastudillofotografias_webjpg.jpg",
+        "titulo": "ZZ Top vuelve a la Argentina: cómo y dónde comprar las últimas entradas para el show",
+        "link": "https://www.ambito.com/espectaculos/zz-top-vuelve-la-argentina-como-y-donde-comprar-las-ultimas-entradas-el-show-n6347680",
+        "imagen": "https://media.ambito.com/p/c617781d925b63c9572ff81f88f7b3e6/adjuntos/239/imagenes/043/299/0043299952/zz-top.jpeg",
         "fuente": "Ámbito",
-        "fecha": "Fri, 20 Nov 2026 17:19:00 -0300"
+        "fecha": "Fri, 20 Nov 2026 17:16:00 -0300"
       },
       {
         "titulo": "Reapareció Praxedes Candelmo, víctima del Bambino Veira, con un desesperado pedido: \"Estoy gritando por ayuda\"",
@@ -482,39 +510,11 @@
         "fecha": "Fri, 20 Nov 2026 16:19:14 +0000"
       },
       {
-        "titulo": "Sofía Jujuy Jiménez mostró cómo le contó a su familia que estaba embarazada: \"Me destruyeron sus lágrimas\"",
-        "link": "https://www.infobae.com/teleshow/2026/11/20/sofia-jujuy-jimenez-mostro-como-le-conto-a-su-familia-que-estaba-embarazada-me-destruyeron-sus-lagrimas/",
-        "imagen": "https://www.infobae.com/resizer/v2/3YAHVWNKAVH5FMJWIDQOZFOPL4.png?auth=fffcf335176387fe928dd275e17fc240832c7606e04e8cf50674600a19d09b6c&smart=true&width=1920&height=1080",
+        "titulo": "El Purre vuelve al personaje que marcó su vida: “Soy un pibe curioso y me gustan los desafíos”",
+        "link": "https://www.infobae.com/teleshow/2026/11/21/el-purre-vuelve-al-personaje-que-marco-su-vida-soy-un-pibe-curioso-y-me-gustan-los-desafios/",
+        "imagen": "https://www.infobae.com/resizer/v2/SOVYLJNO4RCADLLO7OAZ4JCZ7M.jpg?auth=c56f6f23a14ba25c3611eed297d5e6ecd115acf870cd21eca7b650c1eef5b015&smart=true&width=3264&height=1836",
         "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 23:11:31 +0000"
-      },
-      {
-        "titulo": "ZZ Top vuelve a la Argentina: cómo y dónde comprar las últimas entradas para el show",
-        "link": "https://www.ambito.com/espectaculos/zz-top-vuelve-la-argentina-como-y-donde-comprar-las-ultimas-entradas-el-show-n6347680",
-        "imagen": "https://media.ambito.com/p/c617781d925b63c9572ff81f88f7b3e6/adjuntos/239/imagenes/043/299/0043299952/zz-top.jpeg",
-        "fuente": "Ámbito",
-        "fecha": "Fri, 20 Nov 2026 17:16:00 -0300"
-      },
-      {
-        "titulo": "La tragedia familiar que golpea a una ex Gran Hermano: el desgarrador pedido en medio del dolor",
-        "link": "https://www.c5n.com/ratingcero/la-tragedia-familiar-que-golpea-una-ex-gran-hermano-el-desgarrador-pedido-medio-del-dolor-n254925",
-        "imagen": "https://media.c5n.com/p/df69bfa75a2e6d1cf8df98e8d46dc7e5/adjuntos/326/imagenes/000/408/0000408643/1200x675/smart/maypi-delgado.png",
-        "fuente": "C5N",
-        "fecha": "Fri, 20 Nov 2026 18:47:00 -0300"
-      },
-      {
-        "titulo": "Jeff Bezos contó cómo influyó en la elección de Robert Pattinson para ser James Bond: “Estuve muy involucrado”",
-        "link": "https://www.clarin.com/espectaculos/jeff-bezos-conto-influyo-eleccion-robert-pattinson-james-bond-involucrado_0_mpjCVj0Qzy.html",
-        "imagen": "https://www.clarin.com/img/2026/11/20/S0lbeWDxg_1200x630__1.jpg",
-        "fuente": "Clarín",
-        "fecha": "Fri, 20 Nov 2026 14:55:59 +0000"
-      },
-      {
-        "titulo": "Flor de la V contó que Los profesionales termina el 31 de enero y el panel se enteró en vivo: \"Pensé que habían hablado\"",
-        "link": "https://www.infobae.com/teleshow/2026/11/20/flor-de-la-v-conto-que-los-profesionales-termina-el-31-de-enero-y-el-panel-se-entero-en-vivo-pense-que-habian-hablado/",
-        "imagen": "https://www.infobae.com/resizer/v2/X3CBBWFCEVEXVGPDYJFV7VUWVY.jpg?auth=22d70ff5da576c52873c1e72bc5b10d44b18e5abaf2fca6a59b5ea767aa5aab3&smart=true&width=636&height=360",
-        "fuente": "Infobae",
-        "fecha": "Fri, 20 Nov 2026 22:45:24 +0000"
+        "fecha": "Sat, 21 Nov 2026 05:00:00 +0000"
       }
     ],
     "tecnologia": [
@@ -533,11 +533,11 @@
         "fecha": "Fri, 20 Nov 2026 12:53:00 -0300"
       },
       {
-        "titulo": "Disney+ y Hulu pasarán a ser una sola aplicación en diciembre, con televisión en vivo para suscriptores del paquete",
-        "link": "https://www.infobae.com/tecno/2026/11/20/disney-y-hulu-pasaran-a-ser-una-sola-aplicacion-en-diciembre-con-television-en-vivo-para-suscriptores-del-paquete/",
-        "imagen": "https://www.infobae.com/resizer/v2/3DHSLWVBHNAHVPWL3I6OEPBN2Q.JPG?auth=8f51863fcdfdf96d25626182fad622229d8d4a794f29d78919baaf09b3346df7&smart=true&width=3000&height=2000",
+        "titulo": "“GTA VI” estableció un nuevo récord con USD 3.790 millones en ventas el día de su lanzamiento",
+        "link": "https://www.infobae.com/tecno/2026/11/21/gta-vi-establecio-un-nuevo-record-con-usd-3790-millones-en-ventas-el-dia-de-su-lanzamiento/",
+        "imagen": "https://www.infobae.com/resizer/v2/7UM5JNCOEJGYHFGN5E5BNL6VBI.JPG?auth=7b3077214a279c1d1ae9a9ce4974c1c40d8fe6304d82cf0a69294fc08b18f18f&smart=true&width=5671&height=3783",
         "fuente": "Infobae Tecno",
-        "fecha": "Fri, 20 Nov 2026 23:07:08 +0000"
+        "fecha": "Sat, 21 Nov 2026 03:25:06 +0000"
       },
       {
         "titulo": "Investigan el potencial del ADN “funcional” como herramienta molecular para ayudar al diagnóstico de enfermedades",
@@ -568,11 +568,11 @@
         "fecha": "Thu, 19 Nov 2026 15:57:00 -0300"
       },
       {
-        "titulo": "Insultar al chatbot de IA solo empeora la calidad de sus respuestas, según estudio",
-        "link": "https://www.infobae.com/tecno/2026/11/20/insultar-al-chatbot-de-ia-solo-empeora-la-calidad-de-sus-respuestas-segun-estudio/",
-        "imagen": "https://www.infobae.com/resizer/v2/IA2Y37CRCZF2PG2MW6WZC52J5E.jpg?auth=77a6c73b654a22444872ead1467aa20f29ea05a02e8d0efbdb52046e1dfab5b0&smart=true&width=1920&height=1092",
+        "titulo": "“Click to WhatsApp”, la estafa que se puede evitar hoy actualizando la app",
+        "link": "https://www.infobae.com/tecno/2026/11/21/click-to-whatsapp-la-estafa-que-se-puede-evitar-hoy-actualizando-la-app/",
+        "imagen": "https://www.infobae.com/resizer/v2/NH3OZWTSFBH2BNQT6O3IMUQ7YY.JPG?auth=bc753197c94bffbfeb1b6842dc9c353fe40e774181e4446b07654313914310c0&smart=true&width=3000&height=2001",
         "fuente": "Infobae Tecno",
-        "fecha": "Fri, 20 Nov 2026 22:32:11 +0000"
+        "fecha": "Sat, 21 Nov 2026 02:54:59 +0000"
       },
       {
         "titulo": "Estudios con una proteína en células madre inspiran nuevas alternativas para curar heridas",
@@ -777,6 +777,34 @@
     ],
     "vida_sana": [
       {
+        "titulo": "Parto natural o cesárea: qué diferencias reales existen al momento de dar a luz",
+        "link": "https://www.infobae.com/salud/2026/11/21/parto-natural-o-cesarea-que-diferencias-reales-existen-al-momento-de-dar-a-luz/",
+        "imagen": "https://www.infobae.com/resizer/v2/7RNFGJVANZCF5HVFH6KI24ZPF4.png?auth=ea40d6a39844a8f5c64731bbe07c1e48dc0dcf9ec43e907268bfc9645bbf5568&smart=true&width=1920&height=1080",
+        "fuente": "Infobae Salud",
+        "fecha": "Sat, 21 Nov 2026 05:39:14 +0000"
+      },
+      {
+        "titulo": "El dato que preocupa a la OMS: la resistencia antimicrobiana amenaza tratamientos y también afecta la salud animal",
+        "link": "https://www.infobae.com/salud/ciencia/2026/11/21/el-dato-que-preocupa-a-la-oms-la-resistencia-antimicrobiana-amenaza-tratamientos-y-tambien-afecta-la-salud-animal/",
+        "imagen": "https://www.infobae.com/resizer/v2/6H4YVWE4KNBB3ATEOQUWCUICKQ.jpg?auth=2194cd24e83bbd92edb7cfba5f68003d77f403c29835bcc0850d0ab68dfe2167&smart=true&width=1456&height=816",
+        "fuente": "Infobae Salud",
+        "fecha": "Sat, 21 Nov 2026 05:00:00 +0000"
+      },
+      {
+        "titulo": "¿Cansancio o déficit de nutrientes? Cómo distinguir las causas de la falta de energía a esta altura del año",
+        "link": "https://www.infobae.com/salud/2026/11/21/cansancio-o-deficit-de-nutrientes-como-distinguir-las-causas-de-la-falta-de-energia-a-esta-altura-del-ano/",
+        "imagen": "https://www.infobae.com/resizer/v2/TNK354LLEFHURAQHMIMR5REBEY.png?auth=01d255243b44c5c728dc9ce06f5e87552032de1a491cb9a570a12d3e8cf73e5c&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Sat, 21 Nov 2026 05:00:00 +0000"
+      },
+      {
+        "titulo": "Sandía, melón y frutos rojos: qué aporta cada fruta de estación a la alimentación después de los 50 años",
+        "link": "https://www.infobae.com/generacion-silver/2026/11/21/sandia-melon-y-frutos-rojos-que-aporta-cada-fruta-de-estacion-a-la-alimentacion-despues-de-los-50-anos/",
+        "imagen": "https://www.infobae.com/resizer/v2/WZIIDFSOTVB7BGGEFSF4FRKRFU.png?auth=fcfe4170ba2a933aa0608219253dbe4f1f461403277366c29d0e736d8e0f70c1&smart=true&width=2752&height=1536",
+        "fuente": "Infobae Salud",
+        "fecha": "Sat, 21 Nov 2026 03:05:00 +0000"
+      },
+      {
         "titulo": "Un estudio revela por qué las generaciones que hoy llegan a la vejez tienen mejor memoria y menor riesgo de demencia",
         "link": "https://www.infobae.com/salud/ciencia/2026/11/20/un-estudio-revela-por-que-las-generaciones-que-hoy-llegan-a-la-vejez-tienen-mejor-memoria-y-menor-riesgo-de-demencia/",
         "imagen": "https://www.infobae.com/resizer/v2/CQSI3MUGFNHFXKVMTDSEEBE3SQ.png?auth=ff8a7b2d9f5ef4c830aa98474a97bad48944607a8baba4f4f73f7f6ce960c43b&smart=true&width=1408&height=768",
@@ -789,34 +817,6 @@
         "imagen": "https://www.infobae.com/resizer/v2/HFK6LYSMVZFUNOEFH56Y2ZW34U.png?auth=4f3a572e49f0514975ae55adf4ffa7333c8b05cb40cbedaacfc9b5ccd6526512&smart=true&width=2752&height=1536",
         "fuente": "Infobae Salud",
         "fecha": "Fri, 20 Nov 2026 21:16:35 +0000"
-      },
-      {
-        "titulo": "Mareos, dolor de cabeza y pérdida de fuerza: cuándo pueden ser señales de un ACV",
-        "link": "https://www.infobae.com/salud/2026/11/20/mareos-dolor-de-cabeza-y-perdida-de-fuerza-cuando-pueden-ser-senales-de-un-acv/",
-        "imagen": "https://www.infobae.com/resizer/v2/JKW5M3BNG5CDRNPGP5SBRXRITQ.png?auth=a36ebd828bd99f287d6d47022c43f107c2b8acc1d370348945e4f8e739cbd47a&smart=true&width=2752&height=1536",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 20 Nov 2026 20:46:15 +0000"
-      },
-      {
-        "titulo": "Los genes pueden aumentar el riesgo de colesterol alto",
-        "link": "https://www.infobae.com/salud/2026/11/20/los-genes-pueden-aumentar-el-riesgo-de-colesterol-alto/",
-        "imagen": "https://www.infobae.com/resizer/v2/W4SLLDUYKZCPLNBL2EIUEPSLWM.jpg?auth=45036ee4aa787424844d11675d67231781f1623478369d7cec2528c430205a10&smart=true&width=1200&height=799",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 20 Nov 2026 18:45:23 +0000"
-      },
-      {
-        "titulo": "Refuerzos y dosis cero: ¿para quién es la dosis adicional de la vacuna triple vírica?",
-        "link": "https://www.infobae.com/salud/2026/11/20/refuerzos-y-dosis-cero-para-quien-es-la-dosis-adicional-de-la-vacuna-triple-virica/",
-        "imagen": "https://www.infobae.com/resizer/v2/KGWZAI63SJAG5PQKJBZ7IFWIAM.jpg?auth=2dd20eae1b9c5ce72b5cea62fff509dba1b5c51c7bf06db508163e1b51a2f0d1&smart=true&width=1200&height=800",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 20 Nov 2026 18:30:24 +0000"
-      },
-      {
-        "titulo": "El estrés y la ansiedad agotan a los trabajadores: cómo identificar y atajar los desencadenantes",
-        "link": "https://www.infobae.com/salud/2026/11/20/el-estres-y-la-ansiedad-agotan-a-los-trabajadores-como-identificar-y-atajar-los-desencadenantes/",
-        "imagen": "https://www.infobae.com/resizer/v2/2PPXLFORM5APNCZTFU4HS3OICA.jpg?auth=9952d5c050fcad40d2dd3ad26c97eeeb8641ce59dcc8d3469f8f0da82398a767&smart=true&width=1200&height=800",
-        "fuente": "Infobae Salud",
-        "fecha": "Fri, 20 Nov 2026 18:15:21 +0000"
       }
     ],
     "local": [
@@ -842,11 +842,11 @@
         "fecha": "Fri, 20 Nov 2026 19:15:00 -0300"
       },
       {
-        "titulo": "La Conmebol lanzó una convocatoria para los hinchas más chicos de Estudiantes",
-        "link": "https://www.eldia.com/deportes/la-conmebol-lanzo-una-convocatoria-para-los-hinchas-mas-chicos-de-estudiantes-antes-de-la-final-de-la-libertadores-deportes_1795217498",
+        "titulo": "Sin rebote del consumo, la confianza empresaria sigue en baja en La Plata",
+        "link": "https://www.eldia.com/la-ciudad/sin-rebote-del-consumo-la-confianza-empresaria-sigue-en-baja-en-la-plata-la-ciudad_1795222079",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 20 Nov 2026 23:32:52 GMT"
+        "fecha": "Sat, 21 Nov 2026 05:33:42 GMT"
       },
       {
         "titulo": "La Comuna presentó el nuevo pliego de micros y explicó cómo controlará frecuencias y recorridos",
@@ -870,16 +870,16 @@
         "fecha": "Fri, 20 Nov 2026 12:11:00 -0300"
       },
       {
-        "titulo": "VIDEO | Un choque en la 122 terminó en una gresca generalizada entre vecinos y agentes",
-        "link": "https://www.eldia.com/policiales/video-un-choque-en-la-122-termino-en-una-gresca-generalizada-entre-vecinos-y-agentes-policiales_1795215825",
+        "titulo": "Si hay corte, que se haga la luz: un motor a nafta, desde medio millón",
+        "link": "https://www.eldia.com/la-ciudad/si-hay-corte-que-se-haga-la-luz-un-motor-a-nafta-desde-medio-millon-la-ciudad_1795238338",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 20 Nov 2026 23:03:45 GMT"
+        "fecha": "Sat, 21 Nov 2026 05:48:07 GMT"
       },
       {
         "titulo": "Un estudiante de La Plata se consagró campeón nacional en la Olimpiada Matemática Argentina",
         "link": "https://www.0221.com.ar/la-plata/un-estudiante-la-plata-se-consagro-campeon-nacional-la-olimpiada-matematica-argentina-n137768",
-        "imagen": "https://media.0221.com.ar/p/855a15dc4852007640a94f0bd63c80e8/adjuntos/357/imagenes/100/003/0100003922/1200x630/smart/escuela-alumno.jpg",
+        "imagen": "https://media.0221.com.ar/p/f8244e0d3aeade8bb7c3b06888694db7/adjuntos/357/imagenes/100/305/0100305001/1200x630/smart/olimpiada-matematica-argentina.jpeg",
         "fuente": "0221",
         "fecha": "Fri, 20 Nov 2026 16:18:00 -0300"
       },
@@ -898,11 +898,11 @@
         "fecha": "Fri, 20 Nov 2026 08:01:00 -0300"
       },
       {
-        "titulo": "VIDEO | Federico Ayllón pidió que la UCR lleve candidatos propios en todos los niveles en 2027",
-        "link": "https://www.eldia.com/politica-y-economia/federico-ayllon-pidio-que-la-ucr-lleve-candidatos-propios-en-todos-los-niveles-en-2027-politica-y-economia_1795214729",
+        "titulo": "“La emoción por esta distinción me dejo casi sin palabras”",
+        "link": "https://www.eldia.com/la-ciudad/la-emocion-por-esta-distincion-me-dejo-casi-sin-palabras-la-ciudad_1795238218",
         "imagen": "",
         "fuente": "El Día",
-        "fecha": "Fri, 20 Nov 2026 22:47:51 GMT"
+        "fecha": "Sat, 21 Nov 2026 05:16:58 GMT"
       }
     ]
   }
