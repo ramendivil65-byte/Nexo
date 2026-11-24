@@ -1,57 +1,70 @@
 {
-  "actualizado": "2026-11-24T07:42:11.230932+00:00",
+  "actualizado": "2026-11-24T19:49:59.610575+00:00",
   "merval": {
     "subas": [
       {
-        "simbolo": "CRESY",
-        "porcentaje": 5.39153
-      },
-      {
-        "simbolo": "GGAL",
-        "porcentaje": 5.259
-      },
-      {
         "simbolo": "BBAR",
-        "porcentaje": 4.7836
-      },
-      {
-        "simbolo": "TX",
-        "porcentaje": 4.51472
-      },
-      {
-        "simbolo": "SUPV",
-        "porcentaje": 4.43459
-      }
-    ],
-    "bajas": []
-  },
-  "dowjones": {
-    "subas": [
-      {
-        "simbolo": "NVDA",
-        "porcentaje": 31.48252
-      },
-      {
-        "simbolo": "CAT",
-        "porcentaje": 7.16818
-      },
-      {
-        "simbolo": "HD",
-        "porcentaje": 2.070549
-      },
-      {
-        "simbolo": "JPM",
-        "porcentaje": 1.97405
-      },
-      {
-        "simbolo": "AAPL",
-        "porcentaje": 1.90331
+        "porcentaje": 0.21739338
       }
     ],
     "bajas": [
       {
+        "simbolo": "YPF",
+        "porcentaje": -3.49608
+      },
+      {
+        "simbolo": "GGAL",
+        "porcentaje": -3.34335
+      },
+      {
+        "simbolo": "CRESY",
+        "porcentaje": -2.67966
+      },
+      {
+        "simbolo": "BMA",
+        "porcentaje": -2.12766
+      },
+      {
+        "simbolo": "SUPV",
+        "porcentaje": -2.12314
+      }
+    ]
+  },
+  "dowjones": {
+    "subas": [
+      {
+        "simbolo": "HD",
+        "porcentaje": 2.14992
+      },
+      {
         "simbolo": "KO",
-        "porcentaje": -1.14445
+        "porcentaje": 1.90864
+      },
+      {
+        "simbolo": "MCD",
+        "porcentaje": 1.42557
+      },
+      {
+        "simbolo": "AAPL",
+        "porcentaje": 1.065662
+      },
+      {
+        "simbolo": "MSFT",
+        "porcentaje": 0.29543147
+      }
+    ],
+    "bajas": [
+      {
+        "simbolo": "NVDA",
+        "porcentaje": -7.52499
+      },
+      {
+        "simbolo": "CAT",
+        "porcentaje": -1.26499
+      },
+      {
+        "simbolo": "JPM",
+        "porcentaje": -0.0615814
       }
     ]
   }
